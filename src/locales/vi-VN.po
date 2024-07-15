@@ -1,0 +1,2939 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Best DEX Website\n"
+"Language: vi\n"
+
+#. Please don't change the name of the application
+#: src/pages/Home/index.tsx
+msgid "Buy and Sell Instantly on"
+msgstr "Mua và Bán Ngay lập tức trên"
+
+#: src/pages/Home/index.tsx
+msgid "Recommended By"
+msgstr "Được khuyến nghị bởi"
+
+#: src/pages/Home/index.tsx
+msgid "Trade any token on Ethereum or BNB Smart Chain in seconds, just by connecting your wallet."
+msgstr "Giao dịch bất kỳ mã thông báo nào trên Chuỗi thông minh Ethereum hoặc BNB chỉ trong vài giây, chỉ bằng cách kết nối ví tiền điện tử của bạn."
+
+#: /app/modules/views
+msgid "No registration needed. Thousands of tokens to trade at your fingertips."
+msgstr "Không cần phải thực hiện đăng ký. Hàng ngàn mã thông báo có sẵn để giao dịch ngay trong tầm tay của bạn."
+
+#: src/pages/Home/index.tsx
+#: src/pages/Home/index.tsx
+msgid "Trade Now"
+msgstr "Giao dịch ngay"
+
+#: src/pages/Home/index.tsx
+msgid "Decentralised Exchange"
+msgstr "Sàn Giao Dịch Phi Tập trung"
+
+#: src/pages/Home/index.tsx
+msgid "Trade anything. No registration. No hassle."
+msgstr "Giao dịch bất cứ thứ gì. Không đăng ký. Không có rắc rối."
+
+#: src/pages/Home/index.tsx
+msgid "Best DEX will have all the tools you need to navigate around crypto trading including real-time market updates and advanced charting via Trading View."
+msgstr "Best DEX sẽ có tất cả các công cụ bạn cần để thực hiện mọi thứ liên quan đến giao dịch tiền điện tử, bao gồm cập nhật thị trường theo thời gian thực và biểu đồ nâng cao thông qua Chế độ xem giao dịch (Trading View)."
+
+#: /app/modules/views
+msgid "We were unable to sign you up.\n"
+"Please correct the marked fields."
+msgstr "Chúng tôi không thể thực hiện đăng ký cho bạn. Vui lòng sửa lại thông tin trong các trường được đánh dấu."
+
+#: /app/modules/views
+msgid "From trending tokens to token security, Best Dex token analytics provides traders with in-depth, real-time data to execute the right trades."
+msgstr "Từ mã thông báo xu hướng đến bảo mật mã thông báo, phân tích mã thông báo Best Dex cung cấp cho các nhà giao dịch dữ liệu phân tích chuyên sâu, theo thời gian thực để trader có thể thực hiện các giao dịch phù hợp."
+
+#: src/components/WalletModal/index.tsx
+msgid "Coming Soon"
+msgstr "Sắp Ra Mắt"
+
+#: /app/modules/views
+msgid "Token Analytics"
+msgstr "Phân Tích Mã Thông Báo"
+
+#: 
+msgid "Token Info"
+msgstr "Thông Tin Mã Thông Báo"
+
+#: 
+msgid "Token Sentiment"
+msgstr "TÌnh Cảm Mã Thông Báo"
+
+#: 
+msgid "Token Security"
+msgstr "Bảo Mật Mã Thông Báo"
+
+#: 
+msgid "BEST Airdrop"
+msgstr "BEST Airdrop"
+
+#: 
+msgid "The BEST token airdrop will reward brand advocates and Best Wallet and Best DEX power users over the coming months. Holders of the BEST token will receive exclusive benefits on Best DEX including lower cost trades"
+msgstr "Kèo airdrop mã thông báo BEST sẽ thưởng cho những người ủng hộ thương hiệu và những người dùng có \"quyền lực\" trên Best Wallet và Best DEX trong những tháng tới. Những người nắm giữ mã thông báo BEST sẽ nhận được các lợi ích độc quyền trên Best DEX, chẳng hạn như quyền thực hiện các giao dịch với mức chi phí thấp hơn"
+
+#: 
+msgid "Frequently Asked"
+msgstr "Câu Hỏi Thường Gặp"
+
+#: src/pages/Home/index.tsx
+msgid "Find answers to the most frequently asked questions about Best Wallet right here."
+msgstr "Hãy tìm câu trả lời cho những câu hỏi thường gặp nhất về Best Wallet ngay tại đây."
+
+#: src/pages/Home/index.tsx
+msgid "If the answer you’re looking for isn’t here, email contact@bestwallet.com and we’ll assist you."
+msgstr "Nếu câu trả lời bạn đang tìm kiếm không có ở đây, hãy gửi email tới địa chỉ contact@bestwallet.com và chúng tôi sẽ hỗ trợ bạn ngay."
+
+#: src/pages/Home/index.tsx
+msgid "Cryptocurrency may be unregulated in your jurisdiction. The value of cryptocurrencies may go down as well as up. Profits may be subject to capital gains or other taxes applicable in your jurisdiction."
+msgstr "Tiền điện tử có thể không được kiểm soát theo quy định của pháp luật nơi bạn đang sinh sống. Giá trị của tiền điện tử có thể biến động rất mạnh. Lợi nhuận có thể phải chịu thuế giá trị gia tăng hoặc các loại thuế khác tùy theo các quy định của pháp luật nơi bạn đang sinh sống."
+
+#: src/pages/Home/index.tsx
+msgid "Terms"
+msgstr "Điều kiện"
+
+#: src/pages/Home/index.tsx
+msgid "Privacy"
+msgstr "Quyền riêng tư"
+
+#: src/pages/Home/index.tsx
+msgid "Cookies"
+msgstr "Cookies"
+
+#: 
+msgid "What is Best DEX?"
+msgstr "Best DEX là gì?"
+
+#: 
+msgid "Best DEX is a decentralized exchange designed to seamlessly integrate with Best Wallet, our non-custodial crypto wallet. It allows you to trade cryptocurrencies securely and efficiently while maintaining full control of your funds and digital assets."
+msgstr "Best DEX là một sàn giao dịch phi tập trung độc đáo mới được thiết kế để tích hợp, tạo trải nghiệm liền mạch với Best Wallet, ví tiền điện tử hàng đầu thị trường của chúng tôi. Nó cho phép bạn thực hiện các giao dịch tiền điện tử một cách an toàn và hiệu quả trong khi vẫn duy trì toàn quyền kiểm soát số tiền và các tài sản kỹ thuật số của mình."
+
+#: 
+msgid "Why should I use Best DEX instead of Uniswap or other DEXs?"
+msgstr "Tại sao tôi nên sử dụng sàn giao dịch Best DEX thay vì sàn Uniswap hoặc các DEX khác?"
+
+#: 
+msgid "Best DEX is built as the sister app to Best Wallet, our flagship crypto wallet. Best DEX can be accessed from within Best Wallet for an easy trading experience all within a single app. No more need to use several different wallets and DEXs to manage your crypto portfolio."
+msgstr "Best DEX được xây dựng dưới dạng ứng dụng \"anh chị em\" với Best Wallet, ứng dụng ví tiền điện tử hàng đầu của chúng tôi. Bạn có thể truy cập Best DEX ngay từ trong Best Wallet để có trải nghiệm giao dịch dễ dàng, tất cả trong một ứng dụng. Nhà đầu tư sẽ không cần phải sử dụng nhiều ví tiền điện tử và DEX khác nhau để quản lý danh mục đầu tư tiền điện tử của họ."
+
+#: 
+msgid "What are Best DEX’s special features compared to competitors?"
+msgstr "Các tính năng đặc biệt của Best DEX so với các đối thủ cạnh tranh là gì?"
+
+#: 
+msgid "Best DEX is incorporating the best aspects of established DEXs, improving upon them, and adding streamlined features that will elevate your crypto trading experience. To name two: 1. Store, manage, and trade crypto from a single app 2. Save on trading fees."
+msgstr "Best DEX đang kết hợp các khía cạnh tốt nhất của các DEX đã được thiết lập, cải thiện chúng và thêm vào các tính năng độc đáo được sắp xếp hợp lý để nâng cao trải nghiệm giao dịch tiền điện tử của bạn. Hai tính năng chính nổi trội của Best DEX là: 1. Lưu trữ, quản lý và giao dịch tiền điện tử hiệu quả chỉ từ một ứng dụng duy nhất 2. Tiết kiệm phí giao dịch."
+
+#: 
+msgid "Which chains does Best DEX support for decentralised trading?"
+msgstr "Best DEX sẽ hỗ trợ các chuỗi nào cho giao dịch phi tập trung?"
+
+#: 
+msgid "Best DEX will start with native support for Ethereum, BNB Smart Chain and Polygon. Over time we’ll add support for all active major blockchains."
+msgstr "Best DEX sẽ bắt đầu với hỗ trợ riêng trước cho Ethereum, BNB Smart Chain và Polygon. Theo thời gian, chúng tôi sẽ tích hợp hỗ trợ thêm cho tất cả các chuỗi khối chính đang hoạt động."
+
+#: 
+msgid "How can I use Best DEX on my mobile phone?"
+msgstr "Làm cách nào tôi có thể sử dụng Best DEX trên chiếc điện thoại di động của tôi?"
+
+#: 
+msgid "Best DEX is available through the 'Swap' feature on the Best Wallet app. Simply download Best Wallet from Google Play or the App Store to gain access to Best DEX trading."
+msgstr "Best DEX hiện có sẵn thông qua tính năng \"Hoán đổi\" trên ứng dụng Best Wallet. Bạn chỉ cần tải xuống Best Wallet từ Google Play hoặc App Store để có quyền truy cập vào giao dịch Best DEX."
+
+#: 
+msgid "Decentralised & Secure"
+msgstr "Phi tập trung & Bảo mật"
+
+#: 
+msgid "Low Fees"
+msgstr "Phí Thấp"
+
+#: 
+msgid "Trading Insights"
+msgstr "Insight Trong Trading"
+
+#: 
+msgid "Best DEX automatically matches you to the trading pair with the lowest rate for your desired swap, ensuring you always get the best price on your trades. This feature helps you save money on transactions."
+msgstr "Best DEX sẽ tự động khớp bạn với cặp giao dịch có tỷ giá thấp nhất cho các giao dịch hoán đổi mong muốn của bạn, đảm bảo bạn luôn nhận được mức giá tốt nhất cho việc thực hiện các giao dịch của mình. Tính năng này giúp bạn tiết kiệm đáng kể tiền cho các giao dịch."
+
+#: 
+msgid "Cost-Saving Advantage"
+msgstr "Lợi Thế Tiết Kiệm Chi Phí"
+
+#: 
+msgid "Airdrop Incentives"
+msgstr "Ưu Đãi Airdrop"
+
+#: 
+msgid "By using Best DEX, you become part of the Best Ecosystem, and we reward our most loyal and active users with a 10% airdrop of the total supply of our native token, $BEST, during Phase 6 of our launch."
+msgstr "Bằng cách sử dụng Best DEX, bạn sẽ trở thành một phần của Hệ sinh thái Best. Và chúng tôi drx thưởng cho những người dùng tích cực và trung thành nhất của mình thông qua kèo airdrop lên tới 10% trên tổng nguồn cung mã thông báo gốc của chúng tôi, $BEST, trong Giai đoạn 6 của quá trình ra mắt."
+
+#: 
+msgid "Market Insights and Analytics"
+msgstr "Insight và Phân Tích Thị Trường"
+
+#: 
+msgid "Best DEX provides you with comprehensive market insights and in-depth token analytics, giving you the best chance to make the best trading decisions at the right time."
+msgstr "Best DEX cung cấp cho bạn thông tin chi tiết toàn diện về thị trường giao dịch, tài chính và phân tích mã thông báo chuyên sâu, mang đến cho bạn cơ hội tốt nhất để đưa ra quyết định giao dịch tốt nhất vào đúng thời điểm."
+
+#: 
+msgid "Convenience"
+msgstr "Sự tiện lợi"
+
+#: 
+msgid "What are the fees associated with using Best DEX?"
+msgstr "Các khoản phí khi sử dụng Best DEX?"
+
+#: 
+msgid "Best Dex does not charge a usage fee. The only fees are determined by the specific liquidity pool and network gas fees."
+msgstr "Best Dex không tính phí sử dụng người dùng. Các khoản phí duy nhất sẽ được xác định bởi nhóm thanh khoản cụ thể và phí gas của mạng."
+
+#: 
+msgid "Which chains does Best DEX support for decentralized trading?"
+msgstr "Best DEX sẽ hỗ trợ các chuỗi nào cho giao dịch tập trung?"
+
+#: 
+msgid "Best DEX initially supports Ethereum, BNB Smart Chain, and Polygon networks. As we continue to grow, we plan to add support for all active major blockchains, broadening your trading options and opportunities."
+msgstr "Best DEX ban đầu sẽ hỗ trợ cho các mạng Ethereum, BNB Smart Chain và Polygon. Khi chúng tôi tiếp tục phát triển, chúng tôi sẽ có kế hoạch thêm hỗ trợ cho tất cả các chuỗi khối chính đang hoạt động, mở rộng các tùy chọn và cơ hội giao dịch của bạn."
+
+#: 
+msgid "Does Best DEX require registration and KYC verification?"
+msgstr "Best DEX có yêu cầu gì khi đăng ký và có cần phải xác minh KYC không?"
+
+#: 
+msgid "Best DEX does not require KYC verification to start trading. We prioritize user privacy and aim to provide a hassle-free onboarding experience. Simply connect your wallet and you’re ready to go."
+msgstr "Best DEX không yêu cầu người dùng phải xác minh KYC để bắt đầu giao dịch. Chúng tôi ưu tiên quyền riêng tư của người dùng và nhằm mục đích cung cấp, đem đến trải nghiệm tích hợp thuận tiện, hiệu quả nhất cỏ thể cho người dùng. Chỉ cần kết nối ví tiền điện tử của bạn và bạn đã sẵn sàng để sử dụng."
+
+#: 
+msgid "Can I use Best DEX on my mobile phone?"
+msgstr "Tôi có thể sử dụng Best DEX trên điện thoại di động của mình không?"
+
+#: 
+msgid "There are multiple ways to access Best DEX on your mobile device:"
+msgstr "Có rất nhiều cách để truy cập Best DEX trên thiết bị di động của bạn:"
+
+#: 
+msgid "Mobile Web Browser"
+msgstr "Trình Duyệt Web Di Động"
+
+#: 
+msgid "Simply visit https://bestdex.com the Best DEX platform through your mobile web browser to start trading cryptocurrencies on the go."
+msgstr "Bạn chỉ cần truy cập https://bestdex.com nền tảng Best DEX thông qua trình duyệt web trên thiết bị di động của bạn để bắt đầu thực hiện giao dịch tiền điện tử trên các thiết bị di động."
+
+#: 
+msgid "Best Wallet In-App 'Swap' Feature"
+msgstr "Tính năng \"Hoán đổi\" trong ứng dụng Best Wallet"
+
+#: 
+msgid "If you already have Best Wallet installed, you can access Best DEX directly through the in-app 'swap' feature. This integration provides you with a seamless and convenient trading experience within a single app."
+msgstr "Nếu bạn đã cài đặt ứng dụng Best Wallet, bạn có thể truy cập Best DEX trực tiếp thông qua tính năng \"hoán đổi\" được tích hợp trong ứng dụng. Sự tích hợp này cung cấp cho bạn trải nghiệm giao dịch liền mạch, tối ưu nhất và cực kỳ thuận tiện chỉ trong một ứng dụng duy nhất."
+
+#: 
+msgid "Best Wallet dApp (Coming Soon)"
+msgstr "dApp Best Wallet (Sắp ra mắt)"
+
+#: 
+msgid "In the near future, Best DEX will be available as a decentralized application (dApp) within Best Wallet, offering an even more integrated and user-friendly trading experience."
+msgstr "Trong tương lai gần, Best DEX sẽ tích hợp sẵn dưới dạng ứng dụng phi tập trung (dApp) trong Best Wallet, mang đến trải nghiệm giao dịch tích hợp, tối ưu và thân thiện với người dùng hơn nữa."
+
+#: 
+msgid "What is the BEST token?"
+msgstr "Mã thông báo BEST là gì?"
+
+#: 
+msgid "The BEST token is the Best Ecosystem’s utility and governance token. Holding the token provides benefits to Best Wallet users such as advanced market analysis tools, no gas fees on swaps, and early access to new token launches and NFT drops."
+msgstr "Mã thông báo BEST là mã thông báo quản trị và tiện ích của Hệ sinh thái BEST. Việc nắm giữ mã thông báo này mang lại nhiều lợi ích hấp dẫn cho người dùng Best Wallet, chẳng hạn như các công cụ phân tích thị trường tiên tiến, không mất phí gas đối với các giao dịch hoán đổi và quyền truy cập sớm vào các lần ra mắt mã thông báo mới và giảm giá NFT."
+
+#: 
+msgid "We are launching the BEST token at the end of Phase 6 of our roadmap and will reward our early adopters and power users with 10% of our total supply based on the points they have accumulated from using our app and spreading the word on socials. Learn more here"
+msgstr "Chúng tôi sẽ tung ra mã thông báo BEST vào cuối Giai đoạn 6 trong lộ trình của mình và sẽ thưởng cho những người dùng sớm và người dùng thành thạo 10% tổng nguồn cung của chúng tôi dựa trên số điểm họ đã tích lũy được từ việc sử dụng ứng dụng của chúng tôi và truyền bá thông tin trên mạng xã hội. Tim hiểu thêm ở đây"
+
+#: 
+msgid "How can I stay up to date on the latest news about Best DEX and the BEST token airdrop?"
+msgstr "Làm cách nào tôi có thể cập nhật được những tin tức mới nhất về Best DEX và airdrop token BEST?"
+
+#: 
+msgid "Follow our socials and join our community hubs here"
+msgstr "Theo dõi mạng xã hội của chúng tôi và tham gia các trung tâm cộng đồng của chúng tôi ngay tại đây"
+
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "$-"
+msgstr "$-"
+
+#: src/components/earn/PoolCard.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "${0}"
+msgstr "${0}"
+
+#: src/components/swap/TradePrice.tsx
+msgid "(${0})"
+msgstr "(${0})"
+
+#: src/components/CurrencyInputPanel/index.tsx
+msgid "(Max)"
+msgstr "(Tối đa)"
+
+#: src/components/AddressInputPanel/index.tsx
+msgid "(View on Explorer)"
+msgstr "(Xem trên Explorer)"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "(claim)"
+msgstr "(xác nhận)"
+
+#: src/pages/Vote/Landing.tsx
+msgid "(edit)"
+msgstr "(biên tập)"
+
+#: src/pages/Swap/index.tsx
+msgid "- Remove recipient"
+msgstr "- Xóa người nhận"
+
+#: src/components/earn/PoolCard.tsx
+#: src/components/earn/PoolCard.tsx
+#: src/pages/Earn/Manage.tsx
+#: src/pages/Earn/Manage.tsx
+msgid "0 UNI / week"
+msgstr "0 UNI / tuần"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "25%"
+msgstr "25%"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "50%"
+msgstr "50%"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "75%"
+msgstr "75%"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "<0/> All Proposals"
+msgstr "<0/> Tất cả đề xuất"
+
+#: src/pages/Vote/Landing.tsx
+#: src/pages/Vote/Landing.tsx
+msgid "<0/> Votes"
+msgstr "<0/> Bình chọn"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "<0>Current Price:</0><1><2/></1><3>{0} per {1}</3>"
+msgstr "<0>Giá hiện tại:</0><1><2/></1><3>{0} mỗi {1}</3>"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "<0>Tip:</0> Removing pool tokens converts your position back into underlying tokens at the current rate, proportional to your share of the pool. Accrued fees are included in the amounts you receive."
+msgstr "<0>Mẹo:</0> Việc xóa mã thông báo nhóm sẽ chuyển đổi vị trí của bạn trở lại thành mã thông báo cơ bản ở tỷ lệ hiện tại, tỷ lệ thuận với mức chia sẻ của bạn trong nhóm. Phí tích lũy sẽ được tính vào trong số tiền bạn nhận được."
+
+#: src/pages/CreateProposal/index.tsx
+msgid "<0>Tip:</0> Select an action and describe your proposal for the community. The proposal cannot be modified after submission, so please verify all information before submitting. The voting period will begin immediately and last for 7 days. To propose a custom action, ."
+msgstr "<0>Mẹo:</0> Chọn một hành động và mô tả các đề xuất của bạn cho cộng đồng. Không thể sửa đổi đề xuất sau khi đã gửi, vì vậy vui lòng xác minh tất cả thông tin một lần nữa trước khi gửi. Thời gian bỏ phiếu sẽ bắt đầu ngay lập tức và kéo dài trong vòng 7 ngày. Để đề xuất một hành động tùy chỉnh, ."
+
+#: src/pages/PoolFinder/index.tsx
+msgid "<0>Tip:</0> Use this tool to find pools that don't automatically appear in the interface."
+msgstr "<0>Mẹo:</0> Sử dụng công cụ này để tìm các nhóm không tự động xuất hiện ở trong giao diện."
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "<0>Tip:</0> When you add liquidity, you will receive pool tokens representing your position. These tokens automatically earn fees proportional to your share of the pool, and can be redeemed at any time."
+msgstr "<0>Mẹo:</0> Khi thêm tính thanh khoản, bạn sẽ nhận được mã thông báo nhóm đại diện cho vị thế hiện tại của mình. Các mã thông báo này sẽ tự động kiếm được phí tỷ lệ thuận với phần chia sẻ của bạn trong nhóm và có thể được đổi bất cứ lúc nào."
+
+#: src/pages/Vote/VotePage.tsx
+msgid "<0>Unlock voting</0> to prepare for the next proposal."
+msgstr "<0>Mở khóa biểu quyết</0> để chuẩn bị cho đề xuất tiếp theo."
+
+#: src/components/claim/ClaimModal.tsx
+msgid "<0>🎉 </0>Welcome to team Unicorn :) <1>🎉</1>"
+msgstr "<0>🎉 </0>Chào mừng đến với đội Unicorn :) <1>🎉</1>"
+
+#: src/pages/Vote/Landing.tsx
+msgid "A minimum threshold of 0.25% of the total UNI supply is required to submit proposals"
+msgstr "Cần có ngưỡng tối thiểu 0,25% tổng nguồn cung UNI để thực hiện gửi đề xuất"
+
+#: src/components/swap/SwapModalHeader.tsx
+msgid "Accept"
+msgstr "Chấp nhận"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Account"
+msgstr "Tài khoản"
+
+#: src/components/SearchModal/ImportRow.tsx
+#: src/pages/Vote/styled.tsx
+msgid "Active"
+msgstr "Kích hoạt"
+
+#: src/components/PositionCard/index.tsx
+#: src/pages/AddLiquidity/index.tsx
+msgid "Add"
+msgstr "Thêm vào"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Add <0/> and <1/> to BestDex V2"
+msgstr "Thêm <0/> và <1/> vào BestDex V2"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Add Delegate +"
+msgstr "Thêm Đại Biểu +"
+
+#: src/components/NavigationTabs/index.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/Pool/v2.tsx
+msgid "Add Liquidity"
+msgstr "Thêm Thanh Khoản"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Add liquidity."
+msgstr "Thêm thanh khoản."
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Add more liquidity"
+msgstr "Thêm thanh khoản"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Add {0} token to Metamask <0/>"
+msgstr "Thêm {0} mã thông báo vào Metamask <0/>"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Add {0}-{1} liquidity"
+msgstr "Thêm {0}-{1}  thanh khoản"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Add {0}/{1} V3 liquidity"
+msgstr "Thêm {0}/{1} V3 thanh khoản"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Added {0} token to Metamask"
+msgstr "Đã thêm {0} mã thông báo vào Metamask"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "Address has no available claim"
+msgstr "Địa chỉ không có yêu cầu có sẵn"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Against"
+msgstr "Chống lại"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Allow LP token migration"
+msgstr "Cho phép di chuyển mã thông báo LP"
+
+#: src/components/Settings/index.tsx
+msgid "Allow high price impact trades and skip the confirm screen. Use at your own risk."
+msgstr "Cho phép các giao dịch tác động giá cao và bỏ qua màn hình xác nhận. Chấp nhận các nguy cơ của riêng bạn."
+
+#: src/pages/Swap/index.tsx
+msgid "Allow the BestDex Protocol to use your {0}"
+msgstr "Cho phép Giao thức BestDex sử dụng {0} của bạn"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Allowed"
+msgstr "Cho phép"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Allowed Slippage"
+msgstr "Cho phép trượt"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Amount"
+msgstr "Số lượng"
+
+#: src/components/earn/StakingModal.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Approve"
+msgstr "Chấp thuận"
+
+#: src/pages/CreateProposal/ProposalActionSelector.tsx
+msgid "Approve Token"
+msgstr "Phê duyệt mã thông báo"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Approve {0}"
+msgstr "Phê duyệt {0}"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Approved"
+msgstr "Đã phê duyệt"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Approving"
+msgstr "Đang phê duyệt"
+
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Approving {0}"
+msgstr "Đang phê duyệt {0}"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Arbiscan"
+msgstr "Arbiscan"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Arbitrum Bridge"
+msgstr "Cầu Arbitrum"
+
+#: src/components/DowntimeWarning/index.tsx
+msgid "Arbitrum is in Beta and may experience downtime. During downtime, your position will not earn fees and you will be unable to remove liquidity. <0>Read more.</0>"
+msgstr "Arbitrum đang ở giai đoạn Beta và có thể gặp thời gian ngừng hoạt động. Trong thời gian ngừng hoạt động, vị thế của bạn sẽ không kiếm được phí và bạn sẽ không thể thực hiệnrút thanh khoản. <0>Đọc thêm.</0>"
+
+#: src/components/Settings/index.tsx
+msgid "Are you sure?"
+msgstr "Bạn có chắc không?"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "As a member of the BestDex community you may claim UNI to be used for voting and governance.<0/><1/>"
+msgstr "Là thành viên của cộng đồng BestDex, bạn có thể yêu cầu nhận UNI được sử dụng để bỏ phiếu và quản trị.<0/><1/>"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "At least {0} {1} and {2} {3} will be refunded to your wallet due to selected price range."
+msgstr "Ít nhất {0} {1} và {2} {3} sẽ được hoàn lại vào ví tiền điện tử của bạn do phạm vi giá đã chọn."
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Auto"
+msgstr "Tự động"
+
+#: src/components/earn/StakingModal.tsx
+msgid "Available to deposit: {0}"
+msgstr "Có sẵn để gửi tiền: {0}"
+
+#: src/pages/Earn/Manage.tsx
+msgid "BD LP LP tokens are required. Once you've added liquidity to the {0}-{1} pool you can stake your liquidity tokens on this page."
+msgstr "Mã thông báo BD LP LP là điều bắt buộc. Khi bạn đã thêm tính thanh khoản vào {0}-{1} pool, bạn có thể thực hiện đặt cược mã thông báo thanh khoản của mình trên trang này."
+
+#: src/pages/Earn/Manage.tsx
+msgid "BD LP {0}-{1}"
+msgstr "BD LP {0}-{1}"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "BD LP {0}/{1} Burned"
+msgstr "BD LP {0}/{1} đã được đốt"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "Balance:"
+msgstr "Số dư:"
+
+#: src/components/CurrencyInputPanel/index.tsx
+msgid "Balance: {0} {1}"
+msgstr "Số dư: {0} {1}"
+
+#: src/components/FeeSelector/shared.tsx
+msgid "Best for exotic pairs."
+msgstr "Tốt nhất cho các cặp kỳ lạ."
+
+#: src/components/FeeSelector/shared.tsx
+msgid "Best for most pairs."
+msgstr "Tốt nhất cho hầu hết các cặp."
+
+#: src/components/FeeSelector/shared.tsx
+msgid "Best for stable pairs."
+msgstr "Tốt nhất cho các cặp ổn định."
+
+#: src/components/FeeSelector/shared.tsx
+msgid "Best for very stable pairs."
+msgstr "Tốt nhất cho các cặp rất ổn định."
+
+#: src/components/SwitchLocaleLink/index.tsx
+msgid "BestDex available in: <0>{0}</0>"
+msgstr "BestDex có sẵn trong: <0>{0}</0>"
+
+#: src/components/vote/ProposalEmptyState.tsx
+msgid "BestDex governance is only available on Layer 1. Switch your network to Ethereum Mainnet to view Proposals and Vote."
+msgstr "Quản trị BestDex chỉ khả dụng trên Layer 1. Chuyển mạng của bạn sang Ethereum Mainnet để xem các Đề xuất và Bình chọn."
+
+#: src/pages/Earn/index.tsx
+msgid "BestDex liquidity mining"
+msgstr "Khai thác thanh khoản BestDex"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "BestDex migration contract↗"
+msgstr "Hợp đồng di chuyển BestDex↗"
+
+#: src/components/NetworkAlert/NetworkAlert.tsx
+msgid "BestDex on {0}"
+msgstr "BestDex trên {0}"
+
+#: src/components/Blocklist/index.tsx
+msgid "Blocked address"
+msgstr "Địa chỉ bị chặn"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Bridge"
+msgstr "Cầu"
+
+#: src/components/PositionCard/index.tsx
+msgid "By adding liquidity you'll earn 0.3% of all trades on this pair proportional to your share of the pool. Fees are added to the pool, accrue in real time and can be claimed by withdrawing your liquidity."
+msgstr "Bằng cách thêm tính thanh khoản, bạn sẽ kiếm được 0,3% của tất cả các giao dịch trên cặp này tỷ lệ với phần của bạn có trong pool. Phí được thêm vào pool, được tích lũy theo thời gian thực và có thể được yêu cầu nhận bằng cách rút thanh khoản của bạn."
+
+#: src/components/SearchModal/ImportList.tsx
+msgid "By adding this list you are implicitly trusting that the data is correct. Anyone can create a list, including creating fake versions of existing lists and lists that claim to represent projects that do not have one."
+msgstr "Bằng cách thực hiện thêm danh sách này, bạn hoàn toàn tin tưởng rằng dữ liệu là chính xác. Bất kỳ ai cũng có thể tạo danh sách, kể cả tạo phiên bản giả mạo của các danh sách hiện có và danh sách tuyên bố đại diện cho các dự án không có danh sách."
+
+#: src/pages/Vote/styled.tsx
+msgid "Canceled"
+msgstr "Đã hủy"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Change"
+msgstr "Thay đổi"
+
+#: src/components/Header/ChainConnectivityWarning.tsx
+msgid "Check network status"
+msgstr "Kiểm tra trạng thái mạng"
+
+#: src/pages/Pool/CTACards.tsx
+msgid "Check out our v3 LP walkthrough and migration guides."
+msgstr "Hãy xem hướng dẫn cơ bản và hướng dẫn v3 LP của chúng tôi."
+
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/pages/Earn/Manage.tsx
+msgid "Claim"
+msgstr "Yêu cầu nhận"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Claim <0/> for {0}"
+msgstr "Yêu cầu nhận <0/> cho {0}"
+
+#: src/components/Header/index.tsx
+msgid "Claim BD LP"
+msgstr "Yêu cầu nhận BD LP"
+
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+msgid "Claim UNI"
+msgstr "Yêu cầu nhận UNI"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "Claim UNI Token"
+msgstr "Yêu cầu nhận token UNI"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Claim UNI reward for {0}"
+msgstr "Yêu cầu nhận phần thưởng UNI cho {0}"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Claim fees"
+msgstr "Yêu cầu nhận phí"
+
+#: src/components/Popups/ClaimPopup.tsx
+msgid "Claim your UNI tokens"
+msgstr "Yêu cầu nhận mã thông báo UNI của bạn"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "Claimed"
+msgstr "Đã yêu cầu nhận"
+
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/UnstakingModal.tsx
+msgid "Claimed UNI!"
+msgstr "Đã xác nhận quyền sở hữu UNI!"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "Claimed!"
+msgstr "Đã yêu cầu nhận!"
+
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+msgid "Claiming"
+msgstr "Đang yêu cầu nhận"
+
+#: src/components/Header/index.tsx
+msgid "Claiming BD LP"
+msgstr "Đang yêu cầu nhận BD LP"
+
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/UnstakingModal.tsx
+msgid "Claiming {0} UNI"
+msgstr "Đang yêu cầu nhận {0} UNI"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Clear All"
+msgstr "Xóa Tất Cả"
+
+#: src/components/SearchModal/ManageTokens.tsx
+msgid "Clear all"
+msgstr "Xóa tất cả"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Close"
+msgstr "Đóng"
+
+#: src/components/Badge/RangeBadge.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Closed"
+msgstr "Đã đóng"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collect"
+msgstr "Thu thập"
+
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Collect as {0}"
+msgstr "Thu thập dưới dạng {0}"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collect fees"
+msgstr "Thu phí"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Collect {0}/{1} fees"
+msgstr "Thu phí {0}/{1}"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collected"
+msgstr "Đã thu thập"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collecting"
+msgstr "Đang thu thập"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collecting fees"
+msgstr "Đang thu phí"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collecting fees will withdraw currently available fees for you."
+msgstr "Việc thu phí sẽ rút các khoản phí hiện có cho bạn."
+
+#: src/components/SearchModal/CommonBases.tsx
+msgid "Common bases"
+msgstr "Căn cứ chung"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Confirm"
+msgstr "Xác nhận"
+
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+msgid "Confirm Supply"
+msgstr "Xác Nhận Cung Cấp"
+
+#: src/components/swap/ConfirmSwapModal.tsx
+#: src/components/swap/SwapModalFooter.tsx
+msgid "Confirm Swap"
+msgstr "Xác Nhận Hoán Đổi"
+
+#: src/components/ModalViews/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "Confirm this transaction in your wallet"
+msgstr "Xác nhận giao dịch này trong ví tiền điện tử của bạn"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Confirm transaction in wallet"
+msgstr "Xác nhận giao dịch trong ví tiền điện tử"
+
+#: src/components/Web3Status/index.tsx
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+#: src/pages/Swap/index.tsx
+#: src/state/burn/hooks.tsx
+#: src/state/burn/v3/hooks.tsx
+#: src/state/mint/hooks.tsx
+#: src/state/mint/v3/hooks.tsx
+#: src/state/stake/hooks.tsx
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Connect Wallet"
+msgstr "Kết Nối Ví"
+
+#: src/components/WalletModal/index.tsx
+#: src/components/earn/UnstakingModal.tsx
+#: src/pages/Pool/index.tsx
+msgid "Connect a wallet"
+msgstr "Kết nối ví"
+
+#: src/components/WalletModal/index.tsx
+msgid "Connect to Best Wallet"
+msgstr "Kết nối với Best Wallet"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Connect to a wallet to find pools"
+msgstr "Kết nối với ví để tìm pool"
+
+#: src/pages/MigrateV2/index.tsx
+#: src/pages/Pool/v2.tsx
+msgid "Connect to a wallet to view your liquidity."
+msgstr "Kết nối với ví để xem tính thanh khoản của bạn."
+
+#: src/components/AccountDetails/index.tsx
+msgid "Connected with {name}"
+msgstr "Đã kết nối với {name}"
+
+#: src/components/WalletModal/PendingView.tsx
+msgid "Connection Error"
+msgstr "Lỗi kết nối"
+
+#: src/components/AccountDetails/Copy.tsx
+msgid "Copied"
+msgstr "Đã sao chép"
+
+#: src/components/AccountDetails/index.tsx
+#: src/components/AccountDetails/index.tsx
+msgid "Copy Address"
+msgstr "sao chép địa chỉ"
+
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+msgid "Create Pool & Supply"
+msgstr "Tạo nhóm & Nguồn cung"
+
+#: src/pages/CreateProposal/index.tsx
+#: src/pages/Vote/Landing.tsx
+msgid "Create Proposal"
+msgstr "Tạo Đề Xuất"
+
+#: src/components/NavigationTabs/index.tsx
+#: src/pages/Pool/v2.tsx
+msgid "Create a pair"
+msgstr "Tạo một cặp"
+
+#: src/pages/Pool/index.tsx
+msgid "Create a pool"
+msgstr "Tạo một pool"
+
+#: src/components/ErrorBoundary/index.tsx
+msgid "Create an issue on GitHub"
+msgstr "Tạo một vấn đề trên GitHub"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Create pool and add {0}/{1} V3 liquidity"
+msgstr "Tạo nhóm và thêm thanh khoản {0}/{1} V3"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Create pool."
+msgstr "Tạo nhóm thanh khoản pool."
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Create {0}/{1} V3 pool"
+msgstr "Tạo {0}/{1} V3 pool"
+
+#: src/components/PositionPreview/index.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "Current price"
+msgstr "Giá hiện tại"
+
+#: src/pages/Pool/v2.tsx
+msgid "Current version is not available on Layer 2. Switch to Layer 1 Ethereum."
+msgstr "Phiên bản hiện tại không khả dụng trên Layer 2. Chuyển sang Ethereum Layer 1."
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Current {0} Price:"
+msgstr "Giá {0} hiện tại:"
+
+#: src/pages/Vote/styled.tsx
+msgid "Defeated"
+msgstr "Đánh bại"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Delegate Votes"
+msgstr "Đại biểu bỏ phiếu"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Delegate voting power to {0}"
+msgstr "Ủy quyền biểu quyết cho {0}"
+
+#: src/pages/Vote/Landing.tsx
+msgid "Delegated to:"
+msgstr "Giao cho:"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Delegating votes"
+msgstr "Ủy thác phiếu bầu"
+
+#: src/components/earn/PoolCard.tsx
+#: src/components/earn/StakingModal.tsx
+#: src/components/earn/StakingModal.tsx
+#: src/pages/Earn/Manage.tsx
+msgid "Deposit"
+msgstr "Tiền gửi"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Deposit Amounts"
+msgstr "Số tiền gửi"
+
+#: src/components/NetworkAlert/NetworkAlert.tsx
+msgid "Deposit Assets"
+msgstr "Tài sản ký gửi"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Deposit BD LP LP Tokens"
+msgstr "Gửi mã thông báo BD LP LP"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Deposit liquidity"
+msgstr "Thanh khoản tiền gửi"
+
+#: src/pages/Earn/index.tsx
+msgid "Deposit your Liquidity Provider tokens to receive UNI, the BestDex protocol governance token."
+msgstr "Gửi mã thông báo Nhà cung cấp thanh khoản của bạn để nhận mã thông báo UNI, mã thông báo quản trị giao thức BestDex."
+
+#: src/components/earn/UnstakingModal.tsx
+msgid "Deposited liquidity:"
+msgstr "Thanh khoản tiền gửi:"
+
+#: src/components/earn/StakingModal.tsx
+msgid "Deposited {0} BD LP"
+msgstr "Đã gửi {0} BD LP"
+
+#: src/components/earn/StakingModal.tsx
+msgid "Depositing Liquidity"
+msgstr "Gửi Thanh Khoản"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Description"
+msgstr "Mô tả"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Detailed"
+msgstr "Chi tiết"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Details"
+msgstr "Chi tiết"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Disconnect"
+msgstr "Ngắt kết nối"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Dismiss"
+msgstr "Bỏ qua"
+
+#: src/pages/MigrateV2/index.tsx
+msgid "Don’t see one of your v2 positions? <0>Import it.</0>"
+msgstr "Không thấy một trong các vị trí v2 của bạn? <0>Thêm nó.</0>"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Earned UNI tokens represent voting shares in BestDex governance."
+msgstr "Mã thông báo UNI kiếm được đại diện cho cổ phần mức biểu quyết trong hệ thống quản trị BestDex."
+
+#: src/components/FeeSelector/index.tsx
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Efficiency Comparison"
+msgstr "So Sánh Hiệu Quả"
+
+#: src/state/burn/v3/hooks.tsx
+msgid "Enter a percent"
+msgstr "Nhập phần trăm"
+
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Enter a recipient"
+msgstr "Nhập người nhận"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Enter a valid slippage percentage"
+msgstr "Nhập phần trăm trượt giá hợp lệ"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "Enter an address to trigger a UNI claim. If the address has any claimable UNI it will be sent to them on submission."
+msgstr "Nhập địa chỉ để kích hoạt yêu cầu nhận UNI. Nếu địa chỉ có bất kỳ UNI nào có thể yêu cầu nhận, nó sẽ được gửi  đến địa chỉ này ngay khi yêu cầu được xác nhận."
+
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/UnstakingModal.tsx
+#: src/state/burn/hooks.tsx
+#: src/state/mint/hooks.tsx
+#: src/state/mint/v3/hooks.tsx
+#: src/state/stake/hooks.tsx
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Enter an amount"
+msgstr "Nhập số tiền"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Enter valid list location"
+msgstr "Nhập vị trí danh sách hợp lệ"
+
+#: src/components/SearchModal/ManageTokens.tsx
+msgid "Enter valid token address"
+msgstr "Nhập địa chỉ mã thông báo hợp lệ"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/Web3Status/index.tsx
+msgid "Error"
+msgstr "Lỗi"
+
+#: src/components/WalletModal/index.tsx
+msgid "Error connecting"
+msgstr "Lỗi kết nối"
+
+#: src/components/WalletModal/index.tsx
+msgid "Error connecting. Try refreshing the page."
+msgstr "Lỗi kết nối. Hãy thử làm mới trang."
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Error importing list"
+msgstr "Lỗi khi nhập danh sách"
+
+#: src/pages/Vote/styled.tsx
+msgid "Executed"
+msgstr "Thực thi"
+
+#: src/components/SearchModal/CurrencyList.tsx
+msgid "Expanded results from inactive Token Lists"
+msgstr "Kết quả mở rộng từ Danh sách mã thông báo không hoạt động"
+
+#: src/components/Settings/index.tsx
+msgid "Expert Mode"
+msgstr "Chế Độ Chuyên Gia"
+
+#: src/components/Settings/index.tsx
+msgid "Expert mode turns off the confirm transaction prompt and allows high slippage trades that often result in bad rates and lost funds."
+msgstr "Chế độ chuyên gia tắt lời nhắc xác nhận giao dịch và cho phép các giao dịch có độ trượt giá cao với tiềm năng lợi nhuận cao, nhưng cũng thường dẫn đến tỷ giá xấu và mất tiền."
+
+#: src/pages/Vote/styled.tsx
+msgid "Expired"
+msgstr "Hết hạn"
+
+#: src/pages/Pool/CTACards.tsx
+msgid "Explore popular pools on BestDex Analytics."
+msgstr "Khám phá các nhóm thanh khoản phổ biến trên BestDex Analytics."
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Explorer"
+msgstr "Nhà thám hiểm"
+
+#: src/components/PositionPreview/index.tsx
+msgid "Fee Tier"
+msgstr "Bậc phí"
+
+#: src/components/FeeSelector/index.tsx
+msgid "Fee tier"
+msgstr "bậc phí"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "For"
+msgstr "Vì"
+
+#: src/pages/MigrateV2/index.tsx
+msgid "For each pool shown below, click migrate to remove your liquidity from BestDex V2 and deposit it into BestDex V3."
+msgstr "Đối với mỗi nhóm được hiển thị bên dưới, hãy nhấp vào di chuyển để thực hiện xóa thanh khoản của bạn khỏi BestDex V2 và gửi vào BestDex V3."
+
+#: src/components/swap/SwapModalHeader.tsx
+#: src/pages/Swap/index.tsx
+msgid "From"
+msgstr "Từ"
+
+#: src/pages/Swap/index.tsx
+msgid "From (at most)"
+msgstr "Từ (nhiều nhất)"
+
+#: src/components/RangeSelector/PresetsButtons.tsx
+msgid "Full Range"
+msgstr "Phạm Vi Đầy Đủ"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Full range positions may earn less fees than concentrated positions. Learn more <0>here</0>."
+msgstr "Các vị trí đầy đủ có thể sẽ kiếm được ít phí hơn so với các vị trí tập trung. Tìm hiểu thêm <0>tại đây</0>."
+
+#: src/components/ErrorBoundary/index.tsx
+msgid "Get support on Discord"
+msgstr "Nhận hỗ trợ trên Discord"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Help Center"
+msgstr "Trung Tam Trợ Giúp"
+
+#: src/components/FeeSelector/index.tsx
+msgid "Hide"
+msgstr "Ẩn"
+
+#: src/pages/Swap/index.tsx
+msgid "High Price Impact"
+msgstr "Tác Động Giá Cao"
+
+#: src/components/SearchModal/ImportList.tsx
+#: src/pages/AddLiquidity/index.tsx
+msgid "I understand"
+msgstr "Tôi hiểu"
+
+#: src/components/SearchModal/ImportList.tsx
+msgid "If you purchase a token from this list, you may not be able to sell it back."
+msgstr "Nếu bạn mua mã thông báo từ danh sách này, bạn có khả năng sẽ không bán lại được."
+
+#: src/components/SearchModal/BlockedToken.tsx
+#: src/components/SearchModal/ImportList.tsx
+#: src/components/SearchModal/ImportRow.tsx
+#: src/components/SearchModal/ImportToken.tsx
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Import"
+msgstr "Nhập"
+
+#: src/components/SearchModal/ImportList.tsx
+msgid "Import List"
+msgstr "Nhập Danh Sách"
+
+#: src/components/NavigationTabs/index.tsx
+#: src/pages/Pool/v2.tsx
+msgid "Import Pool"
+msgstr "Nhập Pool"
+
+#: src/components/SearchModal/ImportList.tsx
+msgid "Import at your own risk"
+msgstr "Nhập mức độ rủi ro cá nhân của bạn"
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "In range"
+msgstr "Trong phạm vi"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Increase Liquidity"
+msgstr "Tăng Thanh Khoản"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Initial prices and pool share"
+msgstr "Giá ban đầu và chia sẻ pool"
+
+#: src/components/WalletModal/PendingView.tsx
+msgid "Initializing..."
+msgstr "Đang khởi tạo..."
+
+#: src/components/swap/SwapModalHeader.tsx
+msgid "Input is estimated. You will sell at most <0>{0} {1}</0> or the transaction will revert."
+msgstr "Đầu vào được ước tính. Bạn sẽ bán tối đa <0>{0} {1}</0> hoặc việc thực hiện giao dịch sẽ hoàn nguyên."
+
+#: src/components/WalletModal/index.tsx
+msgid "Install Metamask"
+msgstr "Cài đặt Metamask"
+
+#: src/pages/Swap/index.tsx
+msgid "Insufficient liquidity for this trade."
+msgstr "Không đủ thanh khoản cho việc thực hiện giao dịch này."
+
+#: src/state/mint/hooks.tsx
+#: src/state/mint/hooks.tsx
+#: src/state/mint/v3/hooks.tsx
+#: src/state/mint/v3/hooks.tsx
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Insufficient {0} balance"
+msgstr "Số dư {0} không đủ"
+
+#: src/components/Settings/index.tsx
+msgid "Interface Settings"
+msgstr "Cài Đặt Giao Diện"
+
+#: src/state/mint/hooks.tsx
+#: src/state/mint/v3/hooks.tsx
+msgid "Invalid pair"
+msgstr "Cặp không hợp lệ"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Invalid pair."
+msgstr "Cặp không hợp lệ."
+
+#: src/state/mint/v3/hooks.tsx
+msgid "Invalid price input"
+msgstr "Giá nhập vào không hợp lệ"
+
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Invalid range selected. The min price must be lower than the max price."
+msgstr "Phạm vi đã chọn không hợp lệ. Mức giá tối thiểu phải thấp hơn giá tối đa."
+
+#: src/hooks/useSwapCallback.tsx
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Invalid recipient"
+msgstr "Người nhận không hợp lệ"
+
+#: src/components/Header/index.tsx
+msgid "Join the Best Wallet Waitlist to participate in the BEST Airdrop"
+msgstr "Tham gia Danh sách chờ Best Wallet để tham gia kèo Airdrop BEST"
+
+#: src/components/Menu/index.tsx
+msgid "Language"
+msgstr "Ngôn ngữ"
+
+#: src/components/NetworkAlert/NetworkAlert.tsx
+msgid "Learn More"
+msgstr "Tìm Hiểu Thêm"
+
+#: src/pages/Pool/CTACards.tsx
+msgid "Learn about providing liquidity"
+msgstr "Tìm hiểu về việc cung cấp thanh khoản"
+
+#: src/components/PrivacyPolicy/index.tsx
+#: src/components/PrivacyPolicy/index.tsx
+#: src/components/WalletModal/index.tsx
+msgid "Learn more"
+msgstr "Tìm hiểu thêm"
+
+#: src/components/PrivacyPolicy/index.tsx
+#: src/components/WalletModal/index.tsx
+msgid "Legal & Privacy"
+msgstr "Pháp lý & Quyền riêng tư"
+
+#: src/components/claim/ClaimModal.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "Liquidity"
+msgstr "Thanh khoản"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Liquidity Provider Fee"
+msgstr "Phí cung cấp thanh khoản"
+
+#: src/pages/Pool/v2.tsx
+msgid "Liquidity provider rewards"
+msgstr "Phần thưởng của nhà cung cấp thanh khoản"
+
+#: src/pages/Pool/v2.tsx
+msgid "Liquidity providers earn a 0.3% fee on all trades proportional to their share of the pool. Fees are added to the pool, accrue in real time and can be claimed by withdrawing your liquidity."
+msgstr "Các nhà cung cấp thanh khoản sẽ kiếm được khoản phí 0,3% cho tất cả các giao dịch tỷ lệ thuận với phần của họ trong nhóm. Phí sẽ được thêm vào nhóm, tích lũy theo thời gian thực và có thể được yêu cầu nhận bằng cách rút thanh khoản của bạn."
+
+#: src/components/SearchModal/Manage.tsx
+msgid "Lists"
+msgstr "Danh sác"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Loaded"
+msgstr "Đã tải"
+
+#: src/components/PositionCard/Sushi.tsx
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/MigrateV2/index.tsx
+#: src/pages/Pool/v2.tsx
+#: src/pages/PoolFinder/index.tsx
+#: src/pages/Swap/index.tsx
+msgid "Loading"
+msgstr "Đang tải"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/V2.tsx
+#: src/components/SearchModal/Manage.tsx
+#: src/components/earn/PoolCard.tsx
+msgid "Manage"
+msgstr "Quản lý"
+
+#: src/components/PositionCard/index.tsx
+msgid "Manage Liquidity in Rewards Pool"
+msgstr "Quản Lý Thanh Khoản trong Nhóm Phần Thưởng"
+
+#: src/components/SearchModal/CurrencySearch.tsx
+msgid "Manage Token Lists"
+msgstr "Quản Lý Danh Sách Mã Thông Báo"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Manage this pool."
+msgstr "Quản lý pool này"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Max"
+msgstr "Tối đa"
+
+#: src/components/PositionPreview/index.tsx
+#: src/components/RangeSelector/index.tsx
+msgid "Max Price"
+msgstr "Giá Tối Đa"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Max price"
+msgstr "Giá tối đa"
+
+#: src/components/PositionListItem/index.tsx
+msgid "Max:"
+msgstr "Tối đa:"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Maximum sent"
+msgstr "Gửi tối đa"
+
+#: src/components/Menu/index.tsx
+msgid "Menu"
+msgstr "Menu"
+
+#: src/components/PositionCard/Sushi.tsx
+#: src/components/PositionCard/V2.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/Pool/index.tsx
+msgid "Migrate"
+msgstr "Di chuyển"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/MigrateV2/index.tsx
+#: src/pages/Pool/index.tsx
+msgid "Migrate Liquidity"
+msgstr "Di chuyển thanh khoản"
+
+#: src/pages/MigrateV2/index.tsx
+msgid "Migrate your liquidity tokens from BestDex V2 to BestDex V3."
+msgstr "Di chuyển các mã thông báo thanh khoản của bạn từ BestDex V2 sang BestDex V3."
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Migrate {0}/{1} liquidity to V3"
+msgstr "Di chuyển thanh khoản {0}/{1} sang V3"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Migrating"
+msgstr "Di chuyển"
+
+#: src/components/PositionPreview/index.tsx
+#: src/components/RangeSelector/index.tsx
+msgid "Min Price"
+msgstr "Giá Tối Thiểu"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Min price"
+msgstr "Giá tối thiểu"
+
+#: src/components/PositionListItem/index.tsx
+msgid "Min:"
+msgstr "Tối thiểu:"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Minimum received"
+msgstr "Tối thiểu nhận được"
+
+#: src/hooks/useSwapCallback.tsx
+msgid "Missing dependencies"
+msgstr "Thiếu phụ thuộc"
+
+#: src/pages/Pool/index.tsx
+msgid "More"
+msgstr "Hơn"
+
+#: src/components/Header/ChainConnectivityWarning.tsx
+msgid "Network Warning"
+msgstr "Cảnh Báo Mạng"
+
+#: src/pages/Pool/index.tsx
+msgid "New Position"
+msgstr "Vị Trí Mới"
+
+#: src/pages/MigrateV2/index.tsx
+msgid "No V2 Liquidity found."
+msgstr "Không Tìm Thấy Thanh Khoản V2."
+
+#: src/pages/Earn/index.tsx
+#: src/pages/Earn/index.tsx
+msgid "No active pools"
+msgstr "Không có pool nào đang hoạt động"
+
+#: src/components/FeeSelector/FeeTierPercentageBadge.tsx
+msgid "No data"
+msgstr "Không có dữ liệu"
+
+#: src/state/governance/hooks.ts
+msgid "No description."
+msgstr "Không có mô tả."
+
+#: src/pages/Pool/v2.tsx
+msgid "No liquidity found."
+msgstr "Không tìm thấy thanh khoản."
+
+#: src/pages/PoolFinder/index.tsx
+msgid "No pool found."
+msgstr "Không tìm thấy pool."
+
+#: src/components/vote/ProposalEmptyState.tsx
+msgid "No proposals found."
+msgstr "Không tìm thấy đề xuất nào."
+
+#: src/pages/Home/index.tsx
+msgid "No registration needed. Over 400 tokens to trade at your fingertips."
+msgstr "Không cần thực hiện đăng ký. Hơn 400 mã thông báo để giao dịch ngay trong tầm tay của bạn."
+
+#: src/components/SearchModal/CurrencySearch.tsx
+msgid "No results found."
+msgstr "Không có kết quả nào được tìm thấy."
+
+#: src/components/FeeSelector/FeeTierPercentageBadge.tsx
+msgid "Not created"
+msgstr "Chưa tạo"
+
+#: src/components/Toggle/ListToggle.tsx
+msgid "OFF"
+msgstr "TẮT"
+
+#: src/components/Toggle/ListToggle.tsx
+msgid "ON"
+msgstr "BẬT"
+
+#: src/components/Settings/index.tsx
+msgid "ONLY USE THIS MODE IF YOU KNOW WHAT YOU ARE DOING!"
+msgstr "CHỈ SỬ DỤNG CHẾ ĐỘ NÀY NẾU BẠN BIẾT CHÍNH XÁC MÌNH ĐANG LÀM GÌ!"
+
+#: src/components/Toggle/index.tsx
+msgid "Off"
+msgstr "Tắt"
+
+#: src/components/Toggle/index.tsx
+msgid "On"
+msgstr "Bật"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Once you are happy with the rate click supply to review."
+msgstr "Khi bạn hài lòng với tỷ lệ hãy nhấp vào cung cấp để thực hiện xem xét."
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Only UNI votes that were self delegated or delegated to another address before block {0} are eligible for voting."
+msgstr "Chỉ các phiếu bầu UNI được tự ủy quyền hoặc ủy quyền cho một địa chỉ khác trước khối {0} mới đủ điều kiện để tham gia thực hiện bỏ phiếu."
+
+#: src/components/Web3ReactManager/index.tsx
+msgid "Oops! An unknown error occurred. Please refresh the page, or visit from another browser or device."
+msgstr "Ối! Đã xảy ra một lỗi không xác định. Vui lòng làm mới trang hoặc truy cập từ một trình duyệt khác hoặc thiết bị khác."
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Optimism Gateway"
+msgstr "Cổng Optimism"
+
+#: src/components/DowntimeWarning/index.tsx
+msgid "Optimistic Ethereum is in Beta and may experience downtime. Optimism expects planned downtime to upgrade the network in the near future. During downtime, your position will not earn fees and you will be unable to remove liquidity. <0>Read more.</0>"
+msgstr "Optimistic Ethereum đang ở trong giai đoạn Beta và có thể thỉnh thoảng gặp thời gian ngừng hoạt động. Optimism dự kiến sẽ có các khoảng thời gian ngừng hoạt động theo kế hoạch để nâng cấp mạng trong tương lai gần. Trong thời gian ngừng hoạt động, vị thế của bạn sẽ không kiếm được các khoản phí và bạn sẽ không thể thực hiện rút thanh khoản. <0>Đọc thêm.</0>"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Optimistic Etherscan"
+msgstr "Optimistic Etherscan"
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "Out of range"
+msgstr "Ngoài phạm vi"
+
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Output is estimated. If the price changes by more than {0}% your transaction will revert."
+msgstr "Đầu ra được ước tính. Nếu giá thay đổi hơn {0}%, việc thực hiện giao dịch của bạn sẽ hoàn nguyên."
+
+#: src/components/swap/SwapModalHeader.tsx
+msgid "Output is estimated. You will receive at least <0>{0} {1}</0> or the transaction will revert."
+msgstr "Đầu ra được ước tính. Bạn sẽ nhận được ít nhất <0>{0} {1}</0> hoặc giao dịch sẽ được hoàn nguyên."
+
+#: src/components/swap/SwapModalHeader.tsx
+msgid "Output will be sent to <0>{0}</0>"
+msgstr "Đầu ra sẽ được gửi tới <0>{0}</0>"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Owner"
+msgstr "Người sở hữu"
+
+#: src/pages/Earn/index.tsx
+msgid "Participating pools"
+msgstr "Tham gia pool"
+
+#: src/pages/Vote/styled.tsx
+msgid "Pending"
+msgstr "Chưa giải quyết"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Please confirm you would like to remove this list by typing REMOVE"
+msgstr "Vui lòng xác nhận bạn muốn thực hiện xóa danh sách này bằng cách nhập REMOVE"
+
+#: src/components/vote/ProposalEmptyState.tsx
+msgid "Please connect to Layer 1 Ethereum"
+msgstr "Vui lòng thực hiện kết nối với Ethereum Layer 1"
+
+#: src/components/WalletModal/index.tsx
+msgid "Please connect to the appropriate Ethereum network."
+msgstr "Vui lòng thực hiện kết nối với mạng Ethereum thích hợp."
+
+#: src/components/Settings/index.tsx
+msgid "Please type the word \"{confirmWord}\" to enable expert mode."
+msgstr "Vui lòng nhập từ \"{confirmWord}\" để bật chế độ chuyên gia."
+
+#: src/components/Header/index.tsx
+#: src/components/NavigationTabs/index.tsx
+msgid "Pool"
+msgstr "Pool"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Pool Found!"
+msgstr "Đã tìm thấy pool!"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Pool Rate"
+msgstr "Tỷ Lệ Pool"
+
+#: src/components/earn/PoolCard.tsx
+msgid "Pool rate"
+msgstr "Tỷ lệ pool"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+msgid "Pool tokens in rewards pool:"
+msgstr "Nhóm mã thông báo trong nhóm phần thưởng:"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+#: src/components/PositionCard/index.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Pooled {0}:"
+msgstr "Đã gộp {0}:"
+
+#: src/pages/Pool/index.tsx
+msgid "Pools Overview"
+msgstr "Tổng Quan Về Pool"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Preview"
+msgstr "Xem trước"
+
+#: src/components/swap/SwapModalHeader.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Price"
+msgstr "Giá"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Price Difference:"
+msgstr "Chênh Lệch Giá"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Price Impact"
+msgstr "Tác Động Giá"
+
+#: src/pages/Swap/index.tsx
+msgid "Price Impact Too High"
+msgstr "Tác Động Giá Quá Cao"
+
+#: src/components/swap/SwapModalHeader.tsx
+msgid "Price Updated"
+msgstr "Giá Đã Được Cập Nhật"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Price range"
+msgstr "Phạm vi giá"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Price:"
+msgstr "Giá:"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Prices and pool share"
+msgstr "Giá và chia sẻ pool"
+
+#: src/pages/CreateProposal/ProposalEditor.tsx
+msgid "Proposal"
+msgstr "Đề xuất"
+
+#: src/pages/CreateProposal/ProposalSubmissionModal.tsx
+msgid "Proposal Submitted"
+msgstr "Đã Gửi Đề Xuất"
+
+#: src/pages/CreateProposal/ProposalEditor.tsx
+msgid "Proposal Title"
+msgstr "Tiêu Đề Đề Xuất"
+
+#: src/pages/Vote/Landing.tsx
+msgid "Proposals"
+msgstr "Đề xuất"
+
+#: src/components/vote/ProposalEmptyState.tsx
+msgid "Proposals submitted by community members will appear here."
+msgstr "Các đề xuất được gửi bởi các thành viên của cộng đồng sẽ xuất hiện ở đây."
+
+#: src/pages/CreateProposal/ProposalActionSelector.tsx
+msgid "Proposed Action"
+msgstr "Đề Xuất Hành Động"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Proposer"
+msgstr "Người Đề Xuất"
+
+#: src/pages/Vote/styled.tsx
+msgid "Queued"
+msgstr "Hàng đợi"
+
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+msgid "Rates"
+msgstr "Giá"
+
+#: src/components/swap/UnsupportedCurrencyFooter.tsx
+msgid "Read more about unsupported assets"
+msgstr "Đọc thêm về các nội dung không được hỗ trợ"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Recent Transactions"
+msgstr "Giao Dịch Gần Đây"
+
+#: src/components/AddressInputPanel/index.tsx
+msgid "Recipient"
+msgstr "Người nhận"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Remove"
+msgstr "Bỏ"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Remove <0/> and <1/>"
+msgstr "Xóa <0/> và <1/>"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Remove Amount"
+msgstr "Xóa Số Tiền"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Remove Delegate"
+msgstr "Xóa Đại Biểu"
+
+#: src/components/NavigationTabs/index.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Remove Liquidity"
+msgstr "Xóa Thanh Khoản"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Remove list"
+msgstr "Xóa danh sách"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Removing {0} {1} and {2} {3}"
+msgstr "Đang xóa {0} {1} và {2} {3}"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Removing {0} {1} and{2} {3}"
+msgstr "Đang xóa {0} {1} và{2} {3}"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/pages/CreateProposal/ProposalSubmissionModal.tsx
+msgid "Return"
+msgstr "Trở lại"
+
+#: src/components/SearchModal/CurrencySearch.tsx
+msgid "Search name or paste address"
+msgstr "Tìm kiếm tên hoặc dán địa chỉ"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Select Pair"
+msgstr "Chọn Cặp"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Select a network"
+msgstr "Chọn mạng"
+
+#: src/components/CurrencyInputPanel/index.tsx
+#: src/components/SearchModal/CurrencySearch.tsx
+#: src/pages/PoolFinder/index.tsx
+#: src/pages/PoolFinder/index.tsx
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Select a token"
+msgstr "Chọn mã thông báo"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Select a token to find your liquidity."
+msgstr "Chọn một mã thông báo để tìm thanh khoản của bạn."
+
+#: src/pages/CreateProposal/ProposalActionSelector.tsx
+msgid "Select an action"
+msgstr "Chọn một hành động"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Selected Range"
+msgstr "Phạm Vi Đã Chọn"
+
+#: src/pages/Vote/Landing.tsx
+msgid "Self"
+msgstr "Bản thân"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Self Delegate"
+msgstr "Tự Ủy Quyền"
+
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Set Price Range"
+msgstr "Đặt Phạm Vi Giá"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Set Starting Price"
+msgstr "Đặt Giá Khởi Điểm"
+
+#: src/pages/AddLiquidityV2/PoolPriceBar.tsx
+msgid "Share of Pool"
+msgstr "Chia Sẻ Pool"
+
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+msgid "Share of Pool:"
+msgstr "Chia Sẻ Pool:"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Show Portis"
+msgstr "Hiển thị vị thế"
+
+#: src/pages/Pool/index.tsx
+msgid "Show closed positions"
+msgstr "Hiển thị các vị thế đã đóng"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Simple"
+msgstr "Đơn giản"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Slippage tolerance"
+msgstr "Khả năng chịu trượt"
+
+#: src/components/swap/UnsupportedCurrencyFooter.tsx
+msgid "Some assets are not available through this interface because they may not work well with the smart contracts or we are unable to allow trading for legal reasons."
+msgstr "Một số tài sản không có sẵn thông qua giao diện này vì chúng có thể không hoạt động tốt với các hợp đồng thông minh, hoặc chúng tôi không thể cho phép giao dịch chúng vì các lý do pháp lý."
+
+#: src/components/ErrorBoundary/index.tsx
+msgid "Something went wrong"
+msgstr "Đã xảy ra sự cố"
+
+#: src/components/PositionList/index.tsx
+msgid "Status"
+msgstr "Trạng thái"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Step 1. Get BD LP Liquidity tokens"
+msgstr "Bước 1. Nhận mã thông báo Thanh khoản BD LP"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Submit new proposal"
+msgstr "Gửi đề xuất mới"
+
+#: src/pages/CreateProposal/ProposalSubmissionModal.tsx
+msgid "Submitting Proposal"
+msgstr "Gửi Đề Xuất"
+
+#: src/components/vote/VoteModal.tsx
+msgid "Submitting Vote"
+msgstr "Gửi Bình Chọn"
+
+#: src/pages/Vote/styled.tsx
+msgid "Succeeded"
+msgstr "Thành công"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Success"
+msgstr "Thành công"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Supply"
+msgstr "Cung cấp"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Supplying {0} {1} and {2} {3}"
+msgstr "Cung cấp {0} {1} và {2} {3}"
+
+#: src/components/Header/index.tsx
+#: src/components/NavigationTabs/index.tsx
+#: src/components/swap/SwapHeader.tsx
+#: src/pages/Swap/index.tsx
+#: src/pages/Swap/index.tsx
+msgid "Swap"
+msgstr "Hoán đổi"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Swap <0/> for exactly <1/>"
+msgstr "Hoán đổi <0/> lấy chính xác <1/>"
+
+#: src/pages/Swap/index.tsx
+#: src/pages/Swap/index.tsx
+msgid "Swap Anyway"
+msgstr "Hoán Đổi Bất Kể"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Swap exactly <0/> for <1/>"
+msgstr "Hoán đổi chính xác <0/> lấy <1/>"
+
+#: src/hooks/useSwapCallback.tsx
+#: src/hooks/useSwapCallback.tsx
+msgid "Swap failed: {0}"
+msgstr "Hoán đổi không thành công: {0}"
+
+#: src/components/swap/ConfirmSwapModal.tsx
+msgid "Swapping {0} {1} for {2} {3}"
+msgstr "Hoán đổi {0} {1} lấy {2} {3}"
+
+#: src/components/Popups/ClaimPopup.tsx
+msgid "Thanks for being part of the BestDex community <0/>"
+msgstr "Cảm ơn bạn đã trở thành một phần của cộng đồng BestDex <0/>"
+
+#: src/components/FeeSelector/index.tsx
+msgid "The % you will earn in fees."
+msgstr "% bạn sẽ kiếm được trong các khoản phí."
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app fetches blockchain data from The Graph’s hosted service."
+msgstr "Ứng dụng lấy dữ liệu blockchain từ dịch vụ lưu trữ của The Graph."
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app fetches on-chain data and constructs contract calls with an Infura API."
+msgstr "Ứng dụng tìm nạp dữ liệu trên chuỗi và xây dựng các lệnh gọi hợp đồng bằng API Infura."
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app fetches the optimal trade route from a BestDex Labs server."
+msgstr "Ứng dụng tìm nạp lộ trình giao dịch tối ưu từ máy chủ của BestDex Labs."
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app logs anonymized usage statistics in order to improve over time."
+msgstr "Ứng dụng ghi lại số liệu thống kê sử dụng ẩn danh để đưa ra cải thiện theo thời gian."
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app securely collects your wallet address and shares it with TRM Labs Inc. for risk and compliance reasons."
+msgstr "Ứng dụng thu thập địa chỉ ví tiền điện tửcủa bạn một cách an toàn và chia sẻ nó với TRM Labs Inc. tuân theo các yêu cầu pháp lý."
+
+#: src/components/CurrencyInputPanel/index.tsx
+msgid "The market price is outside your specified price range. Single-asset deposit only."
+msgstr "Giá thị trường nằm ngoài phạm vi giá đã được chỉ định của bạn. Chỉ thực hiện ký gửi một tài sản."
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "The price of this pool is outside of your selected range. Your position is not currently earning fees."
+msgstr "Giá của pool này nằm ngoài phạm vi bạn đã chọn. Vị trí của bạn hiện không thể kiếm được phí."
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "The price of this pool is within your selected range. Your position is currently earning fees."
+msgstr "Giá của pool này nằm trong phạm vi bạn đã chọn. Vị trí của bạn hiện đang có thể kiếm được phí."
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "The ratio of tokens you add will set the price of this pool."
+msgstr "Tỷ lệ mã thông báo bạn thêm sẽ được đặt cho giá của nhóm này."
+
+#: src/components/LiquidityChartRangeInput/index.tsx
+msgid "There is no liquidity data."
+msgstr "Không có dữ liệu thanh khoản."
+
+#: src/components/SearchModal/CommonBases.tsx
+msgid "These tokens are commonly paired with other tokens."
+msgstr "Các mã thông báo này thường sẽ được ghép nối với các mã thông báo khác."
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "This app uses the following third-party APIs:"
+msgstr "Ứng dụng này sử dụng các API của bên thứ ba sau:"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "This pool must be initialized before you can add liquidity. To initialize, select a starting price for the pool. Then, enter your liquidity price range and deposit amount. Gas fees will be higher than usual due to the initialization transaction."
+msgstr "Nhóm này phải được khởi tạo trước khi bạn có thể thực hiện thêm thanh khoản. Để khởi tạo, hãy chọn giá khởi điểm cho nhóm. Sau đó, nhập vào phạm vi giá thanh khoản và số tiền gửi mong muốn của bạn. Phí gas sẽ cao hơn bình thường do các giao dịch khởi tạo."
+
+#: src/components/swap/SwapRoute.tsx
+msgid "This route optimizes your price by considering split routes, multiple hops, and gas costs."
+msgstr "Lộ trình này sẽ tối ưu hóa giá của bạn bằng cách xem xét các lộ trình chia nhỏ, nhiều bước nhảy và chi phí gas liên quan."
+
+#: src/components/SearchModal/ImportToken.tsx
+msgid "This token doesn't appear on the active token list(s). Make sure this is the token that you want to trade."
+msgstr "Mã thông báo này đang không có trong (các) danh sách mã thông báo đang hoạt động. Đảm bảo đây là mã thông báo mà bạn muốn thực hiện giao dịch."
+
+#: src/components/SearchModal/BlockedToken.tsx
+msgid "This token is not supported in the BestDex Labs app"
+msgstr "Mã thông báo này không được hỗ trợ trong ứng dụng BestDex Labs"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "This tool will safely migrate your {0} liquidity to V3. The process is completely trustless thanks to the"
+msgstr "Công cụ này sẽ di chuyển thanh khoản {0} của bạn sang V3 một cách hoàn toàn an toàn. Quá trình này hoàn toàn đáng tin cậy nhờ vào"
+
+#: src/components/SearchModal/ManageTokens.tsx
+msgid "Tip: Custom tokens are stored locally in your browser"
+msgstr "Mẹo: Mã thông báo tùy chỉnh sẽ được lưu trữ cục bộ trong trình duyệt của bạn"
+
+#: src/components/swap/SwapModalHeader.tsx
+#: src/pages/CreateProposal/ProposalActionDetail.tsx
+#: src/pages/CreateProposal/ProposalActionDetail.tsx
+#: src/pages/Swap/index.tsx
+msgid "To"
+msgstr "Đến"
+
+#: src/pages/Swap/index.tsx
+msgid "To (at least)"
+msgstr "Đến (ít nhất)"
+
+#: src/components/NetworkAlert/NetworkAlert.tsx
+msgid "To start trading on {0}, first bridge your assets from L1 to L2. Please treat this as a beta release and learn about the risks before using {1}."
+msgstr "Để bắt đầu thực hiện giao dịch trên {0}, trước tiên hãy bắc cầu tài sản của bạn từ L1 sang L2. Vui lòng coi đây là bản phát hành beta và tìm hiểu kỹ về các rủi ro trước khi sử dụng {1}."
+
+#: src/components/SearchModal/BlockedToken.tsx
+msgid "Token not supported"
+msgstr "Mã thông báo không được hỗ trợ"
+
+#: src/components/SearchModal/Manage.tsx
+msgid "Tokens"
+msgstr "Mã thông báo"
+
+#: src/components/SearchModal/CurrencyList.tsx
+msgid "Tokens from inactive lists. Import specific tokens below or click Manage to activate more lists."
+msgstr "Mã thông báo từ danh sách hiện không hoạt động. Nhập mã thông báo cụ thể bên dưới hoặc nhấp vào Quản lý để thực hiện kích hoạt thêm danh sách."
+
+#: src/pages/Pool/CTACards.tsx
+msgid "Top pools"
+msgstr "hồ bơi hàng đầu"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "Total Supply"
+msgstr "Tổng Nguồn Cung"
+
+#: src/components/earn/PoolCard.tsx
+msgid "Total deposited"
+msgstr "Tổng tiền gửi"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Total deposits"
+msgstr "Tổng tiền gửi"
+
+#: src/components/swap/RouterLabel.tsx
+msgid "Trade Route"
+msgstr "Lộ Trình Trade"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Transaction Details"
+msgstr "Chi Tiết Giao Dịch"
+
+#: src/components/Settings/index.tsx
+#: src/components/Settings/index.tsx
+msgid "Transaction Settings"
+msgstr "Cài Đặt Giao Dịch"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/StakingModal.tsx
+#: src/components/earn/UnstakingModal.tsx
+#: src/components/vote/DelegateModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "Transaction Submitted"
+msgstr "Giao Dịch Đã Xác Nhận"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Transaction completed in"
+msgstr "Giao dịch hoàn tất trong"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Transaction deadline"
+msgstr "Thời hạn giao dịch"
+
+#: src/hooks/useSwapCallback.tsx
+#: src/hooks/useSwapCallback.tsx
+msgid "Transaction rejected."
+msgstr "Giao dịch bị từ chối."
+
+#: src/pages/CreateProposal/ProposalActionSelector.tsx
+msgid "Transfer Token"
+msgstr "Chuyển Mã Thông Báo"
+
+#: src/components/WalletModal/PendingView.tsx
+msgid "Try Again"
+msgstr "Thử Lại"
+
+#: src/components/Settings/index.tsx
+msgid "Turn On Expert Mode"
+msgstr "Bật Chế Độ Chuyên Gia"
+
+#: src/components/Popups/ClaimPopup.tsx
+msgid "UNI has arrived"
+msgstr "UNI đã đến"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "UNI in circulation:"
+msgstr "UNI đang lưu hành:"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "UNI price:"
+msgstr "Giá UNI:"
+
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/UnstakingModal.tsx
+msgid "Unclaimed UNI"
+msgstr "UNI Không Được Xác Nhận"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Unclaimed fees"
+msgstr "Phí không được xác nhận"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "Unclaimed:"
+msgstr "Không được xác nhận:"
+
+#: src/pages/Vote/styled.tsx
+msgid "Undetermined"
+msgstr "Không xác định"
+
+#: src/hooks/useSwapCallback.tsx
+msgid "Unexpected error. Could not estimate gas for the swap."
+msgstr "Lỗi không mong đợi. Không thể ước tính được phí gas cho giao dịch hoán đổi."
+
+#: src/hooks/useSwapCallback.tsx
+msgid "Unexpected issue with estimating the gas. Please try again."
+msgstr "Sự cố không mong muốn với việc ước tính mức phí gas. Vui lòng thử lại."
+
+#: src/components/SearchModal/TokenImportCard.tsx
+msgid "Unknown Source"
+msgstr "Không Rõ Nguồn"
+
+#: src/pages/Vote/Landing.tsx
+#: src/pages/Vote/VotePage.tsx
+msgid "Unlock Votes"
+msgstr "Mở Khóa Phiếu Bầu"
+
+#: src/pages/Vote/Landing.tsx
+msgid "Unlock Voting"
+msgstr "Mở Khóa Bỏ Phiếu"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Unlocking Votes"
+msgstr "Mở Khóa Phiếu Bầu"
+
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/Swap/index.tsx
+msgid "Unsupported Asset"
+msgstr "Tài Sản Không Được Hỗ Trợ"
+
+#: src/components/swap/UnsupportedCurrencyFooter.tsx
+msgid "Unsupported Assets"
+msgstr "Tài Sản Không Được Hỗ Trợ"
+
+#: src/state/governance/hooks.ts
+msgid "Untitled"
+msgstr "Không có tiêu đề"
+
+#: src/pages/Swap/index.tsx
+msgid "Unwrap"
+msgstr "Mở gói"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Unwrap <0/> to ETH"
+msgstr "Rút <0/> sang ETH"
+
+#: src/pages/Vote/Landing.tsx
+msgid "Update Delegation"
+msgstr "Cập Nhật Ủy Quyền"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Update list"
+msgstr "Cập nhật danh sách"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "User"
+msgstr "Người dùng"
+
+#: src/components/swap/SwapRoute.tsx
+msgid "V2"
+msgstr "V2"
+
+#: src/pages/Pool/index.tsx
+msgid "V2 liquidity"
+msgstr "Thanh khoản V2"
+
+#: src/components/swap/SwapRoute.tsx
+msgid "V3"
+msgstr "V3"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "V3 {0} Price:"
+msgstr "Giá V3 {0}:"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "View UNI Analytics"
+msgstr "Xem Phân Tích UNI"
+
+#: src/pages/Pool/index.tsx
+msgid "View V2 Liquidity"
+msgstr "Xem Thanh Khoản V2"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "View list"
+msgstr "Xem danh sách"
+
+#: src/pages/CreateProposal/ProposalSubmissionModal.tsx
+msgid "View on Etherscan"
+msgstr "Xem trên Etherscan"
+
+#: src/components/AccountDetails/index.tsx
+#: src/components/AccountDetails/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "View on Explorer"
+msgstr "Xem trên Explorer"
+
+#: src/components/ModalViews/index.tsx
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "View transaction on Explorer"
+msgstr "Xem giao dịch trên Explorer"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Vote Against"
+msgstr "Bỏ Phiếu Chống Lại"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Vote For"
+msgstr "Bỏ Phiếu Cho"
+
+#: src/components/vote/VoteModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "Vote against proposal {proposalId}"
+msgstr "Bỏ phiếu chống lại đề xuất {proposalId}"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote against proposal {proposalKey}"
+msgstr "Bỏ phiếu chống lại đề xuất {proposalKey}"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote against proposal {proposalKey} with reason \"{0}\""
+msgstr "Bỏ phiếu chống lại đề xuất {proposalKey} với lý do \"{0}\""
+
+#: src/components/vote/VoteModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "Vote for proposal {proposalId}"
+msgstr "Bỏ phiếu cho đề xuất {proposalId}"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote for proposal {proposalKey}"
+msgstr "Bỏ phiếu cho đề xuất {proposalKey}"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote for proposal {proposalKey} with reason \"{0}\""
+msgstr "Bỏ phiếu cho đề xuất {proposalKey} với lý do \"{0}\""
+
+#: src/components/vote/VoteModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "Vote to abstain on proposal {proposalId}"
+msgstr "Bỏ phiếu trắng cho đề xuất {proposalId}"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote to abstain on proposal {proposalKey}"
+msgstr "Bỏ phiếu trắng cho đề xuất {proposalKey}"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote to abstain on proposal {proposalKey} with reason \"{0}\""
+msgstr "Bỏ phiếu trắng cho đề xuất {proposalKey} với lý do \"{0}\""
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Voting ended {0}"
+msgstr "Bỏ phiếu đã kết thúc {0}"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Voting ends approximately {0}"
+msgstr "Bỏ phiếu kết thúc khoảng {0}"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Voting starts approximately {0}"
+msgstr "Bỏ phiếu bắt đầu vào khoảng {0}"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Waiting For Confirmation"
+msgstr "Chờ Đợi Xác Nhận"
+
+#: src/components/AddressInputPanel/index.tsx
+msgid "Wallet Address or ENS name"
+msgstr "Địa Chỉ Ví hoặc Tên ENS"
+
+#: src/components/earn/StakingModal.tsx
+msgid "Weekly Rewards"
+msgstr "Phần Thưởng Hàng Tuần"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "Welcome to team Unicorn :)"
+msgstr "Chào mừng đến với đội Unicorn :)"
+
+#: src/components/earn/ClaimRewardModal.tsx
+msgid "When you claim without withdrawing your liquidity remains in the mining pool."
+msgstr "Khi bạn yêu cầu nhận mà không thực hiện rút tiền, thanh khoản của bạn vẫn còn trong nhóm khai thác."
+
+#: src/pages/Earn/Manage.tsx
+msgid "When you withdraw, the contract will automagically claim UNI on your behalf!"
+msgstr "Khi bạn thực hiện rút tiền, hợp đồng sẽ tự động yêu cầu nhận mã thông báo UNI thay cho bạn!"
+
+#: src/components/earn/UnstakingModal.tsx
+msgid "When you withdraw, your UNI is claimed and your liquidity is removed from the mining pool."
+msgstr "Khi bạn thực hiện rút tiền, mã thông báo UNI của bạn sẽ được xác nhận và thanh khoản của bạn bị xóa khỏi nhóm khai thác."
+
+#: src/components/earn/UnstakingModal.tsx
+#: src/pages/Earn/Manage.tsx
+msgid "Withdraw"
+msgstr "Rút"
+
+#: src/components/earn/UnstakingModal.tsx
+msgid "Withdraw & Claim"
+msgstr "Rút & Yêu cầu"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Withdraw deposited liquidity"
+msgstr "Rút thanh khoản đã ký gửi"
+
+#: src/components/earn/UnstakingModal.tsx
+msgid "Withdrawing {0} BD LP"
+msgstr "Rút {0} BD LP"
+
+#: src/components/earn/UnstakingModal.tsx
+msgid "Withdrew BD LP!"
+msgstr "Rút BD LP!"
+
+#: src/pages/Swap/index.tsx
+msgid "Wrap"
+msgstr "Wrap"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Wrap <0/> to WETH"
+msgstr "Wrap <0/> đến WETH"
+
+#: src/components/WalletModal/index.tsx
+#: src/components/Web3Status/index.tsx
+msgid "Wrong Network"
+msgstr "Sai Mạng"
+
+#: src/pages/CreateProposal/index.tsx
+msgid "You already have an active or pending proposal"
+msgstr "Bạn đã có một đề xuất hiện đang hoạt động hoặc đang chờ xử lý"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "You are creating a pool"
+msgstr "Bạn đang tạo một pool"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "You are the first liquidity provider for this BestDex V3 pool. Your liquidity will migrate at the current {0} price."
+msgstr "Bạn là nhà cung cấp thanh khoản đầu tiên cho nhóm BestDex V3 này. Thanh khoản của bạn sẽ được di chuyển ở mức giá {0} hiện tại."
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "You are the first liquidity provider."
+msgstr "Bạn là nhà cung cấp thanh khoản đầu tiên."
+
+#: src/components/vote/DelegateModal.tsx
+msgid "You can either vote on each proposal yourself or delegate your votes to a third party."
+msgstr "Bạn hoàn toàn có thể tự bỏ phiếu cho từng đề xuất hoặc ủy quyền phiếu bầu của mình cho bên thứ ba."
+
+#: src/pages/Swap/index.tsx
+msgid "You can now trade {0}"
+msgstr "Bây giờ bạn có thể giao dịch {0}"
+
+#: src/pages/CreateProposal/index.tsx
+msgid "You don't have enough votes to submit a proposal"
+msgstr "Bạn không có đủ phiếu bầu để thực hiện gửi đề xuất"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "You don’t have liquidity in this pool yet."
+msgstr "Bạn chưa có thanh khoản trong nhóm này."
+
+#: src/components/Header/ChainConnectivityWarning.tsx
+msgid "You may have lost your network connection, or {label} might be down right now."
+msgstr "Bạn có thể đã mất kết nối mạng hoặc {label} có khả năng đang ngừng hoạt động."
+
+#: src/components/Header/ChainConnectivityWarning.tsx
+msgid "You may have lost your network connection."
+msgstr "Có thể bạn đã mất kết nối mạng."
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "You must connect an account."
+msgstr "Bạn phải thực hiện kết nối một tài khoản."
+
+#: src/pages/Swap/index.tsx
+msgid "You must give the BestDex smart contracts permission to use your {0}. You only have to do this once per token."
+msgstr "Bạn phải cấp cho hợp đồng thông minh BestDex quyền sử dụng {0} của mình. Bạn chỉ phải thực hiện làm điều này một lần cho mỗi mã thông báo."
+
+#: src/pages/CreateProposal/index.tsx
+msgid "You must have {formattedProposalThreshold} votes to submit a proposal"
+msgstr "Bạn phải có {formattedProposalThreshold} phiếu bầu để thực hiện gửi đề xuất"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "You should only deposit liquidity into BestDex V3 at a price you believe is correct. <0/>If the price seems incorrect, you can either make a swap to move the price or wait for someone else to do so."
+msgstr "Bạn chỉ nên gửi thanh khoản vào BestDex V3 ở mức giá mà bạn tin tưởng là hợp lý. <0/>Nếu giá có vẻ không chính xác, bạn có thể thực hiện hoán đổi để thay đổi giá hoặc chờ đợi người khác làm như vậy."
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "You will also collect fees earned from this position."
+msgstr "Bạn cũng sẽ có thể thu phí kiếm được từ vị trí này."
+
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "You will receive"
+msgstr "Bạn sẽ nhận"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "Your UNI Breakdown"
+msgstr "Phân tích UNI của bạn"
+
+#: src/pages/Pool/index.tsx
+msgid "Your V3 liquidity positions will appear here."
+msgstr "Vị trí thanh khoản V3 của bạn sẽ xuất hiện ở đây."
+
+#: src/pages/Pool/v2.tsx
+msgid "Your liquidity"
+msgstr "Thanh khoản của bạn"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Your liquidity deposits"
+msgstr "Tiền gửi thanh khoản của bạn"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+#: src/components/PositionCard/index.tsx
+msgid "Your pool share:"
+msgstr "Chia sẻ pool của bạn:"
+
+#: src/components/PositionCard/index.tsx
+msgid "Your position"
+msgstr "Vị trí của bạn"
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "Your position has 0 liquidity, and is not earning fees."
+msgstr "Vị trí của bạn có thanh khoản bằng 0 và sẽ không kiếm được phí."
+
+#: src/components/LiquidityChartRangeInput/index.tsx
+#: src/components/LiquidityChartRangeInput/index.tsx
+msgid "Your position will appear here."
+msgstr "Vị trí của bạn sẽ xuất hiện ở đây."
+
+#: src/components/PositionPreview/index.tsx
+#: src/components/PositionPreview/index.tsx
+msgid "Your position will be 100% composed of {0} at this price"
+msgstr "Vị trí của bạn sẽ bao gồm 100% {0} ở mức giá này"
+
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "Your position will be 100% {0} at this price."
+msgstr "Vị trí của bạn sẽ là 100% {0} ở mức giá này."
+
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Your position will not earn fees or be used in trades until the market price moves into your range."
+msgstr "Vị trí của bạn sẽ không kiếm được phí hoặc được sử dụng trong các giao dịch cho đến khi giá thị trường có sự điều chỉnh và rơi vào phạm vi của bạn."
+
+#: src/components/PositionList/index.tsx
+#: src/components/PositionList/index.tsx
+msgid "Your positions"
+msgstr "Vị trí của bạn"
+
+#: src/components/earn/PoolCard.tsx
+msgid "Your rate"
+msgstr "Tỷ lệ của bạn"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+msgid "Your total pool tokens:"
+msgstr "Tổng số mã thông báo pool của bạn:"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Your transaction cost will be much higher as it includes the gas to create the pool."
+msgstr "Chi phí giao dịch của bạn sẽ cao hơn nhiều vì nó bao gồm cả phí gas để tạo nhóm."
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Your transaction may be frontrun"
+msgstr "Giao dịch của bạn có thể được xử lý trước"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Your transaction may fail"
+msgstr "Giao dịch của bạn có thể thất bại"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Your transaction will revert if it is pending for more than this period of time."
+msgstr "Giao dịch của bạn sẽ được hoàn nguyên nếu quá thời gian xử lý theo quy định."
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Your transaction will revert if the price changes unfavorably by more than this percentage."
+msgstr "Giao dịch của bạn sẽ được hoàn nguyên nếu giá thay đổi tạo ra nhiều bất lợi nhiều hơn tỷ lệ phần trăm này."
+
+#: src/components/AccountDetails/index.tsx
+msgid "Your transactions will appear here..."
+msgstr "Giao dịch của bạn sẽ xuất hiện ở đây..."
+
+#: src/pages/Earn/Manage.tsx
+msgid "Your unclaimed UNI"
+msgstr "UNI không được xác nhận của bạn"
+
+#: src/components/AccountDetails/index.tsx
+msgid "clear all"
+msgstr "xoá tất cả"
+
+#: src/components/Settings/index.tsx
+msgid "confirm"
+msgstr "xác nhận"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "for {0}"
+msgstr "cho {0}"
+
+#: src/components/Web3Status/index.tsx
+msgid "has socks emoji"
+msgstr "có emoji sock"
+
+#: src/components/Header/ChainConnectivityWarning.tsx
+#: src/components/WalletModal/index.tsx
+msgid "here."
+msgstr "đây."
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "https:// or ipfs:// or ENS name"
+msgstr "https:// hoặc ipfs:// hoặc tên ENS"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "minutes"
+msgstr "phút"
+
+#: src/components/SearchModal/ImportRow.tsx
+msgid "via {0}"
+msgstr "qua {0}"
+
+#: src/components/SearchModal/TokenImportCard.tsx
+msgid "via {0} token list"
+msgstr "qua {0} danh sách mã thông báo"
+
+#: src/components/SearchModal/ImportToken.tsx
+msgid "{0, plural, one {Import token} other {Import tokens}}"
+msgstr "{0, plural, one {Nhập mã thông báo} other {Nhập mã thông báo}}"
+
+#: src/components/RateToggle/index.tsx
+#: src/components/RateToggle/index.tsx
+#: src/hooks/useSwapCallback.tsx
+#: src/hooks/useSwapCallback.tsx
+msgid "{0}"
+msgstr "{0}"
+
+#: src/components/PositionCard/index.tsx
+#: src/pages/Vote/VotePage.tsx
+#: src/pages/Vote/VotePage.tsx
+msgid "{0} %"
+msgstr "{0} %"
+
+#: src/components/PositionListItem/index.tsx
+#: src/components/PositionListItem/index.tsx
+msgid "{0} <0/> per <1/>"
+msgstr "{0} <0/> mỗi <1/>"
+
+#: src/components/earn/StakingModal.tsx
+msgid "{0} BD LP"
+msgstr "{0} BD LP"
+
+#: src/pages/Earn/Manage.tsx
+msgid "{0} BD LP LP tokens available"
+msgstr "{0} Mã thông báo BD LP LP có sẵn"
+
+#: src/components/SearchModal/ManageTokens.tsx
+msgid "{0} Custom Tokens"
+msgstr "{0} Mã Thông Báo Tuỳ Chỉnh"
+
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+msgid "{0} Deposited"
+msgstr "{0} Đã gửi"
+
+#: src/components/earn/PoolCard.tsx
+msgid "{0} ETH"
+msgstr "{0} ETH"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "{0} Fees Earned:"
+msgstr "{0} Phí Thu Được:"
+
+#: src/components/Web3Status/index.tsx
+msgid "{0} Pending"
+msgstr "{0} Đang chờ xử lý"
+
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+msgid "{0} UNI"
+msgstr "{0} UNI"
+
+#: src/components/earn/PoolCard.tsx
+#: src/components/earn/PoolCard.tsx
+#: src/components/earn/StakingModal.tsx
+#: src/pages/Earn/Manage.tsx
+#: src/pages/Earn/Manage.tsx
+msgid "{0} UNI / week"
+msgstr "{0} UNI / tuần"
+
+#: src/components/vote/VoteModal.tsx
+msgid "{0} Votes"
+msgstr "{0} Phiếu bầu"
+
+#: src/components/PositionPreview/index.tsx
+#: src/components/PositionPreview/index.tsx
+#: src/components/PositionPreview/index.tsx
+#: src/pages/AddLiquidityV2/PoolPriceBar.tsx
+#: src/pages/AddLiquidityV2/PoolPriceBar.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "{0} per {1}"
+msgstr "{0} mỗi {1}"
+
+#: src/components/SearchModal/ImportList.tsx
+#: src/components/SearchModal/ManageLists.tsx
+msgid "{0} tokens"
+msgstr "{0} mã thông báo"
+
+#: src/components/Header/index.tsx
+#: src/components/Web3Status/index.tsx
+msgid "{0} {1}"
+msgstr "{0} {1}"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "{0} {1} Price:"
+msgstr "{0} {1} Giá:"
+
+#: src/components/SearchModal/CurrencyList.tsx
+msgid "{0} • Added by user"
+msgstr "{0} • Do người dùng thêm"
+
+#: src/components/CurrencyInputPanel/FiatValue.tsx
+#: src/components/FeeSelector/FeeOption.tsx
+#: src/components/PositionListItem/index.tsx
+#: src/components/PositionPreview/index.tsx
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "{0}%"
+msgstr "{0}%"
+
+#: src/components/FeeSelector/index.tsx
+msgid "{0}% fee tier"
+msgstr "{0}% bậc phí"
+
+#: src/components/FeeSelector/FeeTierPercentageBadge.tsx
+msgid "{0}% select"
+msgstr "{0}% chọn"
+
+#: src/pages/Earn/Manage.tsx
+msgid "{0}-{1} Liquidity Mining"
+msgstr "{0}-{1} Khai Thác Thanh Khoản"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "{0}/{1} LP NFT"
+msgstr "{0}/{1} LP NFT"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "{0}/{1} LP Tokens"
+msgstr "{0}/{1} Mã thông báo LP"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "{SOCKS_AMOUNT} UNI"
+msgstr "{SOCKS_AMOUNT} UNI"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "{USER_AMOUNT} UNI"
+msgstr "{USER_AMOUNT} UNI"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "{activeTokensOnThisChain} tokens"
+msgstr "{activeTokensOnThisChain} mã thông báo"
+
+#: src/pages/Home/ContentImageSection.tsx
+msgid "{heading}"
+msgstr "{heading}"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "{percentForSlider}%"
+msgstr "{percentForSlider}%"
+
+#: src/components/InputStepCounter/InputStepCounter.tsx
+msgid "{tokenB} per {tokenA}"
+msgstr "{tokenB} mỗi {tokenA}"
+
+#: src/components/CurrencyInputPanel/FiatValue.tsx
+msgid "~$ <0/>"
+msgstr "~$ <0/>"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "← Back to Pools Overview"
+msgstr "← Quay lại Tổng quan về Pools"
+
+#: 
+msgid "Questions"
+msgstr "Câu hỏi"
+
+#: 
+msgid "Best Wallet is a fully decentralised crypto wallet aiming to address the concerns present in traditional custody solutions regarding security, privacy, and control over assets. We’re empowering users to manage their own digital assets from their own phone or computer with minimal reliance on centralized authorities."
+msgstr "Best Wallet là một ví tiền điện tử phi tập trung hoàn toàn nhằm giải quyết các mối lo ngại hiện có về các giải pháp lưu ký truyền thống về bảo mật, quyền riêng tư và quyền kiểm soát tài sản. Chúng tôi đang trao quyền cho người dùng để họ có thể quản lý tài sản kỹ thuật số của riêng họ từ điện thoại hoặc máy tính của chính họ, với sự phụ thuộc tối thiểu vào các cơ quan tập trung."
+
+#: 
+msgid "The smartest way to manage your digital assets."
+msgstr "Cách thông minh nhất để quản lý tài sản kỹ thuật số của bạn."
+
+#: 
+msgid "LEARN MORE"
+msgstr "TÌM HIỂU THÊM"
+
+#: 
+msgid "INTRODUCING"
+msgstr "GIỚI THIỆU"
+
+#: 
+msgid "Market Insights"
+msgstr "Thông tin chi tiết về thị trường"
+
+#: 
+msgid "Participate in the BEST airdrop"
+msgstr "Tham gia airdrop BEST"
+
+#: 
+msgid "We’re rewarding all our early adopters with an airdrop of 10% of the total supply of BEST tokens."
+msgstr "Chúng tôi đang thưởng cho tất cả những người dùng đầu tiên của mình một khoản airdrop có trị giá lên tới 10% trên tổng nguồn cung mã thông báo BEST."
+
+#: 
+msgid "How to get started"
+msgstr "Làm thế nào để bắt đầu"
+
+#: 
+msgid "Download the Best Wallet app"
+msgstr "Tải xuống ứng dụng Best Wallet"
+
+#: 
+msgid "Availiable on\n"
+""
+msgstr "Có sẵn trên"
+
+#: 
+msgid "Get it on"
+msgstr "Nhận nó trên"
+
+#: 
+msgid "Create a wallet"
+msgstr "Tạo ví"
+
+#: 
+msgid "Make sure you complete all the steps below to ensure we can track your activities towards the Best Wallet airdrop"
+msgstr "Đảm bảo bạn hoàn thành tất cả các bước ở bên dưới để đảm bảo chúng tôi có thể theo dõi các hoạt động của bạn đối với chương trình airdrop Best Wallet"
+
+#: 
+msgid "Download Our App"
+msgstr "Tải Xuống Ứng Dụng Của Chúng Tôi"
+
+#: 
+msgid "Engage On Our Platform"
+msgstr "Tham Gia Vào Nền Tảng Của Chúng Tôi"
+
+#: 
+msgid "Visit Our Website"
+msgstr "Truy Cập Trang Web Của Chúng Tôi"
+
+#: 
+msgid "Join @BestWallet_Official on Telegram"
+msgstr "Tham Gia @BestWallet_Official trên Telegram"
+
+#: 
+msgid "Join Our Discord Server"
+msgstr "Tham Gia Máy Chủ Discord Của Chúng Tôi"
+
+#: 
+msgid "Follow @BestWallet__ on Twitter"
+msgstr "Theo dõi @BestWallet__ trên Twitter"
+
+#: 
+msgid "Visit @bestwalletofficial on Instagram"
+msgstr "Truy cập @bestwalletofficial trên Instagram"
+
+#: 
+msgid "How you earn points"
+msgstr "Cách bạn có thể kiếm được điểm"
+
+#: 
+msgid "Use the Best Wallet App and DEX"
+msgstr "Sử dụng Ứng dụng Best Wallet và DEX"
+
+#: 
+msgid "Store your tokens and make transactions"
+msgstr "Lưu trữ mã thông báo của bạn và thực hiện các giao dịch"
+
+#: 
+msgid "Engage with our Socials and spread the word"
+msgstr "Tham gia với các nền tảng mạng xã hội của chúng tôi và giúp lan truyền, quảng bá ứng dụng này ra cả thế giới"
+
+#: 
+msgid "Cryptocurrency may be unregulated in your jurisdiction. The value of cryptocurrencies may go down as well as up. Profits may be subject to capital gains or other taxes applicable in your jurisdiction.\n"
+""
+msgstr "Tiền điện tử có thể không được kiểm soát trong các quy định của pháp luật nơi bạn đang sinh sống. Giá trị của tiền điện tử có thể biến động rất mạnh. Lợi nhuận có thể phải chịu thuế giá trị gia tăng hoặc các loại thuế khác tùy theo các quy định của pháp luật nơi bạn đang sinh sống."
+
+#: 
+msgid "What is a Crypto Airdrop?"
+msgstr "Airdrop tiền điện tử là gì?"
+
+#: 
+msgid "An Airdrop is when a token is sent to a specific group of crypto wallet addresses. Sometimes this is a marketing strategy by crypto projects to introduce their token to new audiences. In our case, the BEST Token Airdrop rewards early adopters, power users, and brand advocates of Best Wallet and Best DEX with a portion of the total token supply as a way to thank them for their engagement within the Best Ecosystem."
+msgstr "Airdrop là khi các mã thông báo được gửi đến một nhóm địa chỉ ví tiền điện tử cụ thể. Đôi khi, đây là một chiến lược tiếp thị của các dự án tiền điện tử để giới thiệu mã thông báo của họ đến với những người dùng mới. Trong trường hợp của chúng tôi, kèo Airdrop mã thông báo BEST thưởng cho những người tham gia sớm, người dùng thành thạo và những người ủng hộ thương hiệu Best Wallet và Best DEX bằng một phần trong tổng nguồn cung  mã thông báo như một cách để cảm ơn họ vì đã tham gia vào Hệ sinh thái Best."
+
+#: 
+msgid "How can I participate in the BEST Token Airdrop?"
+msgstr "Làm cách nào tôi có thể tham gia chương trình Airdrop mã thông báo BEST?"
+
+#: 
+msgid "To participate in the BEST Token Airdrop, you need to follow these steps:"
+msgstr "Để tham gia chương trình Airdrop mã thông báo BEST, bạn hãy làm theo các bước sau:"
+
+#: 
+msgid "a. Download the Best Wallet app and create a wallet."
+msgstr "a. Tải xuống ứng dụng Best Wallet và tạo ví tiền điện tử."
+
+#: 
+msgid "b. Visit the Airdrop page on our website."
+msgstr "b. Truy cập trang Airdrop trên trang web của chúng tôi."
+
+#: 
+msgid "c. Provide your wallet address, email address, Twitter handle, and Discord username and follow our socials"
+msgstr "c. Cung cấp địa chỉ ví tiền điện tử, địa chỉ email, tài khoản Twitter và tên người dùng Discord của bạn, đồng thời theo dõi trang mạng xã hội của chúng tôi"
+
+#: 
+msgid "d. Engage actively within the Best Ecosystem to earn points."
+msgstr "d. Tham gia tích cực trong Hệ sinh thái BEST để thu thập điểm."
+
+#: 
+msgid "How do I earn points during the Airdrop?"
+msgstr "Làm cách nào để kiếm điểm trong chương trình Airdrop?"
+
+#: 
+msgid "During Phase 1-6 of our product launch, points are earned in three ways."
+msgstr "Trong suốt Giai đoạn 1-6 của quá trình ra mắt sản phẩm, bạn sẽ có thể kiếm được điểm theo ba cách sau."
+
+#: 
+msgid "a. Engaging with our socials and spreading the word about Best Web3."
+msgstr "a. Tham gia với các trang mạng xã hội của chúng tôi và giúp truyền bá thông tin về Best Web3."
+
+#: 
+msgid "b. Using Best Wallet."
+msgstr "b. Sử dụng Best Wallet."
+
+#: 
+msgid "c. Using Best DEX."
+msgstr "c. Sử dụng Best DEX."
+
+#: 
+msgid "What are the benefits of holding BEST tokens?"
+msgstr "Lợi ích của việc nắm giữ các mã thông báo BEST là gì?"
+
+#: 
+msgid "Holding BEST tokens will bring several exclusive benefits within the Best Ecosystem, including:"
+msgstr "Việc nắm giữ các mã thông báo BEST sẽ mang lại một số lợi ích độc quyền trong Hệ sinh thái BEST, bao gồm:"
+
+#: 
+msgid "a. No gas fees on transactions."
+msgstr "a. Không mất phí gas khi thực hiện các giao dịch."
+
+#: 
+msgid "b. Governance voting on Best Dex."
+msgstr "b. Có quyền tham gia bỏ phiếu quản trị trên Best Dex."
+
+#: 
+msgid "c. Early access to token launches."
+msgstr "c. Quyền truy cập sớm vào các lần ra mắt mã thông báo."
+
+#: 
+msgid "d. Participation in exclusive NFT and token drops."
+msgstr "d. Tham gia các kèo airdrop NFT và mã thông báo độc quyền."
+
+#: 
+msgid "We will announce more benefits and utility closer to the airdrop date."
+msgstr "Chúng tôi sẽ công bố nhiều lợi ích và tiện ích gần hơn với ngày diễn ra chương trình airdrop."
+
+#: 
+msgid "When will the Airdrop happen?"
+msgstr "Khi nào chương trình Airdrop sẽ được diễn ra?"
+
+#: 
+msgid "The airdrop ends at the end of phase 6 of our Best Wallet launch. The specific date and time of the Airdrop will be announced on our official website and social media channels. Stay tuned for updates to ensure you don't miss out on this opportunity!"
+msgstr "Chương trình Airdrop kết thúc vào cuối giai đoạn 6 trong quá trình ra mắt Best Wallet của chúng tôi. Ngày và giờ cụ thể của chương trình Airdrop sẽ được công bố trên trang web chính thức và các kênh truyền thông xã hội của chúng tôi. Hãy theo dõi luôn nhận được các thông tin cập nhật mới nhất, đảm bảo bạn không bỏ lỡ cơ hội này!"
+
+#: 
+msgid "How will the Airdrop rewards be distributed?"
+msgstr "Phần thưởng Airdrop sẽ được phân phối như thế nào?"
+
+#: 
+msgid "10% of the total supply of the BEST token has been allocated to the airdrop. Participants will earn a share of the token pool proportionate to the points they have used throughout phases 1-6 of the Best Wallet launch. The Airdrop rewards will be distributed directly to the wallet addresses provided during the registration process. Please ensure the accuracy of the wallet address to receive your tokens smoothly."
+msgstr "10% tổng nguồn cung của mã thông báo BEST đã được phân bổ cho chương trình airdrop. Những người tham gia sẽ kiếm được một phần của nhóm mã thông báo tương ứng với số điểm àm họ đã sử dụng trong suốt giai đoạn 1-6 của việc ra mắt Best Wallet. Phần thưởng Airdrop sẽ được phân phối trực tiếp đến các địa chỉ ví tiền điện tử được cung cấp trong quá trình đăng ký. Vui lòng đảm bảo tính chính xác của địa chỉ ví tiền điện tử của bạn để quá trình nhận mã thông báo của bạn một cách suôn sẻ."
+
+#: 
+msgid "Is there a limited number of participants for the Airdrop?"
+msgstr "Chương trình Airdrop có giới hạn số lượng người tham gia không?"
+
+#: 
+msgid "Participation is open to all."
+msgstr "Tất cả mọi người đều có thể tham gia chương trình airdrop này."
+
+#: 
+msgid "Can I register multiple times for the Airdrop?"
+msgstr "Tôi có thể đăng ký nhiều lần cho chương trình Airdrop không?"
+
+#: 
+msgid "No, each participant is allowed to register only once for the Airdrop. Multiple registrations may lead to disqualification."
+msgstr "Không, mỗi người tham gia chỉ được phép đăng ký một lần tham gia chương trình Airdrop. Cố tình thực hiện đăng ký nhiều lần có thể khiến bạn bị truất quyền tham gia chương trình airdrop."
+
+#: 
+msgid "How will you prevent fraudulent activity during the Airdrop?"
+msgstr "Cách thức ngăn chặn hoạt động gian lận trong Airdrop như thế nào?"
+
+#: 
+msgid "We have implemented various security measures to detect and prevent fraudulent activities. Any attempts at gaming the system or engaging in suspicious activities will lead to immediate disqualification from the Airdrop."
+msgstr "Chúng tôi đã triển khai nhiều biện pháp bảo mật tiên tiến khác nhau để phát hiện và ngăn chặn các hoạt động lừa đảo, các hành vi gian lận tiềm ẩn. Bất kỳ nỗ lực nào nhằm cố ý đánh lừa hệ thống hoặc tham gia vào các hoạt động đáng ngờ sẽ dẫn đến việc bị loại khỏi chương trình Airdrop ngay lập tức."
+
+#: 
+msgid "How can I stay updated about the Airdrop and the project's progress?"
+msgstr "Làm cách nào tôi có thể cập nhật các thông tin về chương trình Airdrop và tiến độ của dự án?"
+
+#: 
+msgid "To stay informed about the Airdrop, project updates, and important announcements, make sure to follow our official social media channels and regularly check our website. We will keep the community informed about any developments related to the BEST Token Airdrop."
+msgstr "Để nhận được thông báo về chương trìnhAirdrop, các thông tin cập nhật về dự án và các thông báo quan trọng, hãy đảm bảo bạn đã theo dõi các kênh truyền thông xã hội chính thức của chúng tôi và thường xuyên kiểm tra trang web của chúng tôi. Chúng tôi sẽ thông báo cho cộng đồng về bất kỳ sự phát triển, thông tin cập nhật mới nào liên quan đến chương trình Airdrop mã thông báo BEST."
+
+#: 
+msgid "Best DEX is built as the sister app to Best Wallet, our flagship <0>non-custodial crypto wallet</0>. Best DEX can be accessed from within Best Wallet for an easy trading experience all within a single app. No more need to use several different wallets and DEXs to manage your crypto portfolio."
+msgstr "Best DEX được xây dựng dưới dạng ứng dụng \"chị em\", là một sự kết hợp hoàn hảo với với Best Wallet, <0>ví tiền điện tử phi tập trung</0> hàng đầu của chúng tôi. Bạn có thể truy cập Best DEX từ bên trong Best Wallet để có trải nghiệm giao dịch dễ dàng, tất cả trong một ứng dụng. Không cần phải sử dụng nhiều ví và DEX khác nhau để quản lý danh mục đầu tư tiền điện tử của bạn."
+
+#: 
+msgid "Best DEX does not require KYC verification to start trading. We prioritise user privacy and aim to provide a hassle-free onboarding experience. Simply connect your wallet and you’re ready to go."
+msgstr "Best DEX không yêu cầu người dùng phải thực hiện xác minh KYC để bắt đầu giao dịch. Chúng tôi ưu tiên quyền riêng tư của người dùng, và nhằm mục đích cung cấp trải nghiệm tích hợp không rắc rối, tối ưu nhất có thể. Chỉ cần thực hiện kết nối ví tiền điện tử của bạn và bạn đã sẵn sàng để sử dụng."
+
+#: 
+msgid "Follow our socials and join our community hubs <0>here</0>"
+msgstr "Theo dõi mạng xã hội của chúng tôi cũng như tham gia các trung tâm cộng đồng của chúng tôi <0> ngay tại đây</0>"
+
+#: 
+msgid "We are launching the BEST token at the end of Phase 6 of our roadmap and will reward our early adopters and power users with 10% of our total supply based on the points they have accumulated from using our app and spreading the word on socials."
+msgstr "Chúng tôi sẽ tung ra mã thông báo BEST vào cuối Giai đoạn 6 trong lộ trình của mình, và sẽ thưởng cho những người dùng sớm và những người dùng tích cực từ 10% trong tổng nguồn cung mã thông báo của chúng tôi, dựa trên số điểm họ đã tích lũy được từ việc sử dụng ứng dụng của chúng tôi, cũng nhưu đóng góp trong việc truyền bá thông tin về dự án trên mạng xã hội."
+
+#: 
+msgid "In the near future, Best DEX will be available as a decentralised application (dApp) within Best Wallet, offering an even more integrated and user-friendly trading experience."
+msgstr "Trong tương lai gần, Best DEX sẽ có mặt cả dưới dạng ứng dụng phi tập trung (dApp) trong Best Wallet, mang đến trải nghiệm giao dịch tích hợp, tuyệt vời và thân thiện với người dùng hơn nữa."
+
+#: 
+msgid "Simply visit the Best DEX platform through your mobile web browser to start trading cryptocurrencies on the go."
+msgstr "Chỉ cần truy cập nền tảng Best DEX thông qua trình duyệt web trên thiết bị di động của bạn để bắt đầu thực hiện giao dịch tiền điện tử, giao dịch mọi lúc mọi nơi ngay cả khi bạn đang di chuyển."
+
+#: 
+msgid "Best Wallet is the fully non-custodial crypto wallet at the heart of the Best Web3 Ecosystem. Buy, store, send, and receive Bitcoin and many other cryptocurrencies safely and securely with the Best Wallet app."
+msgstr "Best Wallet là ví tiền điện tử phi tập trung hoàn toàn, ở trung tâm của Hệ sinh thái Web3 Best. Thực hiện việc mua, lưu trữ, gửi và nhận Bitcoin cũng như nhiều loại tiền điện tử khác một cách đơn giản, an toàn và bảo mật với ứng dụng Best Wallet."
+
+#: 
+msgid "Portfolio Management and Token Analytics give users everything they need to get in early on the hottest token launches, make the right trades at the right times, and maximise profits."
+msgstr "Quản Lý Danh Mục Đầu Tư và Phân Tích Mã Thông Báo cung cấp cho người dùng mọi thứ họ cần để có thể tham gia sớm vào các lần ra mắt mã thông báo hấp dẫn nhất, thực hiện các giao dịch phù hợp vào đúng thời điểm, qua đó giúp tối đa hóa lợi nhuận."
+
+#: 
+msgid "Create a wallet in the BEST Wallet"
+msgstr "Tạo ví trong BEST Wallet"
+
+#: 
+msgid "Make sure you complete all the steps below to ensure we can track your activities towards the BEST airdrop"
+msgstr "Đảm bảo bạn hoàn thành tất cả các bước bên dưới để chúng tôi có thể theo dõi các hoạt động của bạn có liên quan tới việc tham gia chương trình airdrop BEST"
+
+#: 
+msgid "Download the Best Wallet app and create a wallet."
+msgstr "Tải xuống ứng dụng Best Wallet và tạo một ví tiền điện tử cho riêng bạn."
+
+#: 
+msgid "2023 Best Web3. All Right Reserved."
+msgstr "2023 Best Web3. Đã Đăng Ký Bản Quyền."
+
+#: 
+msgid "Get Featured on Best DEX"
+msgstr "Trở nên nổi bật trên Best DEX"
+
+#: 
+msgid "Partner with the Best"
+msgstr "Đối tác với Best"
+
+#: 
+msgid "Become a partner and let us showcase your project to the world. Reach thousands of highly engaged global Best Wallet crypto holders."
+msgstr "Hãy trở thành đối tác với chúng tôi và để chúng tôi giới thiệu dự án của bạn với thế giới. Tiếp cận hàng nghìn người nắm giữ tiền điện tử Best Wallet trên toàn cầu, những người dùng có mức độ tương tác cao cực cao."
+
+#: 
+msgid "Best Audience"
+msgstr "Khán Giả Của Best"
+
+#: 
+msgid "News Coverage"
+msgstr "Tin Tức"
+
+#: 
+msgid "Featured on Best DEX"
+msgstr "Nổi bật trên Best DEX"
+
+#: 
+msgid "You have a following and you’re trending in all the right ways. Best Wallet will showcase your achievements and potential to thousands more engaged crypto holders."
+msgstr "Bạn sở hữu lượng người theo dõi ấn tượng và bạn đang là người biết tạo ra xu hướng cuốn hút mới theo cách tuyệt vời, độc đáo trong thế giới tiền điện tử. Best Wallet sẽ giới thiệu những thành tích và tiềm năng của bạn cho hàng nghìn người đang nắm giữ tiền điện tử với mức độ tương tác cực cao khác."
+
+#: 
+msgid "Your project will be picked up by high-ranking crypto news sites with a combined traffic of over 20 million monthly visitors."
+msgstr "Dự án của bạn sẽ được chọn bởi các trang web tin tức tiền điện tử có xếp hạng cao, với tổng lưu lượng truy cập lên tới hơn 20 triệu khách truy cập hàng tháng."
+
+#: 
+msgid "Be a part of the Best Ecosystem. We’ll list your token on Best DEX and support it with exposure and user incentives."
+msgstr "Hãy là một phần của Hệ sinh thái Best. Chúng tôi sẽ niêm yết mã thông báo của bạn trên Best DEX và hỗ trợ mã thông báo đó bằng các cung cấp  các ưu đãi để tối ưu mức độ hiển thị đến người dùng cho bạn."
+
+#: 
+msgid "Showcase Application"
+msgstr "Giới Thiệu Ứng Dụng"
+
+#: 
+msgid "First Name"
+msgstr "Tên"
+
+#: 
+msgid "Last Name"
+msgstr "Họ"
+
+#: 
+msgid "Your work Email"
+msgstr "Email cho công việc của bạn"
+
+#: 
+msgid "Provide a link to your website"
+msgstr "Cung cấp một liên kết đến website của bạn"
+
+#: 
+msgid "URL"
+msgstr "URL"
+
+#: 
+msgid "More Information"
+msgstr "Thêm Thông Tin"
+
+#: 
+msgid "Tell us about your project"
+msgstr "Hãy cho chúng tôi về dự án của bạn"
+
+#: 
+msgid "I confirm I have read agree to the <0>Privacy Policy</0>."
+msgstr "Tôi xác nhận rằng tôi đã đọc và đồng ý với <0>Chính Sách Quyền Riêng Tư</0>."
+
+#: 
+msgctxt "Shown on a button for applying to be a partner in BESTDex"
+msgid "Apply"
+msgstr "Áp dụng"
+
+#: 
+msgid "Trade"
+msgstr "Giao Dịch"
+
+#: 
+msgid "Features"
+msgstr "Đặc Trưng"
+
+#: 
+msgid "Best DEX is a decentralised exchange designed to seamlessly integrate with Best Wallet, our non-custodial crypto wallet . It allows you to trade cryptocurrencies securely and efficiently while maintaining full control of your funds and digital assets."
+msgstr "Best DEX là một sàn giao dịch phi tập trung tiên tiến được thiết kế để mang lại trải nghiệm tích hợp liền mạch với Best \n"
+" Wallet, nền tảng giao dịch không giám sát của chúng tôi.\n"
+"           ví tiền điện tử. Nó cho phép bạn giao dịch tiền điện tử một cách an toàn và hiệu quả trong khi vẫn duy trì đầy đủ\n"
+"          khả năng kiểm soát, bảo đảm an toàn tiền và tài sản kỹ thuật số của bạn."
+
+#: 
+msgid "What are the benefits of Best DEX?"
+msgstr "Lợi ích của Best DEX là gì?"

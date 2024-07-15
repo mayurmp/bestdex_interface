@@ -1,0 +1,2939 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Best DEX Website\n"
+"Language: zh-Hans\n"
+
+#. Please don't change the name of the application
+#: src/pages/Home/index.tsx
+msgid "Buy and Sell Instantly on"
+msgstr "立即买卖"
+
+#: src/pages/Home/index.tsx
+msgid "Recommended By"
+msgstr "由 推荐"
+
+#: src/pages/Home/index.tsx
+msgid "Trade any token on Ethereum or BNB Smart Chain in seconds, just by connecting your wallet."
+msgstr "只需连接你的钱包，在几秒钟内在以太坊或BNB智能链上交易任何代币。"
+
+#: /app/modules/views
+msgid "No registration needed. Thousands of tokens to trade at your fingertips."
+msgstr "无需註册。数千种可供你指尖交易的代币。"
+
+#: src/pages/Home/index.tsx
+#: src/pages/Home/index.tsx
+msgid "Trade Now"
+msgstr "立即交易"
+
+#: src/pages/Home/index.tsx
+msgid "Decentralised Exchange"
+msgstr "去中心化交易所"
+
+#: src/pages/Home/index.tsx
+msgid "Trade anything. No registration. No hassle."
+msgstr "任何交易，无需註册，无需烦恼。"
+
+#: src/pages/Home/index.tsx
+msgid "Best DEX will have all the tools you need to navigate around crypto trading including real-time market updates and advanced charting via Trading View."
+msgstr "最佳DEX将为你提供一切所需的工具，包括即时市场更新和通过Trading View进行高级图表分析。"
+
+#: /app/modules/views
+msgid "We were unable to sign you up.\n"
+"Please correct the marked fields."
+msgstr "我们无法为你註册。\n"
+"请更正标记的栏位。"
+
+#: /app/modules/views
+msgid "From trending tokens to token security, Best Dex token analytics provides traders with in-depth, real-time data to execute the right trades."
+msgstr "从热门代币到代币安全性，最佳DEX代币分析提供深入、实时的数据，帮助交易者执行正确的交易。"
+
+#: src/components/WalletModal/index.tsx
+msgid "Coming Soon"
+msgstr "即将推出"
+
+#: /app/modules/views
+msgid "Token Analytics"
+msgstr "代币分析"
+
+#: 
+msgid "Token Info"
+msgstr "代币信息"
+
+#: 
+msgid "Token Sentiment"
+msgstr "代币情绪"
+
+#: 
+msgid "Token Security"
+msgstr "代币安全性"
+
+#: 
+msgid "BEST Airdrop"
+msgstr "BEST空投"
+
+#: 
+msgid "The BEST token airdrop will reward brand advocates and Best Wallet and Best DEX power users over the coming months. Holders of the BEST token will receive exclusive benefits on Best DEX including lower cost trades"
+msgstr "BEST代币空投将在未来几个月内奖励品牌推广者以及Best Wallet和Best DEX的高级用户。持有BEST代币的人将在Best DEX上获得独家优惠，包括更低成本的交易。"
+
+#: 
+msgid "Frequently Asked"
+msgstr "常见问题"
+
+#: src/pages/Home/index.tsx
+msgid "Find answers to the most frequently asked questions about Best Wallet right here."
+msgstr "在这里找到有关Best Wallet的最常见问题的答案。"
+
+#: src/pages/Home/index.tsx
+msgid "If the answer you’re looking for isn’t here, email contact@bestwallet.com and we’ll assist you."
+msgstr "如果你找不到你需要的答案，请发送电子邮件至contact@bestwallet.com，我们将为你提供帮助。"
+
+#: src/pages/Home/index.tsx
+msgid "Cryptocurrency may be unregulated in your jurisdiction. The value of cryptocurrencies may go down as well as up. Profits may be subject to capital gains or other taxes applicable in your jurisdiction."
+msgstr "加密货币在你所在的司法管辖区可能没有受到监管。加密货币的价值可能会上升也可能下跌。获利可能受到你所在司法管辖区适用的资本利得税或其他税收的影响。"
+
+#: src/pages/Home/index.tsx
+msgid "Terms"
+msgstr "条款"
+
+#: src/pages/Home/index.tsx
+msgid "Privacy"
+msgstr "隐私"
+
+#: src/pages/Home/index.tsx
+msgid "Cookies"
+msgstr "Cookies"
+
+#: 
+msgid "What is Best DEX?"
+msgstr "什麽是Best DEX？"
+
+#: 
+msgid "Best DEX is a decentralized exchange designed to seamlessly integrate with Best Wallet, our non-custodial crypto wallet. It allows you to trade cryptocurrencies securely and efficiently while maintaining full control of your funds and digital assets."
+msgstr "Best DEX是一个去中心化交易所，专为与Best Wallet（我们的非保管的加密货币钱包）无缝集成而设计。它允许你在保持对资金和数字资产的完全控制的同时，安全高效地交易加密货币。"
+
+#: 
+msgid "Why should I use Best DEX instead of Uniswap or other DEXs?"
+msgstr "为什麽我应该使用Best DEX而不是Uniswap或其他去中心化交易所？"
+
+#: 
+msgid "Best DEX is built as the sister app to Best Wallet, our flagship crypto wallet. Best DEX can be accessed from within Best Wallet for an easy trading experience all within a single app. No more need to use several different wallets and DEXs to manage your crypto portfolio."
+msgstr "Best DEX是我们旗舰加密货币钱包Best Wallet的姊妹应用程序。你可以从Best Wallet内部访问Best DEX，轻松进行交易，一切都在一个应用程序内完成。不再需要使用多个不同的钱包和去中心化交易所来管理你的加密货币组合。"
+
+#: 
+msgid "What are Best DEX’s special features compared to competitors?"
+msgstr "相比竞争对手，Best DEX有哪些特点？"
+
+#: 
+msgid "Best DEX is incorporating the best aspects of established DEXs, improving upon them, and adding streamlined features that will elevate your crypto trading experience. To name two: 1. Store, manage, and trade crypto from a single app 2. Save on trading fees."
+msgstr "Best DEX整合了已建立的去中心化交易所的最佳方面，在其基础上进行改进，并增加了精简的功能，提升你的加密货币交易体验。其中两个特点为：1.在单一应用程序中存储、管理和交易加密货币。2.节省交易费用。"
+
+#: 
+msgid "Which chains does Best DEX support for decentralised trading?"
+msgstr "Best DEX支持哪些用于去中心化交易的区块链？"
+
+#: 
+msgid "Best DEX will start with native support for Ethereum, BNB Smart Chain and Polygon. Over time we’ll add support for all active major blockchains."
+msgstr "Best DEX将首先原生支持以太坊、BNB Smart Chain和Polygon。随着时间的推移，我们将为所有活跃的主要区块链增加支持。"
+
+#: 
+msgid "How can I use Best DEX on my mobile phone?"
+msgstr "如何在手机上使用Best DEX？"
+
+#: 
+msgid "Best DEX is available through the 'Swap' feature on the Best Wallet app. Simply download Best Wallet from Google Play or the App Store to gain access to Best DEX trading."
+msgstr "你可以通过Best Wallet应用程序的“Swap”功能来使用Best DEX。只需从Google Play或App Store下载Best Wallet，即可访问Best DEX进行交易。"
+
+#: 
+msgid "Decentralised & Secure"
+msgstr "去中心化和安全"
+
+#: 
+msgid "Low Fees"
+msgstr "低费用"
+
+#: 
+msgid "Trading Insights"
+msgstr "交易洞察"
+
+#: 
+msgid "Best DEX automatically matches you to the trading pair with the lowest rate for your desired swap, ensuring you always get the best price on your trades. This feature helps you save money on transactions."
+msgstr "Best DEX会自动将您匹配到具有所需交换的最低汇率的交易对，确保您始终以最佳价格进行交易。这项功能有助于节省交易成本。"
+
+#: 
+msgid "Cost-Saving Advantage"
+msgstr "节省成本的优势"
+
+#: 
+msgid "Airdrop Incentives"
+msgstr "空投奖励"
+
+#: 
+msgid "By using Best DEX, you become part of the Best Ecosystem, and we reward our most loyal and active users with a 10% airdrop of the total supply of our native token, $BEST, during Phase 6 of our launch."
+msgstr "通过使用Best DEX，您成为Best生态系统的一部分，我们将在我们的发行第6阶段为最忠诚和活跃的用户提供本地代币$BEST总供应量的10％空投奖励。"
+
+#: 
+msgid "Market Insights and Analytics"
+msgstr "市场见解与分析"
+
+#: 
+msgid "Best DEX provides you with comprehensive market insights and in-depth token analytics, giving you the best chance to make the best trading decisions at the right time."
+msgstr "Best DEX为你提供全面的市场见解和深入的代币分析，使你在适当的时间做出最佳的交易决策。"
+
+#: 
+msgid "Convenience"
+msgstr "便利性"
+
+#: 
+msgid "What are the fees associated with using Best DEX?"
+msgstr "使用Best DEX是否需要支付费用？"
+
+#: 
+msgid "Best Dex does not charge a usage fee. The only fees are determined by the specific liquidity pool and network gas fees."
+msgstr "Best Dex不收取使用费。唯一的费用取决于特定的流动性池和网络gas费用。"
+
+#: 
+msgid "Which chains does Best DEX support for decentralized trading?"
+msgstr "Best DEX支持哪些区块链进行去中心化交易？"
+
+#: 
+msgid "Best DEX initially supports Ethereum, BNB Smart Chain, and Polygon networks. As we continue to grow, we plan to add support for all active major blockchains, broadening your trading options and opportunities."
+msgstr "Best DEX最初支持Ethereum、BNB Smart Chain和Polygon网络。随着我们的持续发展，我们计划为所有活跃的主要区块链增加支持，扩大你的交易选择和机会。"
+
+#: 
+msgid "Does Best DEX require registration and KYC verification?"
+msgstr "Best DEX需要进行註册和KYC验证吗？"
+
+#: 
+msgid "Best DEX does not require KYC verification to start trading. We prioritize user privacy and aim to provide a hassle-free onboarding experience. Simply connect your wallet and you’re ready to go."
+msgstr "Best DEX不需要KYC验证即可开始交易。我们优先考虑用户隐私，力求提供无烦的入门体验。只需连接你的钱包，你就可以开始使用。"
+
+#: 
+msgid "Can I use Best DEX on my mobile phone?"
+msgstr "我可以在手机上使用Best DEX吗？"
+
+#: 
+msgid "There are multiple ways to access Best DEX on your mobile device:"
+msgstr "有多种方式可以在手机设备上使用Best DEX："
+
+#: 
+msgid "Mobile Web Browser"
+msgstr "移动网页浏览器"
+
+#: 
+msgid "Simply visit https://bestdex.com the Best DEX platform through your mobile web browser to start trading cryptocurrencies on the go."
+msgstr "只需通过你的移动网页浏览器访问https://bestdex.com，即可随时随地开始交易加密货币。"
+
+#: 
+msgid "Best Wallet In-App 'Swap' Feature"
+msgstr "Best Wallet内置的“Swap”功能"
+
+#: 
+msgid "If you already have Best Wallet installed, you can access Best DEX directly through the in-app 'swap' feature. This integration provides you with a seamless and convenient trading experience within a single app."
+msgstr "如果你已经安装了Best Wallet，可以通过应用内置的“swap”功能直接访问Best DEX。此集成为你提供了无缝和便捷的交易体验，全部在一个应用内完成。"
+
+#: 
+msgid "Best Wallet dApp (Coming Soon)"
+msgstr "Best Wallet的dApp（即将推出）"
+
+#: 
+msgid "In the near future, Best DEX will be available as a decentralized application (dApp) within Best Wallet, offering an even more integrated and user-friendly trading experience."
+msgstr "在不久的将来，Best DEX将作为去中心化应用（dApp）在Best Wallet内提供，为您提供更加整合和用户友好的交易体验。"
+
+#: 
+msgid "What is the BEST token?"
+msgstr "什么是BEST代币？"
+
+#: 
+msgid "The BEST token is the Best Ecosystem’s utility and governance token. Holding the token provides benefits to Best Wallet users such as advanced market analysis tools, no gas fees on swaps, and early access to new token launches and NFT drops."
+msgstr "BEST代币是Best生态系统的实用和治理代币。持有该代币将为Best Wallet用户提供优惠，包括先进的市场分析工具、交换免gas费用以及提前获取新代币发布和NFT空投的权益。"
+
+#: 
+msgid "We are launching the BEST token at the end of Phase 6 of our roadmap and will reward our early adopters and power users with 10% of our total supply based on the points they have accumulated from using our app and spreading the word on socials. Learn more here"
+msgstr "我们将在我们的路线图第6阶段结束时推出BEST代币，并根据用户在我们的应用程序中累积的积分和在社交媒体上宣传的情况，向早期採用者和高活跃用户提供总供应量的10％奖励。在此处瞭解更多详情。"
+
+#: 
+msgid "How can I stay up to date on the latest news about Best DEX and the BEST token airdrop?"
+msgstr "我该如何及时获得有关Best DEX和BEST代币空投的最新消息？"
+
+#: 
+msgid "Follow our socials and join our community hubs here"
+msgstr "请关注我们的社交媒体和加入我们的社区中心，详情请参阅此处。"
+
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "$-"
+msgstr "$-"
+
+#: src/components/earn/PoolCard.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "${0}"
+msgstr "${0}"
+
+#: src/components/swap/TradePrice.tsx
+msgid "(${0})"
+msgstr "(${0})"
+
+#: src/components/CurrencyInputPanel/index.tsx
+msgid "(Max)"
+msgstr "(最大值)"
+
+#: src/components/AddressInputPanel/index.tsx
+msgid "(View on Explorer)"
+msgstr "（在资源管理器上查看）"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "(claim)"
+msgstr "(领取)"
+
+#: src/pages/Vote/Landing.tsx
+msgid "(edit)"
+msgstr "(编辑)"
+
+#: src/pages/Swap/index.tsx
+msgid "- Remove recipient"
+msgstr "- 移除收件人"
+
+#: src/components/earn/PoolCard.tsx
+#: src/components/earn/PoolCard.tsx
+#: src/pages/Earn/Manage.tsx
+#: src/pages/Earn/Manage.tsx
+msgid "0 UNI / week"
+msgstr "0 UNI / 週"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "25%"
+msgstr "25%"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "50%"
+msgstr "50%"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "75%"
+msgstr "75%"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "<0/> All Proposals"
+msgstr "<0/> 所有提案"
+
+#: src/pages/Vote/Landing.tsx
+#: src/pages/Vote/Landing.tsx
+msgid "<0/> Votes"
+msgstr "<0/> 投票"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "<0>Current Price:</0><1><2/></1><3>{0} per {1}</3>"
+msgstr "<0>当前价格：</0><1><2/></1><3>{0} 每 {1}</3>"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "<0>Tip:</0> Removing pool tokens converts your position back into underlying tokens at the current rate, proportional to your share of the pool. Accrued fees are included in the amounts you receive."
+msgstr "<0>提示：</0>移除流动性池代币将按比例将你的持有份额转换回底层代币，按照当前汇率进行转换。累积的费用将包含在你收到的金额中。"
+
+#: src/pages/CreateProposal/index.tsx
+msgid "<0>Tip:</0> Select an action and describe your proposal for the community. The proposal cannot be modified after submission, so please verify all information before submitting. The voting period will begin immediately and last for 7 days. To propose a custom action, ."
+msgstr "<0>提示：</0>选择一个操作并描述你对社区的建议。提交后将无法修改建议，因此请在提交前验证所有信息。投票期将立即开始，持续7天。要提出自定义操作，请点击此处。"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "<0>Tip:</0> Use this tool to find pools that don't automatically appear in the interface."
+msgstr "<0>提示：</0> 使用此工具可以找到界面上未自动显示的池子。\n"
+""
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "<0>Tip:</0> When you add liquidity, you will receive pool tokens representing your position. These tokens automatically earn fees proportional to your share of the pool, and can be redeemed at any time."
+msgstr "<0>提示：</0> 当你添加流动性时，你将收到代表你持仓的池子代币。这些代币将自动按照你在池子中的份额获得费用，并且可以随时赎回。"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "<0>Unlock voting</0> to prepare for the next proposal."
+msgstr "<0>解锁投票</0> 以准备下一个提案。"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "<0>🎉 </0>Welcome to team Unicorn :) <1>🎉</1>"
+msgstr "<0>🎉 </0>欢迎加入独角兽团队 :) <1>🎉</1>"
+
+#: src/pages/Vote/Landing.tsx
+msgid "A minimum threshold of 0.25% of the total UNI supply is required to submit proposals"
+msgstr "需要达到总UNI供应量的0.25%作为提交提案的最低门槛。"
+
+#: src/components/swap/SwapModalHeader.tsx
+msgid "Accept"
+msgstr "接受"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Account"
+msgstr "账户"
+
+#: src/components/SearchModal/ImportRow.tsx
+#: src/pages/Vote/styled.tsx
+msgid "Active"
+msgstr "活跃"
+
+#: src/components/PositionCard/index.tsx
+#: src/pages/AddLiquidity/index.tsx
+msgid "Add"
+msgstr "添加"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Add <0/> and <1/> to BestDex V2"
+msgstr "添加 <0/> 和 <1/> 到 BestDex V2"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Add Delegate +"
+msgstr "添加代理+"
+
+#: src/components/NavigationTabs/index.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/Pool/v2.tsx
+msgid "Add Liquidity"
+msgstr "添加流动性"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Add liquidity."
+msgstr "添加流动性。"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Add more liquidity"
+msgstr "增加更多流动性"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Add {0} token to Metamask <0/>"
+msgstr "将 {0} 代币添加到Metamask <0/>"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Add {0}-{1} liquidity"
+msgstr "添加 {0}-{1} 流动性"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Add {0}/{1} V3 liquidity"
+msgstr "添加 {0}/{1} V3 流动性"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Added {0} token to Metamask"
+msgstr "已将 {0} 代币添加到Metamask"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "Address has no available claim"
+msgstr "地址没有可用的代币领取"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Against"
+msgstr "反对"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Allow LP token migration"
+msgstr "允许LP代币迁移"
+
+#: src/components/Settings/index.tsx
+msgid "Allow high price impact trades and skip the confirm screen. Use at your own risk."
+msgstr "允许高价格影响交易并跳过确认屏幕。使用需谨慎。"
+
+#: src/pages/Swap/index.tsx
+msgid "Allow the BestDex Protocol to use your {0}"
+msgstr "允许BestDex协议使用你的 {0}"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Allowed"
+msgstr "已允许"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Allowed Slippage"
+msgstr "允许滑点"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Amount"
+msgstr "金额"
+
+#: src/components/earn/StakingModal.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Approve"
+msgstr "批准"
+
+#: src/pages/CreateProposal/ProposalActionSelector.tsx
+msgid "Approve Token"
+msgstr "批准代币"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Approve {0}"
+msgstr "批准 {0}"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Approved"
+msgstr "已批准"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Approving"
+msgstr "正在批准中"
+
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Approving {0}"
+msgstr "正在批准 {0}"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Arbiscan"
+msgstr "Arbiscan"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Arbitrum Bridge"
+msgstr "Arbitrum Bridge"
+
+#: src/components/DowntimeWarning/index.tsx
+msgid "Arbitrum is in Beta and may experience downtime. During downtime, your position will not earn fees and you will be unable to remove liquidity. <0>Read more.</0>"
+msgstr "Arbitrum目前处于Beta测试阶段，可能会经历停机。在停机期间，你的持仓将无法获得费用，并且你将无法撤出流动性。<0>了解更多。</0>"
+
+#: src/components/Settings/index.tsx
+msgid "Are you sure?"
+msgstr "你确定吗？"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "As a member of the BestDex community you may claim UNI to be used for voting and governance.<0/><1/>"
+msgstr "作为BestDex社区的成员，你可以领取UNI用于投票和治理。<0/><1/>"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "At least {0} {1} and {2} {3} will be refunded to your wallet due to selected price range."
+msgstr "由于选择的价格范围，至少将有 {0} {1} 和 {2} {3} 退还至你的钱包。"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Auto"
+msgstr "自动"
+
+#: src/components/earn/StakingModal.tsx
+msgid "Available to deposit: {0}"
+msgstr "可存入的金额：{0}"
+
+#: src/pages/Earn/Manage.tsx
+msgid "BD LP LP tokens are required. Once you've added liquidity to the {0}-{1} pool you can stake your liquidity tokens on this page."
+msgstr "BD LP 需要 LP 代币。一旦你已经将流动性添加到 {0}-{1} 池中，你可以在此页面上抵押你的流动性代币。"
+
+#: src/pages/Earn/Manage.tsx
+msgid "BD LP {0}-{1}"
+msgstr "BD LP {0}-{1}"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "BD LP {0}/{1} Burned"
+msgstr "BD LP {0}/{1} 已被销毁"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "Balance:"
+msgstr "馀额："
+
+#: src/components/CurrencyInputPanel/index.tsx
+msgid "Balance: {0} {1}"
+msgstr "馀额：{0} {1}"
+
+#: src/components/FeeSelector/shared.tsx
+msgid "Best for exotic pairs."
+msgstr "最适合异国币对。"
+
+#: src/components/FeeSelector/shared.tsx
+msgid "Best for most pairs."
+msgstr "最适合大多数币对。"
+
+#: src/components/FeeSelector/shared.tsx
+msgid "Best for stable pairs."
+msgstr "最适合稳定币对。"
+
+#: src/components/FeeSelector/shared.tsx
+msgid "Best for very stable pairs."
+msgstr "最适合非常稳定币对。"
+
+#: src/components/SwitchLocaleLink/index.tsx
+msgid "BestDex available in: <0>{0}</0>"
+msgstr "BestDex 提供的语言：<0>{0}</0>"
+
+#: src/components/vote/ProposalEmptyState.tsx
+msgid "BestDex governance is only available on Layer 1. Switch your network to Ethereum Mainnet to view Proposals and Vote."
+msgstr "BestDex 治理只在第一层可用。将你的网络切换到 Ethereum 主网以查看提案和投票。"
+
+#: src/pages/Earn/index.tsx
+msgid "BestDex liquidity mining"
+msgstr "BestDex 流动性挖矿"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "BestDex migration contract↗"
+msgstr "BestDex 迁移合约↗"
+
+#: src/components/NetworkAlert/NetworkAlert.tsx
+msgid "BestDex on {0}"
+msgstr "BestDex 在 {0} 上运行"
+
+#: src/components/Blocklist/index.tsx
+msgid "Blocked address"
+msgstr "被封锁的地址"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Bridge"
+msgstr "桥接"
+
+#: src/components/PositionCard/index.tsx
+msgid "By adding liquidity you'll earn 0.3% of all trades on this pair proportional to your share of the pool. Fees are added to the pool, accrue in real time and can be claimed by withdrawing your liquidity."
+msgstr "通过添加流动性，你将根据你在该池中的份额，获得该货币对所有交易中的 0.3% 收益。费用将添加到池中，实时累积，可以通过提取你的流动性来索取。"
+
+#: src/components/SearchModal/ImportList.tsx
+msgid "By adding this list you are implicitly trusting that the data is correct. Anyone can create a list, including creating fake versions of existing lists and lists that claim to represent projects that do not have one."
+msgstr "通过添加此列表，你暗示你信任该数据是正确的。任何人都可以创建列表，包括创建现有列表的假版本以及声称代表没有任何项目的列表。"
+
+#: src/pages/Vote/styled.tsx
+msgid "Canceled"
+msgstr "已取消"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Change"
+msgstr "更改"
+
+#: src/components/Header/ChainConnectivityWarning.tsx
+msgid "Check network status"
+msgstr "检查网络状态"
+
+#: src/pages/Pool/CTACards.tsx
+msgid "Check out our v3 LP walkthrough and migration guides."
+msgstr "查看我们的V3 LP指南和迁移指南。"
+
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/pages/Earn/Manage.tsx
+msgid "Claim"
+msgstr "领取"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Claim <0/> for {0}"
+msgstr "领取<0/>作为{0}的奖励"
+
+#: src/components/Header/index.tsx
+msgid "Claim BD LP"
+msgstr "领取BD LP"
+
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+msgid "Claim UNI"
+msgstr "领取UNI"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "Claim UNI Token"
+msgstr "领取UNI代币"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Claim UNI reward for {0}"
+msgstr "领取{0}的UNI奖励"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Claim fees"
+msgstr "领取手续费"
+
+#: src/components/Popups/ClaimPopup.tsx
+msgid "Claim your UNI tokens"
+msgstr "领取你的UNI代币"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "Claimed"
+msgstr "已领取"
+
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/UnstakingModal.tsx
+msgid "Claimed UNI!"
+msgstr "已领取UNI！"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "Claimed!"
+msgstr "已领取！"
+
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+msgid "Claiming"
+msgstr "领取中"
+
+#: src/components/Header/index.tsx
+msgid "Claiming BD LP"
+msgstr "正在领取BD LP"
+
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/UnstakingModal.tsx
+msgid "Claiming {0} UNI"
+msgstr "正在领取{0}的UNI"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Clear All"
+msgstr "全部清除"
+
+#: src/components/SearchModal/ManageTokens.tsx
+msgid "Clear all"
+msgstr "全部清除"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Close"
+msgstr "关闭"
+
+#: src/components/Badge/RangeBadge.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Closed"
+msgstr "已关闭"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collect"
+msgstr "收集"
+
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Collect as {0}"
+msgstr "以{0}收集"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collect fees"
+msgstr "收费"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Collect {0}/{1} fees"
+msgstr "收集{0}/{1}的手续费"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collected"
+msgstr "已收集"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collecting"
+msgstr "正在收集"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collecting fees"
+msgstr "正在收集手续费"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collecting fees will withdraw currently available fees for you."
+msgstr "收集手续费将会提取你目前可用的手续费。"
+
+#: src/components/SearchModal/CommonBases.tsx
+msgid "Common bases"
+msgstr "常见的基币"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Confirm"
+msgstr "确认"
+
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+msgid "Confirm Supply"
+msgstr "确认供应"
+
+#: src/components/swap/ConfirmSwapModal.tsx
+#: src/components/swap/SwapModalFooter.tsx
+msgid "Confirm Swap"
+msgstr "确认交换"
+
+#: src/components/ModalViews/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "Confirm this transaction in your wallet"
+msgstr "在你的钱包中确认此交易"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Confirm transaction in wallet"
+msgstr "在钱包中确认交易"
+
+#: src/components/Web3Status/index.tsx
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+#: src/pages/Swap/index.tsx
+#: src/state/burn/hooks.tsx
+#: src/state/burn/v3/hooks.tsx
+#: src/state/mint/hooks.tsx
+#: src/state/mint/v3/hooks.tsx
+#: src/state/stake/hooks.tsx
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Connect Wallet"
+msgstr "连接钱包"
+
+#: src/components/WalletModal/index.tsx
+#: src/components/earn/UnstakingModal.tsx
+#: src/pages/Pool/index.tsx
+msgid "Connect a wallet"
+msgstr "连接钱包"
+
+#: src/components/WalletModal/index.tsx
+msgid "Connect to Best Wallet"
+msgstr "连接至Best Wallet"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Connect to a wallet to find pools"
+msgstr "连接钱包以查找池子"
+
+#: src/pages/MigrateV2/index.tsx
+#: src/pages/Pool/v2.tsx
+msgid "Connect to a wallet to view your liquidity."
+msgstr "连接钱包以查看你的流动性。"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Connected with {name}"
+msgstr "已连接至{name}"
+
+#: src/components/WalletModal/PendingView.tsx
+msgid "Connection Error"
+msgstr "连线错误"
+
+#: src/components/AccountDetails/Copy.tsx
+msgid "Copied"
+msgstr "複製"
+
+#: src/components/AccountDetails/index.tsx
+#: src/components/AccountDetails/index.tsx
+msgid "Copy Address"
+msgstr "複製位址"
+
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+msgid "Create Pool & Supply"
+msgstr "建立资金池及提供流动性"
+
+#: src/pages/CreateProposal/index.tsx
+#: src/pages/Vote/Landing.tsx
+msgid "Create Proposal"
+msgstr "建立提案"
+
+#: src/components/NavigationTabs/index.tsx
+#: src/pages/Pool/v2.tsx
+msgid "Create a pair"
+msgstr "建立交易对"
+
+#: src/pages/Pool/index.tsx
+msgid "Create a pool"
+msgstr "建立资金池"
+
+#: src/components/ErrorBoundary/index.tsx
+msgid "Create an issue on GitHub"
+msgstr "在GitHub上建立问题"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Create pool and add {0}/{1} V3 liquidity"
+msgstr "建立资金池并增加 {0}/{1} V3 流动性"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Create pool."
+msgstr "建立资金池。"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Create {0}/{1} V3 pool"
+msgstr "建立 {0}/{1} V3 资金池"
+
+#: src/components/PositionPreview/index.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "Current price"
+msgstr "目前价格"
+
+#: src/pages/Pool/v2.tsx
+msgid "Current version is not available on Layer 2. Switch to Layer 1 Ethereum."
+msgstr "目前版本不支援 Layer 2。请切换至 Layer 1 的以太坊。"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Current {0} Price:"
+msgstr "目前 {0} 价格："
+
+#: src/pages/Vote/styled.tsx
+msgid "Defeated"
+msgstr "失败"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Delegate Votes"
+msgstr "委派票数"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Delegate voting power to {0}"
+msgstr "将委派投票权给 {0}"
+
+#: src/pages/Vote/Landing.tsx
+msgid "Delegated to:"
+msgstr "委派给："
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Delegating votes"
+msgstr "委派的票数"
+
+#: src/components/earn/PoolCard.tsx
+#: src/components/earn/StakingModal.tsx
+#: src/components/earn/StakingModal.tsx
+#: src/pages/Earn/Manage.tsx
+msgid "Deposit"
+msgstr "存入款项"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Deposit Amounts"
+msgstr "存入金额"
+
+#: src/components/NetworkAlert/NetworkAlert.tsx
+msgid "Deposit Assets"
+msgstr "存入资产"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Deposit BD LP LP Tokens"
+msgstr "存入 BD LP LP 代币"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Deposit liquidity"
+msgstr "存入流动性"
+
+#: src/pages/Earn/index.tsx
+msgid "Deposit your Liquidity Provider tokens to receive UNI, the BestDex protocol governance token."
+msgstr "将你的流动性提供者代币存入，以获得 UNI，即 BestDex 协议治理代币。"
+
+#: src/components/earn/UnstakingModal.tsx
+msgid "Deposited liquidity:"
+msgstr "已存入的流动性："
+
+#: src/components/earn/StakingModal.tsx
+msgid "Deposited {0} BD LP"
+msgstr "已存入 {0} BD LP"
+
+#: src/components/earn/StakingModal.tsx
+msgid "Depositing Liquidity"
+msgstr "正在存入流动性"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Description"
+msgstr "说明"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Detailed"
+msgstr "详细"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Details"
+msgstr "详情"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Disconnect"
+msgstr "断开连接"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Dismiss"
+msgstr "关闭"
+
+#: src/pages/MigrateV2/index.tsx
+msgid "Don’t see one of your v2 positions? <0>Import it.</0>"
+msgstr "找不到你的某个 v2 位置吗？<0>导入它。</0>"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Earned UNI tokens represent voting shares in BestDex governance."
+msgstr "获得的 UNI 代币代表 BestDex 治理中的投票股份。"
+
+#: src/components/FeeSelector/index.tsx
+msgid "Edit"
+msgstr "编辑"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Efficiency Comparison"
+msgstr "效率比较"
+
+#: src/state/burn/v3/hooks.tsx
+msgid "Enter a percent"
+msgstr "输入百分比"
+
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Enter a recipient"
+msgstr "输入收件人"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Enter a valid slippage percentage"
+msgstr "输入有效的滑点百分比"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "Enter an address to trigger a UNI claim. If the address has any claimable UNI it will be sent to them on submission."
+msgstr "请提供一个地址以触发UNI领取。如果该地址有任何可领取的UNI，将在提交后发送给该地址。"
+
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/UnstakingModal.tsx
+#: src/state/burn/hooks.tsx
+#: src/state/mint/hooks.tsx
+#: src/state/mint/v3/hooks.tsx
+#: src/state/stake/hooks.tsx
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Enter an amount"
+msgstr "请输入金额"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Enter valid list location"
+msgstr "请输入有效的列表位置"
+
+#: src/components/SearchModal/ManageTokens.tsx
+msgid "Enter valid token address"
+msgstr "请输入有效的代币地址"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/Web3Status/index.tsx
+msgid "Error"
+msgstr "错误"
+
+#: src/components/WalletModal/index.tsx
+msgid "Error connecting"
+msgstr "连接错误"
+
+#: src/components/WalletModal/index.tsx
+msgid "Error connecting. Try refreshing the page."
+msgstr "连接错误。请尝试刷新页面。"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Error importing list"
+msgstr "导入列表错误"
+
+#: src/pages/Vote/styled.tsx
+msgid "Executed"
+msgstr "已执行"
+
+#: src/components/SearchModal/CurrencyList.tsx
+msgid "Expanded results from inactive Token Lists"
+msgstr "从不活动的代币列表中扩展结果"
+
+#: src/components/Settings/index.tsx
+msgid "Expert Mode"
+msgstr "专家模式"
+
+#: src/components/Settings/index.tsx
+msgid "Expert mode turns off the confirm transaction prompt and allows high slippage trades that often result in bad rates and lost funds."
+msgstr "专家模式关闭确认交易提示，并允许高滑点交易，这通常会导致不良汇率和资金损失。"
+
+#: src/pages/Vote/styled.tsx
+msgid "Expired"
+msgstr "已过期"
+
+#: src/pages/Pool/CTACards.tsx
+msgid "Explore popular pools on BestDex Analytics."
+msgstr "在BestDex Analytics上探索热门交易池。"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Explorer"
+msgstr "浏览器"
+
+#: src/components/PositionPreview/index.tsx
+msgid "Fee Tier"
+msgstr "费用等级"
+
+#: src/components/FeeSelector/index.tsx
+msgid "Fee tier"
+msgstr "费用等级"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "For"
+msgstr "对于"
+
+#: src/pages/MigrateV2/index.tsx
+msgid "For each pool shown below, click migrate to remove your liquidity from BestDex V2 and deposit it into BestDex V3."
+msgstr "对于下面显示的每个交易池，点击迁移以将你的流动性从 BestDex V2 中移除并存入 BestDex V3。"
+
+#: src/components/swap/SwapModalHeader.tsx
+#: src/pages/Swap/index.tsx
+msgid "From"
+msgstr "从"
+
+#: src/pages/Swap/index.tsx
+msgid "From (at most)"
+msgstr "从（最小）"
+
+#: src/components/RangeSelector/PresetsButtons.tsx
+msgid "Full Range"
+msgstr "全部范围"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Full range positions may earn less fees than concentrated positions. Learn more <0>here</0>."
+msgstr "全范围仓位可能比集中仓位赚取的费用更少。了解更多信息<0>请点击这里</0>。"
+
+#: src/components/ErrorBoundary/index.tsx
+msgid "Get support on Discord"
+msgstr "在Discord上获取支持"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Help Center"
+msgstr "帮助中心"
+
+#: src/components/FeeSelector/index.tsx
+msgid "Hide"
+msgstr "隐藏"
+
+#: src/pages/Swap/index.tsx
+msgid "High Price Impact"
+msgstr "高价格影响"
+
+#: src/components/SearchModal/ImportList.tsx
+#: src/pages/AddLiquidity/index.tsx
+msgid "I understand"
+msgstr "我理解了"
+
+#: src/components/SearchModal/ImportList.tsx
+msgid "If you purchase a token from this list, you may not be able to sell it back."
+msgstr "如果你从此列表购买代币，则可能无法将其卖回。"
+
+#: src/components/SearchModal/BlockedToken.tsx
+#: src/components/SearchModal/ImportList.tsx
+#: src/components/SearchModal/ImportRow.tsx
+#: src/components/SearchModal/ImportToken.tsx
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Import"
+msgstr "导入"
+
+#: src/components/SearchModal/ImportList.tsx
+msgid "Import List"
+msgstr "导入列表"
+
+#: src/components/NavigationTabs/index.tsx
+#: src/pages/Pool/v2.tsx
+msgid "Import Pool"
+msgstr "导入交易池"
+
+#: src/components/SearchModal/ImportList.tsx
+msgid "Import at your own risk"
+msgstr "自行承担风险导入"
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "In range"
+msgstr "在范围内"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Increase Liquidity"
+msgstr "增加流动性"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Initial prices and pool share"
+msgstr "初始价格和交易池份额"
+
+#: src/components/WalletModal/PendingView.tsx
+msgid "Initializing..."
+msgstr "初始化中..."
+
+#: src/components/swap/SwapModalHeader.tsx
+msgid "Input is estimated. You will sell at most <0>{0} {1}</0> or the transaction will revert."
+msgstr "输入是估计的。你将最多出售<0>{0} {1}</0>，否则交易将回滚。"
+
+#: src/components/WalletModal/index.tsx
+msgid "Install Metamask"
+msgstr "安装Metamask"
+
+#: src/pages/Swap/index.tsx
+msgid "Insufficient liquidity for this trade."
+msgstr "此交易的流动性不足。"
+
+#: src/state/mint/hooks.tsx
+#: src/state/mint/hooks.tsx
+#: src/state/mint/v3/hooks.tsx
+#: src/state/mint/v3/hooks.tsx
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Insufficient {0} balance"
+msgstr "{0}余额不足"
+
+#: src/components/Settings/index.tsx
+msgid "Interface Settings"
+msgstr "界面设置"
+
+#: src/state/mint/hooks.tsx
+#: src/state/mint/v3/hooks.tsx
+msgid "Invalid pair"
+msgstr "无效的交易对"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Invalid pair."
+msgstr "无效的交易对。"
+
+#: src/state/mint/v3/hooks.tsx
+msgid "Invalid price input"
+msgstr "无效的价格输入"
+
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Invalid range selected. The min price must be lower than the max price."
+msgstr "选择了无效的范围。最小价格必须低于最大价格。"
+
+#: src/hooks/useSwapCallback.tsx
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Invalid recipient"
+msgstr "无效的收件人"
+
+#: src/components/Header/index.tsx
+msgid "Join the Best Wallet Waitlist to participate in the BEST Airdrop"
+msgstr "加入最佳钱包等待列表以参加BEST空投"
+
+#: src/components/Menu/index.tsx
+msgid "Language"
+msgstr "语言"
+
+#: src/components/NetworkAlert/NetworkAlert.tsx
+msgid "Learn More"
+msgstr "了解更多信息"
+
+#: src/pages/Pool/CTACards.tsx
+msgid "Learn about providing liquidity"
+msgstr "了解提供流动性的方法"
+
+#: src/components/PrivacyPolicy/index.tsx
+#: src/components/PrivacyPolicy/index.tsx
+#: src/components/WalletModal/index.tsx
+msgid "Learn more"
+msgstr "了解更多"
+
+#: src/components/PrivacyPolicy/index.tsx
+#: src/components/WalletModal/index.tsx
+msgid "Legal & Privacy"
+msgstr "法律和隐私"
+
+#: src/components/claim/ClaimModal.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "Liquidity"
+msgstr "流动性"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Liquidity Provider Fee"
+msgstr "流动性提供者费用"
+
+#: src/pages/Pool/v2.tsx
+msgid "Liquidity provider rewards"
+msgstr "流动性提供者奖励"
+
+#: src/pages/Pool/v2.tsx
+msgid "Liquidity providers earn a 0.3% fee on all trades proportional to their share of the pool. Fees are added to the pool, accrue in real time and can be claimed by withdrawing your liquidity."
+msgstr "流动性提供者从交易池的份额中按比例获得所有交易的0.3％费用。费用将添加到交易池中，实时累积，可以通过撤回您的流动性来领取。"
+
+#: src/components/SearchModal/Manage.tsx
+msgid "Lists"
+msgstr "列表"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Loaded"
+msgstr "已加载"
+
+#: src/components/PositionCard/Sushi.tsx
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/MigrateV2/index.tsx
+#: src/pages/Pool/v2.tsx
+#: src/pages/PoolFinder/index.tsx
+#: src/pages/Swap/index.tsx
+msgid "Loading"
+msgstr "正在加载"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/V2.tsx
+#: src/components/SearchModal/Manage.tsx
+#: src/components/earn/PoolCard.tsx
+msgid "Manage"
+msgstr "管理"
+
+#: src/components/PositionCard/index.tsx
+msgid "Manage Liquidity in Rewards Pool"
+msgstr "在奖励池中管理流动性"
+
+#: src/components/SearchModal/CurrencySearch.tsx
+msgid "Manage Token Lists"
+msgstr "管理代币列表"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Manage this pool."
+msgstr "管理此交易池。"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Max"
+msgstr "最大值"
+
+#: src/components/PositionPreview/index.tsx
+#: src/components/RangeSelector/index.tsx
+msgid "Max Price"
+msgstr "最高价格"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Max price"
+msgstr "最高价格"
+
+#: src/components/PositionListItem/index.tsx
+msgid "Max:"
+msgstr "最大:"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Maximum sent"
+msgstr "最大发送量"
+
+#: src/components/Menu/index.tsx
+msgid "Menu"
+msgstr "菜单"
+
+#: src/components/PositionCard/Sushi.tsx
+#: src/components/PositionCard/V2.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/Pool/index.tsx
+msgid "Migrate"
+msgstr "迁移"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/MigrateV2/index.tsx
+#: src/pages/Pool/index.tsx
+msgid "Migrate Liquidity"
+msgstr "迁移流动性"
+
+#: src/pages/MigrateV2/index.tsx
+msgid "Migrate your liquidity tokens from BestDex V2 to BestDex V3."
+msgstr "将你的流动性代币从BestDex V2迁移到BestDex V3。"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Migrate {0}/{1} liquidity to V3"
+msgstr "将 {0}/{1} 流动性迁移到V3"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Migrating"
+msgstr "正在迁移"
+
+#: src/components/PositionPreview/index.tsx
+#: src/components/RangeSelector/index.tsx
+msgid "Min Price"
+msgstr "最低价格"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Min price"
+msgstr "最低价格"
+
+#: src/components/PositionListItem/index.tsx
+msgid "Min:"
+msgstr "最小:"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Minimum received"
+msgstr "最小接收量"
+
+#: src/hooks/useSwapCallback.tsx
+msgid "Missing dependencies"
+msgstr "缺少依赖项"
+
+#: src/pages/Pool/index.tsx
+msgid "More"
+msgstr "更多"
+
+#: src/components/Header/ChainConnectivityWarning.tsx
+msgid "Network Warning"
+msgstr "网络警告"
+
+#: src/pages/Pool/index.tsx
+msgid "New Position"
+msgstr "新仓位"
+
+#: src/pages/MigrateV2/index.tsx
+msgid "No V2 Liquidity found."
+msgstr "未发现V2流动性。"
+
+#: src/pages/Earn/index.tsx
+#: src/pages/Earn/index.tsx
+msgid "No active pools"
+msgstr "无活动交易池"
+
+#: src/components/FeeSelector/FeeTierPercentageBadge.tsx
+msgid "No data"
+msgstr "无数据"
+
+#: src/state/governance/hooks.ts
+msgid "No description."
+msgstr "没有描述。"
+
+#: src/pages/Pool/v2.tsx
+msgid "No liquidity found."
+msgstr "未发现流动性。"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "No pool found."
+msgstr "未找到交易池。"
+
+#: src/components/vote/ProposalEmptyState.tsx
+msgid "No proposals found."
+msgstr "未找到提案。"
+
+#: src/pages/Home/index.tsx
+msgid "No registration needed. Over 400 tokens to trade at your fingertips."
+msgstr "无需注册。超过400种代币随时可供交易。"
+
+#: src/components/SearchModal/CurrencySearch.tsx
+msgid "No results found."
+msgstr "未找到结果。"
+
+#: src/components/FeeSelector/FeeTierPercentageBadge.tsx
+msgid "Not created"
+msgstr "未创建"
+
+#: src/components/Toggle/ListToggle.tsx
+msgid "OFF"
+msgstr "关闭"
+
+#: src/components/Toggle/ListToggle.tsx
+msgid "ON"
+msgstr "开启"
+
+#: src/components/Settings/index.tsx
+msgid "ONLY USE THIS MODE IF YOU KNOW WHAT YOU ARE DOING!"
+msgstr "仅在你知道自己在做什么时使用此模式！"
+
+#: src/components/Toggle/index.tsx
+msgid "Off"
+msgstr "关闭"
+
+#: src/components/Toggle/index.tsx
+msgid "On"
+msgstr "开启"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Once you are happy with the rate click supply to review."
+msgstr "一旦你对汇率满意，请点击提供以进行审核。"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Only UNI votes that were self delegated or delegated to another address before block {0} are eligible for voting."
+msgstr "仅自我委派或在区块 {0} 之前委派给其他地址的 UNI 投票才有资格进行投票。"
+
+#: src/components/Web3ReactManager/index.tsx
+msgid "Oops! An unknown error occurred. Please refresh the page, or visit from another browser or device."
+msgstr "糟糕！发生了未知错误。请刷新页面或使用其他浏览器或设备访问。"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Optimism Gateway"
+msgstr "Optimism网关"
+
+#: src/components/DowntimeWarning/index.tsx
+msgid "Optimistic Ethereum is in Beta and may experience downtime. Optimism expects planned downtime to upgrade the network in the near future. During downtime, your position will not earn fees and you will be unable to remove liquidity. <0>Read more.</0>"
+msgstr "基于以太坊区块链的 Layer-2 扩容方案处于测试版阶段，可能会出现停机时间。Optimism 预计在不久的将来进行计划停机以升级网络。在停机期间，您的仓位将不会获得费用，也无法移除流动性。<0>了解更多。</0>"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Optimistic Etherscan"
+msgstr "以太坊区块链浏览器"
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "Out of range"
+msgstr "范围超出限制"
+
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Output is estimated. If the price changes by more than {0}% your transaction will revert."
+msgstr "输出的估计的。如果价格变化超过{0}%，你的交易将回滚。"
+
+#: src/components/swap/SwapModalHeader.tsx
+msgid "Output is estimated. You will receive at least <0>{0} {1}</0> or the transaction will revert."
+msgstr "输出是估计的。你将至少收到 <0>{0} {1}</0>，否则交易将回滚。"
+
+#: src/components/swap/SwapModalHeader.tsx
+msgid "Output will be sent to <0>{0}</0>"
+msgstr "输出将发送至 <0>{0}</0>"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Owner"
+msgstr "所有者"
+
+#: src/pages/Earn/index.tsx
+msgid "Participating pools"
+msgstr "参与的交易池"
+
+#: src/pages/Vote/styled.tsx
+msgid "Pending"
+msgstr "待处理"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Please confirm you would like to remove this list by typing REMOVE"
+msgstr "请确认你要通过输入移除来删除此列表"
+
+#: src/components/vote/ProposalEmptyState.tsx
+msgid "Please connect to Layer 1 Ethereum"
+msgstr "请连接至Layer1以太坊网络"
+
+#: src/components/WalletModal/index.tsx
+msgid "Please connect to the appropriate Ethereum network."
+msgstr "请连接至适当的以太坊网络。"
+
+#: src/components/Settings/index.tsx
+msgid "Please type the word \"{confirmWord}\" to enable expert mode."
+msgstr "请输入\"{确认文字}\"以启动专家模式。"
+
+#: src/components/Header/index.tsx
+#: src/components/NavigationTabs/index.tsx
+msgid "Pool"
+msgstr "交易池"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Pool Found!"
+msgstr "找到交易池!"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Pool Rate"
+msgstr "交易池汇率"
+
+#: src/components/earn/PoolCard.tsx
+msgid "Pool rate"
+msgstr "交易池汇率"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+msgid "Pool tokens in rewards pool:"
+msgstr "奖励池中的代币数量:"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+#: src/components/PositionCard/index.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Pooled {0}:"
+msgstr "资金池{0}:"
+
+#: src/pages/Pool/index.tsx
+msgid "Pools Overview"
+msgstr "池概述"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Preview"
+msgstr "预览"
+
+#: src/components/swap/SwapModalHeader.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Price"
+msgstr "价格"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Price Difference:"
+msgstr "价格差异:"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Price Impact"
+msgstr "价格影响"
+
+#: src/pages/Swap/index.tsx
+msgid "Price Impact Too High"
+msgstr "价格影响过大"
+
+#: src/components/swap/SwapModalHeader.tsx
+msgid "Price Updated"
+msgstr "价格已更新"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Price range"
+msgstr "价格范围"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Price:"
+msgstr "价格:"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Prices and pool share"
+msgstr "价格和资金池份额"
+
+#: src/pages/CreateProposal/ProposalEditor.tsx
+msgid "Proposal"
+msgstr "提案"
+
+#: src/pages/CreateProposal/ProposalSubmissionModal.tsx
+msgid "Proposal Submitted"
+msgstr "已提交提案"
+
+#: src/pages/CreateProposal/ProposalEditor.tsx
+msgid "Proposal Title"
+msgstr "提案标题"
+
+#: src/pages/Vote/Landing.tsx
+msgid "Proposals"
+msgstr "提案"
+
+#: src/components/vote/ProposalEmptyState.tsx
+msgid "Proposals submitted by community members will appear here."
+msgstr "社区成员提交的提案将出现在此处。"
+
+#: src/pages/CreateProposal/ProposalActionSelector.tsx
+msgid "Proposed Action"
+msgstr "建议的操作"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Proposer"
+msgstr "提案人"
+
+#: src/pages/Vote/styled.tsx
+msgid "Queued"
+msgstr "排队"
+
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+msgid "Rates"
+msgstr "汇率"
+
+#: src/components/swap/UnsupportedCurrencyFooter.tsx
+msgid "Read more about unsupported assets"
+msgstr "了解更多不受支持的资产"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Recent Transactions"
+msgstr "最近的交易记录"
+
+#: src/components/AddressInputPanel/index.tsx
+msgid "Recipient"
+msgstr "接收方"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Remove"
+msgstr "删除"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Remove <0/> and <1/>"
+msgstr "删除 <0/> 和 <1/>"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Remove Amount"
+msgstr "删除数量"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Remove Delegate"
+msgstr "取消代表"
+
+#: src/components/NavigationTabs/index.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Remove Liquidity"
+msgstr "移除流动性"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Remove list"
+msgstr "移除列表"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Removing {0} {1} and {2} {3}"
+msgstr "正在移除 {0} {1} 和 {2} {3}"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Removing {0} {1} and{2} {3}"
+msgstr "正在移除 {0} {1} 和 {2} {3}"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/pages/CreateProposal/ProposalSubmissionModal.tsx
+msgid "Return"
+msgstr "返回"
+
+#: src/components/SearchModal/CurrencySearch.tsx
+msgid "Search name or paste address"
+msgstr "搜索名称或粘贴地址"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Select Pair"
+msgstr "选择交易对"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Select a network"
+msgstr "选择网络"
+
+#: src/components/CurrencyInputPanel/index.tsx
+#: src/components/SearchModal/CurrencySearch.tsx
+#: src/pages/PoolFinder/index.tsx
+#: src/pages/PoolFinder/index.tsx
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Select a token"
+msgstr "选择代币"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Select a token to find your liquidity."
+msgstr "选择代币以查找你的流动性。"
+
+#: src/pages/CreateProposal/ProposalActionSelector.tsx
+msgid "Select an action"
+msgstr "选择操作"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Selected Range"
+msgstr "已选择的范围"
+
+#: src/pages/Vote/Landing.tsx
+msgid "Self"
+msgstr "自我"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Self Delegate"
+msgstr "自我代表"
+
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Set Price Range"
+msgstr "设置价格范围"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Set Starting Price"
+msgstr "设置起始价格"
+
+#: src/pages/AddLiquidityV2/PoolPriceBar.tsx
+msgid "Share of Pool"
+msgstr "资金池份额"
+
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+msgid "Share of Pool:"
+msgstr "资金池份额:"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Show Portis"
+msgstr "显示Portis"
+
+#: src/pages/Pool/index.tsx
+msgid "Show closed positions"
+msgstr "显示已关闭的头寸"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Simple"
+msgstr "简单"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Slippage tolerance"
+msgstr "滑点容忍度"
+
+#: src/components/swap/UnsupportedCurrencyFooter.tsx
+msgid "Some assets are not available through this interface because they may not work well with the smart contracts or we are unable to allow trading for legal reasons."
+msgstr "某些资产无法通过此界面提供，因为它们可能与智能合约不兼容，或者由于法律原因我们无法允许交易。"
+
+#: src/components/ErrorBoundary/index.tsx
+msgid "Something went wrong"
+msgstr "出现错误"
+
+#: src/components/PositionList/index.tsx
+msgid "Status"
+msgstr "状态"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Step 1. Get BD LP Liquidity tokens"
+msgstr "步骤1. 获取 BD LP 流动性代币"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Submit new proposal"
+msgstr "提交新提案"
+
+#: src/pages/CreateProposal/ProposalSubmissionModal.tsx
+msgid "Submitting Proposal"
+msgstr "正在提交提案"
+
+#: src/components/vote/VoteModal.tsx
+msgid "Submitting Vote"
+msgstr "正在提交投票"
+
+#: src/pages/Vote/styled.tsx
+msgid "Succeeded"
+msgstr "成功"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Success"
+msgstr "成功"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Supply"
+msgstr "提供"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Supplying {0} {1} and {2} {3}"
+msgstr "正在提供{0} {1} 和 {2} {3}"
+
+#: src/components/Header/index.tsx
+#: src/components/NavigationTabs/index.tsx
+#: src/components/swap/SwapHeader.tsx
+#: src/pages/Swap/index.tsx
+#: src/pages/Swap/index.tsx
+msgid "Swap"
+msgstr "交换"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Swap <0/> for exactly <1/>"
+msgstr "将 <0/>切换为 <1/>"
+
+#: src/pages/Swap/index.tsx
+#: src/pages/Swap/index.tsx
+msgid "Swap Anyway"
+msgstr "无论如何切换"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Swap exactly <0/> for <1/>"
+msgstr "将<0/>精确交换为 <1/>"
+
+#: src/hooks/useSwapCallback.tsx
+#: src/hooks/useSwapCallback.tsx
+msgid "Swap failed: {0}"
+msgstr "交换失败: {0}"
+
+#: src/components/swap/ConfirmSwapModal.tsx
+msgid "Swapping {0} {1} for {2} {3}"
+msgstr "交换 {0} {1} 为 {2} {3}"
+
+#: src/components/Popups/ClaimPopup.tsx
+msgid "Thanks for being part of the BestDex community <0/>"
+msgstr "感谢你成为 BestDex 社区的一员 <0/>"
+
+#: src/components/FeeSelector/index.tsx
+msgid "The % you will earn in fees."
+msgstr "你将获得的手续费百分比。"
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app fetches blockchain data from The Graph’s hosted service."
+msgstr "该应用从The Graph托管的服务中获取区块链数据。"
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app fetches on-chain data and constructs contract calls with an Infura API."
+msgstr "该应用从Infura API中获取链上数据并构建合约调用。"
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app fetches the optimal trade route from a BestDex Labs server."
+msgstr "该应用从BestDex Labs服务器获取最优交易路径。"
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app logs anonymized usage statistics in order to improve over time."
+msgstr "该应用记录匿名使用统计信息以便随时间改进。"
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app securely collects your wallet address and shares it with TRM Labs Inc. for risk and compliance reasons."
+msgstr "该应用安全地收集你的钱包地址，并出于风险和合规原因与 TRM Labs Inc. 分享。"
+
+#: src/components/CurrencyInputPanel/index.tsx
+msgid "The market price is outside your specified price range. Single-asset deposit only."
+msgstr "市场价格超出了你指定的价格范围。仅支持单资产存款。"
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "The price of this pool is outside of your selected range. Your position is not currently earning fees."
+msgstr "该资金池的价格超出了您选择的范围。你的头寸当前不会产生费用。"
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "The price of this pool is within your selected range. Your position is currently earning fees."
+msgstr "该资金池的价格在你选择的范围内。你的头寸当前正在产生费用。"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "The ratio of tokens you add will set the price of this pool."
+msgstr "你添加的代币比例将确定该资金池的价格。"
+
+#: src/components/LiquidityChartRangeInput/index.tsx
+msgid "There is no liquidity data."
+msgstr "没有流动性数据。"
+
+#: src/components/SearchModal/CommonBases.tsx
+msgid "These tokens are commonly paired with other tokens."
+msgstr "这些代币通常与其他代币配对使用。"
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "This app uses the following third-party APIs:"
+msgstr "该应用使用以下第三方 API:"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "This pool must be initialized before you can add liquidity. To initialize, select a starting price for the pool. Then, enter your liquidity price range and deposit amount. Gas fees will be higher than usual due to the initialization transaction."
+msgstr "在你添加流动性之前，必须初始化此资金池。要进行初始化，请为该池选择一个起始价格。然后，输入你的流动性价格范围和存款金额。由于初始化交易，gas费用将高于通常的费用。"
+
+#: src/components/swap/SwapRoute.tsx
+msgid "This route optimizes your price by considering split routes, multiple hops, and gas costs."
+msgstr "此路线通过考虑分裂路由、多跳和gas费用来优化你的价格。"
+
+#: src/components/SearchModal/ImportToken.tsx
+msgid "This token doesn't appear on the active token list(s). Make sure this is the token that you want to trade."
+msgstr "此代币未出现在活跃的代币列表中，请确保这是你想要交易的代币。"
+
+#: src/components/SearchModal/BlockedToken.tsx
+msgid "This token is not supported in the BestDex Labs app"
+msgstr "此代币不受 BestDex Labs 应用支持"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "This tool will safely migrate your {0} liquidity to V3. The process is completely trustless thanks to the"
+msgstr "此工具将安全地将您的 {0} 流动性迁移到 V3。"
+
+#: src/components/SearchModal/ManageTokens.tsx
+msgid "Tip: Custom tokens are stored locally in your browser"
+msgstr "提示：自定义代币存储在你的浏览器中"
+
+#: src/components/swap/SwapModalHeader.tsx
+#: src/pages/CreateProposal/ProposalActionDetail.tsx
+#: src/pages/CreateProposal/ProposalActionDetail.tsx
+#: src/pages/Swap/index.tsx
+msgid "To"
+msgstr "至"
+
+#: src/pages/Swap/index.tsx
+msgid "To (at least)"
+msgstr "至（至少）"
+
+#: src/components/NetworkAlert/NetworkAlert.tsx
+msgid "To start trading on {0}, first bridge your assets from L1 to L2. Please treat this as a beta release and learn about the risks before using {1}."
+msgstr "要开始在 {0} 上交易，首先将你的资产从 L1 桥接到 L2。请将其视为 beta 版本并在使用 {1} 之前了解风险。"
+
+#: src/components/SearchModal/BlockedToken.tsx
+msgid "Token not supported"
+msgstr "不支持该代币"
+
+#: src/components/SearchModal/Manage.tsx
+msgid "Tokens"
+msgstr "代币"
+
+#: src/components/SearchModal/CurrencyList.tsx
+msgid "Tokens from inactive lists. Import specific tokens below or click Manage to activate more lists."
+msgstr "来自不活跃列表的代币。在下面导入特定的代币或点击管理激活更多列表。"
+
+#: src/pages/Pool/CTACards.tsx
+msgid "Top pools"
+msgstr "顶级资金池"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "Total Supply"
+msgstr "总供应量"
+
+#: src/components/earn/PoolCard.tsx
+msgid "Total deposited"
+msgstr "总存款量"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Total deposits"
+msgstr "总存款"
+
+#: src/components/swap/RouterLabel.tsx
+msgid "Trade Route"
+msgstr "交易路线"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Transaction Details"
+msgstr "交易详情"
+
+#: src/components/Settings/index.tsx
+#: src/components/Settings/index.tsx
+msgid "Transaction Settings"
+msgstr "交易设置"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/StakingModal.tsx
+#: src/components/earn/UnstakingModal.tsx
+#: src/components/vote/DelegateModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "Transaction Submitted"
+msgstr "已提交交易"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Transaction completed in"
+msgstr "交易完成于"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Transaction deadline"
+msgstr "交易截止时间"
+
+#: src/hooks/useSwapCallback.tsx
+#: src/hooks/useSwapCallback.tsx
+msgid "Transaction rejected."
+msgstr "交易被拒绝。"
+
+#: src/pages/CreateProposal/ProposalActionSelector.tsx
+msgid "Transfer Token"
+msgstr "转移代币"
+
+#: src/components/WalletModal/PendingView.tsx
+msgid "Try Again"
+msgstr "重试"
+
+#: src/components/Settings/index.tsx
+msgid "Turn On Expert Mode"
+msgstr "开启专家模式"
+
+#: src/components/Popups/ClaimPopup.tsx
+msgid "UNI has arrived"
+msgstr "UNI已到账"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "UNI in circulation:"
+msgstr "流通中的UNI"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "UNI price:"
+msgstr "UNI价格:"
+
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/UnstakingModal.tsx
+msgid "Unclaimed UNI"
+msgstr "未领取的UNI"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Unclaimed fees"
+msgstr "未领取的费用"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "Unclaimed:"
+msgstr "未领取的:"
+
+#: src/pages/Vote/styled.tsx
+msgid "Undetermined"
+msgstr "待定"
+
+#: src/hooks/useSwapCallback.tsx
+msgid "Unexpected error. Could not estimate gas for the swap."
+msgstr "意外错误。无法估算交换的燃气费用。"
+
+#: src/hooks/useSwapCallback.tsx
+msgid "Unexpected issue with estimating the gas. Please try again."
+msgstr "估算gas费用时出现意外问题。请重试。"
+
+#: src/components/SearchModal/TokenImportCard.tsx
+msgid "Unknown Source"
+msgstr "未知来源"
+
+#: src/pages/Vote/Landing.tsx
+#: src/pages/Vote/VotePage.tsx
+msgid "Unlock Votes"
+msgstr "解锁投票"
+
+#: src/pages/Vote/Landing.tsx
+msgid "Unlock Voting"
+msgstr "解锁投票"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Unlocking Votes"
+msgstr "正在解锁投票"
+
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/Swap/index.tsx
+msgid "Unsupported Asset"
+msgstr "不支持的资产"
+
+#: src/components/swap/UnsupportedCurrencyFooter.tsx
+msgid "Unsupported Assets"
+msgstr "不支持的资产"
+
+#: src/state/governance/hooks.ts
+msgid "Untitled"
+msgstr "未命名"
+
+#: src/pages/Swap/index.tsx
+msgid "Unwrap"
+msgstr "解包"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Unwrap <0/> to ETH"
+msgstr "将 <0/> 解包为 ETH"
+
+#: src/pages/Vote/Landing.tsx
+msgid "Update Delegation"
+msgstr "更新委托"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Update list"
+msgstr "更新列表"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "User"
+msgstr "用户"
+
+#: src/components/swap/SwapRoute.tsx
+msgid "V2"
+msgstr "V2"
+
+#: src/pages/Pool/index.tsx
+msgid "V2 liquidity"
+msgstr "V2流动性"
+
+#: src/components/swap/SwapRoute.tsx
+msgid "V3"
+msgstr "V3"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "V3 {0} Price:"
+msgstr "V3 {0} 价格："
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "View UNI Analytics"
+msgstr "查看UNI分析"
+
+#: src/pages/Pool/index.tsx
+msgid "View V2 Liquidity"
+msgstr "查看 V2 流动性"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "View list"
+msgstr "查看列表"
+
+#: src/pages/CreateProposal/ProposalSubmissionModal.tsx
+msgid "View on Etherscan"
+msgstr "在 Etherscan 上查看"
+
+#: src/components/AccountDetails/index.tsx
+#: src/components/AccountDetails/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "View on Explorer"
+msgstr "在浏览器上查看"
+
+#: src/components/ModalViews/index.tsx
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "View transaction on Explorer"
+msgstr "在浏览器上查看交易"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Vote Against"
+msgstr "反对投票"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Vote For"
+msgstr "支持投票"
+
+#: src/components/vote/VoteModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "Vote against proposal {proposalId}"
+msgstr "反对提案 {proposalId} 的投票"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote against proposal {proposalKey}"
+msgstr "反对提案 {proposalKey} 的投票"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote against proposal {proposalKey} with reason \"{0}\""
+msgstr "反对提案 {proposalKey} 并说明理由“{0}”"
+
+#: src/components/vote/VoteModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "Vote for proposal {proposalId}"
+msgstr "支持提案 {proposalId} 的投票"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote for proposal {proposalKey}"
+msgstr "支持提案 {proposalKey} 的投票"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote for proposal {proposalKey} with reason \"{0}\""
+msgstr "支持提案 {proposalKey} 并说明理由“{0}”"
+
+#: src/components/vote/VoteModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "Vote to abstain on proposal {proposalId}"
+msgstr "对提案 {proposalId} 弃权的投票"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote to abstain on proposal {proposalKey}"
+msgstr "对提案 {proposalKey} 弃权的投票"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote to abstain on proposal {proposalKey} with reason \"{0}\""
+msgstr "对提案 {proposalKey} 弃权并说明理由“{0}”"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Voting ended {0}"
+msgstr "投票结束 {0}"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Voting ends approximately {0}"
+msgstr "投票将于大约 {0} 结束"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Voting starts approximately {0}"
+msgstr "投票将于大约 {0} 开始"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Waiting For Confirmation"
+msgstr "等待确认"
+
+#: src/components/AddressInputPanel/index.tsx
+msgid "Wallet Address or ENS name"
+msgstr "钱包地址或 ENS 名称"
+
+#: src/components/earn/StakingModal.tsx
+msgid "Weekly Rewards"
+msgstr "每周奖励"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "Welcome to team Unicorn :)"
+msgstr "欢迎加入Unicorn团队 :)"
+
+#: src/components/earn/ClaimRewardModal.tsx
+msgid "When you claim without withdrawing your liquidity remains in the mining pool."
+msgstr "当你领取奖励而不是提取时，你的流动性仍然留在挖矿池中。"
+
+#: src/pages/Earn/Manage.tsx
+msgid "When you withdraw, the contract will automagically claim UNI on your behalf!"
+msgstr "当不提取时，合约将自动代表您领取 UNI 奖励！"
+
+#: src/components/earn/UnstakingModal.tsx
+msgid "When you withdraw, your UNI is claimed and your liquidity is removed from the mining pool."
+msgstr "当你提取时，你的UNI会被领取，你的流动性会从挖矿池中移除。"
+
+#: src/components/earn/UnstakingModal.tsx
+#: src/pages/Earn/Manage.tsx
+msgid "Withdraw"
+msgstr "提取"
+
+#: src/components/earn/UnstakingModal.tsx
+msgid "Withdraw & Claim"
+msgstr "提取并领取奖励"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Withdraw deposited liquidity"
+msgstr "提取已存入的流动性"
+
+#: src/components/earn/UnstakingModal.tsx
+msgid "Withdrawing {0} BD LP"
+msgstr "提取{0} BD LP"
+
+#: src/components/earn/UnstakingModal.tsx
+msgid "Withdrew BD LP!"
+msgstr "已提取BD LP！"
+
+#: src/pages/Swap/index.tsx
+msgid "Wrap"
+msgstr "封装"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Wrap <0/> to WETH"
+msgstr "将<0/>封装成WETH"
+
+#: src/components/WalletModal/index.tsx
+#: src/components/Web3Status/index.tsx
+msgid "Wrong Network"
+msgstr "错误的网络"
+
+#: src/pages/CreateProposal/index.tsx
+msgid "You already have an active or pending proposal"
+msgstr "你已经有一个活动或待处理的提案"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "You are creating a pool"
+msgstr "你正在创建一个池"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "You are the first liquidity provider for this BestDex V3 pool. Your liquidity will migrate at the current {0} price."
+msgstr "你是此BestDex V3池的第一个流动性提供者。你的流动性将以当前的{0}价格迁移。"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "You are the first liquidity provider."
+msgstr "你是第一个提供流动性的人。"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "You can either vote on each proposal yourself or delegate your votes to a third party."
+msgstr "你可以自己投票每个提案，或将你的投票委托给第三方。"
+
+#: src/pages/Swap/index.tsx
+msgid "You can now trade {0}"
+msgstr "你现在可以交易{0}"
+
+#: src/pages/CreateProposal/index.tsx
+msgid "You don't have enough votes to submit a proposal"
+msgstr "你没有足够的票数提交提案"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "You don’t have liquidity in this pool yet."
+msgstr "你在此池中尚无流动性。"
+
+#: src/components/Header/ChainConnectivityWarning.tsx
+msgid "You may have lost your network connection, or {label} might be down right now."
+msgstr "你可能失去了网络连接，或{标签}可能暂时关闭。"
+
+#: src/components/Header/ChainConnectivityWarning.tsx
+msgid "You may have lost your network connection."
+msgstr "你可能失去了网络连接。"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "You must connect an account."
+msgstr "你必须连接一个账户。"
+
+#: src/pages/Swap/index.tsx
+msgid "You must give the BestDex smart contracts permission to use your {0}. You only have to do this once per token."
+msgstr "你必须给BestDex智能合约授权使用你的{0}。你只需要每个代币授权一次。"
+
+#: src/pages/CreateProposal/index.tsx
+msgid "You must have {formattedProposalThreshold} votes to submit a proposal"
+msgstr "你必须拥有{formattedProposalThreshold}票才能提交提案"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "You should only deposit liquidity into BestDex V3 at a price you believe is correct. <0/>If the price seems incorrect, you can either make a swap to move the price or wait for someone else to do so."
+msgstr "你应该只在你认为正确的价格下将流动性存入BestDex V3。如果价格似乎不正确，你可以进行交换以移动价格，或者等待其他人这样做。"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "You will also collect fees earned from this position."
+msgstr "你还将收取此仓位赚取的费用。"
+
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "You will receive"
+msgstr "你将收到"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "Your UNI Breakdown"
+msgstr "你的UNI细目"
+
+#: src/pages/Pool/index.tsx
+msgid "Your V3 liquidity positions will appear here."
+msgstr "你的V3流动性仓位将在此处显示。"
+
+#: src/pages/Pool/v2.tsx
+msgid "Your liquidity"
+msgstr "你的流动性"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Your liquidity deposits"
+msgstr "你的流动性存款"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+#: src/components/PositionCard/index.tsx
+msgid "Your pool share:"
+msgstr "你的池份额："
+
+#: src/components/PositionCard/index.tsx
+msgid "Your position"
+msgstr "你的仓位"
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "Your position has 0 liquidity, and is not earning fees."
+msgstr "你的仓位没有流动性，并且不会赚取费用。"
+
+#: src/components/LiquidityChartRangeInput/index.tsx
+#: src/components/LiquidityChartRangeInput/index.tsx
+msgid "Your position will appear here."
+msgstr "你的仓位将在此处显示。"
+
+#: src/components/PositionPreview/index.tsx
+#: src/components/PositionPreview/index.tsx
+msgid "Your position will be 100% composed of {0} at this price"
+msgstr "你的仓位将以此价格为基础，100％由{0}组成"
+
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "Your position will be 100% {0} at this price."
+msgstr "你的仓位将以此价格为基础，100％由{0}组成。"
+
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Your position will not earn fees or be used in trades until the market price moves into your range."
+msgstr "你的仓位将在市场价格进入你的范围之前，不会赚取费用或用于交易。"
+
+#: src/components/PositionList/index.tsx
+#: src/components/PositionList/index.tsx
+msgid "Your positions"
+msgstr "你的仓位"
+
+#: src/components/earn/PoolCard.tsx
+msgid "Your rate"
+msgstr "你的利率"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+msgid "Your total pool tokens:"
+msgstr "你的总池代币："
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Your transaction cost will be much higher as it includes the gas to create the pool."
+msgstr "由于包括创建池所需的燃料费用，因此你的交易成本将更高。"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Your transaction may be frontrun"
+msgstr "你的交易可能被前置交易抢先"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Your transaction may fail"
+msgstr "你的交易可能会失败"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Your transaction will revert if it is pending for more than this period of time."
+msgstr "如果你的交易挂起的时间超过此时间段，你的交易将恢复。"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Your transaction will revert if the price changes unfavorably by more than this percentage."
+msgstr "如果价格不利变化超过此百分比，你的交易将恢复原状。"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Your transactions will appear here..."
+msgstr "你的交易将在此处显示..."
+
+#: src/pages/Earn/Manage.tsx
+msgid "Your unclaimed UNI"
+msgstr "你尚未领取的UNI"
+
+#: src/components/AccountDetails/index.tsx
+msgid "clear all"
+msgstr "全部清除"
+
+#: src/components/Settings/index.tsx
+msgid "confirm"
+msgstr "确认"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "for {0}"
+msgstr "对于{0}"
+
+#: src/components/Web3Status/index.tsx
+msgid "has socks emoji"
+msgstr "有袜子表情符号"
+
+#: src/components/Header/ChainConnectivityWarning.tsx
+#: src/components/WalletModal/index.tsx
+msgid "here."
+msgstr "在此处。"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "https:// or ipfs:// or ENS name"
+msgstr "https://或ipfs://或ENS名称"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "minutes"
+msgstr "分钟"
+
+#: src/components/SearchModal/ImportRow.tsx
+msgid "via {0}"
+msgstr "通过{0}"
+
+#: src/components/SearchModal/TokenImportCard.tsx
+msgid "via {0} token list"
+msgstr "通过{0}代币列表"
+
+#: src/components/SearchModal/ImportToken.tsx
+msgid "{0, plural, one {Import token} other {Import tokens}}"
+msgstr "{0, plural, one {Import token} other {Import tokens}}"
+
+#: src/components/RateToggle/index.tsx
+#: src/components/RateToggle/index.tsx
+#: src/hooks/useSwapCallback.tsx
+#: src/hooks/useSwapCallback.tsx
+msgid "{0}"
+msgstr "{0}"
+
+#: src/components/PositionCard/index.tsx
+#: src/pages/Vote/VotePage.tsx
+#: src/pages/Vote/VotePage.tsx
+msgid "{0} %"
+msgstr "{0} %"
+
+#: src/components/PositionListItem/index.tsx
+#: src/components/PositionListItem/index.tsx
+msgid "{0} <0/> per <1/>"
+msgstr "{0} <0/> 每个  <1/>"
+
+#: src/components/earn/StakingModal.tsx
+msgid "{0} BD LP"
+msgstr "{0} BD LP"
+
+#: src/pages/Earn/Manage.tsx
+msgid "{0} BD LP LP tokens available"
+msgstr "{0} BD LP LP代币可用"
+
+#: src/components/SearchModal/ManageTokens.tsx
+msgid "{0} Custom Tokens"
+msgstr "{0} 自定义代币"
+
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+msgid "{0} Deposited"
+msgstr "{0} 已存入"
+
+#: src/components/earn/PoolCard.tsx
+msgid "{0} ETH"
+msgstr "{0} ETH"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "{0} Fees Earned:"
+msgstr "{0}已赚取的费用："
+
+#: src/components/Web3Status/index.tsx
+msgid "{0} Pending"
+msgstr "{0}待处理的"
+
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+msgid "{0} UNI"
+msgstr "{0} UNI代币"
+
+#: src/components/earn/PoolCard.tsx
+#: src/components/earn/PoolCard.tsx
+#: src/components/earn/StakingModal.tsx
+#: src/pages/Earn/Manage.tsx
+#: src/pages/Earn/Manage.tsx
+msgid "{0} UNI / week"
+msgstr "{0} UNI/每周"
+
+#: src/components/vote/VoteModal.tsx
+msgid "{0} Votes"
+msgstr "{0} 票"
+
+#: src/components/PositionPreview/index.tsx
+#: src/components/PositionPreview/index.tsx
+#: src/components/PositionPreview/index.tsx
+#: src/pages/AddLiquidityV2/PoolPriceBar.tsx
+#: src/pages/AddLiquidityV2/PoolPriceBar.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "{0} per {1}"
+msgstr "{0} 每 {1}"
+
+#: src/components/SearchModal/ImportList.tsx
+#: src/components/SearchModal/ManageLists.tsx
+msgid "{0} tokens"
+msgstr "{0} 代币"
+
+#: src/components/Header/index.tsx
+#: src/components/Web3Status/index.tsx
+msgid "{0} {1}"
+msgstr "{0} {1}"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "{0} {1} Price:"
+msgstr "{0} {1}价格："
+
+#: src/components/SearchModal/CurrencyList.tsx
+msgid "{0} • Added by user"
+msgstr "{0} • 用户添加的"
+
+#: src/components/CurrencyInputPanel/FiatValue.tsx
+#: src/components/FeeSelector/FeeOption.tsx
+#: src/components/PositionListItem/index.tsx
+#: src/components/PositionPreview/index.tsx
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "{0}%"
+msgstr "{0}%"
+
+#: src/components/FeeSelector/index.tsx
+msgid "{0}% fee tier"
+msgstr "{0}%费率层级"
+
+#: src/components/FeeSelector/FeeTierPercentageBadge.tsx
+msgid "{0}% select"
+msgstr "{0}％ 选择"
+
+#: src/pages/Earn/Manage.tsx
+msgid "{0}-{1} Liquidity Mining"
+msgstr "{0}-{1} 流动性挖矿"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "{0}/{1} LP NFT"
+msgstr "{0}/{1} LP NFT"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "{0}/{1} LP Tokens"
+msgstr "{0}/{1} LP代币"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "{SOCKS_AMOUNT} UNI"
+msgstr "{SOCKS_AMOUNT} UNI"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "{USER_AMOUNT} UNI"
+msgstr "{USER_AMOUNT} UNI"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "{activeTokensOnThisChain} tokens"
+msgstr "{activeTokensOnThisChain} 代币"
+
+#: src/pages/Home/ContentImageSection.tsx
+msgid "{heading}"
+msgstr "{heading}"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "{percentForSlider}%"
+msgstr "{percentForSlider}%"
+
+#: src/components/InputStepCounter/InputStepCounter.tsx
+msgid "{tokenB} per {tokenA}"
+msgstr "每{代币A}为{代币B}"
+
+#: src/components/CurrencyInputPanel/FiatValue.tsx
+msgid "~$ <0/>"
+msgstr "~$ <0/>"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "← Back to Pools Overview"
+msgstr "← 返回池总览"
+
+#: 
+msgid "Questions"
+msgstr "问题"
+
+#: 
+msgid "Best Wallet is a fully decentralised crypto wallet aiming to address the concerns present in traditional custody solutions regarding security, privacy, and control over assets. We’re empowering users to manage their own digital assets from their own phone or computer with minimal reliance on centralized authorities."
+msgstr "Best Wallet是一个完全去中心化的加密钱包，旨在解决传统托管解决方案中存在的有关资产安全、隐私和控制的问题。我们正在赋予用户管理自己的数字资产的权力，他们可以从自己的手机或电脑上进行管理，而对中心化机构的依赖最小。"
+
+#: 
+msgid "The smartest way to manage your digital assets."
+msgstr "管理数字资产的最明智的方式。"
+
+#: 
+msgid "LEARN MORE"
+msgstr "了解更多信息"
+
+#: 
+msgid "INTRODUCING"
+msgstr "介绍"
+
+#: 
+msgid "Market Insights"
+msgstr "市场洞察"
+
+#: 
+msgid "Participate in the BEST airdrop"
+msgstr "参与BEST空投"
+
+#: 
+msgid "We’re rewarding all our early adopters with an airdrop of 10% of the total supply of BEST tokens."
+msgstr "我们将向所有早期采用者奖励10％的BEST代币总供应量的空投。"
+
+#: 
+msgid "How to get started"
+msgstr "如何入门"
+
+#: 
+msgid "Download the Best Wallet app"
+msgstr "下载Best Wallet应用程序"
+
+#: 
+msgid "Availiable on\n"
+""
+msgstr "可用于"
+
+#: 
+msgid "Get it on"
+msgstr "获取应用"
+
+#: 
+msgid "Create a wallet"
+msgstr "创建钱包"
+
+#: 
+msgid "Make sure you complete all the steps below to ensure we can track your activities towards the Best Wallet airdrop"
+msgstr "请确保完成以下所有步骤，以确保我们能够跟踪你对Best Wallet空投的活动。"
+
+#: 
+msgid "Download Our App"
+msgstr "下载我们应用程式"
+
+#: 
+msgid "Engage On Our Platform"
+msgstr "在我们的平台上参与"
+
+#: 
+msgid "Visit Our Website"
+msgstr "访问我们的网站"
+
+#: 
+msgid "Join @BestWallet_Official on Telegram"
+msgstr "加入电报群 @BestWallet_Official"
+
+#: 
+msgid "Join Our Discord Server"
+msgstr "加入我们的Discord服务器"
+
+#: 
+msgid "Follow @BestWallet__ on Twitter"
+msgstr "关注Twitter账号 @BestWallet__"
+
+#: 
+msgid "Visit @bestwalletofficial on Instagram"
+msgstr "访问Instagram账号 @bestwalletofficial"
+
+#: 
+msgid "How you earn points"
+msgstr "如何赚取积分"
+
+#: 
+msgid "Use the Best Wallet App and DEX"
+msgstr "使用Best Wallet应用程序和DEX"
+
+#: 
+msgid "Store your tokens and make transactions"
+msgstr "存储代币并进行交易"
+
+#: 
+msgid "Engage with our Socials and spread the word"
+msgstr "参与社交媒体并传播信息"
+
+#: 
+msgid "Cryptocurrency may be unregulated in your jurisdiction. The value of cryptocurrencies may go down as well as up. Profits may be subject to capital gains or other taxes applicable in your jurisdiction.\n"
+""
+msgstr "在你所在的司法管辖区，加密货币可能没有受到监管。加密货币的价值可能会上涨也可能会下跌。利润可能会受到你所在司法管辖区适用的资本收益税或其他税收的影响。"
+
+#: 
+msgid "What is a Crypto Airdrop?"
+msgstr "什么是加密货币空投？"
+
+#: 
+msgid "An Airdrop is when a token is sent to a specific group of crypto wallet addresses. Sometimes this is a marketing strategy by crypto projects to introduce their token to new audiences. In our case, the BEST Token Airdrop rewards early adopters, power users, and brand advocates of Best Wallet and Best DEX with a portion of the total token supply as a way to thank them for their engagement within the Best Ecosystem."
+msgstr "空投是指将代币发送到特定一组加密货币钱包地址的行为。有时，这是加密项目向新观众介绍其代币的营销策略。在我们的情况下，BEST代币的空投将以此方式回馈早期采用者、活跃用户和Best钱包以及Best DEX的品牌倡导者，他们将获得部分总代币供应量，以感谢他们在Best生态系统中的参与。"
+
+#: 
+msgid "How can I participate in the BEST Token Airdrop?"
+msgstr "我如何参与BEST代币空投？"
+
+#: 
+msgid "To participate in the BEST Token Airdrop, you need to follow these steps:"
+msgstr "要参与BEST代币空投，你需要遵循以下步骤："
+
+#: 
+msgid "a. Download the Best Wallet app and create a wallet."
+msgstr "a. 下载最佳钱包应用程序并创建钱包。"
+
+#: 
+msgid "b. Visit the Airdrop page on our website."
+msgstr "b. 访问我们网站上的空投页面。"
+
+#: 
+msgid "c. Provide your wallet address, email address, Twitter handle, and Discord username and follow our socials"
+msgstr "c. 提供你的钱包地址、电子邮件地址、Twitter账号和Discord用户名，并关注我们的社交媒体。"
+
+#: 
+msgid "d. Engage actively within the Best Ecosystem to earn points."
+msgstr "d. 积极参与Best生态系统以赚取积分。"
+
+#: 
+msgid "How do I earn points during the Airdrop?"
+msgstr "我如何在空投期间赚取积分？"
+
+#: 
+msgid "During Phase 1-6 of our product launch, points are earned in three ways."
+msgstr "在我们的产品推出的1-6阶段期间，可以通过以下三种方式赚取积分。"
+
+#: 
+msgid "a. Engaging with our socials and spreading the word about Best Web3."
+msgstr "a. 参与我们的社交媒体并宣传Best Web3。"
+
+#: 
+msgid "b. Using Best Wallet."
+msgstr "b. 使用最佳钱包。"
+
+#: 
+msgid "c. Using Best DEX."
+msgstr "c. 使用Best DEX。"
+
+#: 
+msgid "What are the benefits of holding BEST tokens?"
+msgstr "持有BEST代币有哪些好处？"
+
+#: 
+msgid "Holding BEST tokens will bring several exclusive benefits within the Best Ecosystem, including:"
+msgstr "持有BEST代币将为Best生态系统带来几个独特的好处，包括："
+
+#: 
+msgid "a. No gas fees on transactions."
+msgstr "a. 交易无需支付gas费。"
+
+#: 
+msgid "b. Governance voting on Best Dex."
+msgstr "b. 在Best DEX上进行治理投票。"
+
+#: 
+msgid "c. Early access to token launches."
+msgstr "c. 早期参与代币发行。"
+
+#: 
+msgid "d. Participation in exclusive NFT and token drops."
+msgstr "d. 参与独家的NFT和代币发放。"
+
+#: 
+msgid "We will announce more benefits and utility closer to the airdrop date."
+msgstr "我们将在空投日期临近时宣布更多的好处和实用性。"
+
+#: 
+msgid "When will the Airdrop happen?"
+msgstr "空投何时进行？"
+
+#: 
+msgid "The airdrop ends at the end of phase 6 of our Best Wallet launch. The specific date and time of the Airdrop will be announced on our official website and social media channels. Stay tuned for updates to ensure you don't miss out on this opportunity!"
+msgstr "空投将在Best Wallet推出的1-6阶段结束时进行。具体的空投日期和时间将在我们的官方网站和社交媒体渠道上公布。请保持关注，以确保您不会错过这个机会！"
+
+#: 
+msgid "How will the Airdrop rewards be distributed?"
+msgstr "空投奖励将如何分配？"
+
+#: 
+msgid "10% of the total supply of the BEST token has been allocated to the airdrop. Participants will earn a share of the token pool proportionate to the points they have used throughout phases 1-6 of the Best Wallet launch. The Airdrop rewards will be distributed directly to the wallet addresses provided during the registration process. Please ensure the accuracy of the wallet address to receive your tokens smoothly."
+msgstr "10％的BEST代币总供应量已分配给空投。参与者将根据他们在Best Wallet推出的1-6阶段期间所获取的积分比例分享代币池的一部分。空投奖励将直接分配到注册过程中提供的钱包地址。请确保钱包地址的准确性，以确保您能顺利收到代币。"
+
+#: 
+msgid "Is there a limited number of participants for the Airdrop?"
+msgstr "空投的参与人数是否有限制？"
+
+#: 
+msgid "Participation is open to all."
+msgstr "参与者不限。"
+
+#: 
+msgid "Can I register multiple times for the Airdrop?"
+msgstr "我可以多次注册空投吗？"
+
+#: 
+msgid "No, each participant is allowed to register only once for the Airdrop. Multiple registrations may lead to disqualification."
+msgstr "不行，每个参与者只允许注册一次空投。多次注册可能会导致被取消资格。"
+
+#: 
+msgid "How will you prevent fraudulent activity during the Airdrop?"
+msgstr "你将如何防止空投期间的欺诈活动？"
+
+#: 
+msgid "We have implemented various security measures to detect and prevent fraudulent activities. Any attempts at gaming the system or engaging in suspicious activities will lead to immediate disqualification from the Airdrop."
+msgstr "我们已经实施了各种安全措施来检测和防止欺诈活动。任何试图操纵系统或参与可疑活动的行为都将导致立即被取消空投资格。"
+
+#: 
+msgid "How can I stay updated about the Airdrop and the project's progress?"
+msgstr "我该如何了解空投和项目进展的最新情况？"
+
+#: 
+msgid "To stay informed about the Airdrop, project updates, and important announcements, make sure to follow our official social media channels and regularly check our website. We will keep the community informed about any developments related to the BEST Token Airdrop."
+msgstr "要了解空投、项目更新和重要公告的信息，请确保关注我们的官方社交媒体渠道，并定期查看我们的网站。我们将向社区通报与BEST代币空投相关的任何进展。"
+
+#: 
+msgid "Best DEX is built as the sister app to Best Wallet, our flagship <0>non-custodial crypto wallet</0>. Best DEX can be accessed from within Best Wallet for an easy trading experience all within a single app. No more need to use several different wallets and DEXs to manage your crypto portfolio."
+msgstr "Best DEX作为我们旗舰产品非托管加密货币钱包的姊妹应用程序而建立，被认为是最佳的去中心化交易所（DEX）。从非托管加密货币钱包内部可以访问Best DEX，实现在单个应用程序中便捷地进行交易体验。不再需要使用多个不同的钱包和DEX来管理您的加密货币投资组合。"
+
+#: 
+msgid "Best DEX does not require KYC verification to start trading. We prioritise user privacy and aim to provide a hassle-free onboarding experience. Simply connect your wallet and you’re ready to go."
+msgstr "Best DEX在开始交易时不需要进行KYC验证。我们优先考虑用户的隐私，并旨在提供无需繁琐步骤的注册体验。只需连接您的钱包，你就可以开始交易了。"
+
+#: 
+msgid "Follow our socials and join our community hubs <0>here</0>"
+msgstr "请关注我们的社交媒体并加入我们的社区中心<0>在此处</0>"
+
+#: 
+msgid "We are launching the BEST token at the end of Phase 6 of our roadmap and will reward our early adopters and power users with 10% of our total supply based on the points they have accumulated from using our app and spreading the word on socials."
+msgstr "我们将在路线图的第6阶段末推出BEST代币，并根据用户在我们的应用程序上积累的积分以及在社交媒体上传播信息的情况，奖励我们的早期采用者和活跃用户总供应量的10%。"
+
+#: 
+msgid "In the near future, Best DEX will be available as a decentralised application (dApp) within Best Wallet, offering an even more integrated and user-friendly trading experience."
+msgstr "在不久的将来，Best DEX将作为一个去中心化应用程序（dApp）在Best 钱包内提供，为用户提供更加集成和用户友好的交易体验。"
+
+#: 
+msgid "Simply visit the Best DEX platform through your mobile web browser to start trading cryptocurrencies on the go."
+msgstr "只需通过你的移动Web浏览器访问Best DEX平台，即可随时随地开始交易加密货币。"
+
+#: 
+msgid "Best Wallet is the fully non-custodial crypto wallet at the heart of the Best Web3 Ecosystem. Buy, store, send, and receive Bitcoin and many other cryptocurrencies safely and securely with the Best Wallet app."
+msgstr "Best钱包是Best Web3生态系统的完全非托管加密货币钱包的核心。通过Best钱包应用程序，您可以安全地购买、存储、发送和接收比特币和许多其他加密货币。"
+
+#: 
+msgid "Portfolio Management and Token Analytics give users everything they need to get in early on the hottest token launches, make the right trades at the right times, and maximise profits."
+msgstr "投资组合管理和代币分析为用户提供了一切所需，让他们能够及早参与最热门的代币发行，选择适时的交易，并最大化利润。"
+
+#: 
+msgid "Create a wallet in the BEST Wallet"
+msgstr "在BEST钱包中创建一个钱包。"
+
+#: 
+msgid "Make sure you complete all the steps below to ensure we can track your activities towards the BEST airdrop"
+msgstr "请确保完成以下所有步骤，以确保我们能够追踪你参与BEST空投的活动："
+
+#: 
+msgid "Download the Best Wallet app and create a wallet."
+msgstr "下载Best钱包应用程序并创建一个钱包。"
+
+#: 
+msgid "2023 Best Web3. All Right Reserved."
+msgstr "2023 Best Web3. 版權所有。"
+
+#: 
+msgid "Get Featured on Best DEX"
+msgstr "在Best DEX上获得特色展示"
+
+#: 
+msgid "Partner with the Best"
+msgstr "与Best合作伙伴"
+
+#: 
+msgid "Become a partner and let us showcase your project to the world. Reach thousands of highly engaged global Best Wallet crypto holders."
+msgstr "成为合作伙伴，让我们向全世界展示你的项目。吸引成千上万高度参与的全球Best钱包加密货币持有者。"
+
+#: 
+msgid "Best Audience"
+msgstr "最佳受众"
+
+#: 
+msgid "News Coverage"
+msgstr "新闻报道"
+
+#: 
+msgid "Featured on Best DEX"
+msgstr "在Best DEX上特色展示"
+
+#: 
+msgid "You have a following and you’re trending in all the right ways. Best Wallet will showcase your achievements and potential to thousands more engaged crypto holders."
+msgstr "你有着庞大的追随者群体，并且在所有正确的方向上都有着良好的发展趋势。Best钱包将向成千上万更多参与度高的加密货币持有者展示你的成就和潜力。"
+
+#: 
+msgid "Your project will be picked up by high-ranking crypto news sites with a combined traffic of over 20 million monthly visitors."
+msgstr "你的项目将被高排名的加密货币新闻网站报道，其月访问量总计超过2000万人次。"
+
+#: 
+msgid "Be a part of the Best Ecosystem. We’ll list your token on Best DEX and support it with exposure and user incentives."
+msgstr "成为Best生态系统的一部分。我们将在Best DEX上列出您的代币，并通过曝光和用户激励来支持它。"
+
+#: 
+msgid "Showcase Application"
+msgstr "展示应用程序"
+
+#: 
+msgid "First Name"
+msgstr "名字"
+
+#: 
+msgid "Last Name"
+msgstr "姓氏"
+
+#: 
+msgid "Your work Email"
+msgstr "你的工作电邮"
+
+#: 
+msgid "Provide a link to your website"
+msgstr "请提供你网站的链接"
+
+#: 
+msgid "URL"
+msgstr "网址"
+
+#: 
+msgid "More Information"
+msgstr "更多资料"
+
+#: 
+msgid "Tell us about your project"
+msgstr "告诉我们关于你的计划"
+
+#: 
+msgid "I confirm I have read agree to the <0>Privacy Policy</0>."
+msgstr "我确认我已阅读并同意<0>隐私政策</0>。"
+
+#: 
+msgctxt "Shown on a button for applying to be a partner in BESTDex"
+msgid "Apply"
+msgstr "申请"
+
+#: 
+msgid "Trade"
+msgstr "交易"
+
+#: 
+msgid "Features"
+msgstr "功能"
+
+#: 
+msgid "Best DEX is a decentralised exchange designed to seamlessly integrate with Best Wallet, our non-custodial crypto wallet . It allows you to trade cryptocurrencies securely and efficiently while maintaining full control of your funds and digital assets."
+msgstr "最佳去中心化交易所（DEX）是一个旨在与我们的非保管加密货币钱包「最佳钱包」无缝集成的去中心化交易所。它能让你安全高效地交易加密货币，同时完全掌握资金和数位资产的控制权。"
+
+#: 
+msgid "What are the benefits of Best DEX?"
+msgstr "Best DEX有哪些好处？"
+

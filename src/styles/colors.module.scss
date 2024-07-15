@@ -1,0 +1,75 @@
+// <--------------------------------------------black
+// Primary Colors
+$color-launchpad-ocean: #5a63ff;
+$color-launchpad-orange: #e6e6e6;
+$color-disabled-button-color: #1c2e44;
+$color-disabled-mid-button-color: #878787;
+$color-default-button-color: #757dff;
+$color-hover-button-color: #5a63ff;
+$color-disabled-button-color-updated: #c8cbff;
+
+// <--------------------------------------------
+// UI Colors
+$color-ui-black: #5a63ff;
+$color-ui-dark-black: #414bff;
+$color-ui-black-opaque: rgba(0, 0, 0, 0.35);
+$color-font-grey: #555555;
+$color-ui-dark-grey: #404040;
+$color-ui-mid-grey: #a7a7a7; //#c7ced3;
+$color-ui-light-grey: #e3edf0;
+$color-ui-pale-grey: #e6e6e6; //#f4f7f9;
+$color-ui-white: #ffffff;
+$color-ui-white-opaque: rgba(255, 255, 255, 0.15);
+$color-ui-modal-opaque: rgba(24, 43, 72, 0.35);
+$color-ui-mid-blue: #5090ea;
+$color-ui-faint-grey: #bfc1c7;
+
+// <--------------------------------------------
+// Notification Colors
+$color-notification-blue: #3ca4de;
+$color-notification-blue-light: #e2f1fa;
+$color-notification-red: #D92D20;
+$color-notification-red-light: #fce2dc;
+$color-notification-green: #33b047;
+$color-notification-green-light: #e4f1e9;
+
+// <--------------------------------------------
+// Secondary Colors
+$color-secondary-blood: #ff1763;
+$color-secondary-blood-opaque: #d20026bf;
+$color-secondary-orange: #ff7c0a;
+$color-secondary-orange-opaque: #ff7c0abf;
+$color-secondary-dusk: #22447a;
+$color-secondary-dusk-opaque: #22447abf;
+$color-secondary-ocean: #0c5d9e;
+$color-secondary-ocean-opaque: #0c5d9ebf;
+$color-secondary-aqua: #3980b9;
+$color-secondary-aqua-opaque: #3980b9bf;
+
+// <--------------------------------------------
+// Image Fill Colors
+$color-apollo-soyuz: #22437a;
+$color-mission-control: #22447a;
+$color-crew: #22447a;
+$color-russia-n1: #d20026;
+$color-luna-lander: #7fab98;
+
+// <--------------------------------------------
+// Social Colors
+$color-social-facebook: #1877f2;
+$color-social-twitter: #1da1f2;
+$color-social-youtube: #bd081c;
+$color-social-instagram: #c32aa3;
+$color-social-linkedin: #0a66c2;
+
+// <--------------------------------------------
+// Gradients
+$gradient-white-pale-grey: linear-gradient(180deg, #ffffff 0%, #f4f7f9 50.12%);
+$gradient-white-light-grey: linear-gradient(180deg, #ffffff 0%, #d9dfe3 100%);
+$gradient-pale-grey-light-grey: linear-gradient(180deg, #f4f7f9 0%, #d9dfe3 100%);
+$gradient-black: linear-gradient(180deg, rgba(0, 0, 0, 0) 35.42%, rgba(0, 0, 0, 0.5) 100%);
+$gradient-overlay: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.75) 100%);
+
+// <--------------------------------------------
+// Link Colors
+$color-footer-link: #727b83;

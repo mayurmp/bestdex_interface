@@ -1,0 +1,2960 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Best DEX Website\n"
+"Language: hu\n"
+
+#. Please don't change the name of the application
+#: src/pages/Home/index.tsx
+msgid "Buy and Sell Instantly on"
+msgstr "Eladás és vásárlás azonnal"
+
+#: src/pages/Home/index.tsx
+msgid "Recommended By"
+msgstr "Ezeknek az oldalaknak az ajánlásával"
+
+#: src/pages/Home/index.tsx
+msgid "Trade any token on Ethereum or BNB Smart Chain in seconds, just by connecting your wallet."
+msgstr "Kereskedj bármely tokennel Ethereum vagy BNB Smart Chain láncon másodpercek alatt, a tárcád csatlakoztatásával."
+
+#: /app/modules/views
+msgid "No registration needed. Thousands of tokens to trade at your fingertips."
+msgstr "Nem szükséges regisztráció. Kereskedj tokenek ezreivel pillanatok alatt."
+
+#: src/pages/Home/index.tsx
+#: src/pages/Home/index.tsx
+msgid "Trade Now"
+msgstr "Kereskedj most"
+
+#: src/pages/Home/index.tsx
+msgid "Decentralised Exchange"
+msgstr "Decentralizált tőzsde"
+
+#: src/pages/Home/index.tsx
+msgid "Trade anything. No registration. No hassle."
+msgstr "Kereskedj bármivel. Nincs regisztráció. Semmi macera."
+
+#: src/pages/Home/index.tsx
+msgid "Best DEX will have all the tools you need to navigate around crypto trading including real-time market updates and advanced charting via Trading View."
+msgstr "A Best DEX minden eszközzel rendelkezni fog ami a sikeres kereskedésekhez elengedhetetlen, beleértve a valós piaci adatokat és a fejlett diagramokat Trading View-n keresztül."
+
+#: /app/modules/views
+msgid "We were unable to sign you up.\n"
+"Please correct the marked fields."
+msgstr "A feliratkozás sikertelen volt. Módosíts a megjelölt mezők tartalmán."
+
+#: /app/modules/views
+msgid "From trending tokens to token security, Best Dex token analytics provides traders with in-depth, real-time data to execute the right trades."
+msgstr "A felkapott tokenektől egészen a token értékpapírokig, a Best DEX elemzésével részletes, valós idejű adatokkal végezheted el a legjobb kereskedéseket."
+
+#: src/components/WalletModal/index.tsx
+msgid "Coming Soon"
+msgstr "Hamarosan"
+
+#: /app/modules/views
+msgid "Token Analytics"
+msgstr "Token elemzés"
+
+#: 
+msgid "Token Info"
+msgstr "Token info"
+
+#: 
+msgid "Token Sentiment"
+msgstr "Token hangulatelemzés"
+
+#: 
+msgid "Token Security"
+msgstr "Token értékpapírok"
+
+#: 
+msgid "BEST Airdrop"
+msgstr "BEST airdroppok"
+
+#: 
+msgid "The BEST token airdrop will reward brand advocates and Best Wallet and Best DEX power users over the coming months. Holders of the BEST token will receive exclusive benefits on Best DEX including lower cost trades"
+msgstr "A BEST token airdrop jutalmazni fogja a Best Wallet és a Best DEX felhasználóit a következő hónapokban. A Best token tulajdonosai olyan exkluzív jutalmakban részesülhetnek mint az alacsonyabb kereskedési díjak"
+
+#: 
+msgid "Frequently Asked"
+msgstr "Gyakori Kérdések"
+
+#: src/pages/Home/index.tsx
+msgid "Find answers to the most frequently asked questions about Best Wallet right here."
+msgstr "Találd meg a választ a leggyakoribb kérdésekre a Best Walletről."
+
+#: src/pages/Home/index.tsx
+msgid "If the answer you’re looking for isn’t here, email contact@bestwallet.com and we’ll assist you."
+msgstr "Amennyiben mégsem találtad meg a választ a kérdésedre, küldj e-mailt a contact@bestwallet.com címre."
+
+#: src/pages/Home/index.tsx
+msgid "Cryptocurrency may be unregulated in your jurisdiction. The value of cryptocurrencies may go down as well as up. Profits may be subject to capital gains or other taxes applicable in your jurisdiction."
+msgstr "Előfordulhat, hogy a lakóhelyeden a kripopénzek nincsenek szabályozva. Egy kripto értéke hirtelen és gyorsan megváltozhat. Az elért profitod után lehetséges, hogy adót kell fizetned."
+
+#: src/pages/Home/index.tsx
+msgid "Terms"
+msgstr "Feltételek"
+
+#: src/pages/Home/index.tsx
+msgid "Privacy"
+msgstr "Adatvédelem"
+
+#: src/pages/Home/index.tsx
+msgid "Cookies"
+msgstr "Sütik"
+
+#: 
+msgid "What is Best DEX?"
+msgstr "Mi a Best DEX?"
+
+#: 
+msgid "Best DEX is a decentralized exchange designed to seamlessly integrate with Best Wallet, our non-custodial crypto wallet. It allows you to trade cryptocurrencies securely and efficiently while maintaining full control of your funds and digital assets."
+msgstr "A Best DEX egy decentralizált tőzsde amit úgy terveztünk, hogy tökéletesen használható legyen a Best Wallettel, a saját fejlesztésű nem letétkezelő kriptotárcánkkal. Lehetővé teszi a legtöbb kriptoval a kereskedést biztonságos és hatékony formában miközben a kriptodat teljes mértékben te kezeled."
+
+#: 
+msgid "Why should I use Best DEX instead of Uniswap or other DEXs?"
+msgstr "Miért kellene a Best DEX-et használnom a Uniswap vagy más DEX helyett?"
+
+#: 
+msgid "Best DEX is built as the sister app to Best Wallet, our flagship crypto wallet. Best DEX can be accessed from within Best Wallet for an easy trading experience all within a single app. No more need to use several different wallets and DEXs to manage your crypto portfolio."
+msgstr "A Best DEX kifejezetten a Best Wallet kiegészítő alkalmazásaként lett létrehozva. A Best DEX a Best Walletből érhető el, ezáltal a kereskedés egyetlen felületen belül valósul meg. Nincs szükség különböző alkalmazások letöltésére és DEX regisztrációkra a kriptod kezeléséhez."
+
+#: 
+msgid "What are Best DEX’s special features compared to competitors?"
+msgstr "Milyen előnyei vannak a Best DEX-nek a konkurenciával szemben?"
+
+#: 
+msgid "Best DEX is incorporating the best aspects of established DEXs, improving upon them, and adding streamlined features that will elevate your crypto trading experience. To name two: 1. Store, manage, and trade crypto from a single app 2. Save on trading fees."
+msgstr "A Best DEX a kriptotőzsdék összes előnyét képes magába sűríteni és továbbfejleszteni, továbbá számos korszerű funkciót tesz elérhető annak érdekében, hogy tökéletes kriptokereskedési élményben lehessen részed. Tárold a kriptodat és kereskedj alacsony díjak mellett."
+
+#: 
+msgid "Which chains does Best DEX support for decentralised trading?"
+msgstr "Milyen hálózatokat támogat a Best DEX a decentralizált kereskedések során?"
+
+#: 
+msgid "Best DEX will start with native support for Ethereum, BNB Smart Chain and Polygon. Over time we’ll add support for all active major blockchains."
+msgstr "A Best DEX az Ethereum, a BNB Smart Chain és a Polygon hálózatokat támogatja. Idővel a lista bővülni fog."
+
+#: 
+msgid "How can I use Best DEX on my mobile phone?"
+msgstr "Hogyan tudom a Best DEX-et használni mobilon?"
+
+#: 
+msgid "Best DEX is available through the 'Swap' feature on the Best Wallet app. Simply download Best Wallet from Google Play or the App Store to gain access to Best DEX trading."
+msgstr "A Best DEX a Best Wallet \"Swap\" menüpontján keresztül érhető el. Csak töltsd le a Best Wallet alkalmazást Google Play-ből vagy App Store-ból és már kezdődhet is a kereskedés."
+
+#: 
+msgid "Decentralised & Secure"
+msgstr "Decentralizált és biztonságos"
+
+#: 
+msgid "Low Fees"
+msgstr "Alacsony díjak"
+
+#: 
+msgid "Trading Insights"
+msgstr "Kereskedési betekintések"
+
+#: 
+msgid "Best DEX automatically matches you to the trading pair with the lowest rate for your desired swap, ensuring you always get the best price on your trades. This feature helps you save money on transactions."
+msgstr "A Best DEX rendszere automatikusan a legalacsonyabb kereskedési párt fogja mutatni számodra, ezáltal biztos lehetsz benne, hogy mindig a legalacsonyabb áron elérhető kereskedést hajtod végre. Ezzel sokat tudsz majd spórolni."
+
+#: 
+msgid "Cost-Saving Advantage"
+msgstr "Költségcsökkentő előnyök"
+
+#: 
+msgid "Airdrop Incentives"
+msgstr "Airdrop ösztönzők"
+
+#: 
+msgid "By using Best DEX, you become part of the Best Ecosystem, and we reward our most loyal and active users with a 10% airdrop of the total supply of our native token, $BEST, during Phase 6 of our launch."
+msgstr "A Best DEX használatával te is részesévé fogsz válni a Best ökoszisztémának, amiben a leghűségesebb felhasználókat 10% $BEST token airdroppal jutalmazzuk az indulást követő 6. fázisban."
+
+#: 
+msgid "Market Insights and Analytics"
+msgstr "Piaci betekintések és elemzések"
+
+#: 
+msgid "Best DEX provides you with comprehensive market insights and in-depth token analytics, giving you the best chance to make the best trading decisions at the right time."
+msgstr "A Best DEX átfogó piaci betekintéseket és token elemzéseket biztosít amivel nagyban növelheted a sikeres kereskedéseid arányát."
+
+#: 
+msgid "Convenience"
+msgstr "Kényelmes használat"
+
+#: 
+msgid "What are the fees associated with using Best DEX?"
+msgstr "Milyen díjakkal jár a Best DEX használata?"
+
+#: 
+msgid "Best Dex does not charge a usage fee. The only fees are determined by the specific liquidity pool and network gas fees."
+msgstr "A Best DEX semmilyen használati díjat nem számít fel. A felmerülő költség kizárólag egyes likviditási medencékkel és hálózathasználati díjakkal kapcsolatban merülhetnek fel."
+
+#: 
+msgid "Which chains does Best DEX support for decentralized trading?"
+msgstr "Milyen hálózatokat támogat a Best DEX a kereskedések során?"
+
+#: 
+msgid "Best DEX initially supports Ethereum, BNB Smart Chain, and Polygon networks. As we continue to grow, we plan to add support for all active major blockchains, broadening your trading options and opportunities."
+msgstr "Kezdetben a Best DEX az Ethereum, a BNB Smart Chain és a Polygon hálózatát fogja támogatni. Ahogy azonban a projekt növekszik, úgy válnak majd további hálózatok is elérhetővé amivel több kereskedési lehetőséged lesz."
+
+#: 
+msgid "Does Best DEX require registration and KYC verification?"
+msgstr "Szükséges lesz KYC-ellenőrzés és regisztráció a Best DEX használatához?"
+
+#: 
+msgid "Best DEX does not require KYC verification to start trading. We prioritize user privacy and aim to provide a hassle-free onboarding experience. Simply connect your wallet and you’re ready to go."
+msgstr "A Best DEX rendszerében nem lesz szükséged semmilyen KYC-ellenőrzésre ahhoz, hogy kereskedni tudj. Számunkra fontos az adatvédelem, egyúttal szeretnénk egy zökkenőmentes élményt nyújtani az új tagoknak. Csak csatlakoztasd a tárcádat és már készen is vagy."
+
+#: 
+msgid "Can I use Best DEX on my mobile phone?"
+msgstr "Használhatom majd a Best DEX-et a mobilomon?"
+
+#: 
+msgid "There are multiple ways to access Best DEX on your mobile device:"
+msgstr "Számos különböző módon tudod majd használni a Best DEX-et a mobilodon keresztül:"
+
+#: 
+msgid "Mobile Web Browser"
+msgstr "Mobil böngészőből"
+
+#: 
+msgid "Simply visit https://bestdex.com the Best DEX platform through your mobile web browser to start trading cryptocurrencies on the go."
+msgstr "Csak látogass el a https://bestdex.com oldalra a mobilodon keresztül és kezdheted a kereskedést."
+
+#: 
+msgid "Best Wallet In-App 'Swap' Feature"
+msgstr "Best Wallet alkalmazáson belüli \"Swap\" funkció"
+
+#: 
+msgid "If you already have Best Wallet installed, you can access Best DEX directly through the in-app 'swap' feature. This integration provides you with a seamless and convenient trading experience within a single app."
+msgstr "Amennyiben már eleve rendelkezel a Best Wallet alkalmazással, azon belül el tudod érni a Best DEX felületet a \"Swap\" menüponton keresztül. Az integrált felületnek hála egyszerűen és kényelmesen tudod végrehajtani a kereskedéseidet."
+
+#: 
+msgid "Best Wallet dApp (Coming Soon)"
+msgstr "Best Wallet dApp (Hamarosan)"
+
+#: 
+msgid "In the near future, Best DEX will be available as a decentralized application (dApp) within Best Wallet, offering an even more integrated and user-friendly trading experience."
+msgstr "A közeljövőben elérhetővé fog válni a Best DEX decentralizált alkalmazása (dApp) a Best Walleten belül, amivel a korábbinál is zökkenőmentesebb élményben lehet majd részed."
+
+#: 
+msgid "What is the BEST token?"
+msgstr "Mi a BEST token?"
+
+#: 
+msgid "The BEST token is the Best Ecosystem’s utility and governance token. Holding the token provides benefits to Best Wallet users such as advanced market analysis tools, no gas fees on swaps, and early access to new token launches and NFT drops."
+msgstr "A BEST token a Best ökoszisztéma natív, kormányzáshoz használt érméje. Az érme tulajdonosai különböző előnyökben részesülhetnek majd, például profi piaci elemzőeszközökhöz férhetnek hozzá, hálózathasználati díj nélkül kereskedhetnek, másoknál korábban érhetnek el tokeneket és NFT dropokban vehetnek részt."
+
+#: 
+msgid "We are launching the BEST token at the end of Phase 6 of our roadmap and will reward our early adopters and power users with 10% of our total supply based on the points they have accumulated from using our app and spreading the word on socials. Learn more here"
+msgstr "A Best tokenek az ütemtervünk 6. fázisát követően válnak majd elérhetővé és a korai támogatókat 10% jutalom tokenben fognak részesülni az alapján, hogy mennyi érmével rendelkeznek és hogy mennyire vitték hírét az oldalnak a közösség médiában. Ezzel kapcsolatban tudj meg többet itt."
+
+#: 
+msgid "How can I stay up to date on the latest news about Best DEX and the BEST token airdrop?"
+msgstr "Hol érhetem el a legfrissebb híreket a Best DEX és a Best token airdroppal kapcsolatban?"
+
+#: 
+msgid "Follow our socials and join our community hubs here"
+msgstr "Kövess minket a közösségi oldalainkon és csatlakozz a közösségi hubhoz, itt"
+
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "$-"
+msgstr "$-"
+
+#: src/components/earn/PoolCard.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "${0}"
+msgstr "${0}"
+
+#: src/components/swap/TradePrice.tsx
+msgid "(${0})"
+msgstr "(${0})"
+
+#: src/components/CurrencyInputPanel/index.tsx
+msgid "(Max)"
+msgstr "(Max)"
+
+#: src/components/AddressInputPanel/index.tsx
+msgid "(View on Explorer)"
+msgstr "(Megtekintés Explorerben)"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "(claim)"
+msgstr "(Igénylés)"
+
+#: src/pages/Vote/Landing.tsx
+msgid "(edit)"
+msgstr "(szerkesztés)"
+
+#: src/pages/Swap/index.tsx
+msgid "- Remove recipient"
+msgstr "- Címzett eltávoltása"
+
+#: src/components/earn/PoolCard.tsx
+#: src/components/earn/PoolCard.tsx
+#: src/pages/Earn/Manage.tsx
+#: src/pages/Earn/Manage.tsx
+msgid "0 UNI / week"
+msgstr "0 UNI / hetente"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "25%"
+msgstr "25%"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "50%"
+msgstr "50%"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "75%"
+msgstr "75%"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "<0/> All Proposals"
+msgstr "<0/> Minden ajánlat"
+
+#: src/pages/Vote/Landing.tsx
+#: src/pages/Vote/Landing.tsx
+msgid "<0/> Votes"
+msgstr "<0/> Szavazatok"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "<0>Current Price:</0><1><2/></1><3>{0} per {1}</3>"
+msgstr "<0>Jelenlegi ár:</0><1><2/></1><3>{0} per {1}</3>"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "<0>Tip:</0> Removing pool tokens converts your position back into underlying tokens at the current rate, proportional to your share of the pool. Accrued fees are included in the amounts you receive."
+msgstr "<0>Tipp:</0> A pool tokenek kivonása a jelenlegi árfolyamon váltja át a pozíciódat a mögöttes eszközre, a pool méretéhez viszonyítottan arányosan. A felmerülő költségek a végösszegből előzetesen levonásra kerültek."
+
+#. Is the last sentence intentionally cut in half?
+#: src/pages/CreateProposal/index.tsx
+#, fuzzy
+msgid "<0>Tip:</0> Select an action and describe your proposal for the community. The proposal cannot be modified after submission, so please verify all information before submitting. The voting period will begin immediately and last for 7 days. To propose a custom action, ."
+msgstr "<0>Tipp:</0> Válassz egy akciót és ismertesd a közösséggel a javaslatodat. Küldés után már nem lesz lehetőséged módosítani a javaslaton, így küldés előtt mindent ellenőrizz. A szavazási időszak azonnal kezdődik és összesen 7 napig fog tartani. Egy egyedi akció létrehozásához, ."
+
+#: src/pages/PoolFinder/index.tsx
+msgid "<0>Tip:</0> Use this tool to find pools that don't automatically appear in the interface."
+msgstr "<0>Tipp:</0> Használd ezt az eszközt, hogy olyan poolokat találj amik nem jelennek meg a felületen."
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "<0>Tip:</0> When you add liquidity, you will receive pool tokens representing your position. These tokens automatically earn fees proportional to your share of the pool, and can be redeemed at any time."
+msgstr "<0>Tipp:</0> A likviditás hozzáadása során pool tokeneket kapsz amik a pozíciódat jelképezik. Ezek a tokenek automatikusan hozamot termelnek annak arányában, hogy mekkora a részed a teljes poolban, ezt pedig bármikor igényelheted."
+
+#: src/pages/Vote/VotePage.tsx
+msgid "<0>Unlock voting</0> to prepare for the next proposal."
+msgstr "<0>Szavazás engedélyezése</0> Következő javaslat előkészítése."
+
+#: src/components/claim/ClaimModal.tsx
+msgid "<0>🎉 </0>Welcome to team Unicorn :) <1>🎉</1>"
+msgstr "<0>🎉 </0>Üdv az Unikornisok csapatában :) <1>🎉</1>"
+
+#: src/pages/Vote/Landing.tsx
+msgid "A minimum threshold of 0.25% of the total UNI supply is required to submit proposals"
+msgstr "A teljes UNI készlet minimum 0.25%-val rendelkezned kell a javaslat elküldéséhez"
+
+#: src/components/swap/SwapModalHeader.tsx
+msgid "Accept"
+msgstr "Elfogadás"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Account"
+msgstr "Számla"
+
+#: src/components/SearchModal/ImportRow.tsx
+#: src/pages/Vote/styled.tsx
+msgid "Active"
+msgstr "Aktív"
+
+#: src/components/PositionCard/index.tsx
+#: src/pages/AddLiquidity/index.tsx
+msgid "Add"
+msgstr "Hozzáadás"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Add <0/> and <1/> to BestDex V2"
+msgstr "<0/> és <1/> hozzáadása BestDex V2-höz"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Add Delegate +"
+msgstr "Delegált hozzáadása +"
+
+#: src/components/NavigationTabs/index.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/Pool/v2.tsx
+msgid "Add Liquidity"
+msgstr "Likviditás hozzáadása"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Add liquidity."
+msgstr "Likviditás hozzáadása."
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Add more liquidity"
+msgstr "Tovább likviditás hozzadása"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Add {0} token to Metamask <0/>"
+msgstr "{0} token hozzáadása MetaMaskhoz <0/>"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Add {0}-{1} liquidity"
+msgstr "{0}-{1} likviditás hozzáadása"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Add {0}/{1} V3 liquidity"
+msgstr "{0}/{1} V3 likviditás hozzáadása"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Added {0} token to Metamask"
+msgstr "{0} token hozzáadva Metamaskhoz"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "Address has no available claim"
+msgstr "Nincs elérhető igénylés a címen"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Against"
+msgstr "Szemben"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Allow LP token migration"
+msgstr "LP token áthelyezésének engedélyezése"
+
+#: src/components/Settings/index.tsx
+msgid "Allow high price impact trades and skip the confirm screen. Use at your own risk."
+msgstr "Magas árhatású kereskedelmek engedélyezése, a visszaigazoló képernyő átugrásával. Csak saját felelősségre használd."
+
+#: src/pages/Swap/index.tsx
+msgid "Allow the BestDex Protocol to use your {0}"
+msgstr "BestDex protokoll engedélyezése {0}"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Allowed"
+msgstr "Engedélyezett"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Allowed Slippage"
+msgstr "Slippage engedélyezése"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Amount"
+msgstr "Mennyiség"
+
+#: src/components/earn/StakingModal.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Approve"
+msgstr "Engedélyezés"
+
+#: src/pages/CreateProposal/ProposalActionSelector.tsx
+msgid "Approve Token"
+msgstr "Token engedélyezése"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Approve {0}"
+msgstr "Engedélyez {0}"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Approved"
+msgstr "Engedélyezett"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Approving"
+msgstr "Engedélyezés"
+
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Approving {0}"
+msgstr "Approving {0}"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Arbiscan"
+msgstr "Arbiscan"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Arbitrum Bridge"
+msgstr "Arbitrum Bridge"
+
+#: src/components/DowntimeWarning/index.tsx
+msgid "Arbitrum is in Beta and may experience downtime. During downtime, your position will not earn fees and you will be unable to remove liquidity. <0>Read more.</0>"
+msgstr "Az Arbitrum jelenleg Béta fázisban van ezért előfordulhat, hogy nem elérhető. Ilyen esetben a pozícióddal nem fogsz tudni hozamot szerezni és a likviditást sem tudod kivonni. <0>Olvass tovább.</0>"
+
+#: src/components/Settings/index.tsx
+msgid "Are you sure?"
+msgstr "Biztos vagy benne?"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "As a member of the BestDex community you may claim UNI to be used for voting and governance.<0/><1/>"
+msgstr "A BestDex közösség tagjaként igényelhetsz UNI-t amit szavazásra és kormányzásra használhatsz.<0/><1/>"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "At least {0} {1} and {2} {3} will be refunded to your wallet due to selected price range."
+msgstr "A kiválasztott ársáv miatt legalább {0} {1} és {2} {3} visszautalásra kerül a tárcádba."
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Auto"
+msgstr "Auto"
+
+#: src/components/earn/StakingModal.tsx
+msgid "Available to deposit: {0}"
+msgstr "Befizethető összeg: {0}"
+
+#: src/pages/Earn/Manage.tsx
+msgid "BD LP LP tokens are required. Once you've added liquidity to the {0}-{1} pool you can stake your liquidity tokens on this page."
+msgstr "BD LP LP tokenen szükségesek. Amint a {0}- {1} medencéhez likviditást adtál stakelheted a tokenjeidet."
+
+#: src/pages/Earn/Manage.tsx
+msgid "BD LP {0}-{1}"
+msgstr "BD LP {0}-{1}"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "BD LP {0}/{1} Burned"
+msgstr "BD LP {0}/{1} elégetve"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "Balance:"
+msgstr "Egyenleg:"
+
+#: src/components/CurrencyInputPanel/index.tsx
+msgid "Balance: {0} {1}"
+msgstr "Egyenleg: {0} {1}"
+
+#: src/components/FeeSelector/shared.tsx
+msgid "Best for exotic pairs."
+msgstr "A legjobb különleges párosokhoz."
+
+#: src/components/FeeSelector/shared.tsx
+msgid "Best for most pairs."
+msgstr "A legtöbb pároshoz ideális."
+
+#: src/components/FeeSelector/shared.tsx
+msgid "Best for stable pairs."
+msgstr "A stabil párosokhoz a legjobb."
+
+#: src/components/FeeSelector/shared.tsx
+msgid "Best for very stable pairs."
+msgstr "A nagyon stabil párosokhoz a legjobb."
+
+#: src/components/SwitchLocaleLink/index.tsx
+msgid "BestDex available in: <0>{0}</0>"
+msgstr "A BestDex elérhető: <0>{0}</0>"
+
+#: src/components/vote/ProposalEmptyState.tsx
+msgid "BestDex governance is only available on Layer 1. Switch your network to Ethereum Mainnet to view Proposals and Vote."
+msgstr "A BestDex kormányzás kizárólag Layer 1-en érhető el. Válts az Ethereum Mainnet hálózatára, hogy javaslatot tehess és szavazhass."
+
+#: src/pages/Earn/index.tsx
+msgid "BestDex liquidity mining"
+msgstr "BestDex likviditás bányászása"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "BestDex migration contract↗"
+msgstr "BestDex áthelyezése szerződés↗"
+
+#: src/components/NetworkAlert/NetworkAlert.tsx
+msgid "BestDex on {0}"
+msgstr "BestDex {0}"
+
+#: src/components/Blocklist/index.tsx
+msgid "Blocked address"
+msgstr "Tiltott cím"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Bridge"
+msgstr "Bridge"
+
+#: src/components/PositionCard/index.tsx
+msgid "By adding liquidity you'll earn 0.3% of all trades on this pair proportional to your share of the pool. Fees are added to the pool, accrue in real time and can be claimed by withdrawing your liquidity."
+msgstr "Likviditás hozzáadásával a teljes mérettel arányosan 0.3%-át kapod meg a kereskedéseknek ezzel a párossal. A díjak valós időben a poolba kerülnek és a likviditás igénylésével lehet hozzájutni."
+
+#: src/components/SearchModal/ImportList.tsx
+msgid "By adding this list you are implicitly trusting that the data is correct. Anyone can create a list, including creating fake versions of existing lists and lists that claim to represent projects that do not have one."
+msgstr "A lista hozzáadásával egyértelműen megerősíted, hogy az adatok valósak. Listát bárki készíthet, beleértve hamis verziókat valós listákról vagy olyan listákról, melyek más projekteket reprezentálnak."
+
+#: src/pages/Vote/styled.tsx
+msgid "Canceled"
+msgstr "Törölve"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Change"
+msgstr "Változtatás"
+
+#: src/components/Header/ChainConnectivityWarning.tsx
+msgid "Check network status"
+msgstr "Hálózati állapot megtekintése"
+
+#: src/pages/Pool/CTACards.tsx
+msgid "Check out our v3 LP walkthrough and migration guides."
+msgstr "Nézd meg a v3 LP útmutatónkat és az áthelyezési segédletet."
+
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/pages/Earn/Manage.tsx
+msgid "Claim"
+msgstr "Igénylés"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Claim <0/> for {0}"
+msgstr "<0/> igénylse {0}"
+
+#: src/components/Header/index.tsx
+msgid "Claim BD LP"
+msgstr "Igénylés BD LP"
+
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+msgid "Claim UNI"
+msgstr "UNI igénylése"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "Claim UNI Token"
+msgstr "UNI tokenen igénylése"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Claim UNI reward for {0}"
+msgstr "UNI jutalmak igénylése {0}"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Claim fees"
+msgstr "Jutalékok igénylése"
+
+#: src/components/Popups/ClaimPopup.tsx
+msgid "Claim your UNI tokens"
+msgstr "Igényeld az UNI tokenjeidet"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "Claimed"
+msgstr "Igényelve"
+
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/UnstakingModal.tsx
+msgid "Claimed UNI!"
+msgstr "UNI igényelve!"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "Claimed!"
+msgstr "Igényelve!"
+
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+msgid "Claiming"
+msgstr "Igénylés"
+
+#: src/components/Header/index.tsx
+msgid "Claiming BD LP"
+msgstr "BD LP igénylése"
+
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/UnstakingModal.tsx
+msgid "Claiming {0} UNI"
+msgstr "{0} UNI igénylése"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Clear All"
+msgstr "Összes törlése"
+
+#: src/components/SearchModal/ManageTokens.tsx
+msgid "Clear all"
+msgstr "Összes törlése"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Close"
+msgstr "Bezárás"
+
+#: src/components/Badge/RangeBadge.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Closed"
+msgstr "Bezárva"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collect"
+msgstr "Begyűjtés"
+
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Collect as {0}"
+msgstr "Gyűjtés mint {0}"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collect fees"
+msgstr "Díjak begyűjtése"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Collect {0}/{1} fees"
+msgstr "{0}/{1} díj begyűjtése"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collected"
+msgstr "Begyűjtve"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collecting"
+msgstr "Begyűjtés"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collecting fees"
+msgstr "Díjak begyűjtése"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collecting fees will withdraw currently available fees for you."
+msgstr "A díjak begyűjtésével az elérhető díjak kiutalásra kerülnek."
+
+#: src/components/SearchModal/CommonBases.tsx
+msgid "Common bases"
+msgstr "Gyakori alapok"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Confirm"
+msgstr "Megerősítés"
+
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+msgid "Confirm Supply"
+msgstr "Ellátás megerősítése"
+
+#: src/components/swap/ConfirmSwapModal.tsx
+#: src/components/swap/SwapModalFooter.tsx
+msgid "Confirm Swap"
+msgstr "Swap megerősítése"
+
+#: src/components/ModalViews/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "Confirm this transaction in your wallet"
+msgstr "Erősítsd meg ezt a tranzakciót a tárcádban"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Confirm transaction in wallet"
+msgstr "Erősítsd meg a tranzakciót a tárcában"
+
+#: src/components/Web3Status/index.tsx
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+#: src/pages/Swap/index.tsx
+#: src/state/burn/hooks.tsx
+#: src/state/burn/v3/hooks.tsx
+#: src/state/mint/hooks.tsx
+#: src/state/mint/v3/hooks.tsx
+#: src/state/stake/hooks.tsx
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Connect Wallet"
+msgstr "Tárcsa csatlakoztatása"
+
+#: src/components/WalletModal/index.tsx
+#: src/components/earn/UnstakingModal.tsx
+#: src/pages/Pool/index.tsx
+msgid "Connect a wallet"
+msgstr "Csatlakoztass egy tárcát"
+
+#: src/components/WalletModal/index.tsx
+msgid "Connect to Best Wallet"
+msgstr "Csatlakozz a Best Wallethez"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Connect to a wallet to find pools"
+msgstr "Kapcsolodj egy tárcához a poolok kereséséhez"
+
+#: src/pages/MigrateV2/index.tsx
+#: src/pages/Pool/v2.tsx
+msgid "Connect to a wallet to view your liquidity."
+msgstr "Csatlakoztass egy tárcát, hogy megtekintsd a likviditásod."
+
+#: src/components/AccountDetails/index.tsx
+msgid "Connected with {name}"
+msgstr "Kapcsolódva {name}"
+
+#: src/components/WalletModal/PendingView.tsx
+msgid "Connection Error"
+msgstr "Csatlakozási hiba"
+
+#: src/components/AccountDetails/Copy.tsx
+msgid "Copied"
+msgstr "Kimásolva"
+
+#: src/components/AccountDetails/index.tsx
+#: src/components/AccountDetails/index.tsx
+msgid "Copy Address"
+msgstr "Cím másolása"
+
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+msgid "Create Pool & Supply"
+msgstr "Pool és ellátás létrehozása"
+
+#: src/pages/CreateProposal/index.tsx
+#: src/pages/Vote/Landing.tsx
+msgid "Create Proposal"
+msgstr "Javaslat létrehozása"
+
+#: src/components/NavigationTabs/index.tsx
+#: src/pages/Pool/v2.tsx
+msgid "Create a pair"
+msgstr "Pár létrehozása"
+
+#: src/pages/Pool/index.tsx
+msgid "Create a pool"
+msgstr "Pool létrehozsa"
+
+#: src/components/ErrorBoundary/index.tsx
+msgid "Create an issue on GitHub"
+msgstr "Hiba jelentése GitHubon"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Create pool and add {0}/{1} V3 liquidity"
+msgstr "Pool létrehozása és {0}/{1} V3 likviditás hozzáadása"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Create pool."
+msgstr "Pool létrehozása."
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Create {0}/{1} V3 pool"
+msgstr "{0}/{1} V3 pool létrehozása"
+
+#: src/components/PositionPreview/index.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "Current price"
+msgstr "Jelenlegi ár"
+
+#: src/pages/Pool/v2.tsx
+msgid "Current version is not available on Layer 2. Switch to Layer 1 Ethereum."
+msgstr "A jelenlegi verzió nem elérhető Layer 2-n. Válts át Layer 1 Ethereumra."
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Current {0} Price:"
+msgstr "Jelenlegi {0} ár:"
+
+#: src/pages/Vote/styled.tsx
+msgid "Defeated"
+msgstr "Legyőzött"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Delegate Votes"
+msgstr "Delegált szavazatok"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Delegate voting power to {0}"
+msgstr "Delegált szavazatok ereje {0}"
+
+#: src/pages/Vote/Landing.tsx
+msgid "Delegated to:"
+msgstr "Delegált:"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Delegating votes"
+msgstr "Szavazatok delegálása"
+
+#: src/components/earn/PoolCard.tsx
+#: src/components/earn/StakingModal.tsx
+#: src/components/earn/StakingModal.tsx
+#: src/pages/Earn/Manage.tsx
+msgid "Deposit"
+msgstr "Befizetés"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Deposit Amounts"
+msgstr "Befizetett összegek"
+
+#: src/components/NetworkAlert/NetworkAlert.tsx
+msgid "Deposit Assets"
+msgstr "Befizetett eszközök"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Deposit BD LP LP Tokens"
+msgstr "BD LP LP tokenek befizetése"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Deposit liquidity"
+msgstr "Likviditás befizetése"
+
+#: src/pages/Earn/index.tsx
+msgid "Deposit your Liquidity Provider tokens to receive UNI, the BestDex protocol governance token."
+msgstr "Helyezd letétbe a likviditásnyújtási tokenjeidet, hogy UNI-t kapj, a BestDex protokoll kormányzási tokenjét."
+
+#: src/components/earn/UnstakingModal.tsx
+msgid "Deposited liquidity:"
+msgstr "Befizetett likviditás:"
+
+#: src/components/earn/StakingModal.tsx
+msgid "Deposited {0} BD LP"
+msgstr "{0} BD LP befizetve"
+
+#: src/components/earn/StakingModal.tsx
+msgid "Depositing Liquidity"
+msgstr "Likviditás befizetése folyamatban"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Description"
+msgstr "Leírás"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Detailed"
+msgstr "Részletezett"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Details"
+msgstr "Részletek"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Disconnect"
+msgstr "Szétkapcsolás"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Dismiss"
+msgstr "Elutasítás"
+
+#: src/pages/MigrateV2/index.tsx
+msgid "Don’t see one of your v2 positions? <0>Import it.</0>"
+msgstr "Nem látod a v2 pozícióidat? <0>Importálás.</0>"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Earned UNI tokens represent voting shares in BestDex governance."
+msgstr "A megszerzett UNI tokenek szavazati jogot biztosítanak a BestDex kormányzásához."
+
+#: src/components/FeeSelector/index.tsx
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Efficiency Comparison"
+msgstr "Hatékonyság összehasonlítása"
+
+#: src/state/burn/v3/hooks.tsx
+msgid "Enter a percent"
+msgstr "Százalék megadása"
+
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Enter a recipient"
+msgstr "Címzett megadása"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Enter a valid slippage percentage"
+msgstr "Adj meg egy valós slippage százalékot"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "Enter an address to trigger a UNI claim. If the address has any claimable UNI it will be sent to them on submission."
+msgstr "Cím megadása az UNI igénylésének indításához. Amennyiben a cím tartalmaz UNI, az elküldésre fog kerülni."
+
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/UnstakingModal.tsx
+#: src/state/burn/hooks.tsx
+#: src/state/mint/hooks.tsx
+#: src/state/mint/v3/hooks.tsx
+#: src/state/stake/hooks.tsx
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Enter an amount"
+msgstr "Mennyiség megadása"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Enter valid list location"
+msgstr "Érvényes lista helyének megadása"
+
+#: src/components/SearchModal/ManageTokens.tsx
+msgid "Enter valid token address"
+msgstr "Adj meg egy valós tokencímet"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/Web3Status/index.tsx
+msgid "Error"
+msgstr "Hiba"
+
+#: src/components/WalletModal/index.tsx
+msgid "Error connecting"
+msgstr "Kapcsolódási hiba"
+
+#: src/components/WalletModal/index.tsx
+msgid "Error connecting. Try refreshing the page."
+msgstr "Kapcsolódási hiba. Frissítsd az oldalt."
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Error importing list"
+msgstr "Hiba a lista importálása közben"
+
+#: src/pages/Vote/styled.tsx
+msgid "Executed"
+msgstr "Végrehajtott"
+
+#: src/components/SearchModal/CurrencyList.tsx
+msgid "Expanded results from inactive Token Lists"
+msgstr "Részletes eredmény az inaktív token listákból"
+
+#: src/components/Settings/index.tsx
+msgid "Expert Mode"
+msgstr "Expert mód"
+
+#: src/components/Settings/index.tsx
+msgid "Expert mode turns off the confirm transaction prompt and allows high slippage trades that often result in bad rates and lost funds."
+msgstr "Az expert mód segítségével nem szükséges visszaigazolni a tranzakciók utáni üzenetek és magasabb slippage engedélyezhető ami rossz kereskedési rátához és veszteséghez vezethet."
+
+#: src/pages/Vote/styled.tsx
+msgid "Expired"
+msgstr "Lejárt"
+
+#: src/pages/Pool/CTACards.tsx
+msgid "Explore popular pools on BestDex Analytics."
+msgstr "Fedezd fel a legnépszerűbb poolokat a BestDex Analyticsen."
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Explorer"
+msgstr "Felfedező"
+
+#: src/components/PositionPreview/index.tsx
+msgid "Fee Tier"
+msgstr "Ingyenes szint"
+
+#: src/components/FeeSelector/index.tsx
+msgid "Fee tier"
+msgstr "Ingyenes szint"
+
+#: src/pages/Vote/VotePage.tsx
+#, fuzzy
+msgid "For"
+msgstr "For"
+
+#: src/pages/MigrateV2/index.tsx
+msgid "For each pool shown below, click migrate to remove your liquidity from BestDex V2 and deposit it into BestDex V3."
+msgstr "Minden itt található poolnál kattints az áthelyezésre, hogy BestDex V2-ből áthelyezd BestDex V3-ba a likviditást."
+
+#: src/components/swap/SwapModalHeader.tsx
+#: src/pages/Swap/index.tsx
+#, fuzzy
+msgid "From"
+msgstr "From"
+
+#: src/pages/Swap/index.tsx
+#, fuzzy
+msgid "From (at most)"
+msgstr "From (at most)"
+
+#: src/components/RangeSelector/PresetsButtons.tsx
+msgid "Full Range"
+msgstr "Teljes tartomány"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Full range positions may earn less fees than concentrated positions. Learn more <0>here</0>."
+msgstr "A teljes tartományú pozíciókkal kevesebb díj jár mint a koncentrált pozíciókkal. Tudj meg többet <0>itt</0>."
+
+#: src/components/ErrorBoundary/index.tsx
+msgid "Get support on Discord"
+msgstr "Kérj segítséget Discordon"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Help Center"
+msgstr "Súgóközpont"
+
+#: src/components/FeeSelector/index.tsx
+msgid "Hide"
+msgstr "Elrejtés"
+
+#: src/pages/Swap/index.tsx
+msgid "High Price Impact"
+msgstr "Magas árhatás"
+
+#: src/components/SearchModal/ImportList.tsx
+#: src/pages/AddLiquidity/index.tsx
+msgid "I understand"
+msgstr "Megértettem"
+
+#: src/components/SearchModal/ImportList.tsx
+msgid "If you purchase a token from this list, you may not be able to sell it back."
+msgstr "Ha erről a listáról vásárolsz tokent, azt lehet nem fogod tudni  ugyanitt eladni."
+
+#: src/components/SearchModal/BlockedToken.tsx
+#: src/components/SearchModal/ImportList.tsx
+#: src/components/SearchModal/ImportRow.tsx
+#: src/components/SearchModal/ImportToken.tsx
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Import"
+msgstr "Importálás"
+
+#: src/components/SearchModal/ImportList.tsx
+msgid "Import List"
+msgstr "Lista importálása"
+
+#: src/components/NavigationTabs/index.tsx
+#: src/pages/Pool/v2.tsx
+msgid "Import Pool"
+msgstr "Pool importálása"
+
+#: src/components/SearchModal/ImportList.tsx
+msgid "Import at your own risk"
+msgstr "Importálás csak saját felelősségre"
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "In range"
+msgstr "Tartományban"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Increase Liquidity"
+msgstr "Likvditás növelése"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Initial prices and pool share"
+msgstr "Induló ár és pool megosztása"
+
+#: src/components/WalletModal/PendingView.tsx
+msgid "Initializing..."
+msgstr "Előkészítés..."
+
+#: src/components/swap/SwapModalHeader.tsx
+msgid "Input is estimated. You will sell at most <0>{0} {1}</0> or the transaction will revert."
+msgstr "A betáplált adat hozzávetőleges. Az eladási ár maximum <0>{0} {1}</0> vagy a tranzakció visszafordításra kerül."
+
+#: src/components/WalletModal/index.tsx
+msgid "Install Metamask"
+msgstr "MetaMask telepítése"
+
+#: src/pages/Swap/index.tsx
+msgid "Insufficient liquidity for this trade."
+msgstr "Nincs elegendő likviditás a kereskedés indításához"
+
+#: src/state/mint/hooks.tsx
+#: src/state/mint/hooks.tsx
+#: src/state/mint/v3/hooks.tsx
+#: src/state/mint/v3/hooks.tsx
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Insufficient {0} balance"
+msgstr "Nincs elegendő {0} egyenleg"
+
+#: src/components/Settings/index.tsx
+msgid "Interface Settings"
+msgstr "Interfész beállítások"
+
+#: src/state/mint/hooks.tsx
+#: src/state/mint/v3/hooks.tsx
+msgid "Invalid pair"
+msgstr "Érvénytelen pár"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Invalid pair."
+msgstr "Érvénytelen pár."
+
+#: src/state/mint/v3/hooks.tsx
+msgid "Invalid price input"
+msgstr "Érvénytelen megadott ár"
+
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Invalid range selected. The min price must be lower than the max price."
+msgstr "Érvénytelen tartomány. A minimális árnak alacsonyabbnak kell lennie mint a maximális árnak."
+
+#: src/hooks/useSwapCallback.tsx
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Invalid recipient"
+msgstr "Érvénytelen címzett"
+
+#: src/components/Header/index.tsx
+msgid "Join the Best Wallet Waitlist to participate in the BEST Airdrop"
+msgstr "Csatlakozz a Best Wallet várólistához, hogy részt vehess a BEST Airdroppon"
+
+#: src/components/Menu/index.tsx
+msgid "Language"
+msgstr "Nyelv"
+
+#: src/components/NetworkAlert/NetworkAlert.tsx
+msgid "Learn More"
+msgstr "Tudj meg többet"
+
+#: src/pages/Pool/CTACards.tsx
+msgid "Learn about providing liquidity"
+msgstr "Tudj meg többet a likviditás nyújtásáról"
+
+#: src/components/PrivacyPolicy/index.tsx
+#: src/components/PrivacyPolicy/index.tsx
+#: src/components/WalletModal/index.tsx
+msgid "Learn more"
+msgstr "Tudj meg többet"
+
+#: src/components/PrivacyPolicy/index.tsx
+#: src/components/WalletModal/index.tsx
+msgid "Legal & Privacy"
+msgstr "Jog & Adatvédelem"
+
+#: src/components/claim/ClaimModal.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "Liquidity"
+msgstr "Likviditás"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Liquidity Provider Fee"
+msgstr "Likviditásnyújtási díj\n"
+""
+
+#: src/pages/Pool/v2.tsx
+msgid "Liquidity provider rewards"
+msgstr "Likviditásnyújtási jutalmak"
+
+#: src/pages/Pool/v2.tsx
+msgid "Liquidity providers earn a 0.3% fee on all trades proportional to their share of the pool. Fees are added to the pool, accrue in real time and can be claimed by withdrawing your liquidity."
+msgstr "A likviditást nyújtók 0.3% díjat kapnak minden kereskedés után pool méretével arányosan. A díjak a pool méretéhez valós időben hozzáadódnak és a likviditás igénylésével lehet hozzájutni."
+
+#: src/components/SearchModal/Manage.tsx
+msgid "Lists"
+msgstr "Listák"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Loaded"
+msgstr "Betöltve"
+
+#: src/components/PositionCard/Sushi.tsx
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/MigrateV2/index.tsx
+#: src/pages/Pool/v2.tsx
+#: src/pages/PoolFinder/index.tsx
+#: src/pages/Swap/index.tsx
+msgid "Loading"
+msgstr "Betöltés"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/V2.tsx
+#: src/components/SearchModal/Manage.tsx
+#: src/components/earn/PoolCard.tsx
+msgid "Manage"
+msgstr "Kezelés"
+
+#: src/components/PositionCard/index.tsx
+msgid "Manage Liquidity in Rewards Pool"
+msgstr "Likviditás kezelése a jutalmazási poolokban"
+
+#: src/components/SearchModal/CurrencySearch.tsx
+msgid "Manage Token Lists"
+msgstr "Tokenlisták kezelése"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Manage this pool."
+msgstr "Ennek a poolnak a kezelése"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Max"
+msgstr "Maximum"
+
+#: src/components/PositionPreview/index.tsx
+#: src/components/RangeSelector/index.tsx
+msgid "Max Price"
+msgstr "Maximum ár"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Max price"
+msgstr "Maximum ár"
+
+#: src/components/PositionListItem/index.tsx
+msgid "Max:"
+msgstr "Maximum:"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Maximum sent"
+msgstr "Maximum küldött"
+
+#: src/components/Menu/index.tsx
+msgid "Menu"
+msgstr "Menü"
+
+#: src/components/PositionCard/Sushi.tsx
+#: src/components/PositionCard/V2.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/Pool/index.tsx
+msgid "Migrate"
+msgstr "Áthelyezés"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/MigrateV2/index.tsx
+#: src/pages/Pool/index.tsx
+msgid "Migrate Liquidity"
+msgstr "Likviditás áthelyezése"
+
+#: src/pages/MigrateV2/index.tsx
+msgid "Migrate your liquidity tokens from BestDex V2 to BestDex V3."
+msgstr "Helyezd át a likviditási tokenjeidet BestDex V2-ről BestDex V3-ra."
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Migrate {0}/{1} liquidity to V3"
+msgstr "{0}/{1} likviditás áthelyzezése V3-ra"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Migrating"
+msgstr "Áthelyezés"
+
+#: src/components/PositionPreview/index.tsx
+#: src/components/RangeSelector/index.tsx
+msgid "Min Price"
+msgstr "Minimális ár"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Min price"
+msgstr "Min ár"
+
+#: src/components/PositionListItem/index.tsx
+msgid "Min:"
+msgstr "Min:"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Minimum received"
+msgstr "Megkapott minimum"
+
+#: src/hooks/useSwapCallback.tsx
+msgid "Missing dependencies"
+msgstr "Hiányzó feltétel"
+
+#: src/pages/Pool/index.tsx
+msgid "More"
+msgstr "Tovább"
+
+#: src/components/Header/ChainConnectivityWarning.tsx
+msgid "Network Warning"
+msgstr "Hálózati figyelmeztetés"
+
+#: src/pages/Pool/index.tsx
+msgid "New Position"
+msgstr "Új pozíció"
+
+#: src/pages/MigrateV2/index.tsx
+msgid "No V2 Liquidity found."
+msgstr "V2 likviditás nem található."
+
+#: src/pages/Earn/index.tsx
+#: src/pages/Earn/index.tsx
+msgid "No active pools"
+msgstr "Nincsenek aktív poolok."
+
+#: src/components/FeeSelector/FeeTierPercentageBadge.tsx
+msgid "No data"
+msgstr "Nincs adat"
+
+#: src/state/governance/hooks.ts
+msgid "No description."
+msgstr "Nincs leírás."
+
+#: src/pages/Pool/v2.tsx
+msgid "No liquidity found."
+msgstr "Likvditás nem található."
+
+#: src/pages/PoolFinder/index.tsx
+msgid "No pool found."
+msgstr "Pool nem található."
+
+#: src/components/vote/ProposalEmptyState.tsx
+msgid "No proposals found."
+msgstr "Nem találtunk ajánlatot."
+
+#: src/pages/Home/index.tsx
+msgid "No registration needed. Over 400 tokens to trade at your fingertips."
+msgstr "Nem szükséges regisztráció. Több mint 400 tokennel tudsz kereskedni pillanatok alatt."
+
+#: src/components/SearchModal/CurrencySearch.tsx
+msgid "No results found."
+msgstr "Nics találat."
+
+#: src/components/FeeSelector/FeeTierPercentageBadge.tsx
+msgid "Not created"
+msgstr "Nem készült el"
+
+#: src/components/Toggle/ListToggle.tsx
+msgid "OFF"
+msgstr "Ki"
+
+#: src/components/Toggle/ListToggle.tsx
+msgid "ON"
+msgstr "BE"
+
+#: src/components/Settings/index.tsx
+msgid "ONLY USE THIS MODE IF YOU KNOW WHAT YOU ARE DOING!"
+msgstr "CSAK AKKOR HASZNÁLD EZT A MÓDOT HA TUDOD IS, HOGY MIT CSINÁLSZ!"
+
+#: src/components/Toggle/index.tsx
+msgid "Off"
+msgstr "Kikapcsolás"
+
+#: src/components/Toggle/index.tsx
+msgid "On"
+msgstr "Bekapcsolás"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Once you are happy with the rate click supply to review."
+msgstr "Amint számodra megfelelő az arány, kattints az ellátásra, hogy áttekintsd."
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Only UNI votes that were self delegated or delegated to another address before block {0} are eligible for voting."
+msgstr "Kizárólag az önállóan delegált vagy a {0} blokk előtt egy másik címre delegált UNI szavazatok érvényesek."
+
+#: src/components/Web3ReactManager/index.tsx
+msgid "Oops! An unknown error occurred. Please refresh the page, or visit from another browser or device."
+msgstr "Jaj ne! Ismeretlen hiba történt. Kérünk, hogy frissítsd az oldalt, vagy nyisd meg azt egy másik böngészőből."
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Optimism Gateway"
+msgstr "Optimism Gateway"
+
+#: src/components/DowntimeWarning/index.tsx
+msgid "Optimistic Ethereum is in Beta and may experience downtime. Optimism expects planned downtime to upgrade the network in the near future. During downtime, your position will not earn fees and you will be unable to remove liquidity. <0>Read more.</0>"
+msgstr "Az Optimistic Ethereum béta verzióban van, és tapasztalhatsz leállást. Az Optimism a tervezett leállásokat a hálózat frissítése céljából végzi majd a közeljövőben. Ez alatt az idő alatt a pozícióddal nem keresel majd és nem tudod eltávolítani a likviditást. <0>További információ.</0>"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Optimistic Etherscan"
+msgstr "Optimistic Etherscan"
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "Out of range"
+msgstr "Tartományon kívüli"
+
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Output is estimated. If the price changes by more than {0}% your transaction will revert."
+msgstr "A kimeneti adat hozzávetőleges. Amennyiben az ár több mint {0}%-kal változik, a tranzakció visszafordításra kerül."
+
+#: src/components/swap/SwapModalHeader.tsx
+msgid "Output is estimated. You will receive at least <0>{0} {1}</0> or the transaction will revert."
+msgstr "A kiemeneti adat hozzávetőleges. Legalább <0>{0} {1}</0> fogsz kapni, vagy a tranzakció visszafordításra kerül."
+
+#: src/components/swap/SwapModalHeader.tsx
+msgid "Output will be sent to <0>{0}</0>"
+msgstr "A kimenet a következő címre lesz elküldve: <0>{0}</0>"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Owner"
+msgstr "Tulajdonos"
+
+#: src/pages/Earn/index.tsx
+msgid "Participating pools"
+msgstr "Résztvevő poolok"
+
+#: src/pages/Vote/styled.tsx
+msgid "Pending"
+msgstr "Függőben van"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Please confirm you would like to remove this list by typing REMOVE"
+msgstr "Kérünk, hogy a \"REMOVE\" (eltávolítás) gombra kattintva erősítsd meg, hogy valóban el szeretnéd távolítani ezt a listát"
+
+#: src/components/vote/ProposalEmptyState.tsx
+msgid "Please connect to Layer 1 Ethereum"
+msgstr "Kérünk, hogy csatlakozz a Layer 1 Ethereumhoz"
+
+#: src/components/WalletModal/index.tsx
+msgid "Please connect to the appropriate Ethereum network."
+msgstr "Kérünk, hogy csatlakozz a megfelelő Ethereum hálózathoz."
+
+#: src/components/Settings/index.tsx
+msgid "Please type the word \"{confirmWord}\" to enable expert mode."
+msgstr "Kérünk, hogy írd be a(z) \"{confirmWord}\" szót, hogy átválthass export módra."
+
+#: src/components/Header/index.tsx
+#: src/components/NavigationTabs/index.tsx
+msgid "Pool"
+msgstr "Pool"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Pool Found!"
+msgstr "Megvan a pool!"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Pool Rate"
+msgstr "Pool díjszabás"
+
+#: src/components/earn/PoolCard.tsx
+msgid "Pool rate"
+msgstr "Pool díjszabás"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+msgid "Pool tokens in rewards pool:"
+msgstr "Pool tokenek a jutalom poolban:"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+#: src/components/PositionCard/index.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Pooled {0}:"
+msgstr "Poolba helyezett {0}:"
+
+#: src/pages/Pool/index.tsx
+msgid "Pools Overview"
+msgstr "Poolok áttekintése"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Preview"
+msgstr "Előnézet"
+
+#: src/components/swap/SwapModalHeader.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Price"
+msgstr "Ár"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Price Difference:"
+msgstr "Árkülönbség:"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Price Impact"
+msgstr "Árhatás"
+
+#: src/pages/Swap/index.tsx
+msgid "Price Impact Too High"
+msgstr "Az árhatás túl magas"
+
+#: src/components/swap/SwapModalHeader.tsx
+msgid "Price Updated"
+msgstr "Ár frissítve"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Price range"
+msgstr "Ártartomány"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Price:"
+msgstr "Ár:"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Prices and pool share"
+msgstr "Ár és pool megosztása"
+
+#: src/pages/CreateProposal/ProposalEditor.tsx
+msgid "Proposal"
+msgstr "Ajánlat"
+
+#: src/pages/CreateProposal/ProposalSubmissionModal.tsx
+msgid "Proposal Submitted"
+msgstr "Ajánlat megtéve"
+
+#: src/pages/CreateProposal/ProposalEditor.tsx
+msgid "Proposal Title"
+msgstr "Ajánlat címe"
+
+#: src/pages/Vote/Landing.tsx
+msgid "Proposals"
+msgstr "Ajnálatok"
+
+#: src/components/vote/ProposalEmptyState.tsx
+msgid "Proposals submitted by community members will appear here."
+msgstr "A közösség tagjai által elküldött ajánlatok itt fognak megjelenni."
+
+#: src/pages/CreateProposal/ProposalActionSelector.tsx
+msgid "Proposed Action"
+msgstr "Ajánlott tevékenység"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Proposer"
+msgstr "Ajánlattevő"
+
+#: src/pages/Vote/styled.tsx
+msgid "Queued"
+msgstr "Sorba állítva"
+
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+msgid "Rates"
+msgstr "Árfolyamok"
+
+#: src/components/swap/UnsupportedCurrencyFooter.tsx
+msgid "Read more about unsupported assets"
+msgstr "Tudj meg többet a nem támogatott eszközökről"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Recent Transactions"
+msgstr "Legutóbbi traznakciók"
+
+#: src/components/AddressInputPanel/index.tsx
+msgid "Recipient"
+msgstr "Címzett"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Remove"
+msgstr "Eltávoláítás"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Remove <0/> and <1/>"
+msgstr "<0/> és <1/> eltávolítása"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Remove Amount"
+msgstr "Mennyiség eltávolítása"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Remove Delegate"
+msgstr "Delegált eltávolítása"
+
+#: src/components/NavigationTabs/index.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Remove Liquidity"
+msgstr "Likviditás eltávolítása"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Remove list"
+msgstr "Lista eltávolítása"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Removing {0} {1} and {2} {3}"
+msgstr "{0} {1} és {2} {3} eltávolítása"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Removing {0} {1} and{2} {3}"
+msgstr "{0} {1} and {2} {3} eltávolítása"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/pages/CreateProposal/ProposalSubmissionModal.tsx
+msgid "Return"
+msgstr "Vissza"
+
+#: src/components/SearchModal/CurrencySearch.tsx
+msgid "Search name or paste address"
+msgstr "Név keresése vagy cím beillesztése"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Select Pair"
+msgstr "Pár kiválasztása"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Select a network"
+msgstr "Hálózat kiválasztása"
+
+#: src/components/CurrencyInputPanel/index.tsx
+#: src/components/SearchModal/CurrencySearch.tsx
+#: src/pages/PoolFinder/index.tsx
+#: src/pages/PoolFinder/index.tsx
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Select a token"
+msgstr "Token kiválasztása"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Select a token to find your liquidity."
+msgstr "Token kiválasztás a likviditásod megkereséséhez"
+
+#: src/pages/CreateProposal/ProposalActionSelector.tsx
+msgid "Select an action"
+msgstr "Válassz ki egy tevékenységet"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Selected Range"
+msgstr "Kiválasztott tartomány"
+
+#: src/pages/Vote/Landing.tsx
+msgid "Self"
+msgstr "Saját"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Self Delegate"
+msgstr "Saját delegált"
+
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Set Price Range"
+msgstr "Ártartomány beállítása"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Set Starting Price"
+msgstr "Kezdőárfolyam beállítása"
+
+#: src/pages/AddLiquidityV2/PoolPriceBar.tsx
+msgid "Share of Pool"
+msgstr "Pool osztaléka"
+
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+msgid "Share of Pool:"
+msgstr "Pool osztaléka:"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Show Portis"
+msgstr "Portis mutatása"
+
+#: src/pages/Pool/index.tsx
+msgid "Show closed positions"
+msgstr "Lezárt pozíciók mutatása"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Simple"
+msgstr "Egyszerű"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Slippage tolerance"
+msgstr "Slippage tolerancia"
+
+#: src/components/swap/UnsupportedCurrencyFooter.tsx
+msgid "Some assets are not available through this interface because they may not work well with the smart contracts or we are unable to allow trading for legal reasons."
+msgstr "Egyes eszközök nem elérhetők ezen a felületen keresztül mivel az okosszerződésekkel nem működnek megfelelően vagy jogi okokból kifolyólag nem engedélyezhetjük a kereskedést."
+
+#: src/components/ErrorBoundary/index.tsx
+msgid "Something went wrong"
+msgstr "Valami balul sült el"
+
+#: src/components/PositionList/index.tsx
+msgid "Status"
+msgstr "Státusz"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Step 1. Get BD LP Liquidity tokens"
+msgstr "1. lépés BD LP likviditási token beszerzése"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Submit new proposal"
+msgstr "Új ajánlat küldése"
+
+#: src/pages/CreateProposal/ProposalSubmissionModal.tsx
+msgid "Submitting Proposal"
+msgstr "Ajánlat elkükdése"
+
+#: src/components/vote/VoteModal.tsx
+msgid "Submitting Vote"
+msgstr "Szavazat leadása"
+
+#: src/pages/Vote/styled.tsx
+msgid "Succeeded"
+msgstr "Sikerült"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Success"
+msgstr "Siker"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Supply"
+msgstr "Ellátás"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Supplying {0} {1} and {2} {3}"
+msgstr "{0} {1} és {2} {3} ellátása"
+
+#: src/components/Header/index.tsx
+#: src/components/NavigationTabs/index.tsx
+#: src/components/swap/SwapHeader.tsx
+#: src/pages/Swap/index.tsx
+#: src/pages/Swap/index.tsx
+msgid "Swap"
+msgstr "Swap"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Swap <0/> for exactly <1/>"
+msgstr "<0/> cseréje pontosan <1/>"
+
+#: src/pages/Swap/index.tsx
+#: src/pages/Swap/index.tsx
+msgid "Swap Anyway"
+msgstr "Swap"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Swap exactly <0/> for <1/>"
+msgstr "Swap pontosan <0/> for <1/>"
+
+#: src/hooks/useSwapCallback.tsx
+#: src/hooks/useSwapCallback.tsx
+msgid "Swap failed: {0}"
+msgstr "Swap sikertelen: {0}"
+
+#: src/components/swap/ConfirmSwapModal.tsx
+msgid "Swapping {0} {1} for {2} {3}"
+msgstr "{0} {1} cseréje {2} {3}"
+
+#: src/components/Popups/ClaimPopup.tsx
+msgid "Thanks for being part of the BestDex community <0/>"
+msgstr "Köszönjük, hogy a BestDex közösség tagja vagy <0/>"
+
+#: src/components/FeeSelector/index.tsx
+msgid "The % you will earn in fees."
+msgstr "A % amit megszerezhetsz."
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app fetches blockchain data from The Graph’s hosted service."
+msgstr "Az alkalmazás a The Graph által hosztolt szolgáltatásból gyűjti a blokklánc adatokat."
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app fetches on-chain data and constructs contract calls with an Infura API."
+msgstr "Az alkalmazás az on-chain adatokat és a szerződések létrehozásának elérését az Infura API biztosítja."
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app fetches the optimal trade route from a BestDex Labs server."
+msgstr "Az alkalmazásban az optimális kereskedések útját a BestDEX Labs szerverei biztosítják."
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app logs anonymized usage statistics in order to improve over time."
+msgstr "Az alkalmazás anonim használati adatokat gyűjt a szolgáltatás fejlesztéséhez."
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app securely collects your wallet address and shares it with TRM Labs Inc. for risk and compliance reasons."
+msgstr "Az alkalmazás fokozott biztonság mellett tárolja a tárcacímed a TRM Labs Inc. szerverein kockázati és megfelelőségi okokból."
+
+#: src/components/CurrencyInputPanel/index.tsx
+msgid "The market price is outside your specified price range. Single-asset deposit only."
+msgstr "A piaci árak az ártartományon kívül esnek. Kizárólag egyetlen eszköz befizetése lehetséges."
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "The price of this pool is outside of your selected range. Your position is not currently earning fees."
+msgstr "A pool ára az általad választott ártartományon kívül esik. Jelenleg a pozícióddal nem keresel profitot."
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "The price of this pool is within your selected range. Your position is currently earning fees."
+msgstr "A pool ára a megjelölt ártartonányon belül van. A jelenleg a pozícióddal keresel profitot."
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "The ratio of tokens you add will set the price of this pool."
+msgstr "A hozzáadott tokenek aránya meghatározza a pool árát."
+
+#: src/components/LiquidityChartRangeInput/index.tsx
+msgid "There is no liquidity data."
+msgstr "Nincsenek likviditási adatok."
+
+#: src/components/SearchModal/CommonBases.tsx
+msgid "These tokens are commonly paired with other tokens."
+msgstr "Ezek a tokenek általában más tokenekkel vannak párban."
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "This app uses the following third-party APIs:"
+msgstr "Ez az alkalmazás az alábbi harmadik féltől származó API-kat használja:"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "This pool must be initialized before you can add liquidity. To initialize, select a starting price for the pool. Then, enter your liquidity price range and deposit amount. Gas fees will be higher than usual due to the initialization transaction."
+msgstr "A pool inicializálása szükséges a likviditás hozzáadása előtt. Ehhez add meg a kezdőárat a poolhoz. Ezt követően add meg a likviditási ártartományt és a befizetési összeget. Az inicializálási tranzakciók miatt a gázdíjak magasabbak lesznek."
+
+#: src/components/swap/SwapRoute.tsx
+msgid "This route optimizes your price by considering split routes, multiple hops, and gas costs."
+msgstr "Ez az út optimalizálja az áradat a kereskedési utak szétválasztásával, több állomás beiktatásával és a gázdíjak árával."
+
+#: src/components/SearchModal/ImportToken.tsx
+msgid "This token doesn't appear on the active token list(s). Make sure this is the token that you want to trade."
+msgstr "Ez a token nem szerepel az aktív tokenek listáján. Bizonyosodj meg róla, hogy ez az token az, amivel kereskedni szeretnél."
+
+#: src/components/SearchModal/BlockedToken.tsx
+msgid "This token is not supported in the BestDex Labs app"
+msgstr "Ezt a tokent nem támogatja a BestDEx Labs alkalmazás"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "This tool will safely migrate your {0} liquidity to V3. The process is completely trustless thanks to the"
+msgstr "Ez a pool biztonságosan áthelyezi a {0} likviditásodat V3-ba. A folyamat harmadik féltől független, köszönhetően a"
+
+#: src/components/SearchModal/ManageTokens.tsx
+msgid "Tip: Custom tokens are stored locally in your browser"
+msgstr "Tipp: A személyes tokenek a böngésződben vannak tárolva"
+
+#: src/components/swap/SwapModalHeader.tsx
+#: src/pages/CreateProposal/ProposalActionDetail.tsx
+#: src/pages/CreateProposal/ProposalActionDetail.tsx
+#: src/pages/Swap/index.tsx
+#, fuzzy
+msgid "To"
+msgstr "To"
+
+#: src/pages/Swap/index.tsx
+#, fuzzy
+msgid "To (at least)"
+msgstr "To (at least)"
+
+#: src/components/NetworkAlert/NetworkAlert.tsx
+msgid "To start trading on {0}, first bridge your assets from L1 to L2. Please treat this as a beta release and learn about the risks before using {1}."
+msgstr "A kereskedés megkezdéséhez itt {0}, először is vidd át az eszközeidet L1-ből L2-be. Ne feledd, hogy ez egy béta verzió, és tájékozódj az esetleges kockázatokról a(z) {1} használata előtt.\n"
+""
+
+#: src/components/SearchModal/BlockedToken.tsx
+msgid "Token not supported"
+msgstr "Nem támogatott tokenek"
+
+#: src/components/SearchModal/Manage.tsx
+msgid "Tokens"
+msgstr "Tokenek"
+
+#: src/components/SearchModal/CurrencyList.tsx
+msgid "Tokens from inactive lists. Import specific tokens below or click Manage to activate more lists."
+msgstr "Tokenek inaktív listákról. Importálj konkrét tokent alább, vagy kattints a \"Kezelés\" (Manage) gombra a további listák aktiválásához."
+
+#: src/pages/Pool/CTACards.tsx
+msgid "Top pools"
+msgstr "Legjobb poolok"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "Total Supply"
+msgstr "Teljes készlet"
+
+#: src/components/earn/PoolCard.tsx
+msgid "Total deposited"
+msgstr "Teljes betét"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Total deposits"
+msgstr "Teljes betét"
+
+#: src/components/swap/RouterLabel.tsx
+msgid "Trade Route"
+msgstr "A kereskedés útvonala"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Transaction Details"
+msgstr "A tranzakció részletei"
+
+#: src/components/Settings/index.tsx
+#: src/components/Settings/index.tsx
+msgid "Transaction Settings"
+msgstr "Tranzakció beállítások"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/StakingModal.tsx
+#: src/components/earn/UnstakingModal.tsx
+#: src/components/vote/DelegateModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "Transaction Submitted"
+msgstr "Tranzakció benyújtva"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Transaction completed in"
+msgstr "A tranzakció végleges"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Transaction deadline"
+msgstr "Tranzakció határideje"
+
+#: src/hooks/useSwapCallback.tsx
+#: src/hooks/useSwapCallback.tsx
+msgid "Transaction rejected."
+msgstr "A tranzakció elutasításra került."
+
+#: src/pages/CreateProposal/ProposalActionSelector.tsx
+msgid "Transfer Token"
+msgstr "Token utalása"
+
+#: src/components/WalletModal/PendingView.tsx
+msgid "Try Again"
+msgstr "Próbáld meg újra"
+
+#: src/components/Settings/index.tsx
+msgid "Turn On Expert Mode"
+msgstr "Kapcsold be az Expert módot"
+
+#: src/components/Popups/ClaimPopup.tsx
+msgid "UNI has arrived"
+msgstr "Az UNI megérkezett"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "UNI in circulation:"
+msgstr "forgalomban lévő UNI:"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "UNI price:"
+msgstr "UNI ár:"
+
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/UnstakingModal.tsx
+msgid "Unclaimed UNI"
+msgstr "Nem igényelt UNI"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Unclaimed fees"
+msgstr "Nem igényelt díjak"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "Unclaimed:"
+msgstr "Nem igényelt:"
+
+#: src/pages/Vote/styled.tsx
+msgid "Undetermined"
+msgstr "Meghatározatlan"
+
+#: src/hooks/useSwapCallback.tsx
+msgid "Unexpected error. Could not estimate gas for the swap."
+msgstr "Váratlan hiba. Nem sikerült megbecsülni a cseréhez szükséges gázdíjat."
+
+#: src/hooks/useSwapCallback.tsx
+msgid "Unexpected issue with estimating the gas. Please try again."
+msgstr "Váratlan hiba lépett fel a gázdíj kiszámításánál. Kérünk, hogy próbáld meg újra."
+
+#: src/components/SearchModal/TokenImportCard.tsx
+msgid "Unknown Source"
+msgstr "Ismeretlen forrás"
+
+#: src/pages/Vote/Landing.tsx
+#: src/pages/Vote/VotePage.tsx
+msgid "Unlock Votes"
+msgstr "Szavazatok feloldása"
+
+#: src/pages/Vote/Landing.tsx
+msgid "Unlock Voting"
+msgstr "Szavazás feloldása"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Unlocking Votes"
+msgstr "Szavazatok feloldása"
+
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/Swap/index.tsx
+msgid "Unsupported Asset"
+msgstr "Nem támogatott eszközök"
+
+#: src/components/swap/UnsupportedCurrencyFooter.tsx
+msgid "Unsupported Assets"
+msgstr "Nem támogatott eszközök"
+
+#: src/state/governance/hooks.ts
+msgid "Untitled"
+msgstr "Névtelen"
+
+#: src/pages/Swap/index.tsx
+msgid "Unwrap"
+msgstr "Kicsomagolás"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Unwrap <0/> to ETH"
+msgstr "<0/> ETH-ba való kicsomagolása\n"
+""
+
+#: src/pages/Vote/Landing.tsx
+msgid "Update Delegation"
+msgstr "Delegáció frissítése"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Update list"
+msgstr "Lista frissítése"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "User"
+msgstr "Felhasználó"
+
+#: src/components/swap/SwapRoute.tsx
+msgid "V2"
+msgstr "V2"
+
+#: src/pages/Pool/index.tsx
+msgid "V2 liquidity"
+msgstr "V3 likviditás"
+
+#: src/components/swap/SwapRoute.tsx
+msgid "V3"
+msgstr "V3"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "V3 {0} Price:"
+msgstr "V3 {0} ár:"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "View UNI Analytics"
+msgstr "Tekintsd meg az UNI analitikát"
+
+#: src/pages/Pool/index.tsx
+msgid "View V2 Liquidity"
+msgstr "Tekintsd meg a V2 likividitást"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "View list"
+msgstr "Lista megtekintése"
+
+#: src/pages/CreateProposal/ProposalSubmissionModal.tsx
+msgid "View on Etherscan"
+msgstr "Tekintsd meg Etherscanen"
+
+#: src/components/AccountDetails/index.tsx
+#: src/components/AccountDetails/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "View on Explorer"
+msgstr "Tekintsd meg Explorerben"
+
+#: src/components/ModalViews/index.tsx
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "View transaction on Explorer"
+msgstr "Tekintsd meg a tranzakciót Explorerben"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Vote Against"
+msgstr "Szavazz ellene"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Vote For"
+msgstr "Szavazz"
+
+#: src/components/vote/VoteModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "Vote against proposal {proposalId}"
+msgstr "Szavazz az ajánlat ellen {proposalId}"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote against proposal {proposalKey}"
+msgstr "Szavazz az ajánlat ellen {proposalKey}"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote against proposal {proposalKey} with reason \"{0}\""
+msgstr "Szavazz az ajánlat ellen {proposalKey} a következő okból: \"{0}\"\n"
+""
+
+#: src/components/vote/VoteModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "Vote for proposal {proposalId}"
+msgstr "Szavazz az ajánlatra {proposalId}\n"
+""
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote for proposal {proposalKey}"
+msgstr "Szavazz az ajánlatra {proposalKey}\n"
+""
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote for proposal {proposalKey} with reason \"{0}\""
+msgstr "Szavazz az ajánlatra {proposalKey} ezzel az indokkal: \"{0}\"\n"
+""
+
+#: src/components/vote/VoteModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "Vote to abstain on proposal {proposalId}"
+msgstr "Szavazz a tartózkodásra ennél az ajánlatnál {proposalId}\n"
+""
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote to abstain on proposal {proposalKey}"
+msgstr "Szavazz a tartózkodásra ennél az ajánlatnál {proposalKey}\n"
+""
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote to abstain on proposal {proposalKey} with reason \"{0}\""
+msgstr "Szavazz a tartózkodásra ennél az ajánlatnál {proposalKey}, ebből az okból \"{0}\"\n"
+""
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Voting ended {0}"
+msgstr "A szavazás {0}-kor véget ért"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Voting ends approximately {0}"
+msgstr "A szavazás körülbelül {0}-kor fejeződik be\n"
+""
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Voting starts approximately {0}"
+msgstr "A szavazás körülbelül {0}-kor kezdődik\n"
+""
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Waiting For Confirmation"
+msgstr "Megerősítésre vár"
+
+#: src/components/AddressInputPanel/index.tsx
+msgid "Wallet Address or ENS name"
+msgstr "Pénztárca cím vagy ENS név "
+
+#: src/components/earn/StakingModal.tsx
+msgid "Weekly Rewards"
+msgstr "Heti jutalmak"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "Welcome to team Unicorn :)"
+msgstr "Üdvözlünk az egyszarvú csapatban!"
+
+#: src/components/earn/ClaimRewardModal.tsx
+msgid "When you claim without withdrawing your liquidity remains in the mining pool."
+msgstr "Ha kivonás nélkül nyújtasz be igényt, akkor a likviditás a bányászati poolban marad."
+
+#: src/pages/Earn/Manage.tsx
+msgid "When you withdraw, the contract will automagically claim UNI on your behalf!"
+msgstr "Kivonáskor a szerződés automatikusan igényli az UNI-t a te nevedben."
+
+#: src/components/earn/UnstakingModal.tsx
+msgid "When you withdraw, your UNI is claimed and your liquidity is removed from the mining pool."
+msgstr "Kivonáskor az UNI-t igényled és a likviditást eltávolítják a bányászati ​​poolból."
+
+#: src/components/earn/UnstakingModal.tsx
+#: src/pages/Earn/Manage.tsx
+msgid "Withdraw"
+msgstr "Kivonás"
+
+#: src/components/earn/UnstakingModal.tsx
+msgid "Withdraw & Claim"
+msgstr "Kivonás & igény"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Withdraw deposited liquidity"
+msgstr "A letétbe helyezett likviditás kivonása"
+
+#: src/components/earn/UnstakingModal.tsx
+msgid "Withdrawing {0} BD LP"
+msgstr "{0} BD LP kivonása\n"
+""
+
+#: src/components/earn/UnstakingModal.tsx
+msgid "Withdrew BD LP!"
+msgstr "Kivont BD LP-t!"
+
+#: src/pages/Swap/index.tsx
+msgid "Wrap"
+msgstr "Becsomagolás"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Wrap <0/> to WETH"
+msgstr "<0/> becsomagolása WETH-be\n"
+""
+
+#: src/components/WalletModal/index.tsx
+#: src/components/Web3Status/index.tsx
+msgid "Wrong Network"
+msgstr "Rossz hálózat"
+
+#: src/pages/CreateProposal/index.tsx
+msgid "You already have an active or pending proposal"
+msgstr "Már van egy aktív vagy függő ajánlat"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "You are creating a pool"
+msgstr "Poolt hozol létre"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "You are the first liquidity provider for this BestDex V3 pool. Your liquidity will migrate at the current {0} price."
+msgstr "Te vagy az első likviditásszolgáltató a BestDex V3-ban. Likviditásod a jelenlegi {0} áron mozog."
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "You are the first liquidity provider."
+msgstr "Te vagy az első likviditásszolgáltató"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "You can either vote on each proposal yourself or delegate your votes to a third party."
+msgstr "Minden javaslatról szavazhatsz te magad, vagy átruházhatod szavazataidat egy harmadik félre."
+
+#: src/pages/Swap/index.tsx
+msgid "You can now trade {0}"
+msgstr "Megkezdheted a kereskedést {0}"
+
+#: src/pages/CreateProposal/index.tsx
+msgid "You don't have enough votes to submit a proposal"
+msgstr "Nincs elegendő szavazati lehetőséged, hogy benyújts egy javaslatot"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "You don’t have liquidity in this pool yet."
+msgstr "Egyelőre még nincs likviditás ebben a poolban."
+
+#: src/components/Header/ChainConnectivityWarning.tsx
+msgid "You may have lost your network connection, or {label} might be down right now."
+msgstr "Előfordulhat, hogy az internetkapcsolat megszakadt, vagy a(z) {label} nem működik."
+
+#: src/components/Header/ChainConnectivityWarning.tsx
+msgid "You may have lost your network connection."
+msgstr "Előfordulhat, hogy megszakadt az internetkapcsolat."
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "You must connect an account."
+msgstr "Csatlakoztatnod kell egy fiókot."
+
+#: src/pages/Swap/index.tsx
+msgid "You must give the BestDex smart contracts permission to use your {0}. You only have to do this once per token."
+msgstr "Engedélyt kell adnod a BestDex intelligens szerződéseinek a(z) {0} használatához. Ezt tokenenként csak egyszer kell megtenned."
+
+#: src/pages/CreateProposal/index.tsx
+msgid "You must have {formattedProposalThreshold} votes to submit a proposal"
+msgstr "Javaslat benyújtásához {formattedProposalThreshold} szavazattal kell rendelkezned"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "You should only deposit liquidity into BestDex V3 at a price you believe is correct. <0/>If the price seems incorrect, you can either make a swap to move the price or wait for someone else to do so."
+msgstr "Likviditást csak olyan áron helyezhetsz el a BestDex V3-ba, amelyet helyesnek vélsz. <0/>Ha az ár hibásnak tűnik, akkor megváltoztathatod azt az ár mozgatásához, vagy megvárhatod, amíg valaki más megteszi ezt."
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "You will also collect fees earned from this position."
+msgstr "Az ebből a pozícióból bejött díjakat is szerzel."
+
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "You will receive"
+msgstr "Kapsz majd"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "Your UNI Breakdown"
+msgstr "Részletes UNI"
+
+#: src/pages/Pool/index.tsx
+msgid "Your V3 liquidity positions will appear here."
+msgstr "A V3 likividitási pozíciód itt jelenik majd meg"
+
+#: src/pages/Pool/v2.tsx
+msgid "Your liquidity"
+msgstr "Likviditás"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Your liquidity deposits"
+msgstr "Likviditási letét"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+#: src/components/PositionCard/index.tsx
+msgid "Your pool share:"
+msgstr "A te pool részesedésed:"
+
+#: src/components/PositionCard/index.tsx
+msgid "Your position"
+msgstr "A te pozíciód:"
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "Your position has 0 liquidity, and is not earning fees."
+msgstr "A te pozíciód 0 likviditással rendelkezik, és nem keresel rajta"
+
+#: src/components/LiquidityChartRangeInput/index.tsx
+#: src/components/LiquidityChartRangeInput/index.tsx
+msgid "Your position will appear here."
+msgstr "A te pozíciód itt jelenik mad meg."
+
+#: src/components/PositionPreview/index.tsx
+#: src/components/PositionPreview/index.tsx
+msgid "Your position will be 100% composed of {0} at this price"
+msgstr "A te pozíciód 100%-ban {0} lesz, ezen az áron"
+
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "Your position will be 100% {0} at this price."
+msgstr "A te pozíciód 100%-ban {0} lesz, ezen az áron"
+
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Your position will not earn fees or be used in trades until the market price moves into your range."
+msgstr "A te pozícióddal nem keresel pénzt, vagy csak kereskedésekhez használhatod majd, amíg a piaci árak el nem mozdulnak a te árkategóriádba"
+
+#: src/components/PositionList/index.tsx
+#: src/components/PositionList/index.tsx
+msgid "Your positions"
+msgstr "A te pozícióid"
+
+#: src/components/earn/PoolCard.tsx
+msgid "Your rate"
+msgstr "A te díjszabásod"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+msgid "Your total pool tokens:"
+msgstr "A teljes pool tokenjeid:"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Your transaction cost will be much higher as it includes the gas to create the pool."
+msgstr "A tranzakciós díj sokkal magasabb lesz, mivel az magában foglalja a gázdíjakat is, a pool létrehozásához"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Your transaction may be frontrun"
+msgstr "Előfordulhat, hogy a tranzakciód előrébb kerül"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Your transaction may fail"
+msgstr "A tranzakció bebukhat"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Your transaction will revert if it is pending for more than this period of time."
+msgstr "A tranzakció visszaáll, ha az ennél hosszabb ideig függőben van."
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Your transaction will revert if the price changes unfavorably by more than this percentage."
+msgstr "A tranzakció visszaáll, ha az ár ennél a százaléknál nagyobb mértékben változik a te hátrányodra."
+
+#: src/components/AccountDetails/index.tsx
+msgid "Your transactions will appear here..."
+msgstr "Az általad végrehajtott tranzakciók itt jelennek majd meg..."
+
+#: src/pages/Earn/Manage.tsx
+msgid "Your unclaimed UNI"
+msgstr "Nem igényeltél UNI-t"
+
+#: src/components/AccountDetails/index.tsx
+msgid "clear all"
+msgstr "valamennyi törlése"
+
+#: src/components/Settings/index.tsx
+msgid "confirm"
+msgstr "megerősítés"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "for {0}"
+msgstr "{0}"
+
+#: src/components/Web3Status/index.tsx
+msgid "has socks emoji"
+msgstr "van zokni emojija"
+
+#: src/components/Header/ChainConnectivityWarning.tsx
+#: src/components/WalletModal/index.tsx
+msgid "here."
+msgstr "itt."
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "https:// or ipfs:// or ENS name"
+msgstr "https:// vagy ipfs:// vagy ENS név"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "minutes"
+msgstr "percek"
+
+#: src/components/SearchModal/ImportRow.tsx
+msgid "via {0}"
+msgstr "keresztül {0}"
+
+#: src/components/SearchModal/TokenImportCard.tsx
+msgid "via {0} token list"
+msgstr "a {0} token listán keresztül"
+
+#: src/components/SearchModal/ImportToken.tsx
+msgid "{0, plural, one {Import token} other {Import tokens}}"
+msgstr "{0, plural, one {Import token} other {Import tokens}}"
+
+#: src/components/RateToggle/index.tsx
+#: src/components/RateToggle/index.tsx
+#: src/hooks/useSwapCallback.tsx
+#: src/hooks/useSwapCallback.tsx
+msgid "{0}"
+msgstr "{0}"
+
+#: src/components/PositionCard/index.tsx
+#: src/pages/Vote/VotePage.tsx
+#: src/pages/Vote/VotePage.tsx
+msgid "{0} %"
+msgstr "{0} %"
+
+#: src/components/PositionListItem/index.tsx
+#: src/components/PositionListItem/index.tsx
+msgid "{0} <0/> per <1/>"
+msgstr "{0} <0/> per <1/>"
+
+#: src/components/earn/StakingModal.tsx
+msgid "{0} BD LP"
+msgstr "{0} BD LP"
+
+#: src/pages/Earn/Manage.tsx
+msgid "{0} BD LP LP tokens available"
+msgstr "{0} BD LP LP token elérhető"
+
+#: src/components/SearchModal/ManageTokens.tsx
+msgid "{0} Custom Tokens"
+msgstr "{0} Egyéni tokenek"
+
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+msgid "{0} Deposited"
+msgstr "{0} Letét"
+
+#: src/components/earn/PoolCard.tsx
+msgid "{0} ETH"
+msgstr "{0} ETH"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "{0} Fees Earned:"
+msgstr "{0} Megszerzett díjak:"
+
+#: src/components/Web3Status/index.tsx
+msgid "{0} Pending"
+msgstr "{0} Függőben van"
+
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+msgid "{0} UNI"
+msgstr "{0} UNI"
+
+#: src/components/earn/PoolCard.tsx
+#: src/components/earn/PoolCard.tsx
+#: src/components/earn/StakingModal.tsx
+#: src/pages/Earn/Manage.tsx
+#: src/pages/Earn/Manage.tsx
+msgid "{0} UNI / week"
+msgstr "{0} UNI/hét"
+
+#: src/components/vote/VoteModal.tsx
+msgid "{0} Votes"
+msgstr "{0} Szavazatok"
+
+#: src/components/PositionPreview/index.tsx
+#: src/components/PositionPreview/index.tsx
+#: src/components/PositionPreview/index.tsx
+#: src/pages/AddLiquidityV2/PoolPriceBar.tsx
+#: src/pages/AddLiquidityV2/PoolPriceBar.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "{0} per {1}"
+msgstr "{0} per {1}"
+
+#: src/components/SearchModal/ImportList.tsx
+#: src/components/SearchModal/ManageLists.tsx
+msgid "{0} tokens"
+msgstr "{0} tokenek"
+
+#: src/components/Header/index.tsx
+#: src/components/Web3Status/index.tsx
+msgid "{0} {1}"
+msgstr "{0} {1}"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "{0} {1} Price:"
+msgstr "{0} {1} Ár:"
+
+#: src/components/SearchModal/CurrencyList.tsx
+msgid "{0} • Added by user"
+msgstr "{0} • A felhasználó által lett hozzáadva"
+
+#: src/components/CurrencyInputPanel/FiatValue.tsx
+#: src/components/FeeSelector/FeeOption.tsx
+#: src/components/PositionListItem/index.tsx
+#: src/components/PositionPreview/index.tsx
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "{0}%"
+msgstr "{0}%"
+
+#: src/components/FeeSelector/index.tsx
+msgid "{0}% fee tier"
+msgstr "{0}% díjszabások"
+
+#: src/components/FeeSelector/FeeTierPercentageBadge.tsx
+msgid "{0}% select"
+msgstr "{0}% válaszd ki"
+
+#: src/pages/Earn/Manage.tsx
+msgid "{0}-{1} Liquidity Mining"
+msgstr "{0}-{1} Likviditás bányászata"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "{0}/{1} LP NFT"
+msgstr "{0}/{1} LP NFT"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "{0}/{1} LP Tokens"
+msgstr "{0}/{1} LP tokenek"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "{SOCKS_AMOUNT} UNI"
+msgstr "{SOCKS_AMOUNT} UNI"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "{USER_AMOUNT} UNI"
+msgstr "{USER_AMOUNT} UNI"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "{activeTokensOnThisChain} tokens"
+msgstr "{activeTokensOnThisChain} tokenek"
+
+#: src/pages/Home/ContentImageSection.tsx
+msgid "{heading}"
+msgstr "{heading}"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "{percentForSlider}%"
+msgstr "{percentForSlider}%"
+
+#: src/components/InputStepCounter/InputStepCounter.tsx
+msgid "{tokenB} per {tokenA}"
+msgstr "{tokenB} per {tokenA}"
+
+#: src/components/CurrencyInputPanel/FiatValue.tsx
+msgid "~$ <0/>"
+msgstr "~$ <0/>"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "← Back to Pools Overview"
+msgstr "← Vissza a poolok áttekintéshez"
+
+#: 
+msgid "Questions"
+msgstr "Kérdések"
+
+#: 
+msgid "Best Wallet is a fully decentralised crypto wallet aiming to address the concerns present in traditional custody solutions regarding security, privacy, and control over assets. We’re empowering users to manage their own digital assets from their own phone or computer with minimal reliance on centralized authorities."
+msgstr "A Best Wallet egy teljesen decentralizált kripto pénztárca, amely a hagyományos letétkezelési megoldások biztonságával, adatvédelemmel és az eszközök feletti ellenőrzéssel kapcsolatban esetlegesen felmerülő aggályaidat kívánja kezelni. A felhasználók saját telefonjukról vagy számítógépükről kezelhetik saját digitális eszközeiket, minimális mértékben támaszkodva a központosított szervezetekre."
+
+#: 
+msgid "The smartest way to manage your digital assets."
+msgstr "A legjobb módja a digitális eszközeid kezelésének"
+
+#: 
+msgid "LEARN MORE"
+msgstr "TUDJ MEG ERRŐL TÖBBET"
+
+#: 
+msgid "INTRODUCING"
+msgstr "BEMUTATJUK"
+
+#: 
+msgid "Market Insights"
+msgstr "Piaci betekintések"
+
+#: 
+msgid "Participate in the BEST airdrop"
+msgstr "Vegyél részt a BEST airdropban"
+
+#: 
+msgid "We’re rewarding all our early adopters with an airdrop of 10% of the total supply of BEST tokens."
+msgstr "Azokat, akik a projekt elején csatlakoznak hozzánk, a BEST tokenek teljes kínálatának 10%-ával jutalmazzuk meg."
+
+#: 
+msgid "How to get started"
+msgstr "Hogyan kezdj bele"
+
+#: 
+msgid "Download the Best Wallet app"
+msgstr "Töltsd le a Best Wallet applikációt"
+
+#: 
+msgid "Availiable on\n"
+""
+msgstr "Elérhető"
+
+#: 
+msgid "Get it on"
+msgstr "Szerezd meg"
+
+#: 
+msgid "Create a wallet"
+msgstr "Hozz létre egy pénztárcát"
+
+#: 
+msgid "Make sure you complete all the steps below to ensure we can track your activities towards the Best Wallet airdrop"
+msgstr "Bizonyosodj meg arról, hogy az összes alábbi lépést végrehajtod, hogy nyomon tudjuk követni tevékenységeidet, hogy részt vehess a Best Wallet airdrop akcióban"
+
+#: 
+msgid "Download Our App"
+msgstr "Töltsd le az applikációt"
+
+#: 
+msgid "Engage On Our Platform"
+msgstr "Látogass el a platformunkra"
+
+#: 
+msgid "Visit Our Website"
+msgstr "Látogass el a weboldalunkra"
+
+#: 
+msgid "Join @BestWallet_Official on Telegram"
+msgstr "Csatlakozz hozzánk a @BestWallet_Official Telegram oldalon"
+
+#: 
+msgid "Join Our Discord Server"
+msgstr "Csatlakozz hozzánk a Discord oldalunkon"
+
+#: 
+msgid "Follow @BestWallet__ on Twitter"
+msgstr "Kövesd a @BestWallet__ Twitter oldalt"
+
+#: 
+msgid "Visit @bestwalletofficial on Instagram"
+msgstr "Látogass el az @bestwalletofficial Instagram oldalra"
+
+#: 
+msgid "How you earn points"
+msgstr "Hogyan szerezhetsz pontokat?"
+
+#: 
+msgid "Use the Best Wallet App and DEX"
+msgstr "Használd a legjobb pénztárca applikációt és DEX-et"
+
+#: 
+msgid "Store your tokens and make transactions"
+msgstr "Tárold a tokenjeidet és köss tranzakciókat"
+
+#: 
+msgid "Engage with our Socials and spread the word"
+msgstr "Csatlakozz a közösségi oldalainkhoz, és terjeszd a hírt"
+
+#: 
+msgid "Cryptocurrency may be unregulated in your jurisdiction. The value of cryptocurrencies may go down as well as up. Profits may be subject to capital gains or other taxes applicable in your jurisdiction.\n"
+""
+msgstr "Előfordulhat, hogy a kriptovaluták nem szabályozottak a te tartózkodási helyeden. A kriptovaluták értéke csökkenhet és emelkedhet is. A nyereséget tőkenyereség vagy egyéb adók terhelhetik, amelyek a tartózkodási helyedtől függően alkalmazandók."
+
+#: 
+msgid "What is a Crypto Airdrop?"
+msgstr "Mi az a kripto Airdrop?"
+
+#: 
+#, fuzzy
+msgid "An Airdrop is when a token is sent to a specific group of crypto wallet addresses. Sometimes this is a marketing strategy by crypto projects to introduce their token to new audiences. In our case, the BEST Token Airdrop rewards early adopters, power users, and brand advocates of Best Wallet and Best DEX with a portion of the total token supply as a way to thank them for their engagement within the Best Ecosystem."
+msgstr "Az Airdrop egy olyan esemény, amikor egy token szétosztásra kerül különböző tárcacímek között. Néha ez egy marketingstratégia része, hogy minél több felhasználót lehessen megszólítani. A Best Tone Airdrop esetében szeretnénk jutalmazni a korai befektetőket, a power usereket , a Best Wallet és a Best Dex márkák nagyköveteit a tokenkészlet egy részének felajánlásával, hogy megköszönhessük a Best ökoszisztémába fektetett bizalmukat."
+
+#: 
+msgid "How can I participate in the BEST Token Airdrop?"
+msgstr "Hogyan vehetek rsézt a BEST token airdroppon?"
+
+#: 
+msgid "To participate in the BEST Token Airdrop, you need to follow these steps:"
+msgstr "Annak érdekében, hogy te is részese lehess az Airdroppnak, az alábbi lépéseket kell követned:"
+
+#: 
+msgid "a. Download the Best Wallet app and create a wallet."
+msgstr "a. Töltsd le a Best Wallet alkalmazást és hozz létre egy tárcát."
+
+#: 
+msgid "b. Visit the Airdrop page on our website."
+msgstr "b. Látogass el az Airdrop oldalára a weboldalon."
+
+#: 
+msgid "c. Provide your wallet address, email address, Twitter handle, and Discord username and follow our socials"
+msgstr "c. Add meg a tárca-, e-mail és a Twitter oldalad címét, a Discord felhasználóneved és kövess minket a közösségi oldalainkon"
+
+#: 
+msgid "d. Engage actively within the Best Ecosystem to earn points."
+msgstr "d. Légy aktív tagja a Best ökoszisztémának és szerezz pontokat."
+
+#: 
+msgid "How do I earn points during the Airdrop?"
+msgstr "Hogyan szerezhetek pontokat az Airdrop idején?"
+
+#: 
+msgid "During Phase 1-6 of our product launch, points are earned in three ways."
+msgstr "Az 1-6 fázis között válik termékünk elérhetővé, pontokat három különböző módon lehet szerezni."
+
+#: 
+msgid "a. Engaging with our socials and spreading the word about Best Web3."
+msgstr "a. Közösségi médián keresztül részt veszel a legjobb Web3 projekt népszerűsítésében."
+
+#: 
+msgid "b. Using Best Wallet."
+msgstr "b. Best Wallet használatával."
+
+#: 
+msgid "c. Using Best DEX."
+msgstr "c. Best DEX használatával."
+
+#: 
+msgid "What are the benefits of holding BEST tokens?"
+msgstr "Milyen előnyei vannak a BEST tokenek használatának?"
+
+#: 
+msgid "Holding BEST tokens will bring several exclusive benefits within the Best Ecosystem, including:"
+msgstr "A BEST tokenekkel számos exkluzív jutalomban részesülhetsz a Best ökoszisztémában, beleértve:"
+
+#: 
+msgid "a. No gas fees on transactions."
+msgstr "a. Nincsenek gázdíjak a tranzakciók során."
+
+#: 
+msgid "b. Governance voting on Best Dex."
+msgstr "b. Kormányzási szavazások a Best Dexen."
+
+#: 
+msgid "c. Early access to token launches."
+msgstr "c. Korai hozzáférés érmeindulások idején."
+
+#: 
+msgid "d. Participation in exclusive NFT and token drops."
+msgstr "d. Részvétel exkluzív NFT és token droppokon."
+
+#: 
+msgid "We will announce more benefits and utility closer to the airdrop date."
+msgstr "További jutalmakat az airdrop dátumához közeledve fogunk megosztani."
+
+#: 
+msgid "When will the Airdrop happen?"
+msgstr "Mikor lesz az Airdrop?"
+
+#: 
+msgid "The airdrop ends at the end of phase 6 of our Best Wallet launch. The specific date and time of the Airdrop will be announced on our official website and social media channels. Stay tuned for updates to ensure you don't miss out on this opportunity!"
+msgstr "Az Airdropra a 6. szakasz végén kerül majd sor, a Best Wallet indulásakor. Ennek pontos dátumán a weboldalon fogjuk majd megosztani. Kövess minket, hogy ne maradj le a legfrissebb hírekről."
+
+#: 
+msgid "How will the Airdrop rewards be distributed?"
+msgstr "Hogyan lesznek szétosztva az Airdrop jutalmak?"
+
+#: 
+msgid "10% of the total supply of the BEST token has been allocated to the airdrop. Participants will earn a share of the token pool proportionate to the points they have used throughout phases 1-6 of the Best Wallet launch. The Airdrop rewards will be distributed directly to the wallet addresses provided during the registration process. Please ensure the accuracy of the wallet address to receive your tokens smoothly."
+msgstr "A teljes tokenkészlet 10%-a az airdrop jutalmakra lesz fordítva. A résztvevők részesedést fognak kapni a token poolból annak megfelelően, hogy mennyi pontot szereztek az 1-6 fázis között. A jutalmak közvetlenül a tárcacímekre lesznek majd utalva a regisztráció során. Bizonyosodj meg róla, hogy helyesen adtad meg a tárcád címét."
+
+#: 
+msgid "Is there a limited number of participants for the Airdrop?"
+msgstr "Korlátozva van az Airdroppp résztvevők száma?"
+
+#: 
+msgid "Participation is open to all."
+msgstr "A részvétel bárki számára lehetséges."
+
+#: 
+msgid "Can I register multiple times for the Airdrop?"
+msgstr "Tudod több alkalommal is regisztrálni az Airdroppra?"
+
+#: 
+msgid "No, each participant is allowed to register only once for the Airdrop. Multiple registrations may lead to disqualification."
+msgstr "Nem, minden résztvevő csak egyszer regisztrálhat az Airdroppra. Amennyiben kiderül, hogy valaki többször próbálkozott, abban az esetben kizárásra kerül."
+
+#: 
+msgid "How will you prevent fraudulent activity during the Airdrop?"
+msgstr "Hogyan lehetséges meggátolni az Airdrop során a csalásokat?"
+
+#: 
+msgid "We have implemented various security measures to detect and prevent fraudulent activities. Any attempts at gaming the system or engaging in suspicious activities will lead to immediate disqualification from the Airdrop."
+msgstr "Több különböző rendszert is létrehoztunk annak érdekében, hogy biztosítani tudjuk, hogy az Airdrop a megfelelő módon menjen végbe. Minden próbálkozás ami a rendszer kijátszására irányul gyanús aktivitásnak minősül, és azonnal kizárást fog maga után vonni."
+
+#: 
+msgid "How can I stay updated about the Airdrop and the project's progress?"
+msgstr "Honnan tudok értesülni a legfrissebb hírekről az Airdroppal kapcsolatban?"
+
+#: 
+msgid "To stay informed about the Airdrop, project updates, and important announcements, make sure to follow our official social media channels and regularly check our website. We will keep the community informed about any developments related to the BEST Token Airdrop."
+msgstr "A legegyszerűbben úgy értesülhetsz az Airdroppot érintő hírekről és a fontos bejelentésekről, ha követsz minket a közösségi oldalainkon és rendszeresen ellátogatsz a weboldalra. A BEST token Airdroppal kapcsolatos eseményekről minden csatornán értesíteni fogjuk a közösséget."
+
+#: 
+msgid "Best DEX is built as the sister app to Best Wallet, our flagship <0>non-custodial crypto wallet</0>. Best DEX can be accessed from within Best Wallet for an easy trading experience all within a single app. No more need to use several different wallets and DEXs to manage your crypto portfolio."
+msgstr "A Best DEX a Best Wallet testvéralkalmazásaként lett létrehozva mely a <0>non-custodial kriptotárca</0> zászlóshajónk. A rendkívül egyszerűen használható Best DEX a Best Walleten keresztül érhető el. Egyetlen alkalmazás, egyetlen kriptotárca és egyetlen DEX amin keresztül mindent elérhetsz."
+
+#: 
+msgid "Best DEX does not require KYC verification to start trading. We prioritise user privacy and aim to provide a hassle-free onboarding experience. Simply connect your wallet and you’re ready to go."
+msgstr "A Best DEX használatához nincs szükségs KYC-ellenőrzésre a kereskedés megkezdéséhez. Számunkra elsődleges a felhasználók adatainak védelme és az egyszerű felhasználói élmény biztosítása. Csak kapcsold össze a kriptotárcádat és már kezdetheted is a használatot."
+
+#: 
+msgid "Follow our socials and join our community hubs <0>here</0>"
+msgstr "Közösségi olsdalakink követése és a közösségi hub <0>itt</0> érhető el"
+
+#: 
+msgid "We are launching the BEST token at the end of Phase 6 of our roadmap and will reward our early adopters and power users with 10% of our total supply based on the points they have accumulated from using our app and spreading the word on socials."
+msgstr "A BEST tokeneket az ütemtervünk 6. szakaszában indítjuk el és a tokenkészlet 10%-val fogjuk jutalmazni a korai befektetőket. A jutalom mértékét az alkalmazás használata során összegyűjtött pontok és a közösségi aktivitás alapján fogjuk kiosztani."
+
+#: 
+msgid "In the near future, Best DEX will be available as a decentralised application (dApp) within Best Wallet, offering an even more integrated and user-friendly trading experience."
+msgstr "A jövőben a Best DEX egy decentralizált alkalmazásként (dApp) lesz elérhető a Best Walleten belül amivel egy még integráltabb felhasználói élményben lehet majd részed."
+
+#: 
+msgid "Simply visit the Best DEX platform through your mobile web browser to start trading cryptocurrencies on the go."
+msgstr "Csak látogass el a Best DEX platformjára mobilodról vagy böngészőből, hogy megkezd a kriptokereskedést."
+
+#: 
+msgid "Best Wallet is the fully non-custodial crypto wallet at the heart of the Best Web3 Ecosystem. Buy, store, send, and receive Bitcoin and many other cryptocurrencies safely and securely with the Best Wallet app."
+msgstr "A Best Web3 ökoszisztémában a Best Wallet egy teljes mértékben non-custodial kriptotárca lesz. Vásárolj, tárolj és küldj és fogadj Bitcoint és számos más kriptopénzt biztonságosan, a Best Wallet alkalmazás segítségével."
+
+#: 
+msgid "Portfolio Management and Token Analytics give users everything they need to get in early on the hottest token launches, make the right trades at the right times, and maximise profits."
+msgstr "A Portfolio Management és a Token Analytics mindent biztosít, amire a felhasználóknak szüksége lehet a korai érmék eléréshez, a legjobb kereskedések lebonyolításához, és a legmagasabb profit eléréséhez."
+
+#: 
+msgid "Create a wallet in the BEST Wallet"
+msgstr "Hozz létre egy tárcád a BEST Wallet alkalmazásban"
+
+#: 
+msgid "Make sure you complete all the steps below to ensure we can track your activities towards the BEST airdrop"
+msgstr "Bizonyosodj meg róla, hogy minden lépést elvégeztél, hiszen csak így tudjuk nyomon követni az aktivitásod a BEST airdroppal kapcsolatban"
+
+#: 
+msgid "Download the Best Wallet app and create a wallet."
+msgstr "Töltsd le a Best Wallet alkalmazást és hozz létre egy tárcát"
+
+#: 
+msgid "2023 Best Web3. All Right Reserved."
+msgstr "2023 Best Web3. Minden jog fenntartva."
+
+#: 
+msgid "Get Featured on Best DEX"
+msgstr "Szerepelj a Best DEX-en"
+
+#: 
+msgid "Partner with the Best"
+msgstr "Partnerség a Besttel"
+
+#: 
+msgid "Become a partner and let us showcase your project to the world. Reach thousands of highly engaged global Best Wallet crypto holders."
+msgstr "Legyél a partnerünk, hogy nálunk tudd bemutatni a projekted a világnak. Érd el a Best Wallet kripto tulajdonosainak ezreit."
+
+#: 
+msgid "Best Audience"
+msgstr "Best közönség"
+
+#: 
+msgid "News Coverage"
+msgstr "Hírek tudósítása"
+
+#: 
+msgid "Featured on Best DEX"
+msgstr "Szerepelt a Best DEX-en"
+
+#: 
+msgid "You have a following and you’re trending in all the right ways. Best Wallet will showcase your achievements and potential to thousands more engaged crypto holders."
+msgstr "Már vannak követőid és a legjobb módon lettél felkapott. A Best Wallet bemutatja az elért eredményeidet és több ezer felhasználóhoz juttat el."
+
+#: 
+msgid "Your project will be picked up by high-ranking crypto news sites with a combined traffic of over 20 million monthly visitors."
+msgstr "A projekted a legjobbra értékelt kripto weboldalakon lesz elérhető, melyeknek összesített havi látogatottsága a 20 milliót is meghaladja."
+
+#: 
+msgid "Be a part of the Best Ecosystem. We’ll list your token on Best DEX and support it with exposure and user incentives."
+msgstr "Legyél részese a Best ökoszisztémának. A projektedet a Best DEX kriptotőzsdén listázzuk és támogatjuk minden lehetséges eszközzel."
+
+#: 
+msgid "Showcase Application"
+msgstr "Alkalmazás bemutatása"
+
+#: 
+msgid "First Name"
+msgstr "Keresztnév"
+
+#: 
+msgid "Last Name"
+msgstr "Vezetéknév"
+
+#: 
+msgid "Your work Email"
+msgstr "Munkahelyi e-mail címed"
+
+#: 
+msgid "Provide a link to your website"
+msgstr "Adj meg egy hivatkozási címet a weboldaladhoz"
+
+#: 
+msgid "URL"
+msgstr "URL"
+
+#: 
+msgid "More Information"
+msgstr "Több információ"
+
+#: 
+msgid "Tell us about your project"
+msgstr "Mesélj a projektedről"
+
+#: 
+msgid "I confirm I have read agree to the <0>Privacy Policy</0>."
+msgstr "<0>Privacy Policy</0> elolvasva."
+
+#: 
+msgctxt "Shown on a button for applying to be a partner in BESTDex"
+msgid "Apply"
+msgstr "Alkalmaz"
+
+#: 
+msgid "Trade"
+msgstr "Kereskedés"
+
+#: 
+msgid "Features"
+msgstr "Előnyök"
+
+#: 
+msgid "Best DEX is a decentralised exchange designed to seamlessly integrate with Best Wallet, our non-custodial crypto wallet . It allows you to trade cryptocurrencies securely and efficiently while maintaining full control of your funds and digital assets."
+msgstr "A Best DEX egy decentralizált kriptotőzsde, amit a Best Wallet non-custodial kriptotárca használatához terveztek. Lehetőséged van biztonságos körülmények között, hatékonyan végrehajtani bármilyen kereskedést a kriptotárcád segítségével."
+
+#: 
+msgid "What are the benefits of Best DEX?"
+msgstr "Milyen előnyei vannak a Best DEX?"
+
+

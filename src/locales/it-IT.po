@@ -1,0 +1,3022 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Best DEX Website\n"
+"Language: it\n"
+
+#. Please don't change the name of the application
+#: src/pages/Home/index.tsx
+msgid "Buy and Sell Instantly on"
+msgstr "Compra e vendi subito su"
+
+#: src/pages/Home/index.tsx
+msgid "Recommended By"
+msgstr "Raccomandato da"
+
+#: src/pages/Home/index.tsx
+msgid "Trade any token on Ethereum or BNB Smart Chain in seconds, just by connecting your wallet."
+msgstr "Scambia qualsiasi token su Ethereum o BNB Smart Chain in pochi secondi, semplicemente collegando il tuo wallet."
+
+#: /app/modules/views
+msgid "No registration needed. Thousands of tokens to trade at your fingertips."
+msgstr "Nessuna registrazione richiesta. Migliaia di token da scambiare a portata di mano."
+
+#: src/pages/Home/index.tsx
+#: src/pages/Home/index.tsx
+msgid "Trade Now"
+msgstr "Scambia Adesso"
+
+#: src/pages/Home/index.tsx
+msgid "Decentralised Exchange"
+msgstr "Decentralised Exchange"
+
+#: src/pages/Home/index.tsx
+msgid "Trade anything. No registration. No hassle."
+msgstr "Scambia tutto ciò che vuoi. Nessuna registrazione. Nessuno stress."
+
+#: src/pages/Home/index.tsx
+msgid "Best DEX will have all the tools you need to navigate around crypto trading including real-time market updates and advanced charting via Trading View."
+msgstr "Best DEX avrà tutti gli strumenti necessari per navigare nel trading di criptovalute, inclusi aggiornamenti di mercato in tempo reale e grafici avanzati tramite Trading View."
+
+#: /app/modules/views
+msgid "We were unable to sign you up.\n"
+"Please correct the marked fields."
+msgstr "Non siamo riusciti a iscriverti.\n"
+"Si prega di correggere i campi contrassegnati."
+
+#: /app/modules/views
+msgid "From trending tokens to token security, Best Dex token analytics provides traders with in-depth, real-time data to execute the right trades."
+msgstr "Dai token di tendenza alla sicurezza dei token, l'analisi dei token Best Dex fornisce ai trader dati approfonditi e in tempo reale per eseguire le operazioni giuste."
+
+#: src/components/WalletModal/index.tsx
+msgid "Coming Soon"
+msgstr "Coming Soon"
+
+#: /app/modules/views
+msgid "Token Analytics"
+msgstr "Token Analytics"
+
+#: 
+msgid "Token Info"
+msgstr "Token Info"
+
+#: 
+msgid "Token Sentiment"
+msgstr "Token Sentiment"
+
+#: 
+msgid "Token Security"
+msgstr "Token Security"
+
+#: 
+msgid "BEST Airdrop"
+msgstr "BEST Airdrop"
+
+#: 
+msgid "The BEST token airdrop will reward brand advocates and Best Wallet and Best DEX power users over the coming months. Holders of the BEST token will receive exclusive benefits on Best DEX including lower cost trades"
+msgstr "L'airdrop di token BEST premierà i sostenitori del marchio e gli utenti esperti di Best Wallet e Best DEX nei prossimi mesi. I possessori del token BEST riceveranno vantaggi esclusivi su Best DEX, incluse operazioni a basso costo"
+
+#: 
+msgid "Frequently Asked"
+msgstr "FAQ"
+
+#: src/pages/Home/index.tsx
+msgid "Find answers to the most frequently asked questions about Best Wallet right here."
+msgstr "Troverai qui le risposte alle domande più frequenti su Best Wallet."
+
+#: src/pages/Home/index.tsx
+msgid "If the answer you’re looking for isn’t here, email contact@bestwallet.com and we’ll assist you."
+msgstr "Se la risposta che stai cercando non è qui, invia un'e-mail a contact@bestwallet.com e ti aiuteremo."
+
+#: src/pages/Home/index.tsx
+msgid "Cryptocurrency may be unregulated in your jurisdiction. The value of cryptocurrencies may go down as well as up. Profits may be subject to capital gains or other taxes applicable in your jurisdiction."
+msgstr "Il trading di criptovalute potrebbe non essere regolamentato nel tuo paese. Il valore delle criptovalute può aumentare o diminuire e i profitti possono essere soggetti a plusvalenze o altre imposte applicabili nel tuo paese."
+
+#: src/pages/Home/index.tsx
+msgid "Terms"
+msgstr "Termini"
+
+#: src/pages/Home/index.tsx
+msgid "Privacy"
+msgstr "Privacy"
+
+#: src/pages/Home/index.tsx
+msgid "Cookies"
+msgstr "Cookies"
+
+#: 
+msgid "What is Best DEX?"
+msgstr "Cos'è Best DEX?"
+
+#: 
+msgid "Best DEX is a decentralized exchange designed to seamlessly integrate with Best Wallet, our non-custodial crypto wallet. It allows you to trade cryptocurrencies securely and efficiently while maintaining full control of your funds and digital assets."
+msgstr "Best DEX è un exchange decentralizzato progettato per integrarsi perfettamente con Best Wallet, il nostro crypto wallet non-custodial. Ti consente di scambiare criptovalute in modo sicuro ed efficiente mantenendo il pieno controllo dei tuoi fondi e delle risorse digitali."
+
+#: 
+msgid "Why should I use Best DEX instead of Uniswap or other DEXs?"
+msgstr "Perché dovrei usare Best DEX invece di Uniswap o altri DEX?"
+
+#: 
+msgid "Best DEX is built as the sister app to Best Wallet, our flagship crypto wallet. Best DEX can be accessed from within Best Wallet for an easy trading experience all within a single app. No more need to use several different wallets and DEXs to manage your crypto portfolio."
+msgstr "Best DEX è l'applicazione gemella di Best Wallet, il nostro wallet cripto di punta. Best DEX è accessibile dall'interno di Best Wallet per un'esperienza di trading semplice e con un'unica app. Non è più necessario utilizzare diversi portafogli e DEX per gestire il proprio wallet cripto."
+
+#: 
+msgid "What are Best DEX’s special features compared to competitors?"
+msgstr "Quali sono le caratteristiche speciali di Best DEX rispetto alla concorrenza?"
+
+#: 
+msgid "Best DEX is incorporating the best aspects of established DEXs, improving upon them, and adding streamlined features that will elevate your crypto trading experience. To name two: 1. Store, manage, and trade crypto from a single app 2. Save on trading fees."
+msgstr "Best DEX incorpora i migliori aspetti dei DEX affermati, perfezionandoli e aggiungendo funzioni semplificate per migliorare la vostra esperienza di cripto trading. Per citarne due: 1. Conservare, gestire e scambiare criptovalute con un'unica app 2. Risparmiare sulle commissioni di trading."
+
+#: 
+msgid "Which chains does Best DEX support for decentralised trading?"
+msgstr "Quali catene supporta Best DEX per il trading decentralizzato?"
+
+#: 
+msgid "Best DEX will start with native support for Ethereum, BNB Smart Chain and Polygon. Over time we’ll add support for all active major blockchains."
+msgstr "Best DEX inizierà con il supporto nativo per Ethereum, BNB Smart Chain e Polygon. Nel corso del tempo aggiungeremo il supporto per tutte le principali blockchain disponibili."
+
+#: 
+msgid "How can I use Best DEX on my mobile phone?"
+msgstr "Come posso utilizzare Best DEX sul mio cellulare?"
+
+#: 
+msgid "Best DEX is available through the 'Swap' feature on the Best Wallet app. Simply download Best Wallet from Google Play or the App Store to gain access to Best DEX trading."
+msgstr "Come posso utilizzare Best DEX sul mio cellulare?"
+
+#: 
+msgid "Decentralised & Secure"
+msgstr "Decentralizzato e sicuro"
+
+#: 
+msgid "Low Fees"
+msgstr "Tariffe ridotte"
+
+#: 
+msgid "Trading Insights"
+msgstr "Approfondimenti sul trading"
+
+#: 
+msgid "Best DEX automatically matches you to the trading pair with the lowest rate for your desired swap, ensuring you always get the best price on your trades. This feature helps you save money on transactions."
+msgstr "Best DEX seleziona automaticamente la coppia di trading con il tasso più basso per lo swap desiderato, assicurandovi di ottenere sempre il prezzo migliore per le vostre transazioni. Questa funzione vi aiuta a risparmiare sulle transazioni."
+
+#: 
+msgid "Cost-Saving Advantage"
+msgstr "Vantaggi in termini di risparmio sui costi"
+
+#: 
+msgid "Airdrop Incentives"
+msgstr "Incentivi Airdrop"
+
+#: 
+msgid "By using Best DEX, you become part of the Best Ecosystem, and we reward our most loyal and active users with a 10% airdrop of the total supply of our native token, $BEST, during Phase 6 of our launch."
+msgstr "Utilizzando Best DEX, si entra a far parte dell'ecosistema Best che premia gli utenti più fedeli e attivi con un airdrop del 10% sulla fornitura totale del suo token nativo, $BEST, durante la fase 6 del lancio."
+
+#: 
+msgid "Market Insights and Analytics"
+msgstr "Approfondimenti e analisi di mercato"
+
+#: 
+msgid "Best DEX provides you with comprehensive market insights and in-depth token analytics, giving you the best chance to make the best trading decisions at the right time."
+msgstr "Best DEX vi offre una visione completa del mercato e un'analisi approfondita dei token, dandovi la possibilità di prendere le migliori decisioni di trading al momento giusto."
+
+#: 
+msgid "Convenience"
+msgstr "Convenienza"
+
+#: 
+msgid "What are the fees associated with using Best DEX?"
+msgstr "Quali sono le commissioni associate all'utilizzo di Best DEX?"
+
+#: 
+msgid "Best Dex does not charge a usage fee. The only fees are determined by the specific liquidity pool and network gas fees."
+msgstr "Best Dex non applica alcuna commissione di utilizzo. Gli unici costi sono determinati dal pool di liquidità specifico e dalle tariffe delle gas fee."
+
+#: 
+msgid "Which chains does Best DEX support for decentralized trading?"
+msgstr "Quali catene supporta Best DEX per il trading decentralizzato?"
+
+#: 
+msgid "Best DEX initially supports Ethereum, BNB Smart Chain, and Polygon networks. As we continue to grow, we plan to add support for all active major blockchains, broadening your trading options and opportunities."
+msgstr "Inizialmente, Best DEX supporterà le reti Ethereum, BNB Smart Chain e Polygon. Con la crescita dell'ecosistema, abbiamo intenzione di aggiungere il supporto per tutte le principali blockchain attive, ampliando le opzioni e le opportunità di trading."
+
+#: 
+msgid "Does Best DEX require registration and KYC verification?"
+msgstr "Best DEX richiede la registrazione e la verifica KYC?"
+
+#: 
+msgid "Best DEX does not require KYC verification to start trading. We prioritize user privacy and aim to provide a hassle-free onboarding experience. Simply connect your wallet and you’re ready to go."
+msgstr "Best DEX non richiede la verifica KYC per iniziare a fare trading. Diamo priorità alla privacy degli utenti e puntiamo a fornire un'esperienza di onboarding senza intoppi. Basta collegare il proprio wallet e si è pronti a partire."
+
+#: 
+msgid "Can I use Best DEX on my mobile phone?"
+msgstr "Posso utilizzare Best DEX sul mio cellulare?"
+
+#: 
+msgid "There are multiple ways to access Best DEX on your mobile device:"
+msgstr "Ci sono diversi modi per accedere a Best DEX sul vostro dispositivo mobile:"
+
+#: 
+msgid "Mobile Web Browser"
+msgstr "Browser web mobile"
+
+#: 
+msgid "Simply visit https://bestdex.com the Best DEX platform through your mobile web browser to start trading cryptocurrencies on the go."
+msgstr "Basta visitare il sito https://bestdex.com attraverso il browser web del cellulare per iniziare a scambiare criptovalute in mobilità."
+
+#: 
+msgid "Best Wallet In-App 'Swap' Feature"
+msgstr "Funzione \"Swap\" all'interno dell'applicazione "
+
+#: 
+msgid "If you already have Best Wallet installed, you can access Best DEX directly through the in-app 'swap' feature. This integration provides you with a seamless and convenient trading experience within a single app."
+msgstr "Se avete già installato Best Wallet, potete accedere a Best DEX direttamente attraverso la funzione \"swap\" dell'app. Questa integrazione vi offre un'esperienza di trading semplice e conveniente all'interno di un'unica app."
+
+#: 
+msgid "Best Wallet dApp (Coming Soon)"
+msgstr "dApp Best Wallet (in arrivo)"
+
+#: 
+msgid "In the near future, Best DEX will be available as a decentralized application (dApp) within Best Wallet, offering an even more integrated and user-friendly trading experience."
+msgstr "Nel prossimo futuro, Best DEX sarà disponibile come applicazione decentralizzata (dApp) all'interno di Best Wallet, offrendo un'esperienza di trading ancora più completa e semplice."
+
+#: 
+msgid "What is the BEST token?"
+msgstr "Qual è il token nativo dell'ecosistema BEST?"
+
+#: 
+msgid "The BEST token is the Best Ecosystem’s utility and governance token. Holding the token provides benefits to Best Wallet users such as advanced market analysis tools, no gas fees on swaps, and early access to new token launches and NFT drops."
+msgstr "Il token $BEST è il token di utilità e di governance dell'ecosistema Best. Il possesso del token offre agli utenti del Best Wallet vantaggi esclusivi, come strumenti avanzati di analisi di mercato, nessuna gas fee sugli swap e accesso anticipato ai lanci di nuovi token e ai drop di NFT."
+
+#: 
+msgid "We are launching the BEST token at the end of Phase 6 of our roadmap and will reward our early adopters and power users with 10% of our total supply based on the points they have accumulated from using our app and spreading the word on socials. Learn more here"
+msgstr "Lanceremo il token BEST alla fine della Fase 6 della nostra roadmap e ricompenseremo i nostri early adopter e power users con il 10% della nostra fornitura totale in base ai punteggi che hanno accumulato utilizzando la nostra app e diffondendo la notizia sui social. Per saperne di più"
+
+#: 
+msgid "How can I stay up to date on the latest news about Best DEX and the BEST token airdrop?"
+msgstr "Come posso rimanere aggiornato sulle ultime novità di Best DEX e sull'airdrop dei token BEST?"
+
+#: 
+msgid "Follow our socials and join our community hubs here"
+msgstr "Seguite i nostri canali social e unitevi ai nostri community hub qui"
+
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "$-"
+msgstr "$-"
+
+#: src/components/earn/PoolCard.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "${0}"
+msgstr "${0}"
+
+#: src/components/swap/TradePrice.tsx
+msgid "(${0})"
+msgstr "(${0})"
+
+#: src/components/CurrencyInputPanel/index.tsx
+msgid "(Max)"
+msgstr "(Max)"
+
+#: src/components/AddressInputPanel/index.tsx
+msgid "(View on Explorer)"
+msgstr "(Visualizza su Explorer)"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "(claim)"
+msgstr "(claim)"
+
+#: src/pages/Vote/Landing.tsx
+msgid "(edit)"
+msgstr "(modifica)"
+
+#: src/pages/Swap/index.tsx
+msgid "- Remove recipient"
+msgstr "- Rimuovere il destinatario"
+
+#: src/components/earn/PoolCard.tsx
+#: src/components/earn/PoolCard.tsx
+#: src/pages/Earn/Manage.tsx
+#: src/pages/Earn/Manage.tsx
+msgid "0 UNI / week"
+msgstr "0 UNI / settimana"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "25%"
+msgstr "25%"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "50%"
+msgstr "50%"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "75%"
+msgstr "75%"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "<0/> All Proposals"
+msgstr "<0/> Tutte le proposte"
+
+#: src/pages/Vote/Landing.tsx
+#: src/pages/Vote/Landing.tsx
+msgid "<0/> Votes"
+msgstr "<0/> Voti"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "<0>Current Price:</0><1><2/></1><3>{0} per {1}</3>"
+msgstr "<0>Prezzo attuale:</0><1><2/></1><3>{0} per {1}</3>"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "<0>Tip:</0> Removing pool tokens converts your position back into underlying tokens at the current rate, proportional to your share of the pool. Accrued fees are included in the amounts you receive."
+msgstr "<0>Tip:</0> La rimozione dei token delle pool di liquidità converte la vostra posizione in token sottostanti al tasso corrente, proporzionale alla vostra quota del pool. Le commissioni maturate sono incluse negli importi ricevuti."
+
+#: src/pages/CreateProposal/index.tsx
+msgid "<0>Tip:</0> Select an action and describe your proposal for the community. The proposal cannot be modified after submission, so please verify all information before submitting. The voting period will begin immediately and last for 7 days. To propose a custom action, ."
+msgstr "<0>Tip:</0> Selezionate un'azione e descrivete la vostra proposta per la comunità. La proposta non può essere modificata dopo l'invio, pertanto si prega di verificare tutte le informazioni prima di inviarle. Il periodo di votazione inizierà immediatamente e durerà 7 giorni. Per proporre un'azione personalizzata, ."
+
+#: src/pages/PoolFinder/index.tsx
+msgid "<0>Tip:</0> Use this tool to find pools that don't automatically appear in the interface."
+msgstr "<0>Tip:</0> Utilizzare questo strumento per trovare i pool che non appaiono automaticamente nell'interfaccia."
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "<0>Tip:</0> When you add liquidity, you will receive pool tokens representing your position. These tokens automatically earn fees proportional to your share of the pool, and can be redeemed at any time."
+msgstr "<0>Tip:</0> Quando si aggiunge liquidità, si ricevono token del pool che rappresentano la propria posizione. Questi token guadagnano automaticamente commissioni proporzionali alla vostra quota del pool e possono essere riscattati in qualsiasi momento."
+
+#: src/pages/Vote/VotePage.tsx
+msgid "<0>Unlock voting</0> to prepare for the next proposal."
+msgstr "<0>Sbloccare la votazione</0> per preparare la prossima proposta."
+
+#: src/components/claim/ClaimModal.tsx
+msgid "<0>🎉 </0>Welcome to team Unicorn :) <1>🎉</1>"
+msgstr "<0>🎉 </0>Benvenuto nel team Unicorn :) <1>🎉</1>"
+
+#: src/pages/Vote/Landing.tsx
+msgid "A minimum threshold of 0.25% of the total UNI supply is required to submit proposals"
+msgstr "Per la presentazione delle proposte è richiesta una soglia minima dello 0,25% dell'offerta totale UNI."
+
+#: src/components/swap/SwapModalHeader.tsx
+msgid "Accept"
+msgstr "Accetta"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Account"
+msgstr "Account"
+
+#: src/components/SearchModal/ImportRow.tsx
+#: src/pages/Vote/styled.tsx
+msgid "Active"
+msgstr "Attivo"
+
+#: src/components/PositionCard/index.tsx
+#: src/pages/AddLiquidity/index.tsx
+msgid "Add"
+msgstr "Aggiungi"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Add <0/> and <1/> to BestDex V2"
+msgstr "Aggiungi <0/> e <1/> a BestDex V2"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Add Delegate +"
+msgstr "Aggiungi delegato +"
+
+#: src/components/NavigationTabs/index.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/Pool/v2.tsx
+msgid "Add Liquidity"
+msgstr "Aggiunti liquidità"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Add liquidity."
+msgstr "Aggiunti liquidità."
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Add more liquidity"
+msgstr "Aggiunti più liquidità"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Add {0} token to Metamask <0/>"
+msgstr "Aggiunti {0} token su Metamask <0/>"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Add {0}-{1} liquidity"
+msgstr "Aggiungi {0}-{1} liquidità"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Add {0}/{1} V3 liquidity"
+msgstr "Aggiungi {0}/{1} V3 liquidità"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Added {0} token to Metamask"
+msgstr "Aggiunti {0} token su Metamask"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "Address has no available claim"
+msgstr "L'indirizzo non ha richieste disponibili"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Against"
+msgstr "Contro"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Allow LP token migration"
+msgstr "Consentire la migrazione del token LP"
+
+#: src/components/Settings/index.tsx
+msgid "Allow high price impact trades and skip the confirm screen. Use at your own risk."
+msgstr "Consentite le operazioni ad alto impatto di prezzo e saltate la schermata di conferma. Utilizzare a proprio rischio e pericolo."
+
+#: src/pages/Swap/index.tsx
+msgid "Allow the BestDex Protocol to use your {0}"
+msgstr "Consentire al protocollo BestDex di utilizzare il proprio {0}"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Allowed"
+msgstr "Consentito"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Allowed Slippage"
+msgstr "Slippage consentito"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Amount"
+msgstr "Importo"
+
+#: src/components/earn/StakingModal.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Approve"
+msgstr "Approvare"
+
+#: src/pages/CreateProposal/ProposalActionSelector.tsx
+msgid "Approve Token"
+msgstr "Approvare Token"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Approve {0}"
+msgstr "Approvare {0}\n"
+""
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Approved"
+msgstr "Approvato"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Approving"
+msgstr "Approvazione\n"
+""
+
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Approving {0}"
+msgstr "Approvazione {0}"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Arbiscan"
+msgstr "Arbiscan"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Arbitrum Bridge"
+msgstr "Arbitrum Bridge"
+
+#: src/components/DowntimeWarning/index.tsx
+msgid "Arbitrum is in Beta and may experience downtime. During downtime, your position will not earn fees and you will be unable to remove liquidity. <0>Read more.</0>"
+msgstr "Arbitrum è in fase Beta e potrebbe essere soggetto a tempi di inattività. Durante i tempi di inattività, la vostra posizione non guadagnerà commissioni e non potrete rimuovere la liquidità. <0>Leggi di più.</0>"
+
+#: src/components/Settings/index.tsx
+msgid "Are you sure?"
+msgstr "Sei sicuro?"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "As a member of the BestDex community you may claim UNI to be used for voting and governance.<0/><1/>"
+msgstr "In qualità di membro della comunità BestDex si può richiedere l'utilizzo di UNI per le votazioni e la governance.<0/><1/>"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "At least {0} {1} and {2} {3} will be refunded to your wallet due to selected price range."
+msgstr "{0} {1} e {2} {3} saranno rimborsati sul vostro portafoglio a causa della fascia di prezzo selezionata."
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Auto"
+msgstr "Auto"
+
+#: src/components/earn/StakingModal.tsx
+msgid "Available to deposit: {0}"
+msgstr "Disponibile per il deposito: {0}"
+
+#: src/pages/Earn/Manage.tsx
+msgid "BD LP LP tokens are required. Once you've added liquidity to the {0}-{1} pool you can stake your liquidity tokens on this page."
+msgstr "Sono necessari token BD LP. Una volta aggiunta la liquidità al pool {0}-{1}, è possibile mettere in stake i token di liquidità su questa pagina."
+
+#: src/pages/Earn/Manage.tsx
+msgid "BD LP {0}-{1}"
+msgstr "BD LP {0}-{1}"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "BD LP {0}/{1} Burned"
+msgstr "BD LP {0}/{1} Bruciati"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "Balance:"
+msgstr "Saldo:"
+
+#: src/components/CurrencyInputPanel/index.tsx
+msgid "Balance: {0} {1}"
+msgstr "Saldo: {0} {1}"
+
+#: src/components/FeeSelector/shared.tsx
+msgid "Best for exotic pairs."
+msgstr "Ideale per coppie exotic."
+
+#: src/components/FeeSelector/shared.tsx
+msgid "Best for most pairs."
+msgstr "Ideale per la maggior parte delle coppie di valute."
+
+#: src/components/FeeSelector/shared.tsx
+msgid "Best for stable pairs."
+msgstr "Ideale per coppie di valute stabili."
+
+#: src/components/FeeSelector/shared.tsx
+msgid "Best for very stable pairs."
+msgstr "Ideale per coppie di valute molto stabili."
+
+#: src/components/SwitchLocaleLink/index.tsx
+msgid "BestDex available in: <0>{0}</0>"
+msgstr "BestDex disponibile in: <0>{0}</0>"
+
+#: src/components/vote/ProposalEmptyState.tsx
+msgid "BestDex governance is only available on Layer 1. Switch your network to Ethereum Mainnet to view Proposals and Vote."
+msgstr "La governance di BestDex è disponibile solo su Layer 1. Passa alla rete Ethereum Mainnet per visualizzare le proposte e votare."
+
+#: src/pages/Earn/index.tsx
+msgid "BestDex liquidity mining"
+msgstr "Mining di liquidità BestDex"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "BestDex migration contract↗"
+msgstr "Contratto di migrazione BestDex"
+
+#: src/components/NetworkAlert/NetworkAlert.tsx
+msgid "BestDex on {0}"
+msgstr "BestDex su {0}"
+
+#: src/components/Blocklist/index.tsx
+msgid "Blocked address"
+msgstr "Indirizzo bloccato"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Bridge"
+msgstr "Bridge"
+
+#: src/components/PositionCard/index.tsx
+msgid "By adding liquidity you'll earn 0.3% of all trades on this pair proportional to your share of the pool. Fees are added to the pool, accrue in real time and can be claimed by withdrawing your liquidity."
+msgstr "Aggiungendo liquidità guadagnerete lo 0,3% di tutte le operazioni su questa coppia, proporzionalmente alla vostra quota del pool. Le commissioni vengono aggiunte al pool, si accumulano in tempo reale e possono essere richieste ritirando la liquidità."
+
+#: src/components/SearchModal/ImportList.tsx
+msgid "By adding this list you are implicitly trusting that the data is correct. Anyone can create a list, including creating fake versions of existing lists and lists that claim to represent projects that do not have one."
+msgstr "Aggiungendo questo elenco si confida implicitamente che i dati siano corretti. Chiunque può creare un elenco, compresa la creazione di versioni false di elenchi esistenti e di elenchi che affermano di rappresentare progetti che non ne hanno uno."
+
+#: src/pages/Vote/styled.tsx
+msgid "Canceled"
+msgstr "Annullato"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Change"
+msgstr "Modifica"
+
+#: src/components/Header/ChainConnectivityWarning.tsx
+msgid "Check network status"
+msgstr "Controllare lo stato della rete"
+
+#: src/pages/Pool/CTACards.tsx
+msgid "Check out our v3 LP walkthrough and migration guides."
+msgstr "Consultate le nostre guide sulla migrazione e sul percorso di LP v3."
+
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/pages/Earn/Manage.tsx
+msgid "Claim"
+msgstr "Claim"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Claim <0/> for {0}"
+msgstr "Claim <0/> per {0}"
+
+#: src/components/Header/index.tsx
+msgid "Claim BD LP"
+msgstr "Claim BD LP"
+
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+msgid "Claim UNI"
+msgstr "Claim UNI"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "Claim UNI Token"
+msgstr "Claim Token UNI"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Claim UNI reward for {0}"
+msgstr "Richiedi il premio UNI per {0}"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Claim fees"
+msgstr "Commissioni per il Claim"
+
+#: src/components/Popups/ClaimPopup.tsx
+msgid "Claim your UNI tokens"
+msgstr "Richiedi i tuoi token UNI"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "Claimed"
+msgstr "Richiesto"
+
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/UnstakingModal.tsx
+msgid "Claimed UNI!"
+msgstr "Richiesto UNI!"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "Claimed!"
+msgstr "Richiesto!"
+
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+msgid "Claiming"
+msgstr "Richiesta "
+
+#: src/components/Header/index.tsx
+msgid "Claiming BD LP"
+msgstr "Richiesta di BD LP"
+
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/UnstakingModal.tsx
+msgid "Claiming {0} UNI"
+msgstr "Richiesta di {0} UNI"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Clear All"
+msgstr "Cancella Tutto"
+
+#: src/components/SearchModal/ManageTokens.tsx
+msgid "Clear all"
+msgstr "Cancella tutto"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Close"
+msgstr "Chiudere"
+
+#: src/components/Badge/RangeBadge.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Closed"
+msgstr "Chiuso"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collect"
+msgstr "Riscuotere"
+
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Collect as {0}"
+msgstr "Riscuotere come {0}"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collect fees"
+msgstr "Riscuotere commissioni"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Collect {0}/{1} fees"
+msgstr "Riscuotere le commissioni di {0}/{1}"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collected"
+msgstr "Riscosso"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collecting"
+msgstr "Riscossione"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collecting fees"
+msgstr "Riscossione delle commissioni"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collecting fees will withdraw currently available fees for you."
+msgstr "La riscossione delle commissioni prevede il ritiro delle commissioni attualmente disponibili per l'utente."
+
+#: src/components/SearchModal/CommonBases.tsx
+msgid "Common bases"
+msgstr "Basi comuni"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Confirm"
+msgstr "Confermare"
+
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+msgid "Confirm Supply"
+msgstr "Confermare la fornitura"
+
+#: src/components/swap/ConfirmSwapModal.tsx
+#: src/components/swap/SwapModalFooter.tsx
+msgid "Confirm Swap"
+msgstr "Conferma swap"
+
+#: src/components/ModalViews/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "Confirm this transaction in your wallet"
+msgstr "Confermare la transazione nel wallet"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Confirm transaction in wallet"
+msgstr "Conferma la transazione nel wallet"
+
+#: src/components/Web3Status/index.tsx
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+#: src/pages/Swap/index.tsx
+#: src/state/burn/hooks.tsx
+#: src/state/burn/v3/hooks.tsx
+#: src/state/mint/hooks.tsx
+#: src/state/mint/v3/hooks.tsx
+#: src/state/stake/hooks.tsx
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Connect Wallet"
+msgstr "Collegare wallet"
+
+#: src/components/WalletModal/index.tsx
+#: src/components/earn/UnstakingModal.tsx
+#: src/pages/Pool/index.tsx
+msgid "Connect a wallet"
+msgstr "Collega un wallet"
+
+#: src/components/WalletModal/index.tsx
+msgid "Connect to Best Wallet"
+msgstr "Collega al Best Wallet"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Connect to a wallet to find pools"
+msgstr "Collega a un wallet per trovare i pool"
+
+#: src/pages/MigrateV2/index.tsx
+#: src/pages/Pool/v2.tsx
+msgid "Connect to a wallet to view your liquidity."
+msgstr "Collega a un wallet per visualizzare la tua liquidità."
+
+#: src/components/AccountDetails/index.tsx
+msgid "Connected with {name}"
+msgstr "Connesso con {nome}"
+
+#: src/components/WalletModal/PendingView.tsx
+msgid "Connection Error"
+msgstr "Errore di connessione"
+
+#: src/components/AccountDetails/Copy.tsx
+msgid "Copied"
+msgstr "Copiato"
+
+#: src/components/AccountDetails/index.tsx
+#: src/components/AccountDetails/index.tsx
+msgid "Copy Address"
+msgstr "Copia indirizzo\n"
+""
+
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+msgid "Create Pool & Supply"
+msgstr "Crea pool e forniture\n"
+""
+
+#: src/pages/CreateProposal/index.tsx
+#: src/pages/Vote/Landing.tsx
+msgid "Create Proposal"
+msgstr "Creare una proposta\n"
+""
+
+#: src/components/NavigationTabs/index.tsx
+#: src/pages/Pool/v2.tsx
+msgid "Create a pair"
+msgstr "Creare una coppia\n"
+""
+
+#: src/pages/Pool/index.tsx
+msgid "Create a pool"
+msgstr "Creare un pool\n"
+""
+
+#: src/components/ErrorBoundary/index.tsx
+msgid "Create an issue on GitHub"
+msgstr "Creare una discussione su GitHub\n"
+""
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Create pool and add {0}/{1} V3 liquidity"
+msgstr "Creare un pool e aggiungere {0}/{1} Liquidità V3\n"
+""
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Create pool."
+msgstr "Creare un pool.\n"
+""
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Create {0}/{1} V3 pool"
+msgstr "Creare {0}/{1} pool V3\n"
+""
+
+#: src/components/PositionPreview/index.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "Current price"
+msgstr "Prezzo corrente\n"
+""
+
+#: src/pages/Pool/v2.tsx
+msgid "Current version is not available on Layer 2. Switch to Layer 1 Ethereum."
+msgstr "La versione attuale non è disponibile su Layer 2. Passare al Layer 1 Ethereum.\n"
+""
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Current {0} Price:"
+msgstr "Prezzo attuale {0}:\n"
+""
+
+#: src/pages/Vote/styled.tsx
+msgid "Defeated"
+msgstr "Fallito"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Delegate Votes"
+msgstr "Delega di voto"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Delegate voting power to {0}"
+msgstr "Delega il voto a {0}"
+
+#: src/pages/Vote/Landing.tsx
+msgid "Delegated to:"
+msgstr "Delegato a:"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Delegating votes"
+msgstr "Delega di voto"
+
+#: src/components/earn/PoolCard.tsx
+#: src/components/earn/StakingModal.tsx
+#: src/components/earn/StakingModal.tsx
+#: src/pages/Earn/Manage.tsx
+msgid "Deposit"
+msgstr "Deposito"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Deposit Amounts"
+msgstr "Importi del deposito"
+
+#: src/components/NetworkAlert/NetworkAlert.tsx
+msgid "Deposit Assets"
+msgstr "Attività di deposito"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Deposit BD LP LP Tokens"
+msgstr "Deposito Token BD LP LP"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Deposit liquidity"
+msgstr "Liquidità del deposito"
+
+#: src/pages/Earn/index.tsx
+msgid "Deposit your Liquidity Provider tokens to receive UNI, the BestDex protocol governance token."
+msgstr "Depositate i vostri token di Liquidity Provider per ricevere UNI, il token di governance del protocollo BestDex."
+
+#: src/components/earn/UnstakingModal.tsx
+msgid "Deposited liquidity:"
+msgstr "Liquidità depositata:"
+
+#: src/components/earn/StakingModal.tsx
+msgid "Deposited {0} BD LP"
+msgstr "Depositati {0} BD LP"
+
+#: src/components/earn/StakingModal.tsx
+msgid "Depositing Liquidity"
+msgstr "Deposito di liquidità"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Description"
+msgstr "Descrizione"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Detailed"
+msgstr "Dettagliato"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Details"
+msgstr "Dettagliato"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Disconnect"
+msgstr "Disconnessione"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Dismiss"
+msgstr "Abbandonare"
+
+#: src/pages/MigrateV2/index.tsx
+msgid "Don’t see one of your v2 positions? <0>Import it.</0>"
+msgstr "Non vedete una delle vostre posizioni v2? <0>Importatela.</0>"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Earned UNI tokens represent voting shares in BestDex governance."
+msgstr "I token UNI guadagnati rappresentano quote di voto nella governance di BestDex."
+
+#: src/components/FeeSelector/index.tsx
+msgid "Edit"
+msgstr "Modifica"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Efficiency Comparison"
+msgstr "Confronto di efficienza"
+
+#: src/state/burn/v3/hooks.tsx
+msgid "Enter a percent"
+msgstr "Inserire una percentuale"
+
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Enter a recipient"
+msgstr "Inserire un destinatario"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Enter a valid slippage percentage"
+msgstr "Inserire una percentuale di slippage valida"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "Enter an address to trigger a UNI claim. If the address has any claimable UNI it will be sent to them on submission."
+msgstr "Inserire un indirizzo per attivare una richiesta di UNI. Se l'indirizzo ha un UNI rivendicabile, gli verrà inviato al momento della richiesta."
+
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/UnstakingModal.tsx
+#: src/state/burn/hooks.tsx
+#: src/state/mint/hooks.tsx
+#: src/state/mint/v3/hooks.tsx
+#: src/state/stake/hooks.tsx
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Enter an amount"
+msgstr "Inserire un importo"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Enter valid list location"
+msgstr "Inserire una posizione valida dell'elenco"
+
+#: src/components/SearchModal/ManageTokens.tsx
+msgid "Enter valid token address"
+msgstr "Inserire un indirizzo token valido"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/Web3Status/index.tsx
+msgid "Error"
+msgstr "Errore"
+
+#: src/components/WalletModal/index.tsx
+msgid "Error connecting"
+msgstr "Errore di connessione"
+
+#: src/components/WalletModal/index.tsx
+msgid "Error connecting. Try refreshing the page."
+msgstr "Errore di connessione. Provare ad aggiornare la pagina."
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Error importing list"
+msgstr "Errore nell'importazione dell'elenco"
+
+#: src/pages/Vote/styled.tsx
+msgid "Executed"
+msgstr "Eseguito"
+
+#: src/components/SearchModal/CurrencyList.tsx
+msgid "Expanded results from inactive Token Lists"
+msgstr "Risultati ampliati da elenchi di token inattivi"
+
+#: src/components/Settings/index.tsx
+msgid "Expert Mode"
+msgstr "Modalità Esperto"
+
+#: src/components/Settings/index.tsx
+msgid "Expert mode turns off the confirm transaction prompt and allows high slippage trades that often result in bad rates and lost funds."
+msgstr "La modalità Expert disattiva la richiesta di conferma della transazione e consente di effettuare operazioni ad alto slippage che spesso comportano tassi negativi e perdita di fondi."
+
+#: src/pages/Vote/styled.tsx
+msgid "Expired"
+msgstr "Scaduto"
+
+#: src/pages/Pool/CTACards.tsx
+msgid "Explore popular pools on BestDex Analytics."
+msgstr "Esplora i pool popolari su BestDex Analytics."
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Explorer"
+msgstr "esplorazione "
+
+#: src/components/PositionPreview/index.tsx
+msgid "Fee Tier"
+msgstr "Livello commissione"
+
+#: src/components/FeeSelector/index.tsx
+msgid "Fee tier"
+msgstr "Livello commissione"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "For"
+msgstr "Per"
+
+#: src/pages/MigrateV2/index.tsx
+msgid "For each pool shown below, click migrate to remove your liquidity from BestDex V2 and deposit it into BestDex V3."
+msgstr "Per ogni pool mostrato di seguito, fare clic su \"Migrazione\" per rimuovere la liquidità da BestDex V2 e depositarla in BestDex V3."
+
+#: src/components/swap/SwapModalHeader.tsx
+#: src/pages/Swap/index.tsx
+msgid "From"
+msgstr "Da"
+
+#: src/pages/Swap/index.tsx
+msgid "From (at most)"
+msgstr "Da (al massimo)"
+
+#: src/components/RangeSelector/PresetsButtons.tsx
+msgid "Full Range"
+msgstr "Gamma completa"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Full range positions may earn less fees than concentrated positions. Learn more <0>here</0>."
+msgstr "Le posizioni a gamma completa possono fruttare meno commissioni rispetto alle posizioni concentrate. Per saperne di più <0>qui</0>."
+
+#: src/components/ErrorBoundary/index.tsx
+msgid "Get support on Discord"
+msgstr "Ottenere supporto su Discord"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Help Center"
+msgstr "Centro assistenza\n"
+""
+
+#: src/components/FeeSelector/index.tsx
+msgid "Hide"
+msgstr "Nascondi"
+
+#: src/pages/Swap/index.tsx
+msgid "High Price Impact"
+msgstr "Impatto del prezzo elevato"
+
+#: src/components/SearchModal/ImportList.tsx
+#: src/pages/AddLiquidity/index.tsx
+msgid "I understand"
+msgstr "Capisco"
+
+#: src/components/SearchModal/ImportList.tsx
+msgid "If you purchase a token from this list, you may not be able to sell it back."
+msgstr "Se acquistate un token da questo elenco, potreste non essere in grado di rivenderlo."
+
+#: src/components/SearchModal/BlockedToken.tsx
+#: src/components/SearchModal/ImportList.tsx
+#: src/components/SearchModal/ImportRow.tsx
+#: src/components/SearchModal/ImportToken.tsx
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Import"
+msgstr "Importazione"
+
+#: src/components/SearchModal/ImportList.tsx
+msgid "Import List"
+msgstr "Importazione Elenco"
+
+#: src/components/NavigationTabs/index.tsx
+#: src/pages/Pool/v2.tsx
+msgid "Import Pool"
+msgstr "Importazione Pool\n"
+""
+
+#: src/components/SearchModal/ImportList.tsx
+msgid "Import at your own risk"
+msgstr "Importazione a proprio rischio\n"
+""
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "In range"
+msgstr "In range\n"
+""
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Increase Liquidity"
+msgstr "Aumentare la liquidità"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Initial prices and pool share"
+msgstr "Prezzi iniziali e quota del pool\n"
+""
+
+#: src/components/WalletModal/PendingView.tsx
+msgid "Initializing..."
+msgstr "Inizializzazione..."
+
+#: src/components/swap/SwapModalHeader.tsx
+msgid "Input is estimated. You will sell at most <0>{0} {1}</0> or the transaction will revert."
+msgstr "L'input è stato stimato. Si venderà al massimo <0>{0} {1}</0> o la transazione tornerà indietro."
+
+#: src/components/WalletModal/index.tsx
+msgid "Install Metamask"
+msgstr "Installare Metamask"
+
+#: src/pages/Swap/index.tsx
+msgid "Insufficient liquidity for this trade."
+msgstr "Liquidità insufficiente per questa operazione."
+
+#: src/state/mint/hooks.tsx
+#: src/state/mint/hooks.tsx
+#: src/state/mint/v3/hooks.tsx
+#: src/state/mint/v3/hooks.tsx
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Insufficient {0} balance"
+msgstr "Saldo insufficiente {0}"
+
+#: src/components/Settings/index.tsx
+msgid "Interface Settings"
+msgstr "Impostazioni dell'interfaccia\n"
+""
+
+#: src/state/mint/hooks.tsx
+#: src/state/mint/v3/hooks.tsx
+msgid "Invalid pair"
+msgstr "Coppia non valida\n"
+""
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Invalid pair."
+msgstr "Coppia non valida."
+
+#: src/state/mint/v3/hooks.tsx
+msgid "Invalid price input"
+msgstr "Inserimento di un prezzo non valido"
+
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Invalid range selected. The min price must be lower than the max price."
+msgstr "Range selezionato non valido. Il prezzo minimo deve essere inferiore al prezzo massimo."
+
+#: src/hooks/useSwapCallback.tsx
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Invalid recipient"
+msgstr "Destinatario non valido"
+
+#: src/components/Header/index.tsx
+msgid "Join the Best Wallet Waitlist to participate in the BEST Airdrop"
+msgstr "Entrare nella lista d'attesa del Wallet Best per partecipare all'Airdrop BEST"
+
+#: src/components/Menu/index.tsx
+msgid "Language"
+msgstr "Lingua"
+
+#: src/components/NetworkAlert/NetworkAlert.tsx
+msgid "Learn More"
+msgstr "Per saperne di più"
+
+#: src/pages/Pool/CTACards.tsx
+msgid "Learn about providing liquidity"
+msgstr "Informazioni sulla fornitura di liquidità"
+
+#: src/components/PrivacyPolicy/index.tsx
+#: src/components/PrivacyPolicy/index.tsx
+#: src/components/WalletModal/index.tsx
+msgid "Learn more"
+msgstr "Per saperne di più"
+
+#: src/components/PrivacyPolicy/index.tsx
+#: src/components/WalletModal/index.tsx
+msgid "Legal & Privacy"
+msgstr "Legal & privacy\n"
+""
+
+#: src/components/claim/ClaimModal.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "Liquidity"
+msgstr "Liquidità"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Liquidity Provider Fee"
+msgstr "Commissioni per i fornitori di liquidità\n"
+""
+
+#: src/pages/Pool/v2.tsx
+msgid "Liquidity provider rewards"
+msgstr "Premi per i fornitori di liquidità"
+
+#: src/pages/Pool/v2.tsx
+msgid "Liquidity providers earn a 0.3% fee on all trades proportional to their share of the pool. Fees are added to the pool, accrue in real time and can be claimed by withdrawing your liquidity."
+msgstr "I fornitori di liquidità percepiscono una commissione dello 0,3% su tutte le operazioni, in proporzione alla loro quota di pool. Le commissioni vengono aggiunte al pool, si accumulano in tempo reale e possono essere richieste ritirando la liquidità."
+
+#: src/components/SearchModal/Manage.tsx
+msgid "Lists"
+msgstr "Listing"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Loaded"
+msgstr "Caricato"
+
+#: src/components/PositionCard/Sushi.tsx
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/MigrateV2/index.tsx
+#: src/pages/Pool/v2.tsx
+#: src/pages/PoolFinder/index.tsx
+#: src/pages/Swap/index.tsx
+msgid "Loading"
+msgstr "Caricamento"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/V2.tsx
+#: src/components/SearchModal/Manage.tsx
+#: src/components/earn/PoolCard.tsx
+msgid "Manage"
+msgstr "Gestire"
+
+#: src/components/PositionCard/index.tsx
+msgid "Manage Liquidity in Rewards Pool"
+msgstr "Gestire la liquidità nel pool di ricompense\n"
+""
+
+#: src/components/SearchModal/CurrencySearch.tsx
+msgid "Manage Token Lists"
+msgstr "Gestisci elenchi token"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Manage this pool."
+msgstr "Gestisci questo pool."
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Max"
+msgstr "Massimo"
+
+#: src/components/PositionPreview/index.tsx
+#: src/components/RangeSelector/index.tsx
+msgid "Max Price"
+msgstr "Prezzo Massimo\n"
+""
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Max price"
+msgstr "Prezzo massimo\n"
+""
+
+#: src/components/PositionListItem/index.tsx
+msgid "Max:"
+msgstr "Massimo: "
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Maximum sent"
+msgstr "Massimo inviato\n"
+""
+
+#: src/components/Menu/index.tsx
+msgid "Menu"
+msgstr "Menu"
+
+#: src/components/PositionCard/Sushi.tsx
+#: src/components/PositionCard/V2.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/Pool/index.tsx
+msgid "Migrate"
+msgstr "Migra\n"
+""
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/MigrateV2/index.tsx
+#: src/pages/Pool/index.tsx
+msgid "Migrate Liquidity"
+msgstr "Migra Liquidità\n"
+""
+
+#: src/pages/MigrateV2/index.tsx
+msgid "Migrate your liquidity tokens from BestDex V2 to BestDex V3."
+msgstr "Migrare i token di liquidità da BestDex V2 a BestDex V3.\n"
+""
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Migrate {0}/{1} liquidity to V3"
+msgstr "Migrare liquidità {0}/{1} a V3\n"
+""
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Migrating"
+msgstr "Migrazione"
+
+#: src/components/PositionPreview/index.tsx
+#: src/components/RangeSelector/index.tsx
+msgid "Min Price"
+msgstr "Prezzo Minimo"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Min price"
+msgstr "Prezzo minimo"
+
+#: src/components/PositionListItem/index.tsx
+msgid "Min:"
+msgstr "Minimo:"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Minimum received"
+msgstr "Minimo ricevuto"
+
+#: src/hooks/useSwapCallback.tsx
+msgid "Missing dependencies"
+msgstr "Dipendenze mancanti"
+
+#: src/pages/Pool/index.tsx
+msgid "More"
+msgstr "Di più"
+
+#: src/components/Header/ChainConnectivityWarning.tsx
+msgid "Network Warning"
+msgstr "Avviso di rete\n"
+""
+
+#: src/pages/Pool/index.tsx
+msgid "New Position"
+msgstr "Nuova posizione"
+
+#: src/pages/MigrateV2/index.tsx
+msgid "No V2 Liquidity found."
+msgstr "Nessuna liquidità V2 trovata."
+
+#: src/pages/Earn/index.tsx
+#: src/pages/Earn/index.tsx
+msgid "No active pools"
+msgstr "Nessun pool attivo\n"
+""
+
+#: src/components/FeeSelector/FeeTierPercentageBadge.tsx
+msgid "No data"
+msgstr "Nessun dato\n"
+""
+
+#: src/state/governance/hooks.ts
+msgid "No description."
+msgstr "Nessuna descrizione.\n"
+""
+
+#: src/pages/Pool/v2.tsx
+msgid "No liquidity found."
+msgstr "Nessuna liquidità trovata.\n"
+""
+
+#: src/pages/PoolFinder/index.tsx
+msgid "No pool found."
+msgstr "Nessun pool trovato.\n"
+""
+
+#: src/components/vote/ProposalEmptyState.tsx
+msgid "No proposals found."
+msgstr "Nessuna proposta trovata."
+
+#: src/pages/Home/index.tsx
+msgid "No registration needed. Over 400 tokens to trade at your fingertips."
+msgstr "Non è necessaria la registrazione. Oltre 400 token da scambiare a portata di mano."
+
+#: src/components/SearchModal/CurrencySearch.tsx
+msgid "No results found."
+msgstr "Nessun risultato trovato.\n"
+""
+
+#: src/components/FeeSelector/FeeTierPercentageBadge.tsx
+msgid "Not created"
+msgstr "Non creato"
+
+#: src/components/Toggle/ListToggle.tsx
+msgid "OFF"
+msgstr "OFF"
+
+#: src/components/Toggle/ListToggle.tsx
+msgid "ON"
+msgstr "ON"
+
+#: src/components/Settings/index.tsx
+msgid "ONLY USE THIS MODE IF YOU KNOW WHAT YOU ARE DOING!"
+msgstr "UTILIZZARE QUESTA MODALITÀ SOLO SE SI SA COSA SI STA FACENDO!"
+
+#: src/components/Toggle/index.tsx
+msgid "Off"
+msgstr "Off"
+
+#: src/components/Toggle/index.tsx
+msgid "On"
+msgstr "On"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Once you are happy with the rate click supply to review."
+msgstr "Una volta soddisfatti della tariffa, fare clic sulla fornitura per la revisione."
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Only UNI votes that were self delegated or delegated to another address before block {0} are eligible for voting."
+msgstr "Solo i voti UNI che sono stati autodelegati o delegati a un altro indirizzo prima del blocco {0} sono ammessi alla votazione."
+
+#: src/components/Web3ReactManager/index.tsx
+msgid "Oops! An unknown error occurred. Please refresh the page, or visit from another browser or device."
+msgstr "Oops! Si è verificato un errore sconosciuto. Si prega di aggiornare la pagina o di accedere da un altro browser o dispositivo."
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Optimism Gateway"
+msgstr "Optimism Gateway"
+
+#: src/components/DowntimeWarning/index.tsx
+msgid "Optimistic Ethereum is in Beta and may experience downtime. Optimism expects planned downtime to upgrade the network in the near future. During downtime, your position will not earn fees and you will be unable to remove liquidity. <0>Read more.</0>"
+msgstr "Optimistic Ethereum è in fase Beta e potrebbe subire dei downtime. Optimism prevede tempi di inattività programmati per aggiornare la rete nel prossimo futuro. Durante i tempi di inattività, la vostra posizione non guadagnerà commissioni e non potrete ritirare la liquidità. <0>Leggi di più.</0>"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Optimistic Etherscan"
+msgstr "Optimistic Etherscan\n"
+""
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "Out of range"
+msgstr "Fuori portata"
+
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Output is estimated. If the price changes by more than {0}% your transaction will revert."
+msgstr "Output stimato. Se il prezzo cambia di oltre il {0}%, la transazione verrà annullata."
+
+#: src/components/swap/SwapModalHeader.tsx
+msgid "Output is estimated. You will receive at least <0>{0} {1}</0> or the transaction will revert."
+msgstr "Output stimato. Riceverete almeno <0>{0} {1}</0> o la transazione verrà annullata."
+
+#: src/components/swap/SwapModalHeader.tsx
+msgid "Output will be sent to <0>{0}</0>"
+msgstr "L'output sarà inviato a <0>{0}</0>."
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Owner"
+msgstr "Proprietario"
+
+#: src/pages/Earn/index.tsx
+msgid "Participating pools"
+msgstr "Pool partecipanti"
+
+#: src/pages/Vote/styled.tsx
+msgid "Pending"
+msgstr "In attesa"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Please confirm you would like to remove this list by typing REMOVE"
+msgstr "Confermare di voler rimuovere questo elenco digitando REMOVE."
+
+#: src/components/vote/ProposalEmptyState.tsx
+msgid "Please connect to Layer 1 Ethereum"
+msgstr "Collegarsi al Layer 1 Ethereum"
+
+#: src/components/WalletModal/index.tsx
+msgid "Please connect to the appropriate Ethereum network."
+msgstr "Collegarsi alla rete Ethereum appropriata."
+
+#: src/components/Settings/index.tsx
+msgid "Please type the word \"{confirmWord}\" to enable expert mode."
+msgstr "Digitare la parola \"{confirmWord}\" per attivare la modalità esperto."
+
+#: src/components/Header/index.tsx
+#: src/components/NavigationTabs/index.tsx
+msgid "Pool"
+msgstr "Pool"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Pool Found!"
+msgstr "Pool trovato!"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Pool Rate"
+msgstr "Tasso Pool"
+
+#: src/components/earn/PoolCard.tsx
+msgid "Pool rate"
+msgstr "Tasso pool"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+msgid "Pool tokens in rewards pool:"
+msgstr "Mettere i token nel pool delle ricompense:"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+#: src/components/PositionCard/index.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Pooled {0}:"
+msgstr "In pool {0}:"
+
+#: src/pages/Pool/index.tsx
+msgid "Pools Overview"
+msgstr "Panoramica Pool"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Preview"
+msgstr "Anteprima"
+
+#: src/components/swap/SwapModalHeader.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Price"
+msgstr "Prezzo"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Price Difference:"
+msgstr "Differenza prezzo:\n"
+""
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Price Impact"
+msgstr "Impatto prezzo\n"
+""
+
+#: src/pages/Swap/index.tsx
+msgid "Price Impact Too High"
+msgstr "Impatto prezzo troppo alto\n"
+""
+
+#: src/components/swap/SwapModalHeader.tsx
+msgid "Price Updated"
+msgstr "Prezzo aggiornato\n"
+""
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Price range"
+msgstr "Fascia di prezzo\n"
+""
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Price:"
+msgstr "Prezzo:"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Prices and pool share"
+msgstr "Prezzi e quota del pool\n"
+""
+
+#: src/pages/CreateProposal/ProposalEditor.tsx
+msgid "Proposal"
+msgstr "Proposta"
+
+#: src/pages/CreateProposal/ProposalSubmissionModal.tsx
+msgid "Proposal Submitted"
+msgstr "Proposta Presentata "
+
+#: src/pages/CreateProposal/ProposalEditor.tsx
+msgid "Proposal Title"
+msgstr "Titolo Proposta"
+
+#: src/pages/Vote/Landing.tsx
+msgid "Proposals"
+msgstr "Proposte"
+
+#: src/components/vote/ProposalEmptyState.tsx
+msgid "Proposals submitted by community members will appear here."
+msgstr "Le proposte presentate dai membri della community appariranno qui.\n"
+""
+
+#: src/pages/CreateProposal/ProposalActionSelector.tsx
+msgid "Proposed Action"
+msgstr "Azione Proposta"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Proposer"
+msgstr "Proponente"
+
+#: src/pages/Vote/styled.tsx
+msgid "Queued"
+msgstr "In coda"
+
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+msgid "Rates"
+msgstr "Tariffe"
+
+#: src/components/swap/UnsupportedCurrencyFooter.tsx
+msgid "Read more about unsupported assets"
+msgstr "Per saperne di più sulle attività non supportate"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Recent Transactions"
+msgstr "Transazioni recenti"
+
+#: src/components/AddressInputPanel/index.tsx
+msgid "Recipient"
+msgstr "Destinatario"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Remove"
+msgstr "Rimuovere"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Remove <0/> and <1/>"
+msgstr "Rimuovere <0/> e <1/>."
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Remove Amount"
+msgstr "Rimuovere Importo"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Remove Delegate"
+msgstr "Rimuovere Delegato"
+
+#: src/components/NavigationTabs/index.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Remove Liquidity"
+msgstr "Rimuovere Liquidità"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Remove list"
+msgstr "Rimuovere Elenco"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Removing {0} {1} and {2} {3}"
+msgstr "Rimuovere {0} {1} e {2} {3}\n"
+""
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Removing {0} {1} and{2} {3}"
+msgstr "Rimuovere {0} {1} and{2} {3}\n"
+""
+
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/pages/CreateProposal/ProposalSubmissionModal.tsx
+msgid "Return"
+msgstr "Ritorno"
+
+#: src/components/SearchModal/CurrencySearch.tsx
+msgid "Search name or paste address"
+msgstr "Cercare nome o incollare indirizzo"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Select Pair"
+msgstr "Selezionare Coppia"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Select a network"
+msgstr "Selezionare una rete"
+
+#: src/components/CurrencyInputPanel/index.tsx
+#: src/components/SearchModal/CurrencySearch.tsx
+#: src/pages/PoolFinder/index.tsx
+#: src/pages/PoolFinder/index.tsx
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Select a token"
+msgstr "Selezionare un token"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Select a token to find your liquidity."
+msgstr "Selezionate un token per trovare la vostra liquidità."
+
+#: src/pages/CreateProposal/ProposalActionSelector.tsx
+msgid "Select an action"
+msgstr "Selezionare un'azione"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Selected Range"
+msgstr "Selezionare Range"
+
+#: src/pages/Vote/Landing.tsx
+msgid "Self"
+msgstr "Auto"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Self Delegate"
+msgstr "Autodelegato"
+
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Set Price Range"
+msgstr "Imposta range di prezzo\n"
+""
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Set Starting Price"
+msgstr "Impostare prezzo di partenza\n"
+""
+
+#: src/pages/AddLiquidityV2/PoolPriceBar.tsx
+msgid "Share of Pool"
+msgstr "Quota del pool\n"
+""
+
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+msgid "Share of Pool:"
+msgstr "Quota del pool:\n"
+""
+
+#: src/components/AccountDetails/index.tsx
+msgid "Show Portis"
+msgstr "Mostra Portis\n"
+""
+
+#: src/pages/Pool/index.tsx
+msgid "Show closed positions"
+msgstr "Mostra le posizioni chiuse\n"
+""
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Simple"
+msgstr "Semplice"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Slippage tolerance"
+msgstr "Tolleranza allo slippage"
+
+#: src/components/swap/UnsupportedCurrencyFooter.tsx
+msgid "Some assets are not available through this interface because they may not work well with the smart contracts or we are unable to allow trading for legal reasons."
+msgstr "Alcuni asset non sono disponibili attraverso questa interfaccia perché potrebbero non funzionare bene con gli smart contract o perché non possiamo permetterne la compravendita per motivi legali."
+
+#: src/components/ErrorBoundary/index.tsx
+msgid "Something went wrong"
+msgstr "Qualcosa è andato storto"
+
+#: src/components/PositionList/index.tsx
+msgid "Status"
+msgstr "Stato"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Step 1. Get BD LP Liquidity tokens"
+msgstr "Fase 1. Ottieni i token BD LP Liquidity\n"
+""
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Submit new proposal"
+msgstr "Invia una nuova proposta\n"
+""
+
+#: src/pages/CreateProposal/ProposalSubmissionModal.tsx
+msgid "Submitting Proposal"
+msgstr "Invio della Proposta"
+
+#: src/components/vote/VoteModal.tsx
+msgid "Submitting Vote"
+msgstr "Invio del voto"
+
+#: src/pages/Vote/styled.tsx
+msgid "Succeeded"
+msgstr "Successo"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Success"
+msgstr "Successo"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Supply"
+msgstr "Fornitura"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Supplying {0} {1} and {2} {3}"
+msgstr "Fornire {0} {1} e {2} {3}"
+
+#: src/components/Header/index.tsx
+#: src/components/NavigationTabs/index.tsx
+#: src/components/swap/SwapHeader.tsx
+#: src/pages/Swap/index.tsx
+#: src/pages/Swap/index.tsx
+msgid "Swap"
+msgstr "Scambia"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Swap <0/> for exactly <1/>"
+msgstr "Scambia <0/> con esattamente <1/> \n"
+""
+
+#: src/pages/Swap/index.tsx
+#: src/pages/Swap/index.tsx
+msgid "Swap Anyway"
+msgstr "Scambia comunque\n"
+""
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Swap exactly <0/> for <1/>"
+msgstr "Scambia esattamente <0/> con <1/>\n"
+""
+
+#: src/hooks/useSwapCallback.tsx
+#: src/hooks/useSwapCallback.tsx
+msgid "Swap failed: {0}"
+msgstr "Scambio fallito: {0}\n"
+""
+
+#: src/components/swap/ConfirmSwapModal.tsx
+msgid "Swapping {0} {1} for {2} {3}"
+msgstr "Scambio di {0} {1} per {2} {3}\n"
+""
+
+#: src/components/Popups/ClaimPopup.tsx
+msgid "Thanks for being part of the BestDex community <0/>"
+msgstr "Grazie per essere parte della comunità BestDex <0/>.\n"
+""
+
+#: src/components/FeeSelector/index.tsx
+msgid "The % you will earn in fees."
+msgstr "La % che guadagnerete in commissioni."
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app fetches blockchain data from The Graph’s hosted service."
+msgstr "L'applicazione recupera i dati della blockchain dal servizio hosted di The Graph."
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app fetches on-chain data and constructs contract calls with an Infura API."
+msgstr "L'applicazione recupera i dati on-chain e costruisce le chiamate ai contratti con un'API Infura."
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app fetches the optimal trade route from a BestDex Labs server."
+msgstr "L'applicazione recupera il percorso di trading ottimale da un server di BestDex Labs."
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app logs anonymized usage statistics in order to improve over time."
+msgstr "L'applicazione registra statistiche di utilizzo anonime per migliorare nel tempo."
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app securely collects your wallet address and shares it with TRM Labs Inc. for risk and compliance reasons."
+msgstr "L'applicazione raccoglie in modo sicuro l'indirizzo del wallet e lo condivide con TRM Labs Inc. per motivi di rischio e conformità."
+
+#: src/components/CurrencyInputPanel/index.tsx
+msgid "The market price is outside your specified price range. Single-asset deposit only."
+msgstr "Il prezzo di mercato non rientra nel range di prezzo selezionato. Solo deposito di un singolo asset."
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "The price of this pool is outside of your selected range. Your position is not currently earning fees."
+msgstr "Il prezzo di questo pool non rientra nel range selezionato. La vostra posizione non sta guadagnando commissioni."
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "The price of this pool is within your selected range. Your position is currently earning fees."
+msgstr "Il prezzo di questo pool rientra nel range da voi selezionato. La vostra posizione sta attualmente guadagnando commissioni."
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "The ratio of tokens you add will set the price of this pool."
+msgstr "Il rapporto dei token aggiunti determinerà il prezzo di questo pool."
+
+#: src/components/LiquidityChartRangeInput/index.tsx
+msgid "There is no liquidity data."
+msgstr "Non ci sono dati sulla liquidità."
+
+#: src/components/SearchModal/CommonBases.tsx
+msgid "These tokens are commonly paired with other tokens."
+msgstr "Questi token sono comunemente abbinati ad altri token."
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "This app uses the following third-party APIs:"
+msgstr "Questa applicazione utilizza le seguenti API di terze parti:"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "This pool must be initialized before you can add liquidity. To initialize, select a starting price for the pool. Then, enter your liquidity price range and deposit amount. Gas fees will be higher than usual due to the initialization transaction."
+msgstr "Questo pool deve essere inizializzato prima di poter aggiungere liquidità. Per inizializzarlo, selezionare un prezzo iniziale per il pool. Quindi, inserire il range di prezzo della liquidità e l'importo del deposito. Le gas fee saranno più alte del solito a causa della transazione di inizializzazione."
+
+#: src/components/swap/SwapRoute.tsx
+msgid "This route optimizes your price by considering split routes, multiple hops, and gas costs."
+msgstr "Questo percorso ottimizza il prezzo prendendo in considerazione i percorsi suddivisi, i salti multipli e i costi delle gas fee."
+
+#: src/components/SearchModal/ImportToken.tsx
+msgid "This token doesn't appear on the active token list(s). Make sure this is the token that you want to trade."
+msgstr "Questo token non compare nell'elenco dei token attivi. Assicuratevi che sia il token che volete scambiare."
+
+#: src/components/SearchModal/BlockedToken.tsx
+msgid "This token is not supported in the BestDex Labs app"
+msgstr "Questo token non è supportato dall'applicazione BestDex Labs."
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "This tool will safely migrate your {0} liquidity to V3. The process is completely trustless thanks to the"
+msgstr "Questo strumento migra in modo sicuro la liquidità {0} alla V3. Il processo è completamente affidabile grazie alla"
+
+#: src/components/SearchModal/ManageTokens.tsx
+msgid "Tip: Custom tokens are stored locally in your browser"
+msgstr "Suggerimento: I token personalizzati vengono memorizzati localmente nel browser."
+
+#: src/components/swap/SwapModalHeader.tsx
+#: src/pages/CreateProposal/ProposalActionDetail.tsx
+#: src/pages/CreateProposal/ProposalActionDetail.tsx
+#: src/pages/Swap/index.tsx
+msgid "To"
+msgstr "A"
+
+#: src/pages/Swap/index.tsx
+msgid "To (at least)"
+msgstr "A (almeno)"
+
+#: src/components/NetworkAlert/NetworkAlert.tsx
+msgid "To start trading on {0}, first bridge your assets from L1 to L2. Please treat this as a beta release and learn about the risks before using {1}."
+msgstr "Per iniziare a fare trading su {0}, è necessario un bridge tra gli asset da L1 a L2. Vi preghiamo di provare questa versione beta e di informarvi sui rischi prima di utilizzare {1}."
+
+#: src/components/SearchModal/BlockedToken.tsx
+msgid "Token not supported"
+msgstr "Token non supportato"
+
+#: src/components/SearchModal/Manage.tsx
+msgid "Tokens"
+msgstr "Token"
+
+#: src/components/SearchModal/CurrencyList.tsx
+msgid "Tokens from inactive lists. Import specific tokens below or click Manage to activate more lists."
+msgstr "Token da elenchi inattivi. Importare token specifici di seguito o fare clic su Gestisci per attivare altri elenchi."
+
+#: src/pages/Pool/CTACards.tsx
+msgid "Top pools"
+msgstr "Top pool\n"
+""
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "Total Supply"
+msgstr "Fornitura totale\n"
+""
+
+#: src/components/earn/PoolCard.tsx
+msgid "Total deposited"
+msgstr "Totale depositato\n"
+""
+
+#: src/pages/Earn/Manage.tsx
+msgid "Total deposits"
+msgstr "Totale depositi\n"
+""
+
+#: src/components/swap/RouterLabel.tsx
+msgid "Trade Route"
+msgstr "Percorso commerciale\n"
+""
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Transaction Details"
+msgstr "Dettagli della transazione\n"
+""
+
+#: src/components/Settings/index.tsx
+#: src/components/Settings/index.tsx
+msgid "Transaction Settings"
+msgstr "Impostazioni della transazione\n"
+""
+
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/StakingModal.tsx
+#: src/components/earn/UnstakingModal.tsx
+#: src/components/vote/DelegateModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "Transaction Submitted"
+msgstr "Transazione inviata"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Transaction completed in"
+msgstr "Transazione completata in\n"
+""
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Transaction deadline"
+msgstr "Termine della transazione\n"
+""
+
+#: src/hooks/useSwapCallback.tsx
+#: src/hooks/useSwapCallback.tsx
+msgid "Transaction rejected."
+msgstr "Transazione rifiutata.\n"
+""
+
+#: src/pages/CreateProposal/ProposalActionSelector.tsx
+msgid "Transfer Token"
+msgstr "Trasferimento Token"
+
+#: src/components/WalletModal/PendingView.tsx
+msgid "Try Again"
+msgstr "Riprovare"
+
+#: src/components/Settings/index.tsx
+msgid "Turn On Expert Mode"
+msgstr "Attivare la modalità esperto\n"
+""
+
+#: src/components/Popups/ClaimPopup.tsx
+msgid "UNI has arrived"
+msgstr "UNI è arrivato"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "UNI in circulation:"
+msgstr "UNI in circolazione:"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "UNI price:"
+msgstr "Prezzo UNI:"
+
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/UnstakingModal.tsx
+msgid "Unclaimed UNI"
+msgstr "UNI non richiesto"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Unclaimed fees"
+msgstr "Commissioni non reclamate\n"
+""
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "Unclaimed:"
+msgstr "Non reclamato:\n"
+""
+
+#: src/pages/Vote/styled.tsx
+msgid "Undetermined"
+msgstr "Indeterminato\n"
+""
+
+#: src/hooks/useSwapCallback.tsx
+msgid "Unexpected error. Could not estimate gas for the swap."
+msgstr "Errore imprevisto. Impossibile stimare le commissioni per lo scambio.\n"
+""
+
+#: src/hooks/useSwapCallback.tsx
+msgid "Unexpected issue with estimating the gas. Please try again."
+msgstr "Problema imprevisto nella stima delle commissioni Riprovare.\n"
+""
+
+#: src/components/SearchModal/TokenImportCard.tsx
+msgid "Unknown Source"
+msgstr "Fonte sconosciuta"
+
+#: src/pages/Vote/Landing.tsx
+#: src/pages/Vote/VotePage.tsx
+msgid "Unlock Votes"
+msgstr "Sbloccare voti\n"
+""
+
+#: src/pages/Vote/Landing.tsx
+msgid "Unlock Voting"
+msgstr "Sbloccare votazioni"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Unlocking Votes"
+msgstr "Sblocco dei voti\n"
+""
+
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/Swap/index.tsx
+msgid "Unsupported Asset"
+msgstr "Asset non supportato"
+
+#: src/components/swap/UnsupportedCurrencyFooter.tsx
+msgid "Unsupported Assets"
+msgstr "Asset non supportati"
+
+#: src/state/governance/hooks.ts
+msgid "Untitled"
+msgstr "Senza titolo\n"
+""
+
+#: src/pages/Swap/index.tsx
+msgid "Unwrap"
+msgstr "Unwrap"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Unwrap <0/> to ETH"
+msgstr "Unwrap <0/> a ETH"
+
+#: src/pages/Vote/Landing.tsx
+msgid "Update Delegation"
+msgstr "Aggiornamento delega"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Update list"
+msgstr "Elenco aggiornamenti"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "User"
+msgstr "Utente"
+
+#: src/components/swap/SwapRoute.tsx
+msgid "V2"
+msgstr "V2"
+
+#: src/pages/Pool/index.tsx
+msgid "V2 liquidity"
+msgstr "V2 liquidity\n"
+""
+
+#: src/components/swap/SwapRoute.tsx
+msgid "V3"
+msgstr "V3"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "V3 {0} Price:"
+msgstr "V3 {0} Prezzo:"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "View UNI Analytics"
+msgstr "Visualizza i dati analitici di UNI"
+
+#: src/pages/Pool/index.tsx
+msgid "View V2 Liquidity"
+msgstr "Visualizza V2 Liquidity"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "View list"
+msgstr "Visualizza elenco"
+
+#: src/pages/CreateProposal/ProposalSubmissionModal.tsx
+msgid "View on Etherscan"
+msgstr "Visualizza su Etherscan"
+
+#: src/components/AccountDetails/index.tsx
+#: src/components/AccountDetails/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "View on Explorer"
+msgstr "Visualizza di Explorer"
+
+#: src/components/ModalViews/index.tsx
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "View transaction on Explorer"
+msgstr "Visualizza transazione su Explorer"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Vote Against"
+msgstr "Voto Contrario"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Vote For"
+msgstr "Vota Per"
+
+#: src/components/vote/VoteModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "Vote against proposal {proposalId}"
+msgstr "Voto contrario alla proposta {proposalId}"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote against proposal {proposalKey}"
+msgstr "Vota contro la proposta {proposalKey}"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote against proposal {proposalKey} with reason \"{0}\""
+msgstr "Vota contro la proposta {proposalKey} con il motivo \"{0}\"."
+
+#: src/components/vote/VoteModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "Vote for proposal {proposalId}"
+msgstr "Vota per la proposta {proposalId}"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote for proposal {proposalKey}"
+msgstr "Vota per la proposta {proposalKey}"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote for proposal {proposalKey} with reason \"{0}\""
+msgstr "Vota per la proposta {proposalKey} con motivazione \"{0}\"."
+
+#: src/components/vote/VoteModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "Vote to abstain on proposal {proposalId}"
+msgstr "Voto di astensione sulla proposta {propostaId}"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote to abstain on proposal {proposalKey}"
+msgstr "Voto di astensione sulla proposta {proposalKey}"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote to abstain on proposal {proposalKey} with reason \"{0}\""
+msgstr "Voto di astensione sulla proposta {proposalKey} con motivazione \"{0}\""
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Voting ended {0}"
+msgstr "Votazione terminata {0}"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Voting ends approximately {0}"
+msgstr "La votazione termina approssimativamente {0}"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Voting starts approximately {0}"
+msgstr "Le votazioni iniziano approssimativamente {0}"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Waiting For Confirmation"
+msgstr "In attesa di conferma"
+
+#: src/components/AddressInputPanel/index.tsx
+msgid "Wallet Address or ENS name"
+msgstr "Indirizzo Wallet o nome ENS"
+
+#: src/components/earn/StakingModal.tsx
+msgid "Weekly Rewards"
+msgstr "Premi settimanali"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "Welcome to team Unicorn :)"
+msgstr "Benvenuto nel team Unicorn :)"
+
+#: src/components/earn/ClaimRewardModal.tsx
+msgid "When you claim without withdrawing your liquidity remains in the mining pool."
+msgstr "Quando fai claim senza prelevare, la tua liquidità rimane nel mining pool."
+
+#: src/pages/Earn/Manage.tsx
+msgid "When you withdraw, the contract will automagically claim UNI on your behalf!"
+msgstr "Quando prelevi, il contratto rivendicherà automaticamente UNI per tuo conto!"
+
+#: src/components/earn/UnstakingModal.tsx
+msgid "When you withdraw, your UNI is claimed and your liquidity is removed from the mining pool."
+msgstr "Quando prelevi, il tuo UNI viene rivendicato e la tua liquidità viene rimossa dal mining pool."
+
+#: src/components/earn/UnstakingModal.tsx
+#: src/pages/Earn/Manage.tsx
+msgid "Withdraw"
+msgstr "Prelievo"
+
+#: src/components/earn/UnstakingModal.tsx
+msgid "Withdraw & Claim"
+msgstr "Prelievo e claim"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Withdraw deposited liquidity"
+msgstr "Preleva la liquidità depositata"
+
+#: src/components/earn/UnstakingModal.tsx
+msgid "Withdrawing {0} BD LP"
+msgstr "Prelievo di {0} BD LP"
+
+#: src/components/earn/UnstakingModal.tsx
+msgid "Withdrew BD LP!"
+msgstr "BD LP prelevati!"
+
+#: src/pages/Swap/index.tsx
+msgid "Wrap"
+msgstr "Wrap"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Wrap <0/> to WETH"
+msgstr "Wrap <0/> a WETH"
+
+#: src/components/WalletModal/index.tsx
+#: src/components/Web3Status/index.tsx
+msgid "Wrong Network"
+msgstr "Network errato"
+
+#: src/pages/CreateProposal/index.tsx
+msgid "You already have an active or pending proposal"
+msgstr "Hai già una proposta attiva o in attesa"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "You are creating a pool"
+msgstr "Stai creando un pool"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "You are the first liquidity provider for this BestDex V3 pool. Your liquidity will migrate at the current {0} price."
+msgstr "Sei il primo fornitore di liquidità per questo pool BestDex V3. La tua liquidità migrerà al prezzo corrente di {0}."
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "You are the first liquidity provider."
+msgstr "Sei il primo fornitore di liquidità."
+
+#: src/components/vote/DelegateModal.tsx
+msgid "You can either vote on each proposal yourself or delegate your votes to a third party."
+msgstr "Puoi votare tu stesso ogni proposta o delegare i tuoi voti a terzi."
+
+#: src/pages/Swap/index.tsx
+msgid "You can now trade {0}"
+msgstr "Ora puoi scambiare {0}"
+
+#: src/pages/CreateProposal/index.tsx
+msgid "You don't have enough votes to submit a proposal"
+msgstr "Non hai abbastanza voti per inviare una proposta"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "You don’t have liquidity in this pool yet."
+msgstr "Non hai ancora liquidità in questo pool."
+
+#: src/components/Header/ChainConnectivityWarning.tsx
+msgid "You may have lost your network connection, or {label} might be down right now."
+msgstr "Potresti aver perso la connessione di rete o {label} potrebbe non essere disponibile in questo momento."
+
+#: src/components/Header/ChainConnectivityWarning.tsx
+msgid "You may have lost your network connection."
+msgstr "Potresti aver perso la connessione di rete."
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "You must connect an account."
+msgstr "Devi connettere un account."
+
+#: src/pages/Swap/index.tsx
+msgid "You must give the BestDex smart contracts permission to use your {0}. You only have to do this once per token."
+msgstr "Devi concedere agli smart contract BestDex l'autorizzazione per utilizzare il tuo {0}. Devi farlo solo una volta per token."
+
+#: src/pages/CreateProposal/index.tsx
+msgid "You must have {formattedProposalThreshold} votes to submit a proposal"
+msgstr "Devi disporre di {formattedProposalThreshold} voti per inviare una proposta"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "You should only deposit liquidity into BestDex V3 at a price you believe is correct. <0/>If the price seems incorrect, you can either make a swap to move the price or wait for someone else to do so."
+msgstr "Dovresti depositare liquidità in BestDex V3 solo a un prezzo che ritieni corretto. <0/>Se il prezzo sembra errato, puoi fare uno scambio per spostare il prezzo o aspettare che lo faccia qualcun altro."
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "You will also collect fees earned from this position."
+msgstr "Raccoglierai anche le commissioni guadagnate da questa posizione."
+
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "You will receive"
+msgstr "Riceverai"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "Your UNI Breakdown"
+msgstr "La tua ripartizione UNI"
+
+#: src/pages/Pool/index.tsx
+msgid "Your V3 liquidity positions will appear here."
+msgstr "Le tue posizioni di liquidità V3 appariranno qui."
+
+#: src/pages/Pool/v2.tsx
+msgid "Your liquidity"
+msgstr "La tua liquidità"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Your liquidity deposits"
+msgstr "I tuoi depositi di liquidità"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+#: src/components/PositionCard/index.tsx
+msgid "Your pool share:"
+msgstr "La tua quota del pool:"
+
+#: src/components/PositionCard/index.tsx
+msgid "Your position"
+msgstr "La tua posizione"
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "Your position has 0 liquidity, and is not earning fees."
+msgstr "La tua posizione ha liquidità 0 e non guadagna commissioni."
+
+#: src/components/LiquidityChartRangeInput/index.tsx
+#: src/components/LiquidityChartRangeInput/index.tsx
+msgid "Your position will appear here."
+msgstr "La tua posizione apparirà qui."
+
+#: src/components/PositionPreview/index.tsx
+#: src/components/PositionPreview/index.tsx
+msgid "Your position will be 100% composed of {0} at this price"
+msgstr "La tua posizione sarà composta al 100% da {0} a questo prezzo"
+
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "Your position will be 100% {0} at this price."
+msgstr "La tua posizione sarà al 100% {0} a questo prezzo."
+
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Your position will not earn fees or be used in trades until the market price moves into your range."
+msgstr "La tua posizione non guadagnerà commissioni né verrà utilizzata nelle negoziazioni fino a quando il prezzo di mercato non si sposta nel tuo range."
+
+#: src/components/PositionList/index.tsx
+#: src/components/PositionList/index.tsx
+msgid "Your positions"
+msgstr "Le tue posizioni"
+
+#: src/components/earn/PoolCard.tsx
+msgid "Your rate"
+msgstr "Il tuo rate"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+msgid "Your total pool tokens:"
+msgstr "Il totale dei token del tuo pool:"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Your transaction cost will be much higher as it includes the gas to create the pool."
+msgstr "Il tuo costo di transazione sarà molto più alto in quanto include il gas per creare il pool."
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Your transaction may be frontrun"
+msgstr "La tua transazione potrebbe essere in anticipo"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Your transaction may fail"
+msgstr "La tua transazione potrebbe non riuscire"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Your transaction will revert if it is pending for more than this period of time."
+msgstr "La tua transazione verrà ripristinata se è in sospeso per più di questo periodo di tempo."
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Your transaction will revert if the price changes unfavorably by more than this percentage."
+msgstr "La tua transazione verrà ripristinata se il prezzo cambia in modo sfavorevole per più di questa percentuale."
+
+#: src/components/AccountDetails/index.tsx
+msgid "Your transactions will appear here..."
+msgstr "Le tue transazioni appariranno qui..."
+
+#: src/pages/Earn/Manage.tsx
+msgid "Your unclaimed UNI"
+msgstr "Il tuo UNI non reclamato"
+
+#: src/components/AccountDetails/index.tsx
+msgid "clear all"
+msgstr "pulisci tutto"
+
+#: src/components/Settings/index.tsx
+msgid "confirm"
+msgstr "conferma"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "for {0}"
+msgstr "per {0}"
+
+#: src/components/Web3Status/index.tsx
+msgid "has socks emoji"
+msgstr "ha emoji"
+
+#: src/components/Header/ChainConnectivityWarning.tsx
+#: src/components/WalletModal/index.tsx
+msgid "here."
+msgstr "qui."
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "https:// or ipfs:// or ENS name"
+msgstr "https:// o ipfs:// o nome ENS"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "minutes"
+msgstr "minuti"
+
+#: src/components/SearchModal/ImportRow.tsx
+msgid "via {0}"
+msgstr "via {0}"
+
+#: src/components/SearchModal/TokenImportCard.tsx
+msgid "via {0} token list"
+msgstr "via {0} token list"
+
+#: src/components/SearchModal/ImportToken.tsx
+msgid "{0, plural, one {Import token} other {Import tokens}}"
+msgstr "{0, plural, one {Import token} other {Import tokens}}"
+
+#: src/components/RateToggle/index.tsx
+#: src/components/RateToggle/index.tsx
+#: src/hooks/useSwapCallback.tsx
+#: src/hooks/useSwapCallback.tsx
+msgid "{0}"
+msgstr "{0}"
+
+#: src/components/PositionCard/index.tsx
+#: src/pages/Vote/VotePage.tsx
+#: src/pages/Vote/VotePage.tsx
+msgid "{0} %"
+msgstr "{0} %"
+
+#: src/components/PositionListItem/index.tsx
+#: src/components/PositionListItem/index.tsx
+msgid "{0} <0/> per <1/>"
+msgstr "{0} <0/> per <1/>"
+
+#: src/components/earn/StakingModal.tsx
+msgid "{0} BD LP"
+msgstr "{0} BD LP"
+
+#: src/pages/Earn/Manage.tsx
+msgid "{0} BD LP LP tokens available"
+msgstr "{0} BD LP LP tokens available"
+
+#: src/components/SearchModal/ManageTokens.tsx
+msgid "{0} Custom Tokens"
+msgstr "{0} Custom Tokens"
+
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+msgid "{0} Deposited"
+msgstr "{0} Deposited"
+
+#: src/components/earn/PoolCard.tsx
+msgid "{0} ETH"
+msgstr "{0} ETH"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "{0} Fees Earned:"
+msgstr "{0} Fees Earned:"
+
+#: src/components/Web3Status/index.tsx
+msgid "{0} Pending"
+msgstr "{0} Pending"
+
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+msgid "{0} UNI"
+msgstr "{0} UNI"
+
+#: src/components/earn/PoolCard.tsx
+#: src/components/earn/PoolCard.tsx
+#: src/components/earn/StakingModal.tsx
+#: src/pages/Earn/Manage.tsx
+#: src/pages/Earn/Manage.tsx
+msgid "{0} UNI / week"
+msgstr "{0} UNI / settimana"
+
+#: src/components/vote/VoteModal.tsx
+msgid "{0} Votes"
+msgstr "{0} Voti"
+
+#: src/components/PositionPreview/index.tsx
+#: src/components/PositionPreview/index.tsx
+#: src/components/PositionPreview/index.tsx
+#: src/pages/AddLiquidityV2/PoolPriceBar.tsx
+#: src/pages/AddLiquidityV2/PoolPriceBar.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "{0} per {1}"
+msgstr "{0} per {1}"
+
+#: src/components/SearchModal/ImportList.tsx
+#: src/components/SearchModal/ManageLists.tsx
+msgid "{0} tokens"
+msgstr "{0} tokens"
+
+#: src/components/Header/index.tsx
+#: src/components/Web3Status/index.tsx
+msgid "{0} {1}"
+msgstr "{0} {1}"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "{0} {1} Price:"
+msgstr "{0} {1} Price:"
+
+#: src/components/SearchModal/CurrencyList.tsx
+msgid "{0} • Added by user"
+msgstr "{0} • Added by user"
+
+#: src/components/CurrencyInputPanel/FiatValue.tsx
+#: src/components/FeeSelector/FeeOption.tsx
+#: src/components/PositionListItem/index.tsx
+#: src/components/PositionPreview/index.tsx
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "{0}%"
+msgstr "{0}%"
+
+#: src/components/FeeSelector/index.tsx
+msgid "{0}% fee tier"
+msgstr "{0}% fee tier"
+
+#: src/components/FeeSelector/FeeTierPercentageBadge.tsx
+msgid "{0}% select"
+msgstr "{0}% select"
+
+#: src/pages/Earn/Manage.tsx
+msgid "{0}-{1} Liquidity Mining"
+msgstr "{0}-{1} Liquidity Mining"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "{0}/{1} LP NFT"
+msgstr "{0}/{1} LP NFT"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "{0}/{1} LP Tokens"
+msgstr "{0}/{1} LP Tokens"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "{SOCKS_AMOUNT} UNI"
+msgstr "{SOCKS_AMOUNT} UNI"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "{USER_AMOUNT} UNI"
+msgstr "{USER_AMOUNT} UNI"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "{activeTokensOnThisChain} tokens"
+msgstr "{activeTokensOnThisChain} tokens"
+
+#: src/pages/Home/ContentImageSection.tsx
+msgid "{heading}"
+msgstr "{heading}"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "{percentForSlider}%"
+msgstr "{percentForSlider}%"
+
+#: src/components/InputStepCounter/InputStepCounter.tsx
+msgid "{tokenB} per {tokenA}"
+msgstr "{tokenB} per {tokenA}"
+
+#: src/components/CurrencyInputPanel/FiatValue.tsx
+msgid "~$ <0/>"
+msgstr "~$ <0/>"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "← Back to Pools Overview"
+msgstr "← Back to Pools Overview"
+
+#: 
+msgid "Questions"
+msgstr "Domande"
+
+#: 
+msgid "Best Wallet is a fully decentralised crypto wallet aiming to address the concerns present in traditional custody solutions regarding security, privacy, and control over assets. We’re empowering users to manage their own digital assets from their own phone or computer with minimal reliance on centralized authorities."
+msgstr "Best Wallet è un crypto wallet completamente decentralizzato che mira ad affrontare le preoccupazioni presenti nelle soluzioni di custodia tradizionali in materia di sicurezza, privacy e controllo delle risorse. Stiamo consentendo agli utenti di gestire le proprie risorse digitali dal proprio telefono o computer con una dipendenza minima dalle autorità centralizzate."
+
+#: 
+msgid "The smartest way to manage your digital assets."
+msgstr "Il modo più intelligente per gestire le tue risorse digitali."
+
+#: 
+msgid "LEARN MORE"
+msgstr "LEGGI DI PIÙ"
+
+#: 
+msgid "INTRODUCING"
+msgstr "INTRODUZIONE"
+
+#: 
+msgid "Market Insights"
+msgstr "Approfondimenti di mercato"
+
+#: 
+msgid "Participate in the BEST airdrop"
+msgstr "Partecipa al BEST airdrop"
+
+#: 
+msgid "We’re rewarding all our early adopters with an airdrop of 10% of the total supply of BEST tokens."
+msgstr "Stiamo premiando tutti i nostri primi utilizzatori con un airdrop del 10% della fornitura totale di token BEST."
+
+#: 
+msgid "How to get started"
+msgstr "Come iniziare"
+
+#: 
+msgid "Download the Best Wallet app"
+msgstr "Scarica l'app Best Wallet"
+
+#: 
+msgid "Availiable on\n"
+""
+msgstr "Disponibile su"
+
+#: 
+msgid "Get it on"
+msgstr "PROVALO"
+
+#: 
+msgid "Create a wallet"
+msgstr "Crea un wallet"
+
+#: 
+msgid "Make sure you complete all the steps below to ensure we can track your activities towards the Best Wallet airdrop"
+msgstr "Assicurati di completare tutti i passaggi seguenti per assicurarci di poter monitorare le tue attività verso l'airdrop di Best Wallet"
+
+#: 
+msgid "Download Our App"
+msgstr "Scarica la nostra App"
+
+#: 
+msgid "Engage On Our Platform"
+msgstr "Interagisci sulla nostra piattaforma"
+
+#: 
+msgid "Visit Our Website"
+msgstr "Visita il nostro sito"
+
+#: 
+msgid "Join @BestWallet_Official on Telegram"
+msgstr "Unisciti a @BestWallet_Official su Telegram"
+
+#: 
+msgid "Join Our Discord Server"
+msgstr "Unisciti al nostro server Discord"
+
+#: 
+msgid "Follow @BestWallet__ on Twitter"
+msgstr "Segui @BestWallet__ su Twitter"
+
+#: 
+msgid "Visit @bestwalletofficial on Instagram"
+msgstr "Visita @bestwalletofficial su Instagram"
+
+#: 
+msgid "How you earn points"
+msgstr "Come guadagnare punti"
+
+#: 
+msgid "Use the Best Wallet App and DEX"
+msgstr "Usa la migliore app Wallet e DEX"
+
+#: 
+msgid "Store your tokens and make transactions"
+msgstr "Archivia i tuoi token ed effettua transazioni"
+
+#: 
+msgid "Engage with our Socials and spread the word"
+msgstr "Interagisci con i nostri social e diffondi la voce"
+
+#: 
+msgid "Cryptocurrency may be unregulated in your jurisdiction. The value of cryptocurrencies may go down as well as up. Profits may be subject to capital gains or other taxes applicable in your jurisdiction.\n"
+""
+msgstr "Le criptovalute potrebbero non essere regolamentate nel tuo Paese. Il valore delle criptovalute può aumentare o diminuire e i profitti possono essere soggetti a plusvalenze o altre imposte applicabili nel tuo Paese."
+
+#: 
+msgid "What is a Crypto Airdrop?"
+msgstr "Cos'è una crypto airdrop?"
+
+#: 
+#, fuzzy
+msgid "An Airdrop is when a token is sent to a specific group of crypto wallet addresses. Sometimes this is a marketing strategy by crypto projects to introduce their token to new audiences. In our case, the BEST Token Airdrop rewards early adopters, power users, and brand advocates of Best Wallet and Best DEX with a portion of the total token supply as a way to thank them for their engagement within the Best Ecosystem."
+msgstr "Un Airdrop è quando un token viene inviato a un gruppo specifico di indirizzi di portafoglio crittografico. A volte questa è una strategia di marketing di progetti crittografici per presentare il loro token a un nuovo pubblico. Nel nostro caso, il BEST Token Airdrop premia i primi utenti, utenti esperti e sostenitori del marchio Best Wallet e Best DEX con una parte della fornitura totale di token come modo per ringraziarli per il loro impegno all'interno del Best Ecosystem."
+
+#: 
+msgid "How can I participate in the BEST Token Airdrop?"
+msgstr "Come posso partecipare al BEST Token Airdrop?"
+
+#: 
+msgid "To participate in the BEST Token Airdrop, you need to follow these steps:"
+msgstr "Per partecipare al BEST Token Airdrop, devi seguire questi passaggi:"
+
+#: 
+msgid "a. Download the Best Wallet app and create a wallet."
+msgstr "A. Scarica l'app Best Wallet e crea un wallet."
+
+#: 
+msgid "b. Visit the Airdrop page on our website."
+msgstr "B. Visita la pagina Airdrop sul nostro sito web."
+
+#: 
+msgid "c. Provide your wallet address, email address, Twitter handle, and Discord username and follow our socials"
+msgstr "C. Fornisci l'indirizzo del tuo wallet, l'indirizzo e-mail, l'handle di Twitter e il nome utente Discord e segui i nostri social"
+
+#: 
+msgid "d. Engage actively within the Best Ecosystem to earn points."
+msgstr "D. Impegnati attivamente all'interno del Best Ecosystem per guadagnare punti."
+
+#: 
+msgid "How do I earn points during the Airdrop?"
+msgstr "Come posso guadagnare punti durante l'Airdrop?"
+
+#: 
+msgid "During Phase 1-6 of our product launch, points are earned in three ways."
+msgstr "Durante le fasi 1-6 del lancio del nostro prodotto, i punti vengono guadagnati in tre modi."
+
+#: 
+msgid "a. Engaging with our socials and spreading the word about Best Web3."
+msgstr "A. Interagendo  con i nostri social e far conoscere Best Web3."
+
+#: 
+msgid "b. Using Best Wallet."
+msgstr "B. Utilizzando il Best Wallet."
+
+#: 
+msgid "c. Using Best DEX."
+msgstr "C. Usando Best DEX."
+
+#: 
+msgid "What are the benefits of holding BEST tokens?"
+msgstr "Quali sono i vantaggi nel possedere i token BEST?"
+
+#: 
+msgid "Holding BEST tokens will bring several exclusive benefits within the Best Ecosystem, including:"
+msgstr "Holdare i token BEST porterà diversi vantaggi esclusivi all'interno del Best Ecosystem, tra cui:"
+
+#: 
+msgid "a. No gas fees on transactions."
+msgstr "A. Nessuna commissione gas sulle transazioni."
+
+#: 
+msgid "b. Governance voting on Best Dex."
+msgstr "B. Voto di governance su Best Dex."
+
+#: 
+msgid "c. Early access to token launches."
+msgstr "C. Accesso anticipato ai lanci di token."
+
+#: 
+msgid "d. Participation in exclusive NFT and token drops."
+msgstr "D. Partecipazione a esclusivi NFT e token drop."
+
+#: 
+msgid "We will announce more benefits and utility closer to the airdrop date."
+msgstr "Annunceremo ulteriori vantaggi e utilità più vicino alla data dell'airdrop."
+
+#: 
+msgid "When will the Airdrop happen?"
+msgstr "Quando avverrà l'Airdrop?"
+
+#: 
+msgid "The airdrop ends at the end of phase 6 of our Best Wallet launch. The specific date and time of the Airdrop will be announced on our official website and social media channels. Stay tuned for updates to ensure you don't miss out on this opportunity!"
+msgstr "L'airdrop termina alla fine della fase 6 del lancio del nostro Best Wallet. La data e l'ora specifiche dell'Airdrop saranno annunciate sul nostro sito Web ufficiale e sui canali dei social media. Resta sintonizzato per gli aggiornamenti per assicurarti di non perdere questa opportunità!"
+
+#: 
+msgid "How will the Airdrop rewards be distributed?"
+msgstr "Come verranno distribuite le ricompense Airdrop?"
+
+#: 
+msgid "10% of the total supply of the BEST token has been allocated to the airdrop. Participants will earn a share of the token pool proportionate to the points they have used throughout phases 1-6 of the Best Wallet launch. The Airdrop rewards will be distributed directly to the wallet addresses provided during the registration process. Please ensure the accuracy of the wallet address to receive your tokens smoothly."
+msgstr "Il 10% della fornitura totale del token BEST è stato assegnato all'airdrop. I partecipanti guadagneranno una quota del pool di token proporzionale ai punti che hanno utilizzato durante le fasi 1-6 del lancio di Best Wallet. I premi Airdrop verranno distribuiti direttamente agli indirizzi dei portafogli forniti durante il processo di registrazione. Assicurati dell'accuratezza dell'indirizzo del portafoglio per ricevere i tuoi token senza problemi."
+
+#: 
+msgid "Is there a limited number of participants for the Airdrop?"
+msgstr "C'è un numero limitato di partecipanti per l'Airdrop?"
+
+#: 
+msgid "Participation is open to all."
+msgstr "La partecipazione è aperta a tutti."
+
+#: 
+msgid "Can I register multiple times for the Airdrop?"
+msgstr "Posso registrarmi più volte per l'Airdrop?"
+
+#: 
+msgid "No, each participant is allowed to register only once for the Airdrop. Multiple registrations may lead to disqualification."
+msgstr "No, ogni partecipante può registrarsi una sola volta all'Airdrop. Iscrizioni multiple possono portare alla squalifica."
+
+#: 
+msgid "How will you prevent fraudulent activity during the Airdrop?"
+msgstr "Come impedirete attività fraudolente durante l'Airdrop?"
+
+#: 
+msgid "We have implemented various security measures to detect and prevent fraudulent activities. Any attempts at gaming the system or engaging in suspicious activities will lead to immediate disqualification from the Airdrop."
+msgstr "Abbiamo implementato varie misure di sicurezza per rilevare e prevenire attività fraudolente. Qualsiasi tentativo di ingannare il sistema o intraprendere attività sospette comporterà l'immediata squalifica dall'Airdrop."
+
+#: 
+msgid "How can I stay updated about the Airdrop and the project's progress?"
+msgstr "Come posso rimanere aggiornato sull'Airdrop e sullo stato di avanzamento del progetto?"
+
+#: 
+msgid "To stay informed about the Airdrop, project updates, and important announcements, make sure to follow our official social media channels and regularly check our website. We will keep the community informed about any developments related to the BEST Token Airdrop."
+msgstr "Per rimanere informato sull'Airdrop, sugli aggiornamenti del progetto e sugli annunci importanti, assicurati di seguire i nostri canali di social media ufficiali e di controllare regolarmente il nostro sito web. Terremo informata la comunità su eventuali sviluppi relativi al BEST Token Airdrop."
+
+#: 
+msgid "Best DEX is built as the sister app to Best Wallet, our flagship <0>non-custodial crypto wallet</0>. Best DEX can be accessed from within Best Wallet for an easy trading experience all within a single app. No more need to use several different wallets and DEXs to manage your crypto portfolio."
+msgstr "Best DEX è l'app gemella di Best Wallet, il nostro <0>non-custodial crypto wallet</0> di punta. È possibile accedere a Best DEX da Best Wallet per un'esperienza di trading semplice, tutto all'interno di un'unica app. Non è più necessario utilizzare diversi wallet e DEX per gestire il tuo wallet di criptovalute."
+
+#: 
+msgid "Best DEX does not require KYC verification to start trading. We prioritise user privacy and aim to provide a hassle-free onboarding experience. Simply connect your wallet and you’re ready to go."
+msgstr "Best DEX non richiede la verifica KYC per iniziare a fare trading. Diamo la priorità alla privacy degli utenti e miriamo a fornire un'esperienza di onboarding senza problemi. Collega semplicemente il tuo portafoglio e sei pronto per partire."
+
+#: 
+msgid "Follow our socials and join our community hubs <0>here</0>"
+msgstr "Segui i nostri social e unisciti ai nostri hub della community <0>here</0>"
+
+#: 
+msgid "We are launching the BEST token at the end of Phase 6 of our roadmap and will reward our early adopters and power users with 10% of our total supply based on the points they have accumulated from using our app and spreading the word on socials."
+msgstr "Stiamo lanciando il token BEST alla fine della Fase 6 della nostra roadmap e ricompenseremo i nostri primi utilizzatori e power user con il 10% della nostra offerta totale in base ai punti che hanno accumulato utilizzando la nostra app e spargendo la voce sui social."
+
+#: 
+msgid "In the near future, Best DEX will be available as a decentralised application (dApp) within Best Wallet, offering an even more integrated and user-friendly trading experience."
+msgstr "Nel prossimo futuro, Best DEX sarà disponibile come applicazione decentralizzata (dApp) all'interno di Best Wallet, offrendo un'esperienza di trading ancora più integrata e user-friendly."
+
+#: 
+msgid "Simply visit the Best DEX platform through your mobile web browser to start trading cryptocurrencies on the go."
+msgstr "Basta visitare la migliore piattaforma DEX tramite il browser web del tuo cellulare per iniziare a fare trading di criptovalute ovunque ti trovi."
+
+#: 
+msgid "Best Wallet is the fully non-custodial crypto wallet at the heart of the Best Web3 Ecosystem. Buy, store, send, and receive Bitcoin and many other cryptocurrencies safely and securely with the Best Wallet app."
+msgstr "Best Wallet è il crypto wallet non custodial al centro del Best Web3 Ecosystem. Acquista, archivia, invia e ricevi Bitcoin e molte altre criptovalute in modo sicuro e protetto con l'app Best Wallet."
+
+#: 
+msgid "Portfolio Management and Token Analytics give users everything they need to get in early on the hottest token launches, make the right trades at the right times, and maximise profits."
+msgstr "La gestione del wallet e l'analisi dei token offrono agli utenti tutto ciò di cui hanno bisogno per entrare in anticipo sui lanci di token più richiesti, effettuare le negoziazioni giuste al momento giusto e massimizzare i profitti."
+
+#: 
+msgid "Create a wallet in the BEST Wallet"
+msgstr "Crea un wallet nel BEST Wallet"
+
+#: 
+msgid "Make sure you complete all the steps below to ensure we can track your activities towards the BEST airdrop"
+msgstr "Assicurati di completare tutti i passaggi per assicurarci di poter tracciare le tue attività verso il MIGLIOR airdrop"
+
+#: 
+msgid "Download the Best Wallet app and create a wallet."
+msgstr "Scarica l'app Best Wallet e crea un wallet."
+
+#: 
+msgid "2023 Best Web3. All Right Reserved."
+msgstr "2023 Best Web3. Tutti i diritti riservati."
+
+#: 
+msgid "Get Featured on Best DEX"
+msgstr "Ottieni visibilità su Best DEX"
+
+#: 
+msgid "Partner with the Best"
+msgstr "Collabora con i migliori"
+
+#: 
+msgid "Become a partner and let us showcase your project to the world. Reach thousands of highly engaged global Best Wallet crypto holders."
+msgstr "Diventa un partner e lasciaci mostrare il tuo progetto al mondo. Raggiungi migliaia di detentori di criptovalute Best Wallet globali altamente coinvolti."
+
+#: 
+msgid "Best Audience"
+msgstr "Il miglior pubblico"
+
+#: 
+msgid "News Coverage"
+msgstr "Copertura delle notizie"
+
+#: 
+msgid "Featured on Best DEX"
+msgstr "In primo piano su Best DEX"
+
+#: 
+msgid "You have a following and you’re trending in all the right ways. Best Wallet will showcase your achievements and potential to thousands more engaged crypto holders."
+msgstr "Hai un seguito e sei di tendenza in tutti i modi giusti. Best Wallet mostrerà i tuoi risultati e il tuo potenziale a migliaia di detentori di criptovalute più coinvolti."
+
+#: 
+msgid "Your project will be picked up by high-ranking crypto news sites with a combined traffic of over 20 million monthly visitors."
+msgstr "Il tuo progetto verrà raccolto da siti di notizie crypto di alto livello con un traffico combinato di oltre 20 milioni di visitatori mensili."
+
+#: 
+msgid "Be a part of the Best Ecosystem. We’ll list your token on Best DEX and support it with exposure and user incentives."
+msgstr "Entra a far parte del miglior ecosistema. Elencheremo il tuo token su Best DEX e lo supporteremo con esposizione e incentivi per gli utenti."
+
+#: 
+msgid "Showcase Application"
+msgstr "Applicazione vetrina"
+
+#: 
+msgid "First Name"
+msgstr "Nome"
+
+#: 
+msgid "Last Name"
+msgstr "Cognome"
+
+#: 
+msgid "Your work Email"
+msgstr "La tua mail di lavoro"
+
+#: 
+msgid "Provide a link to your website"
+msgstr "Fornisci un link al tuo sito web"
+
+#: 
+msgid "URL"
+msgstr "URL"
+
+#: 
+msgid "More Information"
+msgstr "Maggiori informazioni"
+
+#: 
+msgid "Tell us about your project"
+msgstr "Parlaci del tuo progetto"
+
+#: 
+msgid "I confirm I have read agree to the <0>Privacy Policy</0>."
+msgstr "Confermo di aver letto e accettato l'<0>Privacy Policy</0>."
+
+#: 
+msgctxt "Shown on a button for applying to be a partner in BESTDex"
+msgid "Apply"
+msgstr "Invia"
+
+#: 
+msgid "Trade"
+msgstr "Trade"
+
+#: 
+msgid "Features"
+msgstr "Feature"
+
+#: 
+msgid "Best DEX is a decentralised exchange designed to seamlessly integrate with Best Wallet, our non-custodial crypto wallet . It allows you to trade cryptocurrencies securely and efficiently while maintaining full control of your funds and digital assets."
+msgstr "Best DEX è un exchange decentralizzato progettato per integrarsi perfettamente con Best Wallet, il nostro portafoglio non custodito\n"
+"          portafoglio crittografico. Ti consente di scambiare criptovalute in modo sicuro ed efficiente mantenendo la piena capacità\n"
+"          controllo dei tuoi fondi e delle tue risorse digitali."
+
+#: 
+msgid "What are the benefits of Best DEX?"
+msgstr "Quali sono i vantaggi di Best DEX?"

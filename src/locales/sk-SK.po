@@ -1,0 +1,2943 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Best DEX Website\n"
+"Language: sk\n"
+
+#. Please don't change the name of the application
+#: src/pages/Home/index.tsx
+msgid "Buy and Sell Instantly on"
+msgstr "Kúpiť a predať ihneď na"
+
+#: src/pages/Home/index.tsx
+msgid "Recommended By"
+msgstr "Odporúčané"
+
+#: src/pages/Home/index.tsx
+msgid "Trade any token on Ethereum or BNB Smart Chain in seconds, just by connecting your wallet."
+msgstr "Obchodujte s akýmkoľvek tokenom na Ethereum alebo BNB Smart Chain v priebehu niekoľkých sekúnd, stačí pripojiť svoju peňaženku."
+
+#: /app/modules/views
+msgid "No registration needed. Thousands of tokens to trade at your fingertips."
+msgstr "Nie je potrebná žiadna registrácia. Tisíce tokenov na obchodovanie na dosah ruky."
+
+#: src/pages/Home/index.tsx
+#: src/pages/Home/index.tsx
+msgid "Trade Now"
+msgstr "Obchodujte teraz"
+
+#: src/pages/Home/index.tsx
+msgid "Decentralised Exchange"
+msgstr "Decentralizovaná burza"
+
+#: src/pages/Home/index.tsx
+msgid "Trade anything. No registration. No hassle."
+msgstr "Obchodujte s čímkoľvek. Žiadna registrácia. Bez problémov."
+
+#: src/pages/Home/index.tsx
+msgid "Best DEX will have all the tools you need to navigate around crypto trading including real-time market updates and advanced charting via Trading View."
+msgstr "Best DEX bude mať všetky nástroje, ktoré potrebujete na navigáciu v obchodovaní s kryptomenami, vrátane aktualizácií trhu v reálnom čase a pokročilých grafov cez Trading View."
+
+#: /app/modules/views
+msgid "We were unable to sign you up.\n"
+"Please correct the marked fields."
+msgstr "Nepodarilo sa nám vás zaregistrovať.\n"
+"Opravte označené polia."
+
+#: /app/modules/views
+msgid "From trending tokens to token security, Best Dex token analytics provides traders with in-depth, real-time data to execute the right trades."
+msgstr "Od trendových tokenov až po zabezpečenie tokenov, Best Dex token analytics poskytuje obchodníkom hĺbkové údaje v reálnom čase na vykonávanie správnych obchodov."
+
+#: src/components/WalletModal/index.tsx
+msgid "Coming Soon"
+msgstr "Už čoskoro"
+
+#: /app/modules/views
+msgid "Token Analytics"
+msgstr "Analytika tokenu"
+
+#: 
+msgid "Token Info"
+msgstr "Informácie o tokene"
+
+#: 
+msgid "Token Sentiment"
+msgstr "Sentiment tokenu"
+
+#: 
+msgid "Token Security"
+msgstr "Bezpečnosť tokenu"
+
+#: 
+msgid "BEST Airdrop"
+msgstr "BEST Airdrop"
+
+#: 
+msgid "The BEST token airdrop will reward brand advocates and Best Wallet and Best DEX power users over the coming months. Holders of the BEST token will receive exclusive benefits on Best DEX including lower cost trades"
+msgstr "BEST token airdrop odmení zástancov značky a najlepších používateľov peňaženky a najlepších DEX v nadchádzajúcich mesiacoch. Držitelia tokenu BEST získajú exkluzívne výhody na Best DEX vrátane obchodov s nižšími nákladmi"
+
+#: 
+msgid "Frequently Asked"
+msgstr "Často kladené otázky"
+
+#: src/pages/Home/index.tsx
+msgid "Find answers to the most frequently asked questions about Best Wallet right here."
+msgstr "Tu nájdete odpovede na najčastejšie otázky o Najlepšej peňaženke."
+
+#: src/pages/Home/index.tsx
+msgid "If the answer you’re looking for isn’t here, email contact@bestwallet.com and we’ll assist you."
+msgstr "Ak tu odpoveď, ktorú hľadáte, nie je, pošlite nám e-mail na adresu contact@bestwallet.com a my vám pomôžeme."
+
+#: src/pages/Home/index.tsx
+msgid "Cryptocurrency may be unregulated in your jurisdiction. The value of cryptocurrencies may go down as well as up. Profits may be subject to capital gains or other taxes applicable in your jurisdiction."
+msgstr "Kryptomena môže byť vo vašej jurisdikcii neregulovaná. Hodnota kryptomien môže klesať aj stúpať. Zisky môžu podliehať kapitálovým ziskom alebo iným daniam platným vo vašej jurisdikcii."
+
+#: src/pages/Home/index.tsx
+msgid "Terms"
+msgstr "Podmienky"
+
+#: src/pages/Home/index.tsx
+msgid "Privacy"
+msgstr "Súkromie"
+
+#: src/pages/Home/index.tsx
+msgid "Cookies"
+msgstr "Cookies"
+
+#: 
+msgid "What is Best DEX?"
+msgstr "Čo je Best DEX?"
+
+#: 
+msgid "Best DEX is a decentralized exchange designed to seamlessly integrate with Best Wallet, our non-custodial crypto wallet. It allows you to trade cryptocurrencies securely and efficiently while maintaining full control of your funds and digital assets."
+msgstr "Best DEX je decentralizovaná burza navrhnutá tak, aby sa hladko integrovala s Best Wallet, našou nedepozitnou kryptopeňaženkou. Umožňuje vám bezpečne a efektívne obchodovať s kryptomenami pri zachovaní plnej kontroly nad vašimi finančnými prostriedkami a digitálnymi aktívami."
+
+#: 
+msgid "Why should I use Best DEX instead of Uniswap or other DEXs?"
+msgstr "Prečo by som mal používať Best DEX namiesto Uniswap alebo iných DEX?"
+
+#: 
+msgid "Best DEX is built as the sister app to Best Wallet, our flagship crypto wallet. Best DEX can be accessed from within Best Wallet for an easy trading experience all within a single app. No more need to use several different wallets and DEXs to manage your crypto portfolio."
+msgstr "Best DEX je vytvorená ako sesterská aplikácia Best Wallet, našej vlajkovej lode medzi krypto peňaženkami. Best DEX je prístupný z Best Wallet pre jednoduché obchodné skúsenosti v rámci jedinej aplikácie. Už nie je potrebné používať niekoľko rôznych peňaženiek a DEX na správu vášho krypto portfólia."
+
+#: 
+msgid "What are Best DEX’s special features compared to competitors?"
+msgstr "Aké sú špeciálne funkcie Best DEX v porovnaní s konkurenciou?"
+
+#: 
+msgid "Best DEX is incorporating the best aspects of established DEXs, improving upon them, and adding streamlined features that will elevate your crypto trading experience. To name two: 1. Store, manage, and trade crypto from a single app 2. Save on trading fees."
+msgstr "Best DEX zahŕňa najlepšie aspekty zavedených DEX, vylepšuje ich a pridáva zjednodušené funkcie, ktoré zvýšia vaše skúsenosti s obchodovaním s kryptomenami. Aby sme vymenovali dva: 1. Uchovávajte, spravujte a obchodujte s kryptomenami z jedinej aplikácie 2. Ušetrite na poplatkoch za obchodovanie."
+
+#: 
+msgid "Which chains does Best DEX support for decentralised trading?"
+msgstr "Ktoré reťazce podporuje Best DEX pre decentralizované obchodovanie?"
+
+#: 
+msgid "Best DEX will start with native support for Ethereum, BNB Smart Chain and Polygon. Over time we’ll add support for all active major blockchains."
+msgstr "Best DEX začne s natívnou podporou pre Ethereum, BNB Smart Chain a Polygon. Postupom času pridáme podporu pre všetky aktívne hlavné blockchainy."
+
+#: 
+msgid "How can I use Best DEX on my mobile phone?"
+msgstr "Ako môžem použiť Best DEX na svojom mobilnom telefóne?"
+
+#: 
+msgid "Best DEX is available through the 'Swap' feature on the Best Wallet app. Simply download Best Wallet from Google Play or the App Store to gain access to Best DEX trading."
+msgstr "Best DEX je k dispozícii prostredníctvom funkcie „Swap“ v aplikácii Best Wallet. Jednoducho si stiahnite Best Wallet z Google Play alebo App Store a získajte prístup k obchodovaniu Best DEX."
+
+#: 
+msgid "Decentralised & Secure"
+msgstr "Decentralizovaná a bezpečná"
+
+#: 
+msgid "Low Fees"
+msgstr "Nízke poplatky"
+
+#: 
+msgid "Trading Insights"
+msgstr "Obchodné štatistiky"
+
+#: 
+msgid "Best DEX automatically matches you to the trading pair with the lowest rate for your desired swap, ensuring you always get the best price on your trades. This feature helps you save money on transactions."
+msgstr "Best DEX vás automaticky priradí k obchodnému páru s najnižšou sadzbou pre požadovaný swap, čím zaistíte, že vždy získate najlepšiu cenu za svoje obchody. Táto funkcia vám pomôže ušetriť peniaze za transakcie."
+
+#: 
+msgid "Cost-Saving Advantage"
+msgstr "Výhoda úspory nákladov"
+
+#: 
+msgid "Airdrop Incentives"
+msgstr "Motívy airdropu"
+
+#: 
+msgid "By using Best DEX, you become part of the Best Ecosystem, and we reward our most loyal and active users with a 10% airdrop of the total supply of our native token, $BEST, during Phase 6 of our launch."
+msgstr "Používaním Best DEX sa stávate súčasťou Best Ecosystem a my odmeňujeme našich najvernejších a najaktívnejších používateľov 10% poklesom celkovej ponuky nášho natívneho tokenu, $ BEST, počas 6. fázy nášho uvedenia na trh."
+
+#: 
+msgid "Market Insights and Analytics"
+msgstr "Štatistiky trhu a analytika"
+
+#: 
+msgid "Best DEX provides you with comprehensive market insights and in-depth token analytics, giving you the best chance to make the best trading decisions at the right time."
+msgstr "Best DEX vám poskytuje komplexné informácie o trhu a hĺbkovú analýzu tokenov, čo vám dáva najlepšiu šancu robiť najlepšie obchodné rozhodnutia v správnom čase."
+
+#: 
+msgid "Convenience"
+msgstr "Výhody"
+
+#: 
+msgid "What are the fees associated with using Best DEX?"
+msgstr "Aké sú poplatky spojené s používaním Best DEX?"
+
+#: 
+msgid "Best Dex does not charge a usage fee. The only fees are determined by the specific liquidity pool and network gas fees."
+msgstr "Best Dex si neúčtuje poplatok za používanie. Jediné poplatky sú určené konkrétnym poolom likvidity a sieťovými poplatkami za plyn."
+
+#: 
+msgid "Which chains does Best DEX support for decentralized trading?"
+msgstr "Ktoré reťazce podporuje Best DEX pre decentralizované obchodovanie?"
+
+#: 
+msgid "Best DEX initially supports Ethereum, BNB Smart Chain, and Polygon networks. As we continue to grow, we plan to add support for all active major blockchains, broadening your trading options and opportunities."
+msgstr "Best DEX spočiatku podporuje siete Ethereum, BNB Smart Chain a Polygon. Ako pokračujeme v raste, plánujeme pridať podporu pre všetky aktívne hlavné blockchainy, čím sa rozšíria vaše obchodné možnosti a príležitosti."
+
+#: 
+msgid "Does Best DEX require registration and KYC verification?"
+msgstr "Vyžaduje Best DEX registráciu a overenie KYC?"
+
+#: 
+msgid "Best DEX does not require KYC verification to start trading. We prioritize user privacy and aim to provide a hassle-free onboarding experience. Simply connect your wallet and you’re ready to go."
+msgstr "Best DEX nevyžaduje overenie KYC na začatie obchodovania. Uprednostňujeme súkromie používateľov a naším cieľom je poskytnúť bezproblémový zážitok z registrácie. Stačí pripojiť peňaženku a môžete vyraziť."
+
+#: 
+msgid "Can I use Best DEX on my mobile phone?"
+msgstr "Môžem používať Best DEX na mojom mobilnom telefóne?"
+
+#: 
+msgid "There are multiple ways to access Best DEX on your mobile device:"
+msgstr "Existuje niekoľko spôsobov, ako získať prístup k Best DEX na vašom mobilnom zariadení:"
+
+#: 
+msgid "Mobile Web Browser"
+msgstr "Mobilný webový prehliadač"
+
+#: 
+msgid "Simply visit https://bestdex.com the Best DEX platform through your mobile web browser to start trading cryptocurrencies on the go."
+msgstr "Jednoducho navštívte https://bestdex.com najlepšiu platformu DEX prostredníctvom mobilného webového prehliadača a začnite obchodovať s kryptomenami na cestách."
+
+#: 
+msgid "Best Wallet In-App 'Swap' Feature"
+msgstr "Najlepšia funkcia „Výmena“ peňaženky v aplikácii"
+
+#: 
+msgid "If you already have Best Wallet installed, you can access Best DEX directly through the in-app 'swap' feature. This integration provides you with a seamless and convenient trading experience within a single app."
+msgstr "Ak už máte nainštalovanú Best Wallet, môžete pristupovať k Best DEX priamo prostredníctvom funkcie „swap“ v aplikácii. Táto integrácia vám poskytuje bezproblémové a pohodlné obchodovanie v rámci jedinej aplikácie."
+
+#: 
+msgid "Best Wallet dApp (Coming Soon)"
+msgstr "Best Wallet dApp (Už čoskoro)"
+
+#: 
+msgid "In the near future, Best DEX will be available as a decentralized application (dApp) within Best Wallet, offering an even more integrated and user-friendly trading experience."
+msgstr "V blízkej budúcnosti bude Best DEX k dispozícii ako decentralizovaná aplikácia (dApp) v rámci Best Wallet, ktorá ponúka ešte integrovanejší a užívateľsky prívetivejší obchodný zážitok."
+
+#: 
+msgid "What is the BEST token?"
+msgstr "Čo je BEST token?"
+
+#: 
+msgid "The BEST token is the Best Ecosystem’s utility and governance token. Holding the token provides benefits to Best Wallet users such as advanced market analysis tools, no gas fees on swaps, and early access to new token launches and NFT drops."
+msgstr "Token BEST je token užitočnosti a riadenia najlepšieho ekosystému. Držanie tokenu poskytuje používateľom Best Wallet výhody, ako sú pokročilé nástroje na analýzu trhu, žiadne poplatky za plyn za swapy a skorý prístup k novým tokenom a poklesom NFT."
+
+#: 
+msgid "We are launching the BEST token at the end of Phase 6 of our roadmap and will reward our early adopters and power users with 10% of our total supply based on the points they have accumulated from using our app and spreading the word on socials. Learn more here"
+msgstr "Na konci 6. fázy nášho plánu uvádzame na trh BEST token a odmeníme našich prvých používateľov a skúsených používateľov 10 % z našej celkovej ponuky na základe bodov, ktoré nazbierali za používanie našej aplikácie a šírenie informácií na sociálnych sieťach. Viac sa dozviete tu"
+
+#: 
+msgid "How can I stay up to date on the latest news about Best DEX and the BEST token airdrop?"
+msgstr "Ako môžem byť informovaný o najnovších správach o Best DEX a BEST token airdrop?"
+
+#: 
+msgid "Follow our socials and join our community hubs here"
+msgstr "Sledujte naše sociálne siete a pripojte sa k našim komunitným centrám tu"
+
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "$-"
+msgstr "$-"
+
+#: src/components/earn/PoolCard.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "${0}"
+msgstr "${0}"
+
+#: src/components/swap/TradePrice.tsx
+msgid "(${0})"
+msgstr "(${0})"
+
+#: src/components/CurrencyInputPanel/index.tsx
+msgid "(Max)"
+msgstr "(Max)"
+
+#: src/components/AddressInputPanel/index.tsx
+msgid "(View on Explorer)"
+msgstr "(Zobraziť na Explorer)"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "(claim)"
+msgstr "(nárok)"
+
+#: src/pages/Vote/Landing.tsx
+msgid "(edit)"
+msgstr "(upraviť)"
+
+#: src/pages/Swap/index.tsx
+msgid "- Remove recipient"
+msgstr "- Odstrániť príjemcu"
+
+#: src/components/earn/PoolCard.tsx
+#: src/components/earn/PoolCard.tsx
+#: src/pages/Earn/Manage.tsx
+#: src/pages/Earn/Manage.tsx
+msgid "0 UNI / week"
+msgstr "0 UNI / týždeň\n"
+""
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "25%"
+msgstr "25%"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "50%"
+msgstr "50%"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "75%"
+msgstr "75%"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "<0/> All Proposals"
+msgstr "<0/> Všetky návrhy"
+
+#: src/pages/Vote/Landing.tsx
+#: src/pages/Vote/Landing.tsx
+msgid "<0/> Votes"
+msgstr "<0/> Hlasy"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "<0>Current Price:</0><1><2/></1><3>{0} per {1}</3>"
+msgstr "<0>Current Price:</0><1><2/></1><3>{0} per {1}</3>"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "<0>Tip:</0> Removing pool tokens converts your position back into underlying tokens at the current rate, proportional to your share of the pool. Accrued fees are included in the amounts you receive."
+msgstr "<0>Tip:</0> Odstránenie tokenov zo skupiny prevedie vašu pozíciu späť na základné tokeny aktuálnou rýchlosťou úmernou vášmu podielu zo skupiny. Naakumulované poplatky sú zahrnuté v sumách, ktoré dostanete."
+
+#: src/pages/CreateProposal/index.tsx
+msgid "<0>Tip:</0> Select an action and describe your proposal for the community. The proposal cannot be modified after submission, so please verify all information before submitting. The voting period will begin immediately and last for 7 days. To propose a custom action, ."
+msgstr "<0>Tip:</0> Vyberte akciu a popíšte svoj návrh pre komunitu. Návrh nie je možné po odoslaní upraviť, preto si pred odoslaním overte všetky informácie. Hlasovacie obdobie začne okamžite a bude trvať 7 dní. Ak chcete navrhnúť vlastnú akciu, ."
+
+#: src/pages/PoolFinder/index.tsx
+msgid "<0>Tip:</0> Use this tool to find pools that don't automatically appear in the interface."
+msgstr "<0>Tip:</0> Pomocou tohto nástroja môžete nájsť fondy, ktoré sa v rozhraní nezobrazujú automaticky."
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "<0>Tip:</0> When you add liquidity, you will receive pool tokens representing your position. These tokens automatically earn fees proportional to your share of the pool, and can be redeemed at any time."
+msgstr "<0>Tip:</0> Keď pridáte likviditu, dostanete žetóny, ktoré predstavujú vašu pozíciu. Tieto tokeny automaticky zarábajú poplatky úmerné vášmu podielu z fondu a možno ich kedykoľvek uplatniť."
+
+#: src/pages/Vote/VotePage.tsx
+msgid "<0>Unlock voting</0> to prepare for the next proposal."
+msgstr "<0>Odomknite hlasovanie</0> a pripravte sa na ďalší návrh."
+
+#: src/components/claim/ClaimModal.tsx
+msgid "<0>🎉 </0>Welcome to team Unicorn :) <1>🎉</1>"
+msgstr "<0>🎉 </0>Vitajte v tíme Unicorn :) <1>🎉</1>"
+
+#: src/pages/Vote/Landing.tsx
+msgid "A minimum threshold of 0.25% of the total UNI supply is required to submit proposals"
+msgstr "Na predloženie návrhov sa vyžaduje minimálna hranica 0,25 % z celkovej ponuky UNI"
+
+#: src/components/swap/SwapModalHeader.tsx
+msgid "Accept"
+msgstr "Akceptovať"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Account"
+msgstr "Účet"
+
+#: src/components/SearchModal/ImportRow.tsx
+#: src/pages/Vote/styled.tsx
+msgid "Active"
+msgstr "Aktívne"
+
+#: src/components/PositionCard/index.tsx
+#: src/pages/AddLiquidity/index.tsx
+msgid "Add"
+msgstr "Pridať"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Add <0/> and <1/> to BestDex V2"
+msgstr "Pridať <0/> a <1/> na BestDex V2"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Add Delegate +"
+msgstr "Pridať Delegate +\n"
+""
+
+#: src/components/NavigationTabs/index.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/Pool/v2.tsx
+msgid "Add Liquidity"
+msgstr "Pridať likviditu"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Add liquidity."
+msgstr "Pridať likviditu."
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Add more liquidity"
+msgstr "Pridať viac likvidity"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Add {0} token to Metamask <0/>"
+msgstr "Pridať {0} token do Metamask <0/>"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Add {0}-{1} liquidity"
+msgstr "Pridať {0}-{1} likvidity"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Add {0}/{1} V3 liquidity"
+msgstr "Pridať {0}/{1} V3 likvidity"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Added {0} token to Metamask"
+msgstr "Bolo pridaných {0} tokenov do Metamask"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "Address has no available claim"
+msgstr "Adresa nemá žiadny dostupný nárok"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Against"
+msgstr "Proti"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Allow LP token migration"
+msgstr "Povoliť migráciu LP tokenu"
+
+#: src/components/Settings/index.tsx
+msgid "Allow high price impact trades and skip the confirm screen. Use at your own risk."
+msgstr "Povoľte obchody s vysokým vplyvom na cenu a preskočte obrazovku potvrdenia. Použitie na vlastné riziko."
+
+#: src/pages/Swap/index.tsx
+msgid "Allow the BestDex Protocol to use your {0}"
+msgstr "Povoliť protokolu BestDex používať vaše {0}"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Allowed"
+msgstr "Povolené"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Allowed Slippage"
+msgstr "Povolené"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Amount"
+msgstr "Množstvo"
+
+#: src/components/earn/StakingModal.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Approve"
+msgstr "Schváliť"
+
+#: src/pages/CreateProposal/ProposalActionSelector.tsx
+msgid "Approve Token"
+msgstr "Schváliť token"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Approve {0}"
+msgstr "Schváliť {0}"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Approved"
+msgstr "Schválené"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Approving"
+msgstr "Schvaľovanie"
+
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Approving {0}"
+msgstr "Schvaľovanie {0}"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Arbiscan"
+msgstr "Arbiscan"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Arbitrum Bridge"
+msgstr "Arbitrážny most"
+
+#: src/components/DowntimeWarning/index.tsx
+msgid "Arbitrum is in Beta and may experience downtime. During downtime, your position will not earn fees and you will be unable to remove liquidity. <0>Read more.</0>"
+msgstr "Arbitrum je v beta verzii a môže dôjsť k výpadkom. Počas výpadku vaša pozícia nebude zarábať poplatky a nebudete môcť odstrániť likviditu. <0>Prečítajte si viac.</0>"
+
+#: src/components/Settings/index.tsx
+msgid "Are you sure?"
+msgstr "Ste si istý?"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "As a member of the BestDex community you may claim UNI to be used for voting and governance.<0/><1/>"
+msgstr "Ako člen komunity BestDex môžete tvrdiť, že UNI sa používa na hlasovanie a riadenie.<0/><1/>"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "At least {0} {1} and {2} {3} will be refunded to your wallet due to selected price range."
+msgstr "Minimálne {0} {1} a {2} {3} budú vrátené do vašej peňaženky z dôvodu zvoleného cenového rozsahu."
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Auto"
+msgstr "Auto"
+
+#: src/components/earn/StakingModal.tsx
+msgid "Available to deposit: {0}"
+msgstr "K dispozícii na vloženie: {0}"
+
+#: src/pages/Earn/Manage.tsx
+msgid "BD LP LP tokens are required. Once you've added liquidity to the {0}-{1} pool you can stake your liquidity tokens on this page."
+msgstr "BD LP LP tokeny sú povinné. Po pridaní likvidity do skupiny {0}-{1} môžete na tejto stránke vsadiť svoje žetóny likvidity."
+
+#: src/pages/Earn/Manage.tsx
+msgid "BD LP {0}-{1}"
+msgstr "BD LP {0}-{1}\n"
+""
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "BD LP {0}/{1} Burned"
+msgstr "BD LP {0}/{1} zničených"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "Balance:"
+msgstr "Zostatok:"
+
+#: src/components/CurrencyInputPanel/index.tsx
+msgid "Balance: {0} {1}"
+msgstr "Zostatok: {0} {1}"
+
+#: src/components/FeeSelector/shared.tsx
+msgid "Best for exotic pairs."
+msgstr "Najlepšie pre exotické páry."
+
+#: src/components/FeeSelector/shared.tsx
+msgid "Best for most pairs."
+msgstr "Najlepšie pre väčšinu párov."
+
+#: src/components/FeeSelector/shared.tsx
+msgid "Best for stable pairs."
+msgstr "Najlepšie pre stabilné páry."
+
+#: src/components/FeeSelector/shared.tsx
+msgid "Best for very stable pairs."
+msgstr "Najlepšie pre veľmi stabilné páry."
+
+#: src/components/SwitchLocaleLink/index.tsx
+msgid "BestDex available in: <0>{0}</0>"
+msgstr "BestDex dostupné v: <0>{0}</0>"
+
+#: src/components/vote/ProposalEmptyState.tsx
+msgid "BestDex governance is only available on Layer 1. Switch your network to Ethereum Mainnet to view Proposals and Vote."
+msgstr "BestDex governance je k dispozícii len na vrstve 1. Ak chcete zobraziť návrhy a hlasovať, prepnite svoju sieť na Ethereum Mainnet."
+
+#: src/pages/Earn/index.tsx
+msgid "BestDex liquidity mining"
+msgstr "Ťažba likvidity BestDex"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "BestDex migration contract↗"
+msgstr "BestDex migračný kontrakt↗"
+
+#: src/components/NetworkAlert/NetworkAlert.tsx
+msgid "BestDex on {0}"
+msgstr "BestDex na {0}"
+
+#: src/components/Blocklist/index.tsx
+msgid "Blocked address"
+msgstr "Zablokovaná adresa"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Bridge"
+msgstr "Most"
+
+#: src/components/PositionCard/index.tsx
+msgid "By adding liquidity you'll earn 0.3% of all trades on this pair proportional to your share of the pool. Fees are added to the pool, accrue in real time and can be claimed by withdrawing your liquidity."
+msgstr "Pridaním likvidity získate 0,3 % zo všetkých obchodov na tomto páre úmerne k vášmu podielu na poole. Poplatky sa pripočítavajú do fondu, hromadia sa v reálnom čase a možno si ich nárokovať stiahnutím likvidity."
+
+#: src/components/SearchModal/ImportList.tsx
+msgid "By adding this list you are implicitly trusting that the data is correct. Anyone can create a list, including creating fake versions of existing lists and lists that claim to represent projects that do not have one."
+msgstr "Pridaním tohto zoznamu implicitne vyjadrujete, že údaje sú správne. Ktokoľvek môže vytvoriť zoznam vrátane vytvárania falošných verzií existujúcich zoznamov a zoznamov, ktoré tvrdia, že predstavujú projekty, ktoré žiadny nemajú."
+
+#: src/pages/Vote/styled.tsx
+msgid "Canceled"
+msgstr "Zrušené"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Change"
+msgstr "Zmena"
+
+#: src/components/Header/ChainConnectivityWarning.tsx
+msgid "Check network status"
+msgstr "Skontrolujte stav siete"
+
+#: src/pages/Pool/CTACards.tsx
+msgid "Check out our v3 LP walkthrough and migration guides."
+msgstr "Pozrite si náš návod na verziu LP a sprievodcov migráciou."
+
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/pages/Earn/Manage.tsx
+msgid "Claim"
+msgstr "Nárokovať"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Claim <0/> for {0}"
+msgstr "Nárokovať <0/> za {0}"
+
+#: src/components/Header/index.tsx
+msgid "Claim BD LP"
+msgstr "Nárokovať BD LP"
+
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+msgid "Claim UNI"
+msgstr "Nárokovať UNI"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "Claim UNI Token"
+msgstr "Nárokovať UNI token"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Claim UNI reward for {0}"
+msgstr "Nárokovať si odmenu UNI za {0}"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Claim fees"
+msgstr "Nárokovať poplatky"
+
+#: src/components/Popups/ClaimPopup.tsx
+msgid "Claim your UNI tokens"
+msgstr "Nárokovať UNI tokeny"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "Claimed"
+msgstr "Nárokované"
+
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/UnstakingModal.tsx
+msgid "Claimed UNI!"
+msgstr "Nárokované UNI!"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "Claimed!"
+msgstr "Nárokované!"
+
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+msgid "Claiming"
+msgstr "Nárokovanie"
+
+#: src/components/Header/index.tsx
+msgid "Claiming BD LP"
+msgstr "Nárokovanie BD LP"
+
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/UnstakingModal.tsx
+msgid "Claiming {0} UNI"
+msgstr "Nárokovanie {0} UNI"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Clear All"
+msgstr "Zmazať všetko"
+
+#: src/components/SearchModal/ManageTokens.tsx
+msgid "Clear all"
+msgstr "Zmazať všetko"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Close"
+msgstr "Zatvoriť"
+
+#: src/components/Badge/RangeBadge.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Closed"
+msgstr "Zatvorené"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collect"
+msgstr "Vyberať"
+
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Collect as {0}"
+msgstr "Vyberať ako {0}"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collect fees"
+msgstr "Vyberať poplatky"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Collect {0}/{1} fees"
+msgstr "Vyberať {0}/{1} poplatky"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collected"
+msgstr "Vybrané"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collecting"
+msgstr "Vyberanie"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collecting fees"
+msgstr "Vyberanie poplatkov"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collecting fees will withdraw currently available fees for you."
+msgstr "Výberom poplatkov sa za vás stiahnu aktuálne dostupné poplatky."
+
+#: src/components/SearchModal/CommonBases.tsx
+msgid "Common bases"
+msgstr "Spoločné základy"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Confirm"
+msgstr "Potvrdiť"
+
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+msgid "Confirm Supply"
+msgstr "Potvrdiť dodávku"
+
+#: src/components/swap/ConfirmSwapModal.tsx
+#: src/components/swap/SwapModalFooter.tsx
+msgid "Confirm Swap"
+msgstr "Potvrdiť zmenu"
+
+#: src/components/ModalViews/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "Confirm this transaction in your wallet"
+msgstr "Potvrďte túto transakciu vo svojej peňaženke"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Confirm transaction in wallet"
+msgstr "Pripojiť transakciu k peňaženke"
+
+#: src/components/Web3Status/index.tsx
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+#: src/pages/Swap/index.tsx
+#: src/state/burn/hooks.tsx
+#: src/state/burn/v3/hooks.tsx
+#: src/state/mint/hooks.tsx
+#: src/state/mint/v3/hooks.tsx
+#: src/state/stake/hooks.tsx
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Connect Wallet"
+msgstr "Pripojiť peňaženku"
+
+#: src/components/WalletModal/index.tsx
+#: src/components/earn/UnstakingModal.tsx
+#: src/pages/Pool/index.tsx
+msgid "Connect a wallet"
+msgstr "Pripojiť peňaženku"
+
+#: src/components/WalletModal/index.tsx
+msgid "Connect to Best Wallet"
+msgstr "Pripojiť sa k Best Wallet"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Connect to a wallet to find pools"
+msgstr "Pripojte sa k peňaženke a nájdite pools"
+
+#: src/pages/MigrateV2/index.tsx
+#: src/pages/Pool/v2.tsx
+msgid "Connect to a wallet to view your liquidity."
+msgstr "Pripojte sa k peňaženke a pozrite si svoju likviditu."
+
+#: src/components/AccountDetails/index.tsx
+msgid "Connected with {name}"
+msgstr "Pripojené s {name}"
+
+#: src/components/WalletModal/PendingView.tsx
+msgid "Connection Error"
+msgstr "Chyba pripojeniaa"
+
+#: src/components/AccountDetails/Copy.tsx
+msgid "Copied"
+msgstr "Skopírované"
+
+#: src/components/AccountDetails/index.tsx
+#: src/components/AccountDetails/index.tsx
+msgid "Copy Address"
+msgstr "Skopírovať adresu"
+
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+msgid "Create Pool & Supply"
+msgstr "Vytvorte fond a zásobovanie"
+
+#: src/pages/CreateProposal/index.tsx
+#: src/pages/Vote/Landing.tsx
+msgid "Create Proposal"
+msgstr "Vytvoriť návrh"
+
+#: src/components/NavigationTabs/index.tsx
+#: src/pages/Pool/v2.tsx
+msgid "Create a pair"
+msgstr "Vytvoriť pár"
+
+#: src/pages/Pool/index.tsx
+msgid "Create a pool"
+msgstr "Vytvoriť pool"
+
+#: src/components/ErrorBoundary/index.tsx
+msgid "Create an issue on GitHub"
+msgstr "Vytvorte problém na GitHub"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Create pool and add {0}/{1} V3 liquidity"
+msgstr "Vytvorte skupinu a pridajte likviditu V3 v hodnote {0}/{1}"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Create pool."
+msgstr "Vytvoriť pool."
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Create {0}/{1} V3 pool"
+msgstr "Vytvoriť {0}/{1} V3 pool"
+
+#: src/components/PositionPreview/index.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "Current price"
+msgstr "Aktuálna cena"
+
+#: src/pages/Pool/v2.tsx
+msgid "Current version is not available on Layer 2. Switch to Layer 1 Ethereum."
+msgstr "Aktuálna verzia nie je dostupná na vrstve 2. Prejdite na vrstvu 1 Ethereum."
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Current {0} Price:"
+msgstr "Aktuálna {0} cena:"
+
+#: src/pages/Vote/styled.tsx
+msgid "Defeated"
+msgstr "Porazené"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Delegate Votes"
+msgstr "Delegovať hlasy"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Delegate voting power to {0}"
+msgstr "Delegovať hlasovacie právo na {0}"
+
+#: src/pages/Vote/Landing.tsx
+msgid "Delegated to:"
+msgstr "Delegované na:"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Delegating votes"
+msgstr "Delegovanie hlasov"
+
+#: src/components/earn/PoolCard.tsx
+#: src/components/earn/StakingModal.tsx
+#: src/components/earn/StakingModal.tsx
+#: src/pages/Earn/Manage.tsx
+msgid "Deposit"
+msgstr "Vklad"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Deposit Amounts"
+msgstr "Čiastky vkladov"
+
+#: src/components/NetworkAlert/NetworkAlert.tsx
+msgid "Deposit Assets"
+msgstr "Depozitné aktíva"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Deposit BD LP LP Tokens"
+msgstr "Vložte tokeny BD LP LP"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Deposit liquidity"
+msgstr "Likvidita vkladov"
+
+#: src/pages/Earn/index.tsx
+msgid "Deposit your Liquidity Provider tokens to receive UNI, the BestDex protocol governance token."
+msgstr "Vložte svoje tokeny poskytovateľa likvidity a získajte UNI, token správy protokolu BestDex."
+
+#: src/components/earn/UnstakingModal.tsx
+msgid "Deposited liquidity:"
+msgstr "Uložená likvidita:"
+
+#: src/components/earn/StakingModal.tsx
+msgid "Deposited {0} BD LP"
+msgstr "Vložené {0} BD LP"
+
+#: src/components/earn/StakingModal.tsx
+msgid "Depositing Liquidity"
+msgstr "Ukladanie likvidity"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Description"
+msgstr "Popis"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Detailed"
+msgstr "Detailné"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Details"
+msgstr "Detaily"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Disconnect"
+msgstr "Odpojiť"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Dismiss"
+msgstr "Odmietnuť"
+
+#: src/pages/MigrateV2/index.tsx
+msgid "Don’t see one of your v2 positions? <0>Import it.</0>"
+msgstr "Nevidíte jednu zo svojich pozícií v2? <0>Importujte to.</0>"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Earned UNI tokens represent voting shares in BestDex governance."
+msgstr "Získané UNI tokeny predstavujú hlasovacie podiely v správe BestDex."
+
+#: src/components/FeeSelector/index.tsx
+msgid "Edit"
+msgstr "Upraviť"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Efficiency Comparison"
+msgstr "Porovnanie účinnosti"
+
+#: src/state/burn/v3/hooks.tsx
+msgid "Enter a percent"
+msgstr "Zadajte percento"
+
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Enter a recipient"
+msgstr "Zadajte príjemcu"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Enter a valid slippage percentage"
+msgstr "Zadajte platné percento sklzu"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "Enter an address to trigger a UNI claim. If the address has any claimable UNI it will be sent to them on submission."
+msgstr "Zadajte adresu na spustenie nároku UNI. Ak má adresa nejaké UNI, ktoré je možné nárokovať, bude im zaslaná pri predložení."
+
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/UnstakingModal.tsx
+#: src/state/burn/hooks.tsx
+#: src/state/mint/hooks.tsx
+#: src/state/mint/v3/hooks.tsx
+#: src/state/stake/hooks.tsx
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Enter an amount"
+msgstr "Zadajte množstvo"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Enter valid list location"
+msgstr "Zadajte platné umiestnenie zoznamu"
+
+#: src/components/SearchModal/ManageTokens.tsx
+msgid "Enter valid token address"
+msgstr "Zadajte platnú adresu tokenu"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/Web3Status/index.tsx
+msgid "Error"
+msgstr "Chyba"
+
+#: src/components/WalletModal/index.tsx
+msgid "Error connecting"
+msgstr "Chyba v pripojení"
+
+#: src/components/WalletModal/index.tsx
+msgid "Error connecting. Try refreshing the page."
+msgstr "Chyba pri pripájaní. Skúste stránku obnoviť."
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Error importing list"
+msgstr "Chyba pri importovaní zoznamu"
+
+#: src/pages/Vote/styled.tsx
+msgid "Executed"
+msgstr "Vykonané"
+
+#: src/components/SearchModal/CurrencyList.tsx
+msgid "Expanded results from inactive Token Lists"
+msgstr "Rozšírené výsledky z neaktívnych zoznamov tokenov"
+
+#: src/components/Settings/index.tsx
+msgid "Expert Mode"
+msgstr "Expert mód"
+
+#: src/components/Settings/index.tsx
+msgid "Expert mode turns off the confirm transaction prompt and allows high slippage trades that often result in bad rates and lost funds."
+msgstr "Expertný režim vypína výzvu na potvrdenie transakcie a umožňuje obchody s vysokým sklzom, ktoré často vedú k zlým sadzbám a strate finančných prostriedkov."
+
+#: src/pages/Vote/styled.tsx
+msgid "Expired"
+msgstr "Platnosť vypršala"
+
+#: src/pages/Pool/CTACards.tsx
+msgid "Explore popular pools on BestDex Analytics."
+msgstr "Preskúmajte populárne fondy na BestDex Analytics."
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Explorer"
+msgstr "Explorer"
+
+#: src/components/PositionPreview/index.tsx
+msgid "Fee Tier"
+msgstr "Úroveň poplatkov"
+
+#: src/components/FeeSelector/index.tsx
+msgid "Fee tier"
+msgstr "Úroveň poplatkov"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "For"
+msgstr "Pre"
+
+#: src/pages/MigrateV2/index.tsx
+msgid "For each pool shown below, click migrate to remove your liquidity from BestDex V2 and deposit it into BestDex V3."
+msgstr "Pre každý fond zobrazený nižšie kliknite na migrovať, aby ste odstránili svoju likviditu z BestDex V2 a vložili ju do BestDex V3."
+
+#: src/components/swap/SwapModalHeader.tsx
+#: src/pages/Swap/index.tsx
+msgid "From"
+msgstr "Od"
+
+#: src/pages/Swap/index.tsx
+msgid "From (at most)"
+msgstr "Od (najviac)"
+
+#: src/components/RangeSelector/PresetsButtons.tsx
+msgid "Full Range"
+msgstr "Celý rozsah"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Full range positions may earn less fees than concentrated positions. Learn more <0>here</0>."
+msgstr "Pozície v celom rozsahu môžu zarábať menej poplatkov ako koncentrované pozície. Viac sa dozviete <0>tu</0>."
+
+#: src/components/ErrorBoundary/index.tsx
+msgid "Get support on Discord"
+msgstr "Získajte podporu na Discord"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Help Center"
+msgstr "Pomoc"
+
+#: src/components/FeeSelector/index.tsx
+msgid "Hide"
+msgstr "Skryť"
+
+#: src/pages/Swap/index.tsx
+msgid "High Price Impact"
+msgstr "Vysoký vplyv na cenu"
+
+#: src/components/SearchModal/ImportList.tsx
+#: src/pages/AddLiquidity/index.tsx
+msgid "I understand"
+msgstr "Rozumiem"
+
+#: src/components/SearchModal/ImportList.tsx
+msgid "If you purchase a token from this list, you may not be able to sell it back."
+msgstr "Ak si kúpite token z tohto zoznamu, možno ho nebudete môcť predať späť."
+
+#: src/components/SearchModal/BlockedToken.tsx
+#: src/components/SearchModal/ImportList.tsx
+#: src/components/SearchModal/ImportRow.tsx
+#: src/components/SearchModal/ImportToken.tsx
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Import"
+msgstr "Importovať"
+
+#: src/components/SearchModal/ImportList.tsx
+msgid "Import List"
+msgstr "Zoznam importu"
+
+#: src/components/NavigationTabs/index.tsx
+#: src/pages/Pool/v2.tsx
+msgid "Import Pool"
+msgstr "Import pool"
+
+#: src/components/SearchModal/ImportList.tsx
+msgid "Import at your own risk"
+msgstr "Importujete na vlastné riziko"
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "In range"
+msgstr "V dosahu"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Increase Liquidity"
+msgstr "Zvýšte likviditu"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Initial prices and pool share"
+msgstr "Počiatočné ceny a podiel v poole"
+
+#: src/components/WalletModal/PendingView.tsx
+msgid "Initializing..."
+msgstr "Inicializuje sa..."
+
+#: src/components/swap/SwapModalHeader.tsx
+msgid "Input is estimated. You will sell at most <0>{0} {1}</0> or the transaction will revert."
+msgstr "Vstup sa odhaduje. Predáte maximálne <0>{0} {1}</0>, inak sa transakcia vráti späť."
+
+#: src/components/WalletModal/index.tsx
+msgid "Install Metamask"
+msgstr "Inštalovať Metamask"
+
+#: src/pages/Swap/index.tsx
+msgid "Insufficient liquidity for this trade."
+msgstr "Nedostatočná likvidita pre tento obchod."
+
+#: src/state/mint/hooks.tsx
+#: src/state/mint/hooks.tsx
+#: src/state/mint/v3/hooks.tsx
+#: src/state/mint/v3/hooks.tsx
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Insufficient {0} balance"
+msgstr "Nedostatočný zostatok {0}"
+
+#: src/components/Settings/index.tsx
+msgid "Interface Settings"
+msgstr "Nastavenia rozhrania"
+
+#: src/state/mint/hooks.tsx
+#: src/state/mint/v3/hooks.tsx
+msgid "Invalid pair"
+msgstr "Neplatný pár"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Invalid pair."
+msgstr "Neplatný pár."
+
+#: src/state/mint/v3/hooks.tsx
+msgid "Invalid price input"
+msgstr "Neplatné zadanie ceny"
+
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Invalid range selected. The min price must be lower than the max price."
+msgstr "Vybrali ste neplatný rozsah. Minimálna cena musí byť nižšia ako maximálna cena."
+
+#: src/hooks/useSwapCallback.tsx
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Invalid recipient"
+msgstr "Neplatný príjemca"
+
+#: src/components/Header/index.tsx
+msgid "Join the Best Wallet Waitlist to participate in the BEST Airdrop"
+msgstr "Pridajte sa na čakaciu listinu Best Wallet aby ste sa zúčastnili BEST Airdrop-u"
+
+#: src/components/Menu/index.tsx
+msgid "Language"
+msgstr "Jazyk"
+
+#: src/components/NetworkAlert/NetworkAlert.tsx
+msgid "Learn More"
+msgstr "Zistiť viac"
+
+#: src/pages/Pool/CTACards.tsx
+msgid "Learn about providing liquidity"
+msgstr "Získajte informácie o poskytovaní likvidity"
+
+#: src/components/PrivacyPolicy/index.tsx
+#: src/components/PrivacyPolicy/index.tsx
+#: src/components/WalletModal/index.tsx
+msgid "Learn more"
+msgstr "Zistiť viac"
+
+#: src/components/PrivacyPolicy/index.tsx
+#: src/components/WalletModal/index.tsx
+msgid "Legal & Privacy"
+msgstr "Právne podmienky a ochrana osobných údajov"
+
+#: src/components/claim/ClaimModal.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "Liquidity"
+msgstr "Likvidita"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Liquidity Provider Fee"
+msgstr "Poplatok poskytovateľa likvidity"
+
+#: src/pages/Pool/v2.tsx
+msgid "Liquidity provider rewards"
+msgstr "Odmeny poskytovateľa likvidity"
+
+#: src/pages/Pool/v2.tsx
+msgid "Liquidity providers earn a 0.3% fee on all trades proportional to their share of the pool. Fees are added to the pool, accrue in real time and can be claimed by withdrawing your liquidity."
+msgstr "Poskytovatelia likvidity zarábajú 0,3% poplatok zo všetkých obchodov úmerný ich podielu na poole. Poplatky sa pripočítavajú do fondu, hromadia sa v reálnom čase a možno si ich nárokovať stiahnutím likvidity."
+
+#: src/components/SearchModal/Manage.tsx
+msgid "Lists"
+msgstr "Zoznamy"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Loaded"
+msgstr "Nabité"
+
+#: src/components/PositionCard/Sushi.tsx
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/MigrateV2/index.tsx
+#: src/pages/Pool/v2.tsx
+#: src/pages/PoolFinder/index.tsx
+#: src/pages/Swap/index.tsx
+msgid "Loading"
+msgstr "Načítava sa"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/V2.tsx
+#: src/components/SearchModal/Manage.tsx
+#: src/components/earn/PoolCard.tsx
+msgid "Manage"
+msgstr "Spravovať"
+
+#: src/components/PositionCard/index.tsx
+msgid "Manage Liquidity in Rewards Pool"
+msgstr "Spravujte likviditu v skupine odmien"
+
+#: src/components/SearchModal/CurrencySearch.tsx
+msgid "Manage Token Lists"
+msgstr "Spravovať zoznamy tokenov"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Manage this pool."
+msgstr "Spravovať tento pool."
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Max"
+msgstr " Max"
+
+#: src/components/PositionPreview/index.tsx
+#: src/components/RangeSelector/index.tsx
+msgid "Max Price"
+msgstr "Maximálna cena"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Max price"
+msgstr "Maximálna cena"
+
+#: src/components/PositionListItem/index.tsx
+msgid "Max:"
+msgstr "Max:"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Maximum sent"
+msgstr "Maximum odoslané"
+
+#: src/components/Menu/index.tsx
+msgid "Menu"
+msgstr "Menu"
+
+#: src/components/PositionCard/Sushi.tsx
+#: src/components/PositionCard/V2.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/Pool/index.tsx
+msgid "Migrate"
+msgstr "Migrovať"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/MigrateV2/index.tsx
+#: src/pages/Pool/index.tsx
+msgid "Migrate Liquidity"
+msgstr "Migrovať likviditu"
+
+#: src/pages/MigrateV2/index.tsx
+msgid "Migrate your liquidity tokens from BestDex V2 to BestDex V3."
+msgstr "Presuňte svoje tokeny likvidity z BestDex V2 na BestDex V3."
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Migrate {0}/{1} liquidity to V3"
+msgstr "Migrujte likviditu {0}/{1} na V3"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Migrating"
+msgstr "Migruje"
+
+#: src/components/PositionPreview/index.tsx
+#: src/components/RangeSelector/index.tsx
+msgid "Min Price"
+msgstr "Min cena"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Min price"
+msgstr "Min cena"
+
+#: src/components/PositionListItem/index.tsx
+msgid "Min:"
+msgstr "Min:"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Minimum received"
+msgstr "Minimálne prijaté"
+
+#: src/hooks/useSwapCallback.tsx
+msgid "Missing dependencies"
+msgstr "Chýbajúce závislosti"
+
+#: src/pages/Pool/index.tsx
+msgid "More"
+msgstr "Viac"
+
+#: src/components/Header/ChainConnectivityWarning.tsx
+msgid "Network Warning"
+msgstr "Upozornenie siete"
+
+#: src/pages/Pool/index.tsx
+msgid "New Position"
+msgstr "Nová pozícia"
+
+#: src/pages/MigrateV2/index.tsx
+msgid "No V2 Liquidity found."
+msgstr "Nenašla sa žiadna likvidita V2."
+
+#: src/pages/Earn/index.tsx
+#: src/pages/Earn/index.tsx
+msgid "No active pools"
+msgstr "Žiadne aktívne pooly"
+
+#: src/components/FeeSelector/FeeTierPercentageBadge.tsx
+msgid "No data"
+msgstr "Žiadne dáta"
+
+#: src/state/governance/hooks.ts
+msgid "No description."
+msgstr "Žiadny popis."
+
+#: src/pages/Pool/v2.tsx
+msgid "No liquidity found."
+msgstr "Likvidita nebola nájdená."
+
+#: src/pages/PoolFinder/index.tsx
+msgid "No pool found."
+msgstr "Pool nebol nájdený."
+
+#: src/components/vote/ProposalEmptyState.tsx
+msgid "No proposals found."
+msgstr "Nenašli sa žiadne návrhy."
+
+#: src/pages/Home/index.tsx
+msgid "No registration needed. Over 400 tokens to trade at your fingertips."
+msgstr "Nie je potrebná žiadna registrácia. Viac ako 400 tokenov na obchodovanie na dosah ruky."
+
+#: src/components/SearchModal/CurrencySearch.tsx
+msgid "No results found."
+msgstr "Žiadne výsledky nájdené."
+
+#: src/components/FeeSelector/FeeTierPercentageBadge.tsx
+msgid "Not created"
+msgstr "Nebolo vytvorené"
+
+#: src/components/Toggle/ListToggle.tsx
+msgid "OFF"
+msgstr "OFF"
+
+#: src/components/Toggle/ListToggle.tsx
+msgid "ON"
+msgstr "ON"
+
+#: src/components/Settings/index.tsx
+msgid "ONLY USE THIS MODE IF YOU KNOW WHAT YOU ARE DOING!"
+msgstr "TENTO REŽIM POUŽÍVAJTE IBA AK VIETE, ČO ROBÍTE!"
+
+#: src/components/Toggle/index.tsx
+msgid "Off"
+msgstr "Off"
+
+#: src/components/Toggle/index.tsx
+msgid "On"
+msgstr "On"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Once you are happy with the rate click supply to review."
+msgstr "Keď budete s cenou spokojní, kliknite na ponuku a skontrolujte ju."
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Only UNI votes that were self delegated or delegated to another address before block {0} are eligible for voting."
+msgstr "Na hlasovanie sú oprávnené iba hlasy UNI, ktoré boli pred blokom {0} samo delegované alebo delegované na inú adresu."
+
+#: src/components/Web3ReactManager/index.tsx
+msgid "Oops! An unknown error occurred. Please refresh the page, or visit from another browser or device."
+msgstr "Ojoj! Vyskytla sa neznáma chyba. Obnovte stránku alebo ju navštívte z iného prehliadača alebo zariadenia."
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Optimism Gateway"
+msgstr "Brána optimizmu"
+
+#: src/components/DowntimeWarning/index.tsx
+msgid "Optimistic Ethereum is in Beta and may experience downtime. Optimism expects planned downtime to upgrade the network in the near future. During downtime, your position will not earn fees and you will be unable to remove liquidity. <0>Read more.</0>"
+msgstr "Optimistické Ethereum je v beta verzii a môže dôjsť k výpadkom. Optimizmus očakáva, že plánované odstávky na modernizáciu siete v blízkej budúcnosti. Počas výpadku vaša pozícia nebude zarábať poplatky a nebudete môcť odstrániť likviditu. <0>Prečítajte si viac.</0>"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Optimistic Etherscan"
+msgstr "Optimistický Etherscan"
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "Out of range"
+msgstr "Mimo rozsah"
+
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Output is estimated. If the price changes by more than {0}% your transaction will revert."
+msgstr "Výstup sa odhaduje. Ak sa cena zmení o viac ako {0} %, vaša transakcia sa vráti späť."
+
+#: src/components/swap/SwapModalHeader.tsx
+msgid "Output is estimated. You will receive at least <0>{0} {1}</0> or the transaction will revert."
+msgstr "Výstup sa odhaduje. Dostanete aspoň <0>{0} {1}</0>, inak sa transakcia vráti späť."
+
+#: src/components/swap/SwapModalHeader.tsx
+msgid "Output will be sent to <0>{0}</0>"
+msgstr "Výstup bude odoslaný do <0>{0}</0>"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Owner"
+msgstr "Vlastník"
+
+#: src/pages/Earn/index.tsx
+msgid "Participating pools"
+msgstr "Zúčastňujúce sa pooly"
+
+#: src/pages/Vote/styled.tsx
+msgid "Pending"
+msgstr "Čakajúce"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Please confirm you would like to remove this list by typing REMOVE"
+msgstr "Potvrďte, že chcete tento zoznam odstrániť, zadaním REMOVE"
+
+#: src/components/vote/ProposalEmptyState.tsx
+msgid "Please connect to Layer 1 Ethereum"
+msgstr "Pripojte sa k vrstve 1 Ethereum"
+
+#: src/components/WalletModal/index.tsx
+msgid "Please connect to the appropriate Ethereum network."
+msgstr "Pripojte sa k príslušnej sieti Ethereum."
+
+#: src/components/Settings/index.tsx
+msgid "Please type the word \"{confirmWord}\" to enable expert mode."
+msgstr "Ak chcete aktivovať expertný režim, zadajte slovo „{confirmWord}“."
+
+#: src/components/Header/index.tsx
+#: src/components/NavigationTabs/index.tsx
+msgid "Pool"
+msgstr "Pool"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Pool Found!"
+msgstr "Pool bol nájdený!"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Pool Rate"
+msgstr "Hodnotenie poolu"
+
+#: src/components/earn/PoolCard.tsx
+msgid "Pool rate"
+msgstr "Hodnotenie poolu"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+msgid "Pool tokens in rewards pool:"
+msgstr "Pool tokeny v odmenách:"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+#: src/components/PositionCard/index.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Pooled {0}:"
+msgstr "Pooled {0}: "
+
+#: src/pages/Pool/index.tsx
+msgid "Pools Overview"
+msgstr "Prehľad poolov"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Preview"
+msgstr "Náhľad"
+
+#: src/components/swap/SwapModalHeader.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Price"
+msgstr "Cena"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Price Difference:"
+msgstr "Rozdiel v cene:"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Price Impact"
+msgstr "Vplyv ceny"
+
+#: src/pages/Swap/index.tsx
+msgid "Price Impact Too High"
+msgstr "Vplyv na cenu je príliš vysoký"
+
+#: src/components/swap/SwapModalHeader.tsx
+msgid "Price Updated"
+msgstr "Cena bola aktualizovaná"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Price range"
+msgstr "Cenové rozpätie"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Price:"
+msgstr "Cena:"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Prices and pool share"
+msgstr "Ceny a podiel poolu"
+
+#: src/pages/CreateProposal/ProposalEditor.tsx
+msgid "Proposal"
+msgstr "Návrh"
+
+#: src/pages/CreateProposal/ProposalSubmissionModal.tsx
+msgid "Proposal Submitted"
+msgstr "Návrh bol predložený"
+
+#: src/pages/CreateProposal/ProposalEditor.tsx
+msgid "Proposal Title"
+msgstr "Názov návrhu"
+
+#: src/pages/Vote/Landing.tsx
+msgid "Proposals"
+msgstr "Návrhy"
+
+#: src/components/vote/ProposalEmptyState.tsx
+msgid "Proposals submitted by community members will appear here."
+msgstr "Tu sa zobrazia návrhy predložené členmi komunity."
+
+#: src/pages/CreateProposal/ProposalActionSelector.tsx
+msgid "Proposed Action"
+msgstr "Navrhovaná akcia"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Proposer"
+msgstr "Navrhovateľ"
+
+#: src/pages/Vote/styled.tsx
+msgid "Queued"
+msgstr "V poradí"
+
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+msgid "Rates"
+msgstr "Hodnotenia"
+
+#: src/components/swap/UnsupportedCurrencyFooter.tsx
+msgid "Read more about unsupported assets"
+msgstr "Prečítajte si viac o nepodporovaných fondoch"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Recent Transactions"
+msgstr "Nedávne transakcie"
+
+#: src/components/AddressInputPanel/index.tsx
+msgid "Recipient"
+msgstr "Príjemca"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Remove"
+msgstr "Odstrániť"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Remove <0/> and <1/>"
+msgstr "Odstrániť <0/> a <1/>"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Remove Amount"
+msgstr "Odstrániť množstvo"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Remove Delegate"
+msgstr "Odstrániť delegáta"
+
+#: src/components/NavigationTabs/index.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Remove Liquidity"
+msgstr "Odstrániť likviditu"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Remove list"
+msgstr "Odstrániť zoznam"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Removing {0} {1} and {2} {3}"
+msgstr "Odstraňujem {0} {1} a {2} {3}"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Removing {0} {1} and{2} {3}"
+msgstr "Odstraňujem {0} {1} a {2} {3}"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/pages/CreateProposal/ProposalSubmissionModal.tsx
+msgid "Return"
+msgstr "Vrátiť"
+
+#: src/components/SearchModal/CurrencySearch.tsx
+msgid "Search name or paste address"
+msgstr "Hľadať adresu alebo vložiť adresu"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Select Pair"
+msgstr "Vybrať pár"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Select a network"
+msgstr "Vybrať sieť"
+
+#: src/components/CurrencyInputPanel/index.tsx
+#: src/components/SearchModal/CurrencySearch.tsx
+#: src/pages/PoolFinder/index.tsx
+#: src/pages/PoolFinder/index.tsx
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Select a token"
+msgstr "Vybrať token"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Select a token to find your liquidity."
+msgstr "Vybrať token aby ste našli vašu likviditu."
+
+#: src/pages/CreateProposal/ProposalActionSelector.tsx
+msgid "Select an action"
+msgstr "Vybrať akciu"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Selected Range"
+msgstr "Vybraný rozmer"
+
+#: src/pages/Vote/Landing.tsx
+msgid "Self"
+msgstr "Samostatný"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Self Delegate"
+msgstr "Samostatný delegát"
+
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Set Price Range"
+msgstr "Nastavte cenový rozsah"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Set Starting Price"
+msgstr "Nastaviť vyvolávaciu cenu"
+
+#: src/pages/AddLiquidityV2/PoolPriceBar.tsx
+msgid "Share of Pool"
+msgstr "Podiel z fondu"
+
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+msgid "Share of Pool:"
+msgstr "Podiel z fondu:"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Show Portis"
+msgstr "Zobraziť Portis"
+
+#: src/pages/Pool/index.tsx
+msgid "Show closed positions"
+msgstr "Zobraziť uzatvorené pozície"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Simple"
+msgstr "Jednoduché"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Slippage tolerance"
+msgstr "Tolerancia sklzu"
+
+#: src/components/swap/UnsupportedCurrencyFooter.tsx
+msgid "Some assets are not available through this interface because they may not work well with the smart contracts or we are unable to allow trading for legal reasons."
+msgstr "Niektoré aktíva nie sú dostupné prostredníctvom tohto rozhrania, pretože nemusia dobre fungovať s inteligentnými zmluvami alebo z právnych dôvodov nemôžeme povoliť obchodovanie."
+
+#: src/components/ErrorBoundary/index.tsx
+msgid "Something went wrong"
+msgstr "Niečo sa nepodarilo"
+
+#: src/components/PositionList/index.tsx
+msgid "Status"
+msgstr "Status"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Step 1. Get BD LP Liquidity tokens"
+msgstr "Krok 1. Získajte tokeny likvidity BD LP"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Submit new proposal"
+msgstr "Odoslať nový návrh"
+
+#: src/pages/CreateProposal/ProposalSubmissionModal.tsx
+msgid "Submitting Proposal"
+msgstr "Odoslanie návrhu"
+
+#: src/components/vote/VoteModal.tsx
+msgid "Submitting Vote"
+msgstr "Odoslanie hlasu"
+
+#: src/pages/Vote/styled.tsx
+msgid "Succeeded"
+msgstr "Úspešné"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Success"
+msgstr "Úspech"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Supply"
+msgstr "Dodávka"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Supplying {0} {1} and {2} {3}"
+msgstr "Poskytovanie {0} {1} a {2} {3}"
+
+#: src/components/Header/index.tsx
+#: src/components/NavigationTabs/index.tsx
+#: src/components/swap/SwapHeader.tsx
+#: src/pages/Swap/index.tsx
+#: src/pages/Swap/index.tsx
+msgid "Swap"
+msgstr "Zmeniť"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Swap <0/> for exactly <1/>"
+msgstr "Zmeniť <0/> na presne <1/>"
+
+#: src/pages/Swap/index.tsx
+#: src/pages/Swap/index.tsx
+msgid "Swap Anyway"
+msgstr "Aj tak zmeniť"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Swap exactly <0/> for <1/>"
+msgstr "Zmeniť presne <0/> na <1/>"
+
+#: src/hooks/useSwapCallback.tsx
+#: src/hooks/useSwapCallback.tsx
+msgid "Swap failed: {0}"
+msgstr "Výmena zlyhala: {0}"
+
+#: src/components/swap/ConfirmSwapModal.tsx
+msgid "Swapping {0} {1} for {2} {3}"
+msgstr "Výmena {0} {1} za {2} {3}"
+
+#: src/components/Popups/ClaimPopup.tsx
+msgid "Thanks for being part of the BestDex community <0/>"
+msgstr "Ďakujeme, že ste súčasťou komunity BestDex <0/>"
+
+#: src/components/FeeSelector/index.tsx
+msgid "The % you will earn in fees."
+msgstr "% zarobíte na poplatkoch."
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app fetches blockchain data from The Graph’s hosted service."
+msgstr "Aplikácia načítava údaje blockchainu z hostovanej služby The Graph."
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app fetches on-chain data and constructs contract calls with an Infura API."
+msgstr "Aplikácia načítava údaje z reťazca a vytvára zmluvné volania pomocou Infura API."
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app fetches the optimal trade route from a BestDex Labs server."
+msgstr "Aplikácia načíta optimálnu obchodnú cestu zo servera BestDex Labs."
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app logs anonymized usage statistics in order to improve over time."
+msgstr "Aplikácia zaznamenáva anonymizované štatistiky používania, aby sa časom zlepšila."
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app securely collects your wallet address and shares it with TRM Labs Inc. for risk and compliance reasons."
+msgstr "Aplikácia bezpečne zhromažďuje adresu vašej peňaženky a zdieľa ju so spoločnosťou TRM Labs Inc. z dôvodu rizika a dodržiavania pravidiel."
+
+#: src/components/CurrencyInputPanel/index.tsx
+msgid "The market price is outside your specified price range. Single-asset deposit only."
+msgstr "Trhová cena je mimo vami špecifikovaného cenového rozpätia. Len jednorazový vklad."
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "The price of this pool is outside of your selected range. Your position is not currently earning fees."
+msgstr "Cena tohto poolu je mimo vami zvoleného rozsahu. Vaša pozícia momentálne nezarába poplatky."
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "The price of this pool is within your selected range. Your position is currently earning fees."
+msgstr "Cena tohto poolu je vo vami zvolenom rozsahu. Vaša pozícia momentálne zarába honoráre."
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "The ratio of tokens you add will set the price of this pool."
+msgstr "Pomer tokenov, ktoré pridáte, určí cenu tohto fondu."
+
+#: src/components/LiquidityChartRangeInput/index.tsx
+msgid "There is no liquidity data."
+msgstr "Nie sú k dispozícii žiadne likviditné dáta."
+
+#: src/components/SearchModal/CommonBases.tsx
+msgid "These tokens are commonly paired with other tokens."
+msgstr "Tieto tokeny sú bežne spárované s inými tokenmi."
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "This app uses the following third-party APIs:"
+msgstr "Táto aplikácia používa nasledujúce rozhrania API tretích strán:"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "This pool must be initialized before you can add liquidity. To initialize, select a starting price for the pool. Then, enter your liquidity price range and deposit amount. Gas fees will be higher than usual due to the initialization transaction."
+msgstr "Tento pool musí byť inicializovaný predtým, ako budete môcť pridať likviditu. Ak chcete inicializovať, vyberte počiatočnú cenu fondu. Potom zadajte cenový rozsah likvidity a sumu vkladu. Poplatky za plyn budú v dôsledku inicializačnej transakcie vyššie ako zvyčajne."
+
+#: src/components/swap/SwapRoute.tsx
+msgid "This route optimizes your price by considering split routes, multiple hops, and gas costs."
+msgstr "Táto trasa optimalizuje vašu cenu zohľadnením rozdelených trás, viacerých skokov a nákladov na plyn."
+
+#: src/components/SearchModal/ImportToken.tsx
+msgid "This token doesn't appear on the active token list(s). Make sure this is the token that you want to trade."
+msgstr "Tento token sa nezobrazuje v aktívnych zoznamoch tokenov. Uistite sa, že ide o token, s ktorým chcete obchodovať."
+
+#: src/components/SearchModal/BlockedToken.tsx
+msgid "This token is not supported in the BestDex Labs app"
+msgstr "Tento token nie je podporovaný v aplikácii BestDex Labs"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "This tool will safely migrate your {0} liquidity to V3. The process is completely trustless thanks to the"
+msgstr "Tento nástroj bezpečne migruje vašu likviditu {0} na V3. Proces je úplne nedôveryhodný vďaka"
+
+#: src/components/SearchModal/ManageTokens.tsx
+msgid "Tip: Custom tokens are stored locally in your browser"
+msgstr "Tip: Vlastné tokeny sú uložené lokálne vo vašom prehliadači"
+
+#: src/components/swap/SwapModalHeader.tsx
+#: src/pages/CreateProposal/ProposalActionDetail.tsx
+#: src/pages/CreateProposal/ProposalActionDetail.tsx
+#: src/pages/Swap/index.tsx
+msgid "To"
+msgstr "Do"
+
+#: src/pages/Swap/index.tsx
+msgid "To (at least)"
+msgstr "Do (aspoň)"
+
+#: src/components/NetworkAlert/NetworkAlert.tsx
+msgid "To start trading on {0}, first bridge your assets from L1 to L2. Please treat this as a beta release and learn about the risks before using {1}."
+msgstr "Ak chcete začať obchodovať na {0}, najprv premostite svoje aktíva z L1 na L2. Berte to ako beta verziu a pred použitím {1} sa informujte o rizikách."
+
+#: src/components/SearchModal/BlockedToken.tsx
+msgid "Token not supported"
+msgstr "Token nie je podporovaný"
+
+#: src/components/SearchModal/Manage.tsx
+msgid "Tokens"
+msgstr "Tokeny"
+
+#: src/components/SearchModal/CurrencyList.tsx
+msgid "Tokens from inactive lists. Import specific tokens below or click Manage to activate more lists."
+msgstr "Tokeny z neaktívnych zoznamov. Importujte konkrétne tokeny nižšie alebo kliknutím na položku Spravovať aktivujte ďalšie zoznamy."
+
+#: src/pages/Pool/CTACards.tsx
+msgid "Top pools"
+msgstr "Najlepšie pooly"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "Total Supply"
+msgstr "Celková dodávka"
+
+#: src/components/earn/PoolCard.tsx
+msgid "Total deposited"
+msgstr "Celkovo vložené"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Total deposits"
+msgstr "Všetky vklady"
+
+#: src/components/swap/RouterLabel.tsx
+msgid "Trade Route"
+msgstr "Obchodná cesta"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Transaction Details"
+msgstr "Detaily transakcie"
+
+#: src/components/Settings/index.tsx
+#: src/components/Settings/index.tsx
+msgid "Transaction Settings"
+msgstr "Nastavenia transakcie"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/StakingModal.tsx
+#: src/components/earn/UnstakingModal.tsx
+#: src/components/vote/DelegateModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "Transaction Submitted"
+msgstr "Transakcia odoslaná"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Transaction completed in"
+msgstr "Transakcia dokončená o"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Transaction deadline"
+msgstr "Termín transakcie"
+
+#: src/hooks/useSwapCallback.tsx
+#: src/hooks/useSwapCallback.tsx
+msgid "Transaction rejected."
+msgstr "Transakcia odmietnutá."
+
+#: src/pages/CreateProposal/ProposalActionSelector.tsx
+msgid "Transfer Token"
+msgstr "Prenos tokenu"
+
+#: src/components/WalletModal/PendingView.tsx
+msgid "Try Again"
+msgstr "Skúste to znovu"
+
+#: src/components/Settings/index.tsx
+msgid "Turn On Expert Mode"
+msgstr "Zapnite Exper mód"
+
+#: src/components/Popups/ClaimPopup.tsx
+msgid "UNI has arrived"
+msgstr "UNI prišli"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "UNI in circulation:"
+msgstr "UNI v obehu:"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "UNI price:"
+msgstr "UNI cena:"
+
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/UnstakingModal.tsx
+msgid "Unclaimed UNI"
+msgstr "Neprevzaté UNI"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Unclaimed fees"
+msgstr "Nevyzdvihnuté poplatky"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "Unclaimed:"
+msgstr "Nevyzdvihnuté:"
+
+#: src/pages/Vote/styled.tsx
+msgid "Undetermined"
+msgstr "Neurčené"
+
+#: src/hooks/useSwapCallback.tsx
+msgid "Unexpected error. Could not estimate gas for the swap."
+msgstr "Neočakávaná chyba. Nepodarilo sa odhadnúť plyn na výmenu."
+
+#: src/hooks/useSwapCallback.tsx
+msgid "Unexpected issue with estimating the gas. Please try again."
+msgstr "Neočakávaný problém s odhadom plynu. Prosím skúste znova."
+
+#: src/components/SearchModal/TokenImportCard.tsx
+msgid "Unknown Source"
+msgstr "Neznámy zdroj"
+
+#: src/pages/Vote/Landing.tsx
+#: src/pages/Vote/VotePage.tsx
+msgid "Unlock Votes"
+msgstr "Odomknúť hlasy"
+
+#: src/pages/Vote/Landing.tsx
+msgid "Unlock Voting"
+msgstr "Odomknúť hlasovanie"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Unlocking Votes"
+msgstr "Odomknúť hlasy"
+
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/Swap/index.tsx
+msgid "Unsupported Asset"
+msgstr "Nepodporované dielo"
+
+#: src/components/swap/UnsupportedCurrencyFooter.tsx
+msgid "Unsupported Assets"
+msgstr "Nepodporované aktíva"
+
+#: src/state/governance/hooks.ts
+msgid "Untitled"
+msgstr "Bez názvu"
+
+#: src/pages/Swap/index.tsx
+msgid "Unwrap"
+msgstr "Rozbaliť"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Unwrap <0/> to ETH"
+msgstr "Rozbaliť <0/> na ETH"
+
+#: src/pages/Vote/Landing.tsx
+msgid "Update Delegation"
+msgstr "Aktualizovať delegovanie"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Update list"
+msgstr "Aktualizovať zoznam"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "User"
+msgstr "Používateľ"
+
+#: src/components/swap/SwapRoute.tsx
+msgid "V2"
+msgstr "V2"
+
+#: src/pages/Pool/index.tsx
+msgid "V2 liquidity"
+msgstr "V2 likvidita"
+
+#: src/components/swap/SwapRoute.tsx
+msgid "V3"
+msgstr "V3"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "V3 {0} Price:"
+msgstr "V3 {0} cena:"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "View UNI Analytics"
+msgstr "Zobraziť UNI analytiku"
+
+#: src/pages/Pool/index.tsx
+msgid "View V2 Liquidity"
+msgstr "Zobraziť V2 likviditu"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "View list"
+msgstr "Zobraziť zoznam"
+
+#: src/pages/CreateProposal/ProposalSubmissionModal.tsx
+msgid "View on Etherscan"
+msgstr "Zobraziť na Etherscan"
+
+#: src/components/AccountDetails/index.tsx
+#: src/components/AccountDetails/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "View on Explorer"
+msgstr "Zobraziť na Explorer"
+
+#: src/components/ModalViews/index.tsx
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "View transaction on Explorer"
+msgstr "Zobraziť transakciu na Explorer"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Vote Against"
+msgstr "Hlasovať proti"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Vote For"
+msgstr "Hlasovať za"
+
+#: src/components/vote/VoteModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "Vote against proposal {proposalId}"
+msgstr "Hlasovať proti návrhu {proposalId}"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote against proposal {proposalKey}"
+msgstr "Hlasovať proti návrhu {proposalKey}"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote against proposal {proposalKey} with reason \"{0}\""
+msgstr "Hlasujte proti návrhu {proposalKey} s dôvodom „{0}“"
+
+#: src/components/vote/VoteModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "Vote for proposal {proposalId}"
+msgstr "Hlasujte za návrh {proposalId}"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote for proposal {proposalKey}"
+msgstr "Hlasujte za návrh {proposalKey}"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote for proposal {proposalKey} with reason \"{0}\""
+msgstr "Hlasujte za návrh {proposalKey} s dôvodom „{0}“"
+
+#: src/components/vote/VoteModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "Vote to abstain on proposal {proposalId}"
+msgstr "Hlasujte za zdržanie sa návrhu {proposalId}"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote to abstain on proposal {proposalKey}"
+msgstr "Hlasujte za zdržanie sa návrhu {proposalKey}"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote to abstain on proposal {proposalKey} with reason \"{0}\""
+msgstr "Hlasujte za zdržanie sa návrhu {proposalKey} s dôvodom „{0}“"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Voting ended {0}"
+msgstr "Hlasovanie skončilo {0}"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Voting ends approximately {0}"
+msgstr "Hlasovanie končí približne {0}"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Voting starts approximately {0}"
+msgstr "Hlasovanie sa začína približne o {0}"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Waiting For Confirmation"
+msgstr "Čakajúce na potvrdenia"
+
+#: src/components/AddressInputPanel/index.tsx
+msgid "Wallet Address or ENS name"
+msgstr "Adresa peňaženky alebo názov ENS"
+
+#: src/components/earn/StakingModal.tsx
+msgid "Weekly Rewards"
+msgstr "Týždenné odmeny"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "Welcome to team Unicorn :)"
+msgstr "Vitajte v tíme jednorožcov :)"
+
+#: src/components/earn/ClaimRewardModal.tsx
+msgid "When you claim without withdrawing your liquidity remains in the mining pool."
+msgstr "Keď nárokujete bez stiahnutia, vaša likvidita zostáva v ťažobnom fonde.."
+
+#: src/pages/Earn/Manage.tsx
+msgid "When you withdraw, the contract will automagically claim UNI on your behalf!"
+msgstr "Keď odstúpite, zmluva bude automaticky nárokovať UNI vo vašom mene!"
+
+#: src/components/earn/UnstakingModal.tsx
+msgid "When you withdraw, your UNI is claimed and your liquidity is removed from the mining pool."
+msgstr "Keď vyberiete, vaše UNI je nárokované a vaša likvidita je odstránená z ťažobného fondu."
+
+#: src/components/earn/UnstakingModal.tsx
+#: src/pages/Earn/Manage.tsx
+msgid "Withdraw"
+msgstr "Vytiahnuť"
+
+#: src/components/earn/UnstakingModal.tsx
+msgid "Withdraw & Claim"
+msgstr "Vybrať a uplatniť nárok"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Withdraw deposited liquidity"
+msgstr "Vybrať uloženú likviditu"
+
+#: src/components/earn/UnstakingModal.tsx
+msgid "Withdrawing {0} BD LP"
+msgstr "Vyberá sa {0} BD LP"
+
+#: src/components/earn/UnstakingModal.tsx
+msgid "Withdrew BD LP!"
+msgstr "Vybrané BD LP!"
+
+#: src/pages/Swap/index.tsx
+msgid "Wrap"
+msgstr "Zabaliť"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Wrap <0/> to WETH"
+msgstr "Zabaliť <0/> do WETH"
+
+#: src/components/WalletModal/index.tsx
+#: src/components/Web3Status/index.tsx
+msgid "Wrong Network"
+msgstr "Nesprávna sieť"
+
+#: src/pages/CreateProposal/index.tsx
+msgid "You already have an active or pending proposal"
+msgstr "Už máte aktívny alebo čakajúci návrh"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "You are creating a pool"
+msgstr "Vytvárate pool"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "You are the first liquidity provider for this BestDex V3 pool. Your liquidity will migrate at the current {0} price."
+msgstr "Ste prvým poskytovateľom likvidity pre tento fond BestDex V3. Vaša likvidita sa presunie za aktuálnu cenu {0}."
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "You are the first liquidity provider."
+msgstr "Ste prvým poskytovateľom likvidity."
+
+#: src/components/vote/DelegateModal.tsx
+msgid "You can either vote on each proposal yourself or delegate your votes to a third party."
+msgstr "O každom návrhu môžete hlasovať sami alebo môžete svoje hlasy delegovať na tretiu stranu."
+
+#: src/pages/Swap/index.tsx
+msgid "You can now trade {0}"
+msgstr "Teraz môžete obchodovať {0}"
+
+#: src/pages/CreateProposal/index.tsx
+msgid "You don't have enough votes to submit a proposal"
+msgstr "Nemáte dostatok hlasov na predloženie návrhu"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "You don’t have liquidity in this pool yet."
+msgstr "V tomto poole ešte nemáte likviditu."
+
+#: src/components/Header/ChainConnectivityWarning.tsx
+msgid "You may have lost your network connection, or {label} might be down right now."
+msgstr "Možno ste stratili sieťové pripojenie alebo {label} práve teraz nefunguje."
+
+#: src/components/Header/ChainConnectivityWarning.tsx
+msgid "You may have lost your network connection."
+msgstr "Pravdepodobne ste stratili internetové pripojenie."
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "You must connect an account."
+msgstr "Musíte sa prihlásiť k účtu."
+
+#: src/pages/Swap/index.tsx
+msgid "You must give the BestDex smart contracts permission to use your {0}. You only have to do this once per token."
+msgstr "Musíte dať spoločnosti BestDex smart contract povolenie na používanie vášho {0}. Pre každý token to musíte urobiť len raz."
+
+#: src/pages/CreateProposal/index.tsx
+msgid "You must have {formattedProposalThreshold} votes to submit a proposal"
+msgstr "Na odoslanie návrhu musíte mať {formattedProposalThreshold} hlasov"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "You should only deposit liquidity into BestDex V3 at a price you believe is correct. <0/>If the price seems incorrect, you can either make a swap to move the price or wait for someone else to do so."
+msgstr "Do BestDex V3 by ste mali vkladať likviditu iba za cenu, o ktorej si myslíte, že je správna. <0/>Ak sa vám zdá, že cena nie je správna, môžete buď zmeniť cenu výmenou, alebo počkať, kým to urobí niekto iný."
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "You will also collect fees earned from this position."
+msgstr "Budete tiež vyberať poplatky zarobené na tejto pozícii."
+
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "You will receive"
+msgstr "Dostanete"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "Your UNI Breakdown"
+msgstr "Váš UNI rozpis"
+
+#: src/pages/Pool/index.tsx
+msgid "Your V3 liquidity positions will appear here."
+msgstr "Tu sa zobrazia vaše pozície likvidity V3."
+
+#: src/pages/Pool/v2.tsx
+msgid "Your liquidity"
+msgstr "Vaša likvidita"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Your liquidity deposits"
+msgstr "Vaše likvidné vklady"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+#: src/components/PositionCard/index.tsx
+msgid "Your pool share:"
+msgstr "Váš podiel na poole:"
+
+#: src/components/PositionCard/index.tsx
+msgid "Your position"
+msgstr "Vaša pozícia"
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "Your position has 0 liquidity, and is not earning fees."
+msgstr "Vaša pozícia má 0 likvidity a nezarába poplatky."
+
+#: src/components/LiquidityChartRangeInput/index.tsx
+#: src/components/LiquidityChartRangeInput/index.tsx
+msgid "Your position will appear here."
+msgstr "Vaša pozícia sa zobrazí tu."
+
+#: src/components/PositionPreview/index.tsx
+#: src/components/PositionPreview/index.tsx
+msgid "Your position will be 100% composed of {0} at this price"
+msgstr "Vaša pozícia bude 100% zložená z {0} za túto cenu"
+
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "Your position will be 100% {0} at this price."
+msgstr "Vaša pozícia bude 100 % {0} za túto cenu."
+
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Your position will not earn fees or be used in trades until the market price moves into your range."
+msgstr "Vaša pozícia nebude zarábať poplatky ani nebude použitá v obchodoch, kým sa trhová cena neposunie do vášho rozsahu."
+
+#: src/components/PositionList/index.tsx
+#: src/components/PositionList/index.tsx
+msgid "Your positions"
+msgstr "Vaše pozície"
+
+#: src/components/earn/PoolCard.tsx
+msgid "Your rate"
+msgstr "Vaše hodnotenie"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+msgid "Your total pool tokens:"
+msgstr "Váš celkový počet tokenov:"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Your transaction cost will be much higher as it includes the gas to create the pool."
+msgstr "Vaše transakčné náklady budú oveľa vyššie, pretože zahŕňajú plyn na vytvorenie fondu."
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Your transaction may be frontrun"
+msgstr "Vaša transakcia môže prebiehať vopred"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Your transaction may fail"
+msgstr "Vaša transakcia môže zlyhať"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Your transaction will revert if it is pending for more than this period of time."
+msgstr "Vaša transakcia sa vráti späť, ak bude čakajúca dlhšie ako toto časové obdobie."
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Your transaction will revert if the price changes unfavorably by more than this percentage."
+msgstr "Vaša transakcia sa vráti späť, ak sa cena nepriaznivo zmení o viac ako toto percento."
+
+#: src/components/AccountDetails/index.tsx
+msgid "Your transactions will appear here..."
+msgstr "Vaša transakcia sa zobrazí tu..."
+
+#: src/pages/Earn/Manage.tsx
+msgid "Your unclaimed UNI"
+msgstr "Váš nevyzdvihnutý UNI"
+
+#: src/components/AccountDetails/index.tsx
+msgid "clear all"
+msgstr "zmazať všetko"
+
+#: src/components/Settings/index.tsx
+msgid "confirm"
+msgstr "potvrdiť"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "for {0}"
+msgstr "pre {0}"
+
+#: src/components/Web3Status/index.tsx
+msgid "has socks emoji"
+msgstr "má ponožkové emodži"
+
+#: src/components/Header/ChainConnectivityWarning.tsx
+#: src/components/WalletModal/index.tsx
+msgid "here."
+msgstr "tu."
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "https:// or ipfs:// or ENS name"
+msgstr "https:// or ipfs:// alebo ENS názov"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "minutes"
+msgstr "minúty"
+
+#: src/components/SearchModal/ImportRow.tsx
+msgid "via {0}"
+msgstr "cez {0}"
+
+#: src/components/SearchModal/TokenImportCard.tsx
+msgid "via {0} token list"
+msgstr "cez {0} zoznam tokenov"
+
+#: src/components/SearchModal/ImportToken.tsx
+msgid "{0, plural, one {Import token} other {Import tokens}}"
+msgstr "{0, plural, one {Import token} other {Import token}}"
+
+#: src/components/RateToggle/index.tsx
+#: src/components/RateToggle/index.tsx
+#: src/hooks/useSwapCallback.tsx
+#: src/hooks/useSwapCallback.tsx
+msgid "{0}"
+msgstr "{0}"
+
+#: src/components/PositionCard/index.tsx
+#: src/pages/Vote/VotePage.tsx
+#: src/pages/Vote/VotePage.tsx
+msgid "{0} %"
+msgstr "{0} %"
+
+#: src/components/PositionListItem/index.tsx
+#: src/components/PositionListItem/index.tsx
+msgid "{0} <0/> per <1/>"
+msgstr "{0} <0/> per <1/>"
+
+#: src/components/earn/StakingModal.tsx
+msgid "{0} BD LP"
+msgstr "{0} BD LP"
+
+#: src/pages/Earn/Manage.tsx
+msgid "{0} BD LP LP tokens available"
+msgstr "{0} BD LP LP tokenov k dispozícii"
+
+#: src/components/SearchModal/ManageTokens.tsx
+msgid "{0} Custom Tokens"
+msgstr "{0} vlastných tokenov"
+
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+msgid "{0} Deposited"
+msgstr "{0} Vložené"
+
+#: src/components/earn/PoolCard.tsx
+msgid "{0} ETH"
+msgstr "{0} ETH"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "{0} Fees Earned:"
+msgstr "{0} Získané poplatky:"
+
+#: src/components/Web3Status/index.tsx
+msgid "{0} Pending"
+msgstr "{0} Čaká sa"
+
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+msgid "{0} UNI"
+msgstr "{0} UNI"
+
+#: src/components/earn/PoolCard.tsx
+#: src/components/earn/PoolCard.tsx
+#: src/components/earn/StakingModal.tsx
+#: src/pages/Earn/Manage.tsx
+#: src/pages/Earn/Manage.tsx
+msgid "{0} UNI / week"
+msgstr "{0} UNI / týždeň"
+
+#: src/components/vote/VoteModal.tsx
+msgid "{0} Votes"
+msgstr "{0} Hlasov"
+
+#: src/components/PositionPreview/index.tsx
+#: src/components/PositionPreview/index.tsx
+#: src/components/PositionPreview/index.tsx
+#: src/pages/AddLiquidityV2/PoolPriceBar.tsx
+#: src/pages/AddLiquidityV2/PoolPriceBar.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "{0} per {1}"
+msgstr "{0} za {1}"
+
+#: src/components/SearchModal/ImportList.tsx
+#: src/components/SearchModal/ManageLists.tsx
+msgid "{0} tokens"
+msgstr "{0} tokenov"
+
+#: src/components/Header/index.tsx
+#: src/components/Web3Status/index.tsx
+msgid "{0} {1}"
+msgstr "{0} {1}"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "{0} {1} Price:"
+msgstr "{0} {1} Cena:"
+
+#: src/components/SearchModal/CurrencyList.tsx
+msgid "{0} • Added by user"
+msgstr "{0} • Pridané používateľom"
+
+#: src/components/CurrencyInputPanel/FiatValue.tsx
+#: src/components/FeeSelector/FeeOption.tsx
+#: src/components/PositionListItem/index.tsx
+#: src/components/PositionPreview/index.tsx
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "{0}%"
+msgstr "{0}%"
+
+#: src/components/FeeSelector/index.tsx
+msgid "{0}% fee tier"
+msgstr "Úroveň poplatku {0} %."
+
+#: src/components/FeeSelector/FeeTierPercentageBadge.tsx
+msgid "{0}% select"
+msgstr "{0}% vybrať"
+
+#: src/pages/Earn/Manage.tsx
+msgid "{0}-{1} Liquidity Mining"
+msgstr "{0}-{1} Ťažba likvidity"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "{0}/{1} LP NFT"
+msgstr "{0}/{1} LP NFT"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "{0}/{1} LP Tokens"
+msgstr "{0}/{1} LP tokeny"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "{SOCKS_AMOUNT} UNI"
+msgstr "{SOCKS_AMOUNT} UNI"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "{USER_AMOUNT} UNI"
+msgstr "{USER_AMOUNT} UNI"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "{activeTokensOnThisChain} tokens"
+msgstr "{activeTokensOnThisChain} tokeny"
+
+#: src/pages/Home/ContentImageSection.tsx
+msgid "{heading}"
+msgstr "{heading}"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "{percentForSlider}%"
+msgstr "{percentForSlider}%"
+
+#: src/components/InputStepCounter/InputStepCounter.tsx
+msgid "{tokenB} per {tokenA}"
+msgstr "{tokenB} za {tokenA}"
+
+#: src/components/CurrencyInputPanel/FiatValue.tsx
+msgid "~$ <0/>"
+msgstr "~$ <0/>"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "← Back to Pools Overview"
+msgstr "← prehľad k poolom"
+
+#: 
+msgid "Questions"
+msgstr "Otázky"
+
+#: 
+msgid "Best Wallet is a fully decentralised crypto wallet aiming to address the concerns present in traditional custody solutions regarding security, privacy, and control over assets. We’re empowering users to manage their own digital assets from their own phone or computer with minimal reliance on centralized authorities."
+msgstr "Best Wallet je plne decentralizovaná kryptopeňaženka, ktorej cieľom je riešiť obavy prítomné v tradičných riešeniach úschovy týkajúce sa bezpečnosti, súkromia a kontroly nad aktívami. Umožňujeme používateľom spravovať svoje vlastné digitálne aktíva z vlastného telefónu alebo počítača s minimálnym spoliehaním sa na centralizované orgány."
+
+#: 
+msgid "The smartest way to manage your digital assets."
+msgstr "Najinteligentnejší spôsob správy digitálnych aktív."
+
+#: 
+msgid "LEARN MORE"
+msgstr "ZISTIŤ VIAC"
+
+#: 
+msgid "INTRODUCING"
+msgstr "UVÁDZAME"
+
+#: 
+msgid "Market Insights"
+msgstr "Štatistiky trhu"
+
+#: 
+msgid "Participate in the BEST airdrop"
+msgstr "Účastnite sa na BEST airdrope"
+
+#: 
+msgid "We’re rewarding all our early adopters with an airdrop of 10% of the total supply of BEST tokens."
+msgstr "Všetkých našich prvých používateľov odmeňujeme airdropom vo výške 10 % z celkovej ponuky NAJ tokenov."
+
+#: 
+msgid "How to get started"
+msgstr "Ako začať"
+
+#: 
+msgid "Download the Best Wallet app"
+msgstr "Stihanite si našu aplikáciu Best Wallet"
+
+#: 
+msgid "Availiable on\n"
+""
+msgstr "Dostupné na"
+
+#: 
+msgid "Get it on"
+msgstr "Pustite sa do toho"
+
+#: 
+msgid "Create a wallet"
+msgstr "Vytvorte si peňaženku"
+
+#: 
+msgid "Make sure you complete all the steps below to ensure we can track your activities towards the Best Wallet airdrop"
+msgstr "Uistite sa, že ste vykonali všetky kroky uvedené nižšie, aby sme mohli sledovať vaše aktivity smerom k airdropu Best Wallet"
+
+#: 
+msgid "Download Our App"
+msgstr "Stiahnuť našu aplikáciu"
+
+#: 
+msgid "Engage On Our Platform"
+msgstr "Zapojte sa na našej platforme"
+
+#: 
+msgid "Visit Our Website"
+msgstr "Navštívte našu stránku"
+
+#: 
+msgid "Join @BestWallet_Official on Telegram"
+msgstr "Pripojte sa k @BestWallet_Official na Telegrame"
+
+#: 
+msgid "Join Our Discord Server"
+msgstr "Pripojte sa k nášmu discord serveru"
+
+#: 
+msgid "Follow @BestWallet__ on Twitter"
+msgstr "Sledujte @BestWallet__ na Twitteri"
+
+#: 
+msgid "Visit @bestwalletofficial on Instagram"
+msgstr "Navštíviť @bestwalletofficial na Instagrame"
+
+#: 
+msgid "How you earn points"
+msgstr "Ako zarábate body"
+
+#: 
+msgid "Use the Best Wallet App and DEX"
+msgstr "Používate Best Wallet App a DEX"
+
+#: 
+msgid "Store your tokens and make transactions"
+msgstr "Uložte si tokeny a uskutočňujte transakcie"
+
+#: 
+msgid "Engage with our Socials and spread the word"
+msgstr "Zapojte sa do našich sociálnych sietí a šírte informácie"
+
+#: 
+msgid "Cryptocurrency may be unregulated in your jurisdiction. The value of cryptocurrencies may go down as well as up. Profits may be subject to capital gains or other taxes applicable in your jurisdiction.\n"
+""
+msgstr "Kryptomena môže byť vo vašej jurisdikcii neregulovaná. Hodnota kryptomien môže klesať aj stúpať. Zisky môžu podliehať kapitálovým ziskom alebo iným daniam platným vo vašej jurisdikcii."
+
+#: 
+msgid "What is a Crypto Airdrop?"
+msgstr "Čo je krypto airdrop?"
+
+#: 
+#, fuzzy
+msgid "An Airdrop is when a token is sent to a specific group of crypto wallet addresses. Sometimes this is a marketing strategy by crypto projects to introduce their token to new audiences. In our case, the BEST Token Airdrop rewards early adopters, power users, and brand advocates of Best Wallet and Best DEX with a portion of the total token supply as a way to thank them for their engagement within the Best Ecosystem."
+msgstr "Airdrop je, keď sa token odošle na špecifickú skupinu adries kryptopeňaženky. Niekedy ide o marketingovú stratégiu kryptoprojektov na predstavenie ich tokenu novému publiku. V našom prípade BEST Token Airdrop odmeňuje prvých používateľov, skúsených používateľov a obhajcov značiek Best Wallet a Best DEX časťou celkovej ponuky tokenov ako spôsob, ako im poďakovať za ich angažovanosť v rámci Best Ecosystem."
+
+#: 
+msgid "How can I participate in the BEST Token Airdrop?"
+msgstr "Ako sa môžem zúčastniť v BEST token airdope?"
+
+#: 
+msgid "To participate in the BEST Token Airdrop, you need to follow these steps:"
+msgstr "Ak sa chcete zúčastniť BEST token airdropu, musíte postupovať podľa týchto krokov:"
+
+#: 
+msgid "a. Download the Best Wallet app and create a wallet."
+msgstr "a. Stiahnite si aplikáciu Best Wallet a vytvorte si peňaženku."
+
+#: 
+msgid "b. Visit the Airdrop page on our website."
+msgstr "b. Navštívte stránku Airdrop na našej webovej stránke."
+
+#: 
+msgid "c. Provide your wallet address, email address, Twitter handle, and Discord username and follow our socials"
+msgstr "c. Zadajte svoju adresu peňaženky, e-mailovú adresu, Twitter a používateľské meno Discord a sledujte naše sociálne siete"
+
+#: 
+msgid "d. Engage actively within the Best Ecosystem to earn points."
+msgstr "d. Aktívne sa zapojte do najlepšieho ekosystému a získajte body."
+
+#: 
+msgid "How do I earn points during the Airdrop?"
+msgstr "Ako získam body počas airdropu?"
+
+#: 
+msgid "During Phase 1-6 of our product launch, points are earned in three ways."
+msgstr "Počas fázy 1-6 uvedenia nášho produktu na trh sa body získavajú tromi spôsobmi."
+
+#: 
+msgid "a. Engaging with our socials and spreading the word about Best Web3."
+msgstr "a. Zapojenie sa do našich sociálnych sietí a šírenie informácií o Best Web3."
+
+#: 
+msgid "b. Using Best Wallet."
+msgstr "b. Používanie Best Wallet"
+
+#: 
+msgid "c. Using Best DEX."
+msgstr "c. Používanie Best DEX"
+
+#: 
+msgid "What are the benefits of holding BEST tokens?"
+msgstr "Aké sú výhody držania BEST tokenov?"
+
+#: 
+msgid "Holding BEST tokens will bring several exclusive benefits within the Best Ecosystem, including:"
+msgstr "Držanie BEST tokenov prinesie niekoľko exkluzívnych výhod v rámci Best Ecosystem, vrátane:"
+
+#: 
+msgid "a. No gas fees on transactions."
+msgstr "a. Žiadne poplatky za plyn pri transakciách."
+
+#: 
+msgid "b. Governance voting on Best Dex."
+msgstr "b. Hlasovanie správy o Best Dex."
+
+#: 
+msgid "c. Early access to token launches."
+msgstr "c. Včasný prístup k spusteniu tokenov."
+
+#: 
+msgid "d. Participation in exclusive NFT and token drops."
+msgstr "d. Účasť na exkluzívnych prepadoch NFT a tokenov."
+
+#: 
+msgid "We will announce more benefits and utility closer to the airdrop date."
+msgstr "Bližšie k dátumu výsadku oznámime ďalšie výhody a užitočnosť."
+
+#: 
+msgid "When will the Airdrop happen?"
+msgstr "Kedy sa airdrop stane?"
+
+#: 
+msgid "The airdrop ends at the end of phase 6 of our Best Wallet launch. The specific date and time of the Airdrop will be announced on our official website and social media channels. Stay tuned for updates to ensure you don't miss out on this opportunity!"
+msgstr "Výsadok končí na konci 6. fázy uvedenia našej najlepšej peňaženky. Konkrétny dátum a čas Airdrop bude oznámený na našej oficiálnej webovej stránke a kanáloch sociálnych médií. Zostaňte naladení na aktualizácie, aby ste túto príležitosť nepremeškali!"
+
+#: 
+msgid "How will the Airdrop rewards be distributed?"
+msgstr "Ako sa budú rozdeľovať odmeny Airdrop?"
+
+#: 
+msgid "10% of the total supply of the BEST token has been allocated to the airdrop. Participants will earn a share of the token pool proportionate to the points they have used throughout phases 1-6 of the Best Wallet launch. The Airdrop rewards will be distributed directly to the wallet addresses provided during the registration process. Please ensure the accuracy of the wallet address to receive your tokens smoothly."
+msgstr "10 % z celkovej zásoby NAJ tokenu bolo pridelených airdropu. Účastníci získajú podiel zo súboru tokenov úmerný bodom, ktoré použili počas fáz 1 až 6 uvedenia najlepšej peňaženky. Odmeny Airdrop budú distribuované priamo na adresy peňaženky uvedené počas procesu registrácie. Uistite sa, že adresa peňaženky je správna, aby ste svoje tokeny dostali hladko."
+
+#: 
+msgid "Is there a limited number of participants for the Airdrop?"
+msgstr "Je na Airdrop obmedzený počet účastníkov?"
+
+#: 
+msgid "Participation is open to all."
+msgstr "Účasť je otvorená pre všetkých."
+
+#: 
+msgid "Can I register multiple times for the Airdrop?"
+msgstr "Môžem sa na Airdrop zaregistrovať viackrát?"
+
+#: 
+msgid "No, each participant is allowed to register only once for the Airdrop. Multiple registrations may lead to disqualification."
+msgstr "Nie, každý účastník sa môže na Airdrop zaregistrovať iba raz. Viacnásobná registrácia môže viesť k diskvalifikácii."
+
+#: 
+msgid "How will you prevent fraudulent activity during the Airdrop?"
+msgstr "Ako zabránite podvodným aktivitám počas Airdropu?"
+
+#: 
+msgid "We have implemented various security measures to detect and prevent fraudulent activities. Any attempts at gaming the system or engaging in suspicious activities will lead to immediate disqualification from the Airdrop."
+msgstr "Zaviedli sme rôzne bezpečnostné opatrenia na odhalenie a prevenciu podvodných aktivít. Akékoľvek pokusy o hranie systému alebo zapojenie sa do podozrivých aktivít povedú k okamžitej diskvalifikácii z Airdropu."
+
+#: 
+msgid "How can I stay updated about the Airdrop and the project's progress?"
+msgstr "Ako môžem zostať informovaný o Airdrope a pokroku projektu?"
+
+#: 
+msgid "To stay informed about the Airdrop, project updates, and important announcements, make sure to follow our official social media channels and regularly check our website. We will keep the community informed about any developments related to the BEST Token Airdrop."
+msgstr "Ak chcete zostať informovaní o Airdrope, aktualizáciách projektu a dôležitých oznámeniach, sledujte naše oficiálne kanály sociálnych médií a pravidelne kontrolujte našu webovú stránku. Budeme komunitu informovať o akomkoľvek vývoji týkajúcom sa BEST Token Airdrop."
+
+#: 
+msgid "Best DEX is built as the sister app to Best Wallet, our flagship <0>non-custodial crypto wallet</0>. Best DEX can be accessed from within Best Wallet for an easy trading experience all within a single app. No more need to use several different wallets and DEXs to manage your crypto portfolio."
+msgstr "Best DEX je vytvorená ako sesterská aplikácia k Best Wallet, našej vlajkovej lodi <0>non-custodial crypto wallet</0>. Best DEX je prístupná z Best Wallet pre jednoduché obchodovanie v rámci jedinej aplikácie. Už nie je potrebné používať niekoľko rôznych peňaženiek a DEX na správu vášho krypto portfólia."
+
+#: 
+msgid "Best DEX does not require KYC verification to start trading. We prioritise user privacy and aim to provide a hassle-free onboarding experience. Simply connect your wallet and you’re ready to go."
+msgstr "Best DEX nevyžaduje overenie KYC na začatie obchodovania. Uprednostňujeme súkromie používateľov a naším cieľom je poskytnúť bezproblémový zážitok z registrácie. Stačí pripojiť peňaženku a môžete začať."
+
+#: 
+msgid "Follow our socials and join our community hubs <0>here</0>"
+msgstr "Sledujte naše sociálne siete a pripojte sa k našim komunitným centrám <0>tu</0>"
+
+#: 
+msgid "We are launching the BEST token at the end of Phase 6 of our roadmap and will reward our early adopters and power users with 10% of our total supply based on the points they have accumulated from using our app and spreading the word on socials."
+msgstr "Na konci 6. fázy nášho plánu uvádzame na trh NAJLEPŠÍ token a odmeníme našich prvých používateľov a skúsených používateľov 10 % z našej celkovej ponuky na základe bodov, ktoré nazbierali za používanie našej aplikácie a šírenie informácií na sociálnych sieťach."
+
+#: 
+msgid "In the near future, Best DEX will be available as a decentralised application (dApp) within Best Wallet, offering an even more integrated and user-friendly trading experience."
+msgstr "V blízkej budúcnosti bude Best DEX k dispozícii ako decentralizovaná aplikácia (dApp) v rámci Best Wallet, ktorá ponúka ešte integrovanejší a užívateľsky prívetivejší obchodný zážitok."
+
+#: 
+msgid "Simply visit the Best DEX platform through your mobile web browser to start trading cryptocurrencies on the go."
+msgstr "Jednoducho navštívte platformu Best DEX prostredníctvom mobilného webového prehliadača a začnite obchodovať s kryptomenami na cestách."
+
+#: 
+msgid "Best Wallet is the fully non-custodial crypto wallet at the heart of the Best Web3 Ecosystem. Buy, store, send, and receive Bitcoin and many other cryptocurrencies safely and securely with the Best Wallet app."
+msgstr "Best Wallet je plne nedepozitná kryptopeňaženka v srdci Best Web3 Ecosystem. Nakupujte, ukladajte, odosielajte a prijímajte bitcoiny a mnoho ďalších kryptomien bezpečne a bezpečne pomocou aplikácie Best Wallet."
+
+#: 
+msgid "Portfolio Management and Token Analytics give users everything they need to get in early on the hottest token launches, make the right trades at the right times, and maximise profits."
+msgstr "Správa portfólia a analýza tokenov poskytujú používateľom všetko, čo potrebujú na to, aby sa dostali včas do najhorúcejšieho uvedenia tokenov, uskutočňovali správne obchody v správny čas a maximalizovali zisky."
+
+#: 
+msgid "Create a wallet in the BEST Wallet"
+msgstr "Vytvorte si peňaženku v BEST peňaženke"
+
+#: 
+msgid "Make sure you complete all the steps below to ensure we can track your activities towards the BEST airdrop"
+msgstr "Uistite sa, že ste vykonali všetky kroky uvedené nižšie, aby sme mohli sledovať vaše aktivity smerom k BEST airdropu"
+
+#: 
+msgid "Download the Best Wallet app and create a wallet."
+msgstr "Stiahnite si aplikáciu Best Wallet a vytvorte si peňaženku."
+
+#: 
+msgid "2023 Best Web3. All Right Reserved."
+msgstr "2023 Best Web3. Všetky práva vyhradené."
+
+#: 
+msgid "Get Featured on Best DEX"
+msgstr "Zaraďte sa medzi odporúčania na Best DEX"
+
+#: 
+msgid "Partner with the Best"
+msgstr "Spojte s BEST"
+
+#: 
+msgid "Become a partner and let us showcase your project to the world. Reach thousands of highly engaged global Best Wallet crypto holders."
+msgstr "Staňte sa partnerom a dovoľte nám predstaviť váš projekt svetu. Oslovte tisíce vysoko angažovaných globálnych držiteľov kryptomien Best Wallet."
+
+#: 
+msgid "Best Audience"
+msgstr "Najlepšia audiencia"
+
+#: 
+msgid "News Coverage"
+msgstr "Správy"
+
+#: 
+msgid "Featured on Best DEX"
+msgstr "Spomínané na Best DEX"
+
+#: 
+msgid "You have a following and you’re trending in all the right ways. Best Wallet will showcase your achievements and potential to thousands more engaged crypto holders."
+msgstr "Máte sledovanosť a ste v trende všetkými správnymi spôsobmi. Najlepšia peňaženka predvedie vaše úspechy a potenciál tisíckam ďalších zapojených držiteľov kryptomien."
+
+#: 
+msgid "Your project will be picked up by high-ranking crypto news sites with a combined traffic of over 20 million monthly visitors."
+msgstr "Váš projekt si prevezmú vysoko hodnotené weby s kryptografickými správami s kombinovanou návštevnosťou viac ako 20 miliónov návštevníkov mesačne."
+
+#: 
+msgid "Be a part of the Best Ecosystem. We’ll list your token on Best DEX and support it with exposure and user incentives."
+msgstr "Staňte sa súčasťou najlepšieho ekosystému. Váš token uvedieme na Best DEX a podporíme ho vystavením a stimulmi pre používateľov."
+
+#: 
+msgid "Showcase Application"
+msgstr "Ukážková aplikácia"
+
+#: 
+msgid "First Name"
+msgstr "Meno"
+
+#: 
+msgid "Last Name"
+msgstr "Priezvisko"
+
+#: 
+msgid "Your work Email"
+msgstr "Váš pracovný mail"
+
+#: 
+msgid "Provide a link to your website"
+msgstr "Poskytnite odkaz na svoj web"
+
+#: 
+msgid "URL"
+msgstr "URL"
+
+#: 
+msgid "More Information"
+msgstr "Viac informácií"
+
+#: 
+msgid "Tell us about your project"
+msgstr "Povedzte nám o vašom projekte"
+
+#: 
+msgid "I confirm I have read agree to the <0>Privacy Policy</0>."
+msgstr "Potvrdzujem, že som si prečítal(-a) súhlas s <0>Privacy Policy</0>."
+
+#: 
+msgctxt "Shown on a button for applying to be a partner in BESTDex"
+msgid "Apply"
+msgstr "Požiadať"
+
+#: 
+msgid "Trade"
+msgstr "Obchodovať"
+
+#: 
+msgid "Features"
+msgstr "Možnosti"
+
+#: 
+msgid "Best DEX is a decentralised exchange designed to seamlessly integrate with Best Wallet, our non-custodial crypto wallet . It allows you to trade cryptocurrencies securely and efficiently while maintaining full control of your funds and digital assets."
+msgstr "Best DEX je decentralizovaná burza navrhnutá tak, aby sa hladko integrovala s Best Wallet, našou nedepozitnou\n"
+"krypto peňaženka. Umožňuje vám bezpečne a efektívne obchodovať s kryptomenami pri zachovaní plnej kontroly nad vašimi finančnými prostriedkami a digitálnymi aktívami."
+
+#: 
+msgid "What are the benefits of Best DEX?"
+msgstr "Aké sú výhody Best DEX?"
+

@@ -1,0 +1,27 @@
+{
+  "background_color": "#fff",
+  "display": "standalone",
+  "homepage_url": "#",
+  "providedBy": { "name": "swap", "url": "#" },
+  "icons": [
+    {
+      "src": "./images/192x192_App_Icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./images/512x512_App_Icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "orientation": "portrait",
+  "name": "Best DEX",
+  "description": "Swap or provide liquidity on the Best DEX Protocol",
+  "iconPath": "./images/512x512_App_Icon.png",
+  "short_name": "Best DEX",
+  "start_url": ".",
+  "theme_color": "#5a63ff"
+}

@@ -1,0 +1,2942 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Best DEX Website\n"
+"Language: th\n"
+
+#. Please don't change the name of the application
+#: src/pages/Home/index.tsx
+msgid "Buy and Sell Instantly on"
+msgstr "ซื้อและขายทันทีบน"
+
+#: src/pages/Home/index.tsx
+msgid "Recommended By"
+msgstr "แนะนำโดย"
+
+#: src/pages/Home/index.tsx
+msgid "Trade any token on Ethereum or BNB Smart Chain in seconds, just by connecting your wallet."
+msgstr "แลกเปลี่ยนโทเค็นบน Ethereum หรือ BNB Smart Chain ในไม่กี่วินาที เพียงแค่เชื่อมต่อกระเป๋าเงินของคุณ"
+
+#: /app/modules/views
+msgid "No registration needed. Thousands of tokens to trade at your fingertips."
+msgstr "ไม่จำเป็นต้องลงทะเบียน โทเค็นหลายพันรายการเพื่อซื้อขายเพียงปลายนิ้วสัมผัส"
+
+#: src/pages/Home/index.tsx
+#: src/pages/Home/index.tsx
+msgid "Trade Now"
+msgstr "เทรดเลย"
+
+#: src/pages/Home/index.tsx
+msgid "Decentralised Exchange"
+msgstr "กระดานแลกเปลี่ยนแบบกระจายอำนาจ"
+
+#: src/pages/Home/index.tsx
+msgid "Trade anything. No registration. No hassle."
+msgstr "เทรดอะไรก็ได้ ไม่มีการลงทะเบียน ไม่ยุ่งยาก"
+
+#: src/pages/Home/index.tsx
+msgid "Best DEX will have all the tools you need to navigate around crypto trading including real-time market updates and advanced charting via Trading View."
+msgstr "BEST DEX จะมีเครื่องมือทั้งหมดที่คุณต้องการเพื่อสำรวจการซื้อขายคริปโตรวมถึงการอัปเดตตลาดตามเวลาจริงและการสร้างแผนภูมิขั้นสูงผ่าน Trading View"
+
+#: /app/modules/views
+msgid "We were unable to sign you up.\n"
+"Please correct the marked fields."
+msgstr "เราไม่สามารถลงทะเบียนให้คุณได้\n"
+"กรุณาแก้ไขช่องที่ทำเครื่องหมายไว้"
+
+#: /app/modules/views
+msgid "From trending tokens to token security, Best Dex token analytics provides traders with in-depth, real-time data to execute the right trades."
+msgstr "ตั้งแต่โทเค็นที่ได้รับความนิยมไปจนถึงการรักษาความปลอดภัยโทเค็น การวิเคราะห์โทเค็น Best Dex ให้ข้อมูลเชิงลึกตามเวลาจริงแก่ผู้ซื้อขายเพื่อดำเนินการซื้อขายที่เหมาะสม"
+
+#: src/components/WalletModal/index.tsx
+msgid "Coming Soon"
+msgstr "เร็วๆ นี้"
+
+#: /app/modules/views
+msgid "Token Analytics"
+msgstr "การวิเคราะห์โทเค็น"
+
+#: 
+msgid "Token Info"
+msgstr "ข้อมูลโทเค็น"
+
+#: 
+msgid "Token Sentiment"
+msgstr "กระแสความสนใจในโทเค็น"
+
+#: 
+msgid "Token Security"
+msgstr "ความปลอดภัยของโทเค็น"
+
+#: 
+msgid "BEST Airdrop"
+msgstr "การแจกโทเค็น BEST"
+
+#: 
+msgid "The BEST token airdrop will reward brand advocates and Best Wallet and Best DEX power users over the coming months. Holders of the BEST token will receive exclusive benefits on Best DEX including lower cost trades"
+msgstr "การแจกโทเค็น BEST จะให้รางวัลแก่ผู้สนับสนุนแบรนด์และ Best Wallet และ Best DEX power users ในอีกไม่กี่เดือนข้างหน้า ผู้ถือโทเค็น BEST จะได้รับสิทธิประโยชน์พิเศษจาก Best DEX รวมถึงการเทรดที่มีต้นทุนต่ำกว่า"
+
+#: 
+msgid "Frequently Asked"
+msgstr "คำถามที่พบบ่อย"
+
+#: src/pages/Home/index.tsx
+msgid "Find answers to the most frequently asked questions about Best Wallet right here."
+msgstr "ค้นหาคำตอบสำหรับคำถามที่พบบ่อยเกี่ยวกับ Best Wallet ที่นี่"
+
+#: src/pages/Home/index.tsx
+msgid "If the answer you’re looking for isn’t here, email contact@bestwallet.com and we’ll assist you."
+msgstr "หากไม่มีคำตอบที่คุณต้องการ โปรดส่งอีเมลไปที่ contact@bestwallet.com แล้วเราจะช่วยเหลือคุณ"
+
+#: src/pages/Home/index.tsx
+msgid "Cryptocurrency may be unregulated in your jurisdiction. The value of cryptocurrencies may go down as well as up. Profits may be subject to capital gains or other taxes applicable in your jurisdiction."
+msgstr "คริปโตเคอเรนซี่อาจไม่ได้รับการควบคุมในเขตอำนาจศาลของคุณ มูลค่าของเหรียญคริปโตอาจลดลงและเพิ่มขึ้น กำไรอาจขึ้นอยู่กับกำไรจากการขายหุ้นหรือภาษีอื่นๆ ที่เกี่ยวข้องในเขตอำนาจศาลของคุณ"
+
+#: src/pages/Home/index.tsx
+msgid "Terms"
+msgstr "ข้อกำหนด"
+
+#: src/pages/Home/index.tsx
+msgid "Privacy"
+msgstr "ความเป็นส่วนตัว"
+
+#: src/pages/Home/index.tsx
+msgid "Cookies"
+msgstr "คุ้กกี้"
+
+#: 
+msgid "What is Best DEX?"
+msgstr "BEST DEX คืออะไร?"
+
+#: 
+msgid "Best DEX is a decentralized exchange designed to seamlessly integrate with Best Wallet, our non-custodial crypto wallet. It allows you to trade cryptocurrencies securely and efficiently while maintaining full control of your funds and digital assets."
+msgstr "Best DEX คือกระดานแลกเปลี่ยนแบบกระจายอำนาจที่ออกแบบมาเพื่อรวมเข้ากับ Best Wallet ซึ่งเป็นกระเป๋าเงินดิจิตอลเข้ารหัสที่ไม่ต้องดูแลของเรา ช่วยให้คุณซื้อขายสกุลเงินดิจิทัลได้อย่างปลอดภัยและมีประสิทธิภาพ ในขณะที่ยังคงควบคุมเงินทุนและสินทรัพย์ดิจิทัลของคุณได้อย่างเต็มที่"
+
+#: 
+msgid "Why should I use Best DEX instead of Uniswap or other DEXs?"
+msgstr "เหตุใดฉันจึงควรใช้ Best DEX แทน Uniswap หรือ DEX อื่นๆ"
+
+#: 
+msgid "Best DEX is built as the sister app to Best Wallet, our flagship crypto wallet. Best DEX can be accessed from within Best Wallet for an easy trading experience all within a single app. No more need to use several different wallets and DEXs to manage your crypto portfolio."
+msgstr "Best DEX สร้างขึ้นเป็นแอปตามรอยของ Best Wallet ซึ่งเป็นกระเป๋าเงินดิจิทัลหลักของเรา สามารถเข้าถึง Best DEX ได้จากภายใน Best Wallet เพื่อประสบการณ์การซื้อขายที่ง่ายดายทั้งหมดภายในแอปเดียว ไม่จำเป็นต้องใช้กระเป๋าเงินและ DEX ที่แตกต่างกันอีกต่อไปเพื่อจัดการพอร์ตคริปโตของคุณ"
+
+#: 
+msgid "What are Best DEX’s special features compared to competitors?"
+msgstr "คุณสมบัติพิเศษของ Best DEX เมื่อเทียบกับคู่แข่งคืออะไร?"
+
+#: 
+msgid "Best DEX is incorporating the best aspects of established DEXs, improving upon them, and adding streamlined features that will elevate your crypto trading experience. To name two: 1. Store, manage, and trade crypto from a single app 2. Save on trading fees."
+msgstr "BEST DEX คือการผสมผสานด้านที่ดีที่สุดของ DEX ที่จัดตั้งขึ้น การปรับปรุงและเพิ่มคุณสมบัติที่คล่องตัวที่จะยกระดับประสบการณ์การซื้อขายคริปโตของคุณ มีสองชื่อ: 1. จัดเก็บ จัดการ และแลกเปลี่ยนคริปโตจากแอพเดียว 2. ประหยัดค่าธรรมเนียมการซื้อขาย"
+
+#: 
+msgid "Which chains does Best DEX support for decentralised trading?"
+msgstr "Best DEX รองรับเชนใดสำหรับการซื้อขายแบบกระจายศูนย์"
+
+#: 
+msgid "Best DEX will start with native support for Ethereum, BNB Smart Chain and Polygon. Over time we’ll add support for all active major blockchains."
+msgstr "BEST DEX จะเริ่มต้นด้วยการรองรับ Ethereum, BNB Smart Chain และ Polygon เมื่อเวลาผ่านไป เราจะเพิ่มการรองรับสำหรับบล็อกเชนหลักที่ใช้งานอยู่ทั้งหมด"
+
+#: 
+msgid "How can I use Best DEX on my mobile phone?"
+msgstr "ฉันจะใช้ Best DEX บนโทรศัพท์มือถือได้อย่างไร?"
+
+#: 
+msgid "Best DEX is available through the 'Swap' feature on the Best Wallet app. Simply download Best Wallet from Google Play or the App Store to gain access to Best DEX trading."
+msgstr "BEST DEX มีให้ผ่านคุณสมบัติ 'สลับ' ในแอป Best Wallet เพียงดาวน์โหลด Best Wallet จาก Google Play หรือ App Store เพื่อเข้าถึงการซื้อขายบน Best DEX"
+
+#: 
+msgid "Decentralised & Secure"
+msgstr "กระจายอำนาจ & ปลอดภัย"
+
+#: 
+msgid "Low Fees"
+msgstr "ค่าธรรมเนียมต่ำ"
+
+#: 
+msgid "Trading Insights"
+msgstr "ข้อมูลเชิงลึกเกี่ยวกับการเทรด"
+
+#: 
+msgid "Best DEX automatically matches you to the trading pair with the lowest rate for your desired swap, ensuring you always get the best price on your trades. This feature helps you save money on transactions."
+msgstr "BEST DEX จะจับคู่คุณกับคู่การซื้อขายโดยอัตโนมัติด้วยอัตราต่ำสุดสำหรับค่าสวอปที่คุณต้องการ เพื่อให้มั่นใจว่าคุณจะได้ราคาที่ดีที่สุดสำหรับการซื้อขายของคุณ คุณสมบัตินี้ช่วยให้คุณประหยัดเงินในการทำธุรกรรม\n"
+
+#: 
+msgid "Cost-Saving Advantage"
+msgstr "ความได้เปรียบในการประหยัดต้นทุน"
+
+#: 
+msgid "Airdrop Incentives"
+msgstr "สิ่งจูงใจ Airdrop"
+
+#: 
+msgid "By using Best DEX, you become part of the Best Ecosystem, and we reward our most loyal and active users with a 10% airdrop of the total supply of our native token, $BEST, during Phase 6 of our launch."
+msgstr "เมื่อใช้ Best DEX คุณจะกลายเป็นส่วนหนึ่งของ Best Ecosystem และเราจะให้รางวัลแก่ผู้ใช้ที่ภักดีและกระตือรือร้นที่สุดด้วยการลดราคา 10% ของอุปทานทั้งหมดของโทเค็น $BEST ในช่วงที่ 6 ของการเปิดตัวของเรา"
+
+#: 
+msgid "Market Insights and Analytics"
+msgstr "ข้อมูลเชิงลึกของตลาดและการวิเคราะห์"
+
+#: 
+msgid "Best DEX provides you with comprehensive market insights and in-depth token analytics, giving you the best chance to make the best trading decisions at the right time."
+msgstr "Best DEX ให้ข้อมูลเชิงลึกของตลาดที่ครอบคลุมและการวิเคราะห์โทเค็นเชิงลึก มอบโอกาสที่ดีที่สุดในการตัดสินใจซื้อขายที่ดีที่สุดในเวลาที่เหมาะสม"
+
+#: 
+msgid "Convenience"
+msgstr "ความสะดวก"
+
+#: 
+msgid "What are the fees associated with using Best DEX?"
+msgstr "ค่าธรรมเนียมที่เกี่ยวข้องกับการใช้ Best DEX คืออะไร?"
+
+#: 
+msgid "Best Dex does not charge a usage fee. The only fees are determined by the specific liquidity pool and network gas fees."
+msgstr "Best Dex ไม่คิดค่าธรรมเนียมการใช้งาน ค่าธรรมเนียมเพียงอย่างเดียวจะถูกกำหนดโดยกลุ่มสภาพคล่องเฉพาะและค่าธรรมเนียมก๊าซเครือข่าย"
+
+#: 
+msgid "Which chains does Best DEX support for decentralized trading?"
+msgstr "Best DEX รองรับเชนใดสำหรับกระดานซื้อขายแบบกระจายศูนย์"
+
+#: 
+msgid "Best DEX initially supports Ethereum, BNB Smart Chain, and Polygon networks. As we continue to grow, we plan to add support for all active major blockchains, broadening your trading options and opportunities."
+msgstr "Best DEX เริ่มแรกรองรับเครือข่าย Ethereum, BNB Smart Chain และ Polygon ในขณะที่เราเติบโตอย่างต่อเนื่อง เราวางแผนที่จะเพิ่มการสนับสนุนสำหรับบล็อกเชนหลักที่ใช้งานอยู่ทั้งหมด ขยายตัวเลือกและโอกาสในการซื้อขายของคุณให้กว้างขึ้น"
+
+#: 
+msgid "Does Best DEX require registration and KYC verification?"
+msgstr "Best DEX จำเป็นต้องลงทะเบียนและตรวจสอบ KYC หรือไม่"
+
+#: 
+msgid "Best DEX does not require KYC verification to start trading. We prioritize user privacy and aim to provide a hassle-free onboarding experience. Simply connect your wallet and you’re ready to go."
+msgstr "Best DEX ไม่ต้องการการยืนยัน KYC เพื่อเริ่มการซื้อขาย เราให้ความสำคัญกับความเป็นส่วนตัวของผู้ใช้และมุ่งมั่นที่จะมอบประสบการณ์การใช้งานที่ไม่ยุ่งยาก เพียงเชื่อมต่อกระเป๋าเงินของคุณ คุณก็พร้อมแล้ว"
+
+#: 
+msgid "Can I use Best DEX on my mobile phone?"
+msgstr "ฉันสามารถใช้ Best DEX บนโทรศัพท์มือถือของฉันได้หรือไม่?"
+
+#: 
+msgid "There are multiple ways to access Best DEX on your mobile device:"
+msgstr "มีหลายวิธีในการเข้าถึง Best DEX บนอุปกรณ์มือถือของคุณ:"
+
+#: 
+msgid "Mobile Web Browser"
+msgstr "เว็บเบราว์เซอร์มือถือ"
+
+#: 
+msgid "Simply visit https://bestdex.com the Best DEX platform through your mobile web browser to start trading cryptocurrencies on the go."
+msgstr "เพียงไปยัง https://bestdex.com แพลตฟอร์ม Best DEX ผ่านเว็บเบราว์เซอร์มือถือของคุณเพื่อเริ่มซื้อขายสกุลเงินดิจิทัลได้ทุกที่"
+
+#: 
+msgid "Best Wallet In-App 'Swap' Feature"
+msgstr "ฟีเจอร์ 'แลกเปลี่ยน' ในแอป Best Wallet ที่ดีที่สุด"
+
+#: 
+msgid "If you already have Best Wallet installed, you can access Best DEX directly through the in-app 'swap' feature. This integration provides you with a seamless and convenient trading experience within a single app."
+msgstr "หากคุณติดตั้ง Best Wallet แล้ว คุณสามารถเข้าถึง Best DEX ได้โดยตรงผ่านคุณสมบัติ 'swap' ในแอป การผสานรวมนี้มอบประสบการณ์การซื้อขายที่ราบรื่นและสะดวกสบายให้กับคุณภายในแอปเดียว"
+
+#: 
+msgid "Best Wallet dApp (Coming Soon)"
+msgstr "Best Wallet dApp (เร็วๆ นี้)"
+
+#: 
+msgid "In the near future, Best DEX will be available as a decentralized application (dApp) within Best Wallet, offering an even more integrated and user-friendly trading experience."
+msgstr "ในอนาคตอันใกล้ Best DEX จะพร้อมใช้งานในรูปแบบแอปพลิเคชันแบบกระจายศูนย์ (dApp) ภายใน Best Wallet ซึ่งจะมอบประสบการณ์การซื้อขายที่ผสานรวมและเป็นมิตรกับผู้ใช้มากยิ่งขึ้น"
+
+#: 
+msgid "What is the BEST token?"
+msgstr "โทเค็น BEST คืออะไร?"
+
+#: 
+msgid "The BEST token is the Best Ecosystem’s utility and governance token. Holding the token provides benefits to Best Wallet users such as advanced market analysis tools, no gas fees on swaps, and early access to new token launches and NFT drops."
+msgstr "โทเค็น BEST คือยูทิลิตี้และโทเค็นการกำกับดูแลของ Best Ecosystem การถือครองโทเค็นให้ประโยชน์แก่ผู้ใช้ Best Wallet เช่น เครื่องมือวิเคราะห์ตลาดขั้นสูง ไม่มีค่าธรรมเนียมการแลกเปลี่ยน และการเข้าถึงการเปิดตัวโทเค็นใหม่ก่อนกำหนดและเข้าถึง NFT ก่อนใคร"
+
+#: 
+msgid "We are launching the BEST token at the end of Phase 6 of our roadmap and will reward our early adopters and power users with 10% of our total supply based on the points they have accumulated from using our app and spreading the word on socials. Learn more here"
+msgstr "เรากำลังเปิดตัวโทเค็น BEST เมื่อสิ้นสุดระยะที่ 6 ของแผนงานของเราและจะให้รางวัลแก่ผู้ใช้รายแรกและผู้ใช้ระดับสูงของเราด้วย 10% ของอุปทานทั้งหมดของเรา โดยพิจารณาจากคะแนนที่พวกเขาสะสมจากการใช้แอพของเราและกระจายข่าวบนโซเชียล เรียนรู้เพิ่มเติมที่นี่"
+
+#: 
+msgid "How can I stay up to date on the latest news about Best DEX and the BEST token airdrop?"
+msgstr "ฉันจะติดตามข่าวสารล่าสุดเกี่ยวกับ Best DEX และ Best token airdrop ได้อย่างไร"
+
+#: 
+msgid "Follow our socials and join our community hubs here"
+msgstr "ติดตามโซเชียลของเราและเข้าร่วมศูนย์กลางชุมชนของเราที่นี่"
+
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "$-"
+msgstr "$-"
+
+#: src/components/earn/PoolCard.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "${0}"
+msgstr "${0}"
+
+#: src/components/swap/TradePrice.tsx
+msgid "(${0})"
+msgstr "(${0})"
+
+#: src/components/CurrencyInputPanel/index.tsx
+msgid "(Max)"
+msgstr "(สูงสุด)"
+
+#: src/components/AddressInputPanel/index.tsx
+msgid "(View on Explorer)"
+msgstr "(ดูบน Explorer)"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "(claim)"
+msgstr "(รับโทเค็น)"
+
+#: src/pages/Vote/Landing.tsx
+msgid "(edit)"
+msgstr "(แก้ไข)"
+
+#: src/pages/Swap/index.tsx
+msgid "- Remove recipient"
+msgstr "- ลบผู้รับ"
+
+#: src/components/earn/PoolCard.tsx
+#: src/components/earn/PoolCard.tsx
+#: src/pages/Earn/Manage.tsx
+#: src/pages/Earn/Manage.tsx
+msgid "0 UNI / week"
+msgstr "0 UNI / สัปดาห์"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "25%"
+msgstr "25%"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "50%"
+msgstr "50%"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "75%"
+msgstr "75%"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "<0/> All Proposals"
+msgstr "<0/> ข้อเสนอทั้งหมด"
+
+#: src/pages/Vote/Landing.tsx
+#: src/pages/Vote/Landing.tsx
+msgid "<0/> Votes"
+msgstr "<0/> โหวต"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "<0>Current Price:</0><1><2/></1><3>{0} per {1}</3>"
+msgstr "<0>ราคาปัจจุบัน:</0><1><2/></1><3>{0} ต่อ {1}</3>"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "<0>Tip:</0> Removing pool tokens converts your position back into underlying tokens at the current rate, proportional to your share of the pool. Accrued fees are included in the amounts you receive."
+msgstr "<0>เคล็ดลับ:</0> การลบโทเค็นของพูลจะแปลงตำแหน่งของคุณกลับเป็นโทเค็นพื้นฐานที่อัตราปัจจุบัน ตามสัดส่วนของส่วนแบ่งของพูล ค่าธรรมเนียมค้างจ่ายรวมอยู่ในจำนวนเงินที่คุณได้รับ"
+
+#: src/pages/CreateProposal/index.tsx
+msgid "<0>Tip:</0> Select an action and describe your proposal for the community. The proposal cannot be modified after submission, so please verify all information before submitting. The voting period will begin immediately and last for 7 days. To propose a custom action, ."
+msgstr "<0>เคล็ดลับ:</0> เลือกการดำเนินการและอธิบายข้อเสนอของคุณสำหรับชุมชน ข้อเสนอไม่สามารถแก้ไขได้หลังจากส่ง ดังนั้นโปรดตรวจสอบข้อมูลทั้งหมดก่อนส่ง ระยะเวลาการโหวตจะเริ่มทันทีและกินเวลา 7 วัน หากต้องการเสนอการดำเนินการที่กำหนดเอง"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "<0>Tip:</0> Use this tool to find pools that don't automatically appear in the interface."
+msgstr "<0>เคล็ดลับ:</0> ใช้เครื่องมือนี้เพื่อค้นหาพูลที่ไม่ปรากฏในอินเทอร์เฟซโดยอัตโนมัติ"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "<0>Tip:</0> When you add liquidity, you will receive pool tokens representing your position. These tokens automatically earn fees proportional to your share of the pool, and can be redeemed at any time."
+msgstr "<0>เคล็ดลับ:</0> เมื่อคุณเพิ่มสภาพคล่อง คุณจะได้รับโทเค็นพูลที่แสดงถึงสถานะของคุณ โทเค็นเหล่านี้จะได้รับค่าธรรมเนียมโดยอัตโนมัติตามสัดส่วนของส่วนแบ่งของพูล และสามารถแลกได้ตลอดเวลา"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "<0>Unlock voting</0> to prepare for the next proposal."
+msgstr "<0>ปลดล็อกการลงคะแนน</0> เพื่อเตรียมพร้อมสำหรับข้อเสนอถัดไป"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "<0>🎉 </0>Welcome to team Unicorn :) <1>🎉</1>"
+msgstr "<0>🎉 </0>ยินดีต้อนรับสู่ทีมยูนิคอร์น :) <1>🎉</1>"
+
+#: src/pages/Vote/Landing.tsx
+msgid "A minimum threshold of 0.25% of the total UNI supply is required to submit proposals"
+msgstr "ต้องมีเกณฑ์ขั้นต่ำ 0.25% ของอุปทาน UNI ทั้งหมดในการส่งข้อเสนอ"
+
+#: src/components/swap/SwapModalHeader.tsx
+msgid "Accept"
+msgstr "ยอมรับ"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Account"
+msgstr "บัญชี"
+
+#: src/components/SearchModal/ImportRow.tsx
+#: src/pages/Vote/styled.tsx
+msgid "Active"
+msgstr "คล่องแคล่ว"
+
+#: src/components/PositionCard/index.tsx
+#: src/pages/AddLiquidity/index.tsx
+msgid "Add"
+msgstr "เพิ่ม"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Add <0/> and <1/> to BestDex V2"
+msgstr "เพิ่ม <0/> และ <1/> ใน BestDex V2"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Add Delegate +"
+msgstr "เพิ่มผู้รับมอบสิทธิ์ +"
+
+#: src/components/NavigationTabs/index.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/Pool/v2.tsx
+msgid "Add Liquidity"
+msgstr "เพิ่มสภาพคล่อง"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Add liquidity."
+msgstr "เพิ่มสภาพคล่อง"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Add more liquidity"
+msgstr "เพิ่มสภาพคล่องมากขึ้น"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Add {0} token to Metamask <0/>"
+msgstr "เพิ่มโทเค็น {0} ไปยัง Metamask <0/>"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Add {0}-{1} liquidity"
+msgstr "เพิ่มสภาพคล่อง {0}-{1}"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Add {0}/{1} V3 liquidity"
+msgstr "เพิ่มสภาพคล่อง {0}/{1} V3"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Added {0} token to Metamask"
+msgstr "เพิ่ม {0} โทเค็นใน Metamask"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "Address has no available claim"
+msgstr "ที่อยู่ไม่สามารถใช้รับโทเค็นได้"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Against"
+msgstr "ขัดต่อ"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Allow LP token migration"
+msgstr "อนุญาตการย้ายโทเค็น LP"
+
+#: src/components/Settings/index.tsx
+msgid "Allow high price impact trades and skip the confirm screen. Use at your own risk."
+msgstr "อนุญาตการซื้อขายที่มีผลกระทบกับราคาสูงและข้ามหน้าจอยืนยัน ใช้ความเสี่ยงของคุณเอง"
+
+#: src/pages/Swap/index.tsx
+msgid "Allow the BestDex Protocol to use your {0}"
+msgstr "อนุญาตให้ BestDex Protocol ใช้ {0} ของคุณ"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Allowed"
+msgstr "อนุญาต"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Allowed Slippage"
+msgstr "อนุญาตการ slippage"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Amount"
+msgstr "จำนวน"
+
+#: src/components/earn/StakingModal.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Approve"
+msgstr "อนุมัติ"
+
+#: src/pages/CreateProposal/ProposalActionSelector.tsx
+msgid "Approve Token"
+msgstr "อนุมัติโทเค็น"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Approve {0}"
+msgstr "อนุมัติ {0}"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Approved"
+msgstr "อนุมัติแล้ว"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Approving"
+msgstr "กำลังอนุมัติ"
+
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Approving {0}"
+msgstr "กำลังอนุมัติ {0}"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Arbiscan"
+msgstr "อาร์บิสกัน"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Arbitrum Bridge"
+msgstr "สะพานอาร์บิทรัม"
+
+#: src/components/DowntimeWarning/index.tsx
+msgid "Arbitrum is in Beta and may experience downtime. During downtime, your position will not earn fees and you will be unable to remove liquidity. <0>Read more.</0>"
+msgstr "Arbitrum อยู่ในรุ่นเบต้าและอาจประสบปัญหาการหยุดทำงาน ในช่วงเวลาหยุดทำงาน ตำแหน่งของคุณจะไม่ได้รับค่าธรรมเนียมและคุณจะไม่สามารถลบสภาพคล่องได้ <0>อ่านเพิ่มเติม</0>"
+
+#: src/components/Settings/index.tsx
+msgid "Are you sure?"
+msgstr "คุณแน่ใจไหม?"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "As a member of the BestDex community you may claim UNI to be used for voting and governance.<0/><1/>"
+msgstr "ในฐานะสมาชิกของชุมชน BestDex คุณสามารถรับโทเค็น UNI ใช้สำหรับการลงคะแนนและการกำกับดูแล<0/><1/>"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "At least {0} {1} and {2} {3} will be refunded to your wallet due to selected price range."
+msgstr "อย่างน้อย {0} {1} และ {2} {3} จะถูกส่งคืนไปยังกระเป๋าเงินของคุณตามช่วงราคาที่เลือก"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Auto"
+msgstr "อัตโนมัติ"
+
+#: src/components/earn/StakingModal.tsx
+msgid "Available to deposit: {0}"
+msgstr "สามารถฝากได้: {0}"
+
+#: src/pages/Earn/Manage.tsx
+msgid "BD LP LP tokens are required. Once you've added liquidity to the {0}-{1} pool you can stake your liquidity tokens on this page."
+msgstr "จำเป็นต้องมีโทเค็น BD LP LP เมื่อคุณเพิ่มสภาพคล่องในกลุ่ม {0}-{1} แล้ว คุณสามารถ stake โทเค็นสภาพคล่องของคุณได้ในหน้านี้"
+
+#: src/pages/Earn/Manage.tsx
+msgid "BD LP {0}-{1}"
+msgstr "BD LP {0}-{1}"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "BD LP {0}/{1} Burned"
+msgstr "BD LP {0}/{1} ถูกเผา"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "Balance:"
+msgstr "สมดุล:"
+
+#: src/components/CurrencyInputPanel/index.tsx
+msgid "Balance: {0} {1}"
+msgstr "ยอดคงเหลือ: {0} {1}"
+
+#: src/components/FeeSelector/shared.tsx
+msgid "Best for exotic pairs."
+msgstr "ดีที่สุดสำหรับคู่ที่แปลกใหม่"
+
+#: src/components/FeeSelector/shared.tsx
+msgid "Best for most pairs."
+msgstr "ดีที่สุดสำหรับคู่ยอดนิยมที่สุด"
+
+#: src/components/FeeSelector/shared.tsx
+msgid "Best for stable pairs."
+msgstr "ดีที่สุดสำหรับคู่ที่มั่นคง"
+
+#: src/components/FeeSelector/shared.tsx
+msgid "Best for very stable pairs."
+msgstr "ดีที่สุดสำหรับคู่ที่เสถียรมาก"
+
+#: src/components/SwitchLocaleLink/index.tsx
+msgid "BestDex available in: <0>{0}</0>"
+msgstr "BestDex มีอยู่ใน: <0>{0}</0>"
+
+#: src/components/vote/ProposalEmptyState.tsx
+msgid "BestDex governance is only available on Layer 1. Switch your network to Ethereum Mainnet to view Proposals and Vote."
+msgstr "การกำกับดูแล BestDex ใช้ได้เฉพาะในเลเยอร์ 1 เปลี่ยนเครือข่ายของคุณเป็น Ethereum Mainnet เพื่อดูข้อเสนอและโหวต"
+
+#: src/pages/Earn/index.tsx
+msgid "BestDex liquidity mining"
+msgstr "การขุดสภาพคล่อง BestDex"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "BestDex migration contract↗"
+msgstr "สัญญาการย้ายข้อมูล BestDex↗"
+
+#: src/components/NetworkAlert/NetworkAlert.tsx
+msgid "BestDex on {0}"
+msgstr "BestDex บน {0}"
+
+#: src/components/Blocklist/index.tsx
+msgid "Blocked address"
+msgstr "ที่อยู่ที่ถูกบล็อก"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Bridge"
+msgstr "สะพาน"
+
+#: src/components/PositionCard/index.tsx
+msgid "By adding liquidity you'll earn 0.3% of all trades on this pair proportional to your share of the pool. Fees are added to the pool, accrue in real time and can be claimed by withdrawing your liquidity."
+msgstr "ด้วยการเพิ่มสภาพคล่อง คุณจะได้รับ 0.3% ของการซื้อขายทั้งหมดในคู่นี้ตามสัดส่วนส่วนแบ่งของพูลของคุณ ค่าธรรมเนียมจะถูกเพิ่มเข้าในพูล เกิดขึ้นตามเวลาจริงและสามารถรับโทเค็นได้โดยการถอนสภาพคล่องของคุณ"
+
+#: src/components/SearchModal/ImportList.tsx
+msgid "By adding this list you are implicitly trusting that the data is correct. Anyone can create a list, including creating fake versions of existing lists and lists that claim to represent projects that do not have one."
+msgstr "การเพิ่มรายการนี้แสดงว่าคุณเชื่อมั่นโดยปริยายว่าข้อมูลถูกต้อง ทุกคนสามารถสร้างรายการได้ รวมถึงการสร้างรายการที่มีอยู่แล้วในเวอร์ชันปลอมและรายการที่อ้างว่าเป็นตัวแทนของโครงการที่ไม่มีรายการดังกล่าว"
+
+#: src/pages/Vote/styled.tsx
+msgid "Canceled"
+msgstr "ยกเลิก"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Change"
+msgstr "เปลี่ยน"
+
+#: src/components/Header/ChainConnectivityWarning.tsx
+msgid "Check network status"
+msgstr "ตรวจสอบสถานะเครือข่าย"
+
+#: src/pages/Pool/CTACards.tsx
+msgid "Check out our v3 LP walkthrough and migration guides."
+msgstr "ตรวจสอบ v3 LP คำแนะนำแบบทีละขั้นตอนและคำแนะนำในการย้ายข้อมูล"
+
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/pages/Earn/Manage.tsx
+msgid "Claim"
+msgstr "รับโทเค็น"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Claim <0/> for {0}"
+msgstr "รับโทเค็น <0/> สำหรับ {0}"
+
+#: src/components/Header/index.tsx
+msgid "Claim BD LP"
+msgstr "รับโทเค็น BD LP"
+
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+msgid "Claim UNI"
+msgstr "รับโทเค็น UNI"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "Claim UNI Token"
+msgstr "รับโทเค็น UNI"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Claim UNI reward for {0}"
+msgstr "รับรางวัล UNI สำหรับ {0}"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Claim fees"
+msgstr "รับค่าธรรมเนียม"
+
+#: src/components/Popups/ClaimPopup.tsx
+msgid "Claim your UNI tokens"
+msgstr "รับโทเค็น UNI ของคุณ"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "Claimed"
+msgstr "ได้รับแล้ว"
+
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/UnstakingModal.tsx
+msgid "Claimed UNI!"
+msgstr "รับโทเค็น UNI!"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "Claimed!"
+msgstr "ได้รับแล้ว!"
+
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+msgid "Claiming"
+msgstr "กำลังรับ"
+
+#: src/components/Header/index.tsx
+msgid "Claiming BD LP"
+msgstr "รับ BD LP"
+
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/UnstakingModal.tsx
+msgid "Claiming {0} UNI"
+msgstr "กำลังรับ {0} UNI"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Clear All"
+msgstr "ลบทั้งหมด"
+
+#: src/components/SearchModal/ManageTokens.tsx
+msgid "Clear all"
+msgstr "ลบทั้งหมด"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Close"
+msgstr "ปิด"
+
+#: src/components/Badge/RangeBadge.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Closed"
+msgstr "ปิด"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collect"
+msgstr "เก็บรวบรวม"
+
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Collect as {0}"
+msgstr "รวมเป็น {0}"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collect fees"
+msgstr "เก็บค่าธรรมเนียม"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Collect {0}/{1} fees"
+msgstr "เก็บค่าธรรมเนียม {0}/{1}"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collected"
+msgstr "รวบรวม"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collecting"
+msgstr "การสะสม"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collecting fees"
+msgstr "เก็บค่าธรรมเนียม"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collecting fees will withdraw currently available fees for you."
+msgstr "การเก็บค่าธรรมเนียมจะถอนค่าธรรมเนียมที่มีอยู่ในปัจจุบันสำหรับคุณ"
+
+#: src/components/SearchModal/CommonBases.tsx
+msgid "Common bases"
+msgstr "ฐานทั่วไป"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Confirm"
+msgstr "ยืนยัน"
+
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+msgid "Confirm Supply"
+msgstr "ยืนยันอุปทาน"
+
+#: src/components/swap/ConfirmSwapModal.tsx
+#: src/components/swap/SwapModalFooter.tsx
+msgid "Confirm Swap"
+msgstr "ยืนยันการแลกเปลี่ยน"
+
+#: src/components/ModalViews/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "Confirm this transaction in your wallet"
+msgstr "ยืนยันธุรกรรมนี้ในกระเป๋าเงินของคุณ"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Confirm transaction in wallet"
+msgstr "ยืนยันการทำธุรกรรมในกระเป๋าเงิน"
+
+#: src/components/Web3Status/index.tsx
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+#: src/pages/Swap/index.tsx
+#: src/state/burn/hooks.tsx
+#: src/state/burn/v3/hooks.tsx
+#: src/state/mint/hooks.tsx
+#: src/state/mint/v3/hooks.tsx
+#: src/state/stake/hooks.tsx
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Connect Wallet"
+msgstr "เชื่อมต่อ Wallet"
+
+#: src/components/WalletModal/index.tsx
+#: src/components/earn/UnstakingModal.tsx
+#: src/pages/Pool/index.tsx
+msgid "Connect a wallet"
+msgstr "เชื่อมต่อกระเป๋าเงิน"
+
+#: src/components/WalletModal/index.tsx
+msgid "Connect to Best Wallet"
+msgstr "เชื่อมต่อกับกระเป๋าเงินที่ดีที่สุด"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Connect to a wallet to find pools"
+msgstr "เชื่อมต่อกับกระเป๋าเงินเพื่อค้นหาพูล"
+
+#: src/pages/MigrateV2/index.tsx
+#: src/pages/Pool/v2.tsx
+msgid "Connect to a wallet to view your liquidity."
+msgstr "เชื่อมต่อกับกระเป๋าเงินเพื่อดูสภาพคล่องของคุณ"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Connected with {name}"
+msgstr "เชื่อมต่อกับ {ชื่อ}"
+
+#: src/components/WalletModal/PendingView.tsx
+msgid "Connection Error"
+msgstr "การเชื่อมต่อล้มเหลว"
+
+#: src/components/AccountDetails/Copy.tsx
+msgid "Copied"
+msgstr "คัดลอก"
+
+#: src/components/AccountDetails/index.tsx
+#: src/components/AccountDetails/index.tsx
+msgid "Copy Address"
+msgstr "คัดลอกที่อยู่"
+
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+msgid "Create Pool & Supply"
+msgstr "สร้างพูลและซัพพลาย"
+
+#: src/pages/CreateProposal/index.tsx
+#: src/pages/Vote/Landing.tsx
+msgid "Create Proposal"
+msgstr "สร้างข้อเสนอ"
+
+#: src/components/NavigationTabs/index.tsx
+#: src/pages/Pool/v2.tsx
+msgid "Create a pair"
+msgstr "สร้างคู่"
+
+#: src/pages/Pool/index.tsx
+msgid "Create a pool"
+msgstr "สร้างพูล"
+
+#: src/components/ErrorBoundary/index.tsx
+msgid "Create an issue on GitHub"
+msgstr "สร้างปัญหาบน GitHub"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Create pool and add {0}/{1} V3 liquidity"
+msgstr "สร้างพูลและเพิ่มสภาพคล่องของ {0}/{1} V3"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Create pool."
+msgstr "สร้างพูล"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Create {0}/{1} V3 pool"
+msgstr "สร้างพูล V3 {0}/{1}"
+
+#: src/components/PositionPreview/index.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "Current price"
+msgstr "ราคาปัจจุบัน"
+
+#: src/pages/Pool/v2.tsx
+msgid "Current version is not available on Layer 2. Switch to Layer 1 Ethereum."
+msgstr "เวอร์ชันปัจจุบันไม่พร้อมใช้งานบนเลเยอร์ 2 เปลี่ยนเป็นเลเยอร์ 1 Ethereum"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Current {0} Price:"
+msgstr "ราคาปัจจุบันของ {0}:"
+
+#: src/pages/Vote/styled.tsx
+msgid "Defeated"
+msgstr "พ่ายแพ้"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Delegate Votes"
+msgstr "ตัวแทนลงคะแนนเสียง"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Delegate voting power to {0}"
+msgstr "มอบอำนาจการลงคะแนนให้ {0}"
+
+#: src/pages/Vote/Landing.tsx
+msgid "Delegated to:"
+msgstr "มอบหมายให้:"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Delegating votes"
+msgstr "การลงคะแนนเสียง"
+
+#: src/components/earn/PoolCard.tsx
+#: src/components/earn/StakingModal.tsx
+#: src/components/earn/StakingModal.tsx
+#: src/pages/Earn/Manage.tsx
+msgid "Deposit"
+msgstr "เงินฝาก"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Deposit Amounts"
+msgstr "จำนวนเงินฝาก"
+
+#: src/components/NetworkAlert/NetworkAlert.tsx
+msgid "Deposit Assets"
+msgstr "ฝากทรัพย์สิน"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Deposit BD LP LP Tokens"
+msgstr "ฝากโทเค็น BD LP LP"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Deposit liquidity"
+msgstr "สภาพคล่องของเงินฝาก"
+
+#: src/pages/Earn/index.tsx
+msgid "Deposit your Liquidity Provider tokens to receive UNI, the BestDex protocol governance token."
+msgstr "ฝากโทเค็นผู้ให้บริการสภาพคล่องของคุณเพื่อรับ UNI ซึ่งเป็นโทเค็นการกำกับดูแลโปรโตคอล BestDex"
+
+#: src/components/earn/UnstakingModal.tsx
+msgid "Deposited liquidity:"
+msgstr "สภาพคล่องเงินฝาก:"
+
+#: src/components/earn/StakingModal.tsx
+msgid "Deposited {0} BD LP"
+msgstr "ฝาก {0} BD LP"
+
+#: src/components/earn/StakingModal.tsx
+msgid "Depositing Liquidity"
+msgstr "สภาพคล่องในการฝาก"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Description"
+msgstr "คำอธิบาย"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Detailed"
+msgstr "รายละเอียด"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Details"
+msgstr "รายละเอียด"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Disconnect"
+msgstr "ตัดการเชื่อมต่อ"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Dismiss"
+msgstr "อนุญาตให้ออกไป"
+
+#: src/pages/MigrateV2/index.tsx
+msgid "Don’t see one of your v2 positions? <0>Import it.</0>"
+msgstr "ไม่เห็นตำแหน่ง v2 ของคุณใช่ไหม <0>นำเข้า</0>"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Earned UNI tokens represent voting shares in BestDex governance."
+msgstr "โทเค็น UNI ที่ได้รับแสดงถึงส่วนแบ่งการลงคะแนนในการกำกับดูแล BestDex"
+
+#: src/components/FeeSelector/index.tsx
+msgid "Edit"
+msgstr "แก้ไข"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Efficiency Comparison"
+msgstr "การเปรียบเทียบประสิทธิภาพ"
+
+#: src/state/burn/v3/hooks.tsx
+msgid "Enter a percent"
+msgstr "ป้อนเปอร์เซ็นต์"
+
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Enter a recipient"
+msgstr "ป้อนผู้รับ"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Enter a valid slippage percentage"
+msgstr "ป้อนเปอร์เซ็นต์การคลาดเคลื่อนที่ถูกต้อง"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "Enter an address to trigger a UNI claim. If the address has any claimable UNI it will be sent to them on submission."
+msgstr "ป้อนที่อยู่เพื่อรับโทเค็น UNI หากที่อยู่มี UNI ใด ๆ ที่สามารถรับโทเค็นได้ ที่อยู่นั้นจะถูกส่งไปให้เมื่อส่ง"
+
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/UnstakingModal.tsx
+#: src/state/burn/hooks.tsx
+#: src/state/mint/hooks.tsx
+#: src/state/mint/v3/hooks.tsx
+#: src/state/stake/hooks.tsx
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Enter an amount"
+msgstr "ป้อนจำนวนเงิน"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Enter valid list location"
+msgstr "ป้อนตำแหน่งรายการที่ถูกต้อง"
+
+#: src/components/SearchModal/ManageTokens.tsx
+msgid "Enter valid token address"
+msgstr "ป้อนที่อยู่โทเค็นที่ถูกต้อง"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/Web3Status/index.tsx
+msgid "Error"
+msgstr "ข้อผิดพลาด"
+
+#: src/components/WalletModal/index.tsx
+msgid "Error connecting"
+msgstr "เกิดข้อผิดพลาดในการเชื่อมต่อ"
+
+#: src/components/WalletModal/index.tsx
+msgid "Error connecting. Try refreshing the page."
+msgstr "เกิดข้อผิดพลาดในการเชื่อมต่อ ลองรีเฟรชหน้า"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Error importing list"
+msgstr "เกิดข้อผิดพลาดในการนำเข้ารายการ"
+
+#: src/pages/Vote/styled.tsx
+msgid "Executed"
+msgstr "ดำเนินการ"
+
+#: src/components/SearchModal/CurrencyList.tsx
+msgid "Expanded results from inactive Token Lists"
+msgstr "ผลลัพธ์ที่ขยายจากรายการโทเค็นที่ไม่ได้ใช้งาน"
+
+#: src/components/Settings/index.tsx
+msgid "Expert Mode"
+msgstr "โหมดผู้เชี่ยวชาญ"
+
+#: src/components/Settings/index.tsx
+msgid "Expert mode turns off the confirm transaction prompt and allows high slippage trades that often result in bad rates and lost funds."
+msgstr "โหมดผู้เชี่ยวชาญจะปิดการแจ้งยืนยันการทำธุรกรรมและอนุญาตให้มีการซื้อขายที่มี Slippage สูงซึ่งมักส่งผลให้มีอัตราที่ไม่ดีและสูญเสียเงิน"
+
+#: src/pages/Vote/styled.tsx
+msgid "Expired"
+msgstr "หมดอายุ"
+
+#: src/pages/Pool/CTACards.tsx
+msgid "Explore popular pools on BestDex Analytics."
+msgstr "สำรวจกลุ่มยอดนิยมบน BestDex Analytics"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Explorer"
+msgstr "สำรวจ"
+
+#: src/components/PositionPreview/index.tsx
+msgid "Fee Tier"
+msgstr "ระดับค่าธรรมเนียม"
+
+#: src/components/FeeSelector/index.tsx
+msgid "Fee tier"
+msgstr "ระดับค่าธรรมเนียม"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "For"
+msgstr "สำหรับ"
+
+#: src/pages/MigrateV2/index.tsx
+msgid "For each pool shown below, click migrate to remove your liquidity from BestDex V2 and deposit it into BestDex V3."
+msgstr "สำหรับแต่ละพูลที่แสดงด้านล่าง คลิกโยกย้ายเพื่อลบสภาพคล่องของคุณออกจาก BestDex V2 และฝากลงใน BestDex V3"
+
+#: src/components/swap/SwapModalHeader.tsx
+#: src/pages/Swap/index.tsx
+msgid "From"
+msgstr "จาก"
+
+#: src/pages/Swap/index.tsx
+msgid "From (at most)"
+msgstr "จาก (มากที่สุด)"
+
+#: src/components/RangeSelector/PresetsButtons.tsx
+msgid "Full Range"
+msgstr "เต็มช่วง"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Full range positions may earn less fees than concentrated positions. Learn more <0>here</0>."
+msgstr "ตำแหน่งเต็มอาจได้รับค่าธรรมเนียมน้อยกว่าตำแหน่งที่มีความเข้มข้น เรียนรู้เพิ่มเติม <0>ที่นี่</0>"
+
+#: src/components/ErrorBoundary/index.tsx
+msgid "Get support on Discord"
+msgstr "รับการสนับสนุนบน Discord"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Help Center"
+msgstr "ศูนย์ช่วยเหลือ"
+
+#: src/components/FeeSelector/index.tsx
+msgid "Hide"
+msgstr "ซ่อน"
+
+#: src/pages/Swap/index.tsx
+msgid "High Price Impact"
+msgstr "ผลกระทบด้านราคาสูง"
+
+#: src/components/SearchModal/ImportList.tsx
+#: src/pages/AddLiquidity/index.tsx
+msgid "I understand"
+msgstr "ฉันเข้าใจ"
+
+#: src/components/SearchModal/ImportList.tsx
+msgid "If you purchase a token from this list, you may not be able to sell it back."
+msgstr "หากคุณซื้อโทเค็นจากรายการนี้ คุณอาจขายคืนไม่ได้"
+
+#: src/components/SearchModal/BlockedToken.tsx
+#: src/components/SearchModal/ImportList.tsx
+#: src/components/SearchModal/ImportRow.tsx
+#: src/components/SearchModal/ImportToken.tsx
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Import"
+msgstr "นำเข้า"
+
+#: src/components/SearchModal/ImportList.tsx
+msgid "Import List"
+msgstr "รายการนำเข้า"
+
+#: src/components/NavigationTabs/index.tsx
+#: src/pages/Pool/v2.tsx
+msgid "Import Pool"
+msgstr "พูลนำเข้า"
+
+#: src/components/SearchModal/ImportList.tsx
+msgid "Import at your own risk"
+msgstr "นำเข้าด้วยความเสี่ยงของคุณเอง"
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "In range"
+msgstr "อยู่ในช่วง"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Increase Liquidity"
+msgstr "เพิ่มสภาพคล่อง"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Initial prices and pool share"
+msgstr "ราคาเริ่มต้นและส่วนแบ่งพูล"
+
+#: src/components/WalletModal/PendingView.tsx
+msgid "Initializing..."
+msgstr "กำลังเริ่มต้น..."
+
+#: src/components/swap/SwapModalHeader.tsx
+msgid "Input is estimated. You will sell at most <0>{0} {1}</0> or the transaction will revert."
+msgstr "อินพุตเป็นค่าประมาณ คุณจะขายสูงสุด <0>{0} {1}</0> มิฉะนั้นธุรกรรมจะยกเลิก"
+
+#: src/components/WalletModal/index.tsx
+msgid "Install Metamask"
+msgstr "ติดตั้ง Metamask"
+
+#: src/pages/Swap/index.tsx
+msgid "Insufficient liquidity for this trade."
+msgstr "สภาพคล่องไม่เพียงพอสำหรับการซื้อขายนี้"
+
+#: src/state/mint/hooks.tsx
+#: src/state/mint/hooks.tsx
+#: src/state/mint/v3/hooks.tsx
+#: src/state/mint/v3/hooks.tsx
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Insufficient {0} balance"
+msgstr "ยอดเงิน {0} ไม่เพียงพอ"
+
+#: src/components/Settings/index.tsx
+msgid "Interface Settings"
+msgstr "การตั้งค่าอินเทอร์เฟซ"
+
+#: src/state/mint/hooks.tsx
+#: src/state/mint/v3/hooks.tsx
+msgid "Invalid pair"
+msgstr "คู่ไม่ถูกต้อง"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Invalid pair."
+msgstr "คู่ไม่ถูกต้อง"
+
+#: src/state/mint/v3/hooks.tsx
+msgid "Invalid price input"
+msgstr "การป้อนราคาไม่ถูกต้อง"
+
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Invalid range selected. The min price must be lower than the max price."
+msgstr "เลือกช่วงไม่ถูกต้อง ราคาต่ำสุดต้องต่ำกว่าราคาสูงสุด"
+
+#: src/hooks/useSwapCallback.tsx
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Invalid recipient"
+msgstr "ผู้รับไม่ถูกต้อง"
+
+#: src/components/Header/index.tsx
+msgid "Join the Best Wallet Waitlist to participate in the BEST Airdrop"
+msgstr "เข้าร่วมรายการรอ Best Wallet เพื่อเข้าร่วมการแจก BEST Airdrop"
+
+#: src/components/Menu/index.tsx
+msgid "Language"
+msgstr "ภาษา"
+
+#: src/components/NetworkAlert/NetworkAlert.tsx
+msgid "Learn More"
+msgstr "เรียนรู้เพิ่มเติม"
+
+#: src/pages/Pool/CTACards.tsx
+msgid "Learn about providing liquidity"
+msgstr "เรียนรู้เกี่ยวกับการจัดหาสภาพคล่อง"
+
+#: src/components/PrivacyPolicy/index.tsx
+#: src/components/PrivacyPolicy/index.tsx
+#: src/components/WalletModal/index.tsx
+msgid "Learn more"
+msgstr "เรียนรู้เพิ่มเติม"
+
+#: src/components/PrivacyPolicy/index.tsx
+#: src/components/WalletModal/index.tsx
+msgid "Legal & Privacy"
+msgstr "กฎหมายและความเป็นส่วนตัว"
+
+#: src/components/claim/ClaimModal.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "Liquidity"
+msgstr "สภาพคล่อง"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Liquidity Provider Fee"
+msgstr "ค่าธรรมเนียมผู้ให้บริการสภาพคล่อง"
+
+#: src/pages/Pool/v2.tsx
+msgid "Liquidity provider rewards"
+msgstr "รางวัลผู้ให้บริการสภาพคล่อง"
+
+#: src/pages/Pool/v2.tsx
+msgid "Liquidity providers earn a 0.3% fee on all trades proportional to their share of the pool. Fees are added to the pool, accrue in real time and can be claimed by withdrawing your liquidity."
+msgstr "ผู้ให้บริการด้านสภาพคล่องจะได้รับค่าธรรมเนียม 0.3% สำหรับการซื้อขายทั้งหมดตามสัดส่วนของส่วนแบ่งของพูล ค่าธรรมเนียมจะถูกเพิ่มเข้าในพูล เกิดขึ้นตามเวลาจริงและสามารถรับโทเค็นได้โดยการถอนสภาพคล่องของคุณ"
+
+#: src/components/SearchModal/Manage.tsx
+msgid "Lists"
+msgstr "รายการต่างๆ"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Loaded"
+msgstr "โหลดแล้ว"
+
+#: src/components/PositionCard/Sushi.tsx
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/MigrateV2/index.tsx
+#: src/pages/Pool/v2.tsx
+#: src/pages/PoolFinder/index.tsx
+#: src/pages/Swap/index.tsx
+msgid "Loading"
+msgstr "กำลังโหลด"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/V2.tsx
+#: src/components/SearchModal/Manage.tsx
+#: src/components/earn/PoolCard.tsx
+msgid "Manage"
+msgstr "จัดการ"
+
+#: src/components/PositionCard/index.tsx
+msgid "Manage Liquidity in Rewards Pool"
+msgstr "จัดการสภาพคล่องใน Rewards Pool"
+
+#: src/components/SearchModal/CurrencySearch.tsx
+msgid "Manage Token Lists"
+msgstr "จัดการรายการโทเค็น"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Manage this pool."
+msgstr "จัดการพูลนี้"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Max"
+msgstr "สูงสุด"
+
+#: src/components/PositionPreview/index.tsx
+#: src/components/RangeSelector/index.tsx
+msgid "Max Price"
+msgstr "ราคาสูงสุด"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Max price"
+msgstr "ราคาสูงสุด"
+
+#: src/components/PositionListItem/index.tsx
+msgid "Max:"
+msgstr "สูงสุด:"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Maximum sent"
+msgstr "ส่งสูงสุด"
+
+#: src/components/Menu/index.tsx
+msgid "Menu"
+msgstr "เมนู"
+
+#: src/components/PositionCard/Sushi.tsx
+#: src/components/PositionCard/V2.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/Pool/index.tsx
+msgid "Migrate"
+msgstr "โยกย้าย"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/MigrateV2/index.tsx
+#: src/pages/Pool/index.tsx
+msgid "Migrate Liquidity"
+msgstr "โยกย้ายสภาพคล่อง"
+
+#: src/pages/MigrateV2/index.tsx
+msgid "Migrate your liquidity tokens from BestDex V2 to BestDex V3."
+msgstr "โอนย้ายโทเค็นสภาพคล่องของคุณจาก BestDex V2 ไปยัง BestDex V3"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Migrate {0}/{1} liquidity to V3"
+msgstr "โอนย้ายสภาพคล่อง {0}/{1} ไปยัง V3"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Migrating"
+msgstr "กำลังย้ายข้อมูล"
+
+#: src/components/PositionPreview/index.tsx
+#: src/components/RangeSelector/index.tsx
+msgid "Min Price"
+msgstr "ราคาขั้นต่ำ"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Min price"
+msgstr "ราคาขั้นต่ำ"
+
+#: src/components/PositionListItem/index.tsx
+msgid "Min:"
+msgstr "นาที:"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Minimum received"
+msgstr "รับขั้นต่ำ"
+
+#: src/hooks/useSwapCallback.tsx
+msgid "Missing dependencies"
+msgstr "ขาดการพึ่งพา"
+
+#: src/pages/Pool/index.tsx
+msgid "More"
+msgstr "มากกว่า"
+
+#: src/components/Header/ChainConnectivityWarning.tsx
+msgid "Network Warning"
+msgstr "คำเตือนเครือข่าย"
+
+#: src/pages/Pool/index.tsx
+msgid "New Position"
+msgstr "ตำแหน่งใหม่"
+
+#: src/pages/MigrateV2/index.tsx
+msgid "No V2 Liquidity found."
+msgstr "ไม่พบสภาพคล่อง V2"
+
+#: src/pages/Earn/index.tsx
+#: src/pages/Earn/index.tsx
+msgid "No active pools"
+msgstr "ไม่มีพูลที่ใช้งานอยู่"
+
+#: src/components/FeeSelector/FeeTierPercentageBadge.tsx
+msgid "No data"
+msgstr "ไม่มีข้อมูล"
+
+#: src/state/governance/hooks.ts
+msgid "No description."
+msgstr "ไม่มีคำอธิบาย"
+
+#: src/pages/Pool/v2.tsx
+msgid "No liquidity found."
+msgstr "ไม่พบสภาพคล่อง"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "No pool found."
+msgstr "ไม่พบพูล"
+
+#: src/components/vote/ProposalEmptyState.tsx
+msgid "No proposals found."
+msgstr "ไม่พบข้อเสนอ"
+
+#: src/pages/Home/index.tsx
+msgid "No registration needed. Over 400 tokens to trade at your fingertips."
+msgstr "ไม่จำเป็นต้องลงทะเบียน กว่า 400 โทเค็นเปิดให้เทรดเพียงปลายนิ้ว"
+
+#: src/components/SearchModal/CurrencySearch.tsx
+msgid "No results found."
+msgstr "ไม่พบผลลัพธ์"
+
+#: src/components/FeeSelector/FeeTierPercentageBadge.tsx
+msgid "Not created"
+msgstr "ไม่ได้สร้างขึ้น"
+
+#: src/components/Toggle/ListToggle.tsx
+msgid "OFF"
+msgstr "ปิด"
+
+#: src/components/Toggle/ListToggle.tsx
+msgid "ON"
+msgstr "บน"
+
+#: src/components/Settings/index.tsx
+msgid "ONLY USE THIS MODE IF YOU KNOW WHAT YOU ARE DOING!"
+msgstr "ใช้โหมดนี้เฉพาะเมื่อคุณรู้ว่าคุณกำลังทำอะไรอยู่!"
+
+#: src/components/Toggle/index.tsx
+msgid "Off"
+msgstr "ปิด"
+
+#: src/components/Toggle/index.tsx
+msgid "On"
+msgstr "บน"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Once you are happy with the rate click supply to review."
+msgstr "เมื่อคุณพอใจกับอัตราการคลิกเพื่อตรวจทาน"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Only UNI votes that were self delegated or delegated to another address before block {0} are eligible for voting."
+msgstr "เฉพาะการโหวตของ UNI ที่มอบสิทธิ์ด้วยตนเองหรือมอบสิทธิ์ไปยังที่อยู่อื่นก่อนบล็อก {0} เท่านั้นที่มีสิทธิ์ลงคะแนน"
+
+#: src/components/Web3ReactManager/index.tsx
+msgid "Oops! An unknown error occurred. Please refresh the page, or visit from another browser or device."
+msgstr "อ๊ะ! เกิดข้อผิดพลาดที่ไม่รู้จัก โปรดรีเฟรชหน้านี้ หรือเข้าชมจากเบราว์เซอร์หรืออุปกรณ์อื่น"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Optimism Gateway"
+msgstr "เกตเวย์การมองโลกในแง่ดี"
+
+#: src/components/DowntimeWarning/index.tsx
+msgid "Optimistic Ethereum is in Beta and may experience downtime. Optimism expects planned downtime to upgrade the network in the near future. During downtime, your position will not earn fees and you will be unable to remove liquidity. <0>Read more.</0>"
+msgstr "Ethereum ในแง่ดีอยู่ในรุ่นเบต้าและอาจประสบปัญหาการหยุดทำงาน การมองโลกในแง่ดีคาดว่าการหยุดทำงานตามแผนจะอัปเกรดเครือข่ายในอนาคตอันใกล้ ในช่วงเวลาหยุดทำงาน ตำแหน่งของคุณจะไม่ได้รับค่าธรรมเนียมและคุณจะไม่สามารถลบสภาพคล่องได้ <0>อ่านเพิ่มเติม</0>"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Optimistic Etherscan"
+msgstr "Etherscan มองโลกในแง่ดี"
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "Out of range"
+msgstr "ไม่อยู่ในขอบเขต"
+
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Output is estimated. If the price changes by more than {0}% your transaction will revert."
+msgstr "ผลผลิตโดยประมาณ หากราคาเปลี่ยนแปลงมากกว่า {0}% ธุรกรรมของคุณจะคืนค่า"
+
+#: src/components/swap/SwapModalHeader.tsx
+msgid "Output is estimated. You will receive at least <0>{0} {1}</0> or the transaction will revert."
+msgstr "ผลผลิตโดยประมาณ คุณจะได้รับอย่างน้อย <0>{0} {1}</0> มิฉะนั้นธุรกรรมจะถูกยกเลิก"
+
+#: src/components/swap/SwapModalHeader.tsx
+msgid "Output will be sent to <0>{0}</0>"
+msgstr "ผลลัพธ์จะถูกส่งไปที่ <0>{0}</0>"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Owner"
+msgstr "เจ้าของ"
+
+#: src/pages/Earn/index.tsx
+msgid "Participating pools"
+msgstr "พูลที่เข้าร่วม"
+
+#: src/pages/Vote/styled.tsx
+msgid "Pending"
+msgstr "รอดำเนินการ"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Please confirm you would like to remove this list by typing REMOVE"
+msgstr "โปรดยืนยันว่าคุณต้องการลบรายการนี้โดยพิมพ์ REMOVE"
+
+#: src/components/vote/ProposalEmptyState.tsx
+msgid "Please connect to Layer 1 Ethereum"
+msgstr "โปรดเชื่อมต่อกับ Layer 1 Ethereum"
+
+#: src/components/WalletModal/index.tsx
+msgid "Please connect to the appropriate Ethereum network."
+msgstr "โปรดเชื่อมต่อกับเครือข่าย Ethereum ที่เหมาะสม"
+
+#: src/components/Settings/index.tsx
+msgid "Please type the word \"{confirmWord}\" to enable expert mode."
+msgstr "โปรดพิมพ์คำว่า \"{confirmWord}\" เพื่อเปิดใช้งานโหมดผู้เชี่ยวชาญ"
+
+#: src/components/Header/index.tsx
+#: src/components/NavigationTabs/index.tsx
+msgid "Pool"
+msgstr "พูล"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Pool Found!"
+msgstr "พบพูล!"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Pool Rate"
+msgstr "อัตราค่าพูล"
+
+#: src/components/earn/PoolCard.tsx
+msgid "Pool rate"
+msgstr "อัตราค่าพูล"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+msgid "Pool tokens in rewards pool:"
+msgstr "โทเค็นพูลในกลุ่มรางวัล:"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+#: src/components/PositionCard/index.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Pooled {0}:"
+msgstr "รวม {0}:"
+
+#: src/pages/Pool/index.tsx
+msgid "Pools Overview"
+msgstr "ภาพของพูล"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Preview"
+msgstr "ดูตัวอย่าง"
+
+#: src/components/swap/SwapModalHeader.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Price"
+msgstr "ราคา"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Price Difference:"
+msgstr "ความแตกต่างของราคา:"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Price Impact"
+msgstr "ผลกระทบด้านราคา"
+
+#: src/pages/Swap/index.tsx
+msgid "Price Impact Too High"
+msgstr "ผลกระทบด้านราคาสูงเกินไป"
+
+#: src/components/swap/SwapModalHeader.tsx
+msgid "Price Updated"
+msgstr "ราคาอัพเดท"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Price range"
+msgstr "ช่วงราคา"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Price:"
+msgstr "ราคา:"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Prices and pool share"
+msgstr "ราคาและส่วนแบ่งพูล"
+
+#: src/pages/CreateProposal/ProposalEditor.tsx
+msgid "Proposal"
+msgstr "ข้อเสนอ"
+
+#: src/pages/CreateProposal/ProposalSubmissionModal.tsx
+msgid "Proposal Submitted"
+msgstr "ส่งข้อเสนอแล้ว"
+
+#: src/pages/CreateProposal/ProposalEditor.tsx
+msgid "Proposal Title"
+msgstr "ชื่อเรื่อง"
+
+#: src/pages/Vote/Landing.tsx
+msgid "Proposals"
+msgstr "ข้อเสนอ"
+
+#: src/components/vote/ProposalEmptyState.tsx
+msgid "Proposals submitted by community members will appear here."
+msgstr "ข้อเสนอที่ส่งโดยสมาชิกชุมชนจะปรากฏที่นี่"
+
+#: src/pages/CreateProposal/ProposalActionSelector.tsx
+msgid "Proposed Action"
+msgstr "การดำเนินการที่เสนอ"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Proposer"
+msgstr "ผู้เสนอ"
+
+#: src/pages/Vote/styled.tsx
+msgid "Queued"
+msgstr "เข้าคิว"
+
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+msgid "Rates"
+msgstr "ราคา"
+
+#: src/components/swap/UnsupportedCurrencyFooter.tsx
+msgid "Read more about unsupported assets"
+msgstr "อ่านเพิ่มเติมเกี่ยวกับเนื้อหาที่ไม่รองรับ"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Recent Transactions"
+msgstr "การทำธุรกรรมล่าสุด"
+
+#: src/components/AddressInputPanel/index.tsx
+msgid "Recipient"
+msgstr "ผู้รับ"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Remove"
+msgstr "ลบ"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Remove <0/> and <1/>"
+msgstr "ลบ <0/> และ <1/>"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Remove Amount"
+msgstr "ลบจำนวนเงิน"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Remove Delegate"
+msgstr "ลบผู้รับมอบสิทธิ์"
+
+#: src/components/NavigationTabs/index.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Remove Liquidity"
+msgstr "ลบสภาพคล่อง"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Remove list"
+msgstr "ลบรายการ"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Removing {0} {1} and {2} {3}"
+msgstr "การลบ {0} {1} และ {2} {3}"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Removing {0} {1} and{2} {3}"
+msgstr "การลบ {0} {1} และ{2} {3}"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/pages/CreateProposal/ProposalSubmissionModal.tsx
+msgid "Return"
+msgstr "กลับ"
+
+#: src/components/SearchModal/CurrencySearch.tsx
+msgid "Search name or paste address"
+msgstr "ค้นหาชื่อหรือวางที่อยู่"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Select Pair"
+msgstr "เลือกคู่"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Select a network"
+msgstr "เลือกเครือข่าย"
+
+#: src/components/CurrencyInputPanel/index.tsx
+#: src/components/SearchModal/CurrencySearch.tsx
+#: src/pages/PoolFinder/index.tsx
+#: src/pages/PoolFinder/index.tsx
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Select a token"
+msgstr "เลือกโทเค็น"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Select a token to find your liquidity."
+msgstr "เลือกโทเค็นเพื่อค้นหาสภาพคล่องของคุณ"
+
+#: src/pages/CreateProposal/ProposalActionSelector.tsx
+msgid "Select an action"
+msgstr "เลือกการดำเนินการ"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Selected Range"
+msgstr "ช่วงที่เลือก"
+
+#: src/pages/Vote/Landing.tsx
+msgid "Self"
+msgstr "ตัวเอง"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Self Delegate"
+msgstr "ผู้แทนตนเอง"
+
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Set Price Range"
+msgstr "กำหนดช่วงราคา"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Set Starting Price"
+msgstr "กำหนดราคาเริ่มต้น"
+
+#: src/pages/AddLiquidityV2/PoolPriceBar.tsx
+msgid "Share of Pool"
+msgstr "ส่วนแบ่งของพูล"
+
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+msgid "Share of Pool:"
+msgstr "ส่วนแบ่งของพูล:"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Show Portis"
+msgstr "โชว์พอร์ท"
+
+#: src/pages/Pool/index.tsx
+msgid "Show closed positions"
+msgstr "แสดงสถานะปิด"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Simple"
+msgstr "เรียบง่าย"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Slippage tolerance"
+msgstr "ความทนทานต่อการลื่นไถล"
+
+#: src/components/swap/UnsupportedCurrencyFooter.tsx
+msgid "Some assets are not available through this interface because they may not work well with the smart contracts or we are unable to allow trading for legal reasons."
+msgstr "สินทรัพย์บางอย่างไม่สามารถใช้งานได้ผ่านอินเทอร์เฟซนี้ เนื่องจากอาจทำงานได้ไม่ดีกับสัญญาอัจฉริยะ หรือเราไม่สามารถอนุญาตการซื้อขายได้ด้วยเหตุผลทางกฎหมาย"
+
+#: src/components/ErrorBoundary/index.tsx
+msgid "Something went wrong"
+msgstr "บางอย่างผิดพลาด"
+
+#: src/components/PositionList/index.tsx
+msgid "Status"
+msgstr "สถานะ"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Step 1. Get BD LP Liquidity tokens"
+msgstr "ขั้นตอนที่ 1 รับโทเค็นสภาพคล่อง BD LP"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Submit new proposal"
+msgstr "ส่งข้อเสนอใหม่"
+
+#: src/pages/CreateProposal/ProposalSubmissionModal.tsx
+msgid "Submitting Proposal"
+msgstr "การส่งข้อเสนอ"
+
+#: src/components/vote/VoteModal.tsx
+msgid "Submitting Vote"
+msgstr "กำลังส่งคะแนนเสียง"
+
+#: src/pages/Vote/styled.tsx
+msgid "Succeeded"
+msgstr "ที่ประสบความสำเร็จ"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Success"
+msgstr "ความสำเร็จ"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Supply"
+msgstr "อุปทาน"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Supplying {0} {1} and {2} {3}"
+msgstr "อุปทาน {0} {1} และ {2} {3}"
+
+#: src/components/Header/index.tsx
+#: src/components/NavigationTabs/index.tsx
+#: src/components/swap/SwapHeader.tsx
+#: src/pages/Swap/index.tsx
+#: src/pages/Swap/index.tsx
+msgid "Swap"
+msgstr "แลกเปลี่ยน"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Swap <0/> for exactly <1/>"
+msgstr "เปลี่ยน <0/> เป็น <1/>"
+
+#: src/pages/Swap/index.tsx
+#: src/pages/Swap/index.tsx
+msgid "Swap Anyway"
+msgstr "เปลี่ยนยังไงก็ได้"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Swap exactly <0/> for <1/>"
+msgstr "เปลี่ยน <0/> เป็น <1/>"
+
+#: src/hooks/useSwapCallback.tsx
+#: src/hooks/useSwapCallback.tsx
+msgid "Swap failed: {0}"
+msgstr "การสลับล้มเหลว: {0}"
+
+#: src/components/swap/ConfirmSwapModal.tsx
+msgid "Swapping {0} {1} for {2} {3}"
+msgstr "การแลกเปลี่ยน {0} {1} สำหรับ {2} {3}"
+
+#: src/components/Popups/ClaimPopup.tsx
+msgid "Thanks for being part of the BestDex community <0/>"
+msgstr "ขอขอบคุณที่เป็นส่วนหนึ่งของชุมชน BestDex <0/>"
+
+#: src/components/FeeSelector/index.tsx
+msgid "The % you will earn in fees."
+msgstr "% ที่คุณจะได้รับเป็นค่าธรรมเนียม"
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app fetches blockchain data from The Graph’s hosted service."
+msgstr "แอปดึงข้อมูลบล็อกเชนจากบริการโฮสต์ของ The Graph"
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app fetches on-chain data and constructs contract calls with an Infura API."
+msgstr "แอปดึงข้อมูลบนเครือข่ายและสร้างการเรียกสัญญาด้วย Infura API"
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app fetches the optimal trade route from a BestDex Labs server."
+msgstr "แอปดึงแนวการเทรดที่ดีที่สุดจากเซิร์ฟเวอร์ BestDex Labs"
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app logs anonymized usage statistics in order to improve over time."
+msgstr "แอปจะบันทึกสถิติการใช้งานที่ไม่ระบุตัวตนเพื่อปรับปรุงเมื่อเวลาผ่านไป"
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app securely collects your wallet address and shares it with TRM Labs Inc. for risk and compliance reasons."
+msgstr "แอปรวบรวมที่อยู่กระเป๋าเงินของคุณอย่างปลอดภัยและแชร์กับ TRM Labs Inc. เพื่อเหตุผลด้านความเสี่ยงและการปฏิบัติตามข้อกำหนด"
+
+#: src/components/CurrencyInputPanel/index.tsx
+msgid "The market price is outside your specified price range. Single-asset deposit only."
+msgstr "ราคาตลาดอยู่นอกช่วงราคาที่คุณกำหนด เงินฝากสินทรัพย์เดียวเท่านั้น"
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "The price of this pool is outside of your selected range. Your position is not currently earning fees."
+msgstr "ราคาของพูลนี้อยู่นอกช่วงที่คุณเลือก ตำแหน่งของคุณยังไม่ได้รับค่าธรรมเนียม"
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "The price of this pool is within your selected range. Your position is currently earning fees."
+msgstr "ราคาของพูลนี้อยู่ในช่วงที่คุณเลือก ตำแหน่งของคุณกำลังได้รับค่าธรรมเนียม"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "The ratio of tokens you add will set the price of this pool."
+msgstr "อัตราส่วนของโทเค็นที่คุณเพิ่มจะเป็นตัวกำหนดราคาของพูลนี้"
+
+#: src/components/LiquidityChartRangeInput/index.tsx
+msgid "There is no liquidity data."
+msgstr "ไม่มีข้อมูลสภาพคล่อง"
+
+#: src/components/SearchModal/CommonBases.tsx
+msgid "These tokens are commonly paired with other tokens."
+msgstr "โทเค็นเหล่านี้มักจะจับคู่กับโทเค็นอื่นๆ"
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "This app uses the following third-party APIs:"
+msgstr "แอพนี้ใช้ API ของบุคคลที่สามต่อไปนี้:"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "This pool must be initialized before you can add liquidity. To initialize, select a starting price for the pool. Then, enter your liquidity price range and deposit amount. Gas fees will be higher than usual due to the initialization transaction."
+msgstr "ต้องเตรียมใช้งานพูลนี้ก่อนจึงจะสามารถเพิ่มสภาพคล่องได้ ในการเริ่มต้น ให้เลือกราคาเริ่มต้นสำหรับพูล จากนั้นป้อนช่วงราคาสภาพคล่องและจำนวนเงินฝากของคุณ ค่าธรรมเนียมก๊าซจะสูงกว่าปกติเนื่องจากการทำธุรกรรมเริ่มต้น"
+
+#: src/components/swap/SwapRoute.tsx
+msgid "This route optimizes your price by considering split routes, multiple hops, and gas costs."
+msgstr "เส้นทางนี้ปรับราคาของคุณให้เหมาะสมโดยพิจารณาจากเส้นทางแยก การกระโดดหลายครั้ง และค่าธรรมเนียมก๊าซ"
+
+#: src/components/SearchModal/ImportToken.tsx
+msgid "This token doesn't appear on the active token list(s). Make sure this is the token that you want to trade."
+msgstr "โทเค็นนี้ไม่ปรากฏในรายการโทเค็นที่ใช้งานอยู่ ตรวจสอบให้แน่ใจว่านี่คือโทเค็นที่คุณต้องการแลกเปลี่ยน"
+
+#: src/components/SearchModal/BlockedToken.tsx
+msgid "This token is not supported in the BestDex Labs app"
+msgstr "โทเค็นนี้ไม่ได้รับการสนับสนุนในแอป BestDex Labs"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "This tool will safely migrate your {0} liquidity to V3. The process is completely trustless thanks to the"
+msgstr "เครื่องมือนี้จะย้ายสภาพคล่อง {0} ของคุณไปยัง V3 อย่างปลอดภัย กระบวนการนี้ไร้ความน่าเชื่อถือโดยสิ้นเชิง ต้องขอบคุณ"
+
+#: src/components/SearchModal/ManageTokens.tsx
+msgid "Tip: Custom tokens are stored locally in your browser"
+msgstr "เคล็ดลับ: โทเค็นที่กำหนดเองจะถูกจัดเก็บไว้ในเบราว์เซอร์ของคุณ"
+
+#: src/components/swap/SwapModalHeader.tsx
+#: src/pages/CreateProposal/ProposalActionDetail.tsx
+#: src/pages/CreateProposal/ProposalActionDetail.tsx
+#: src/pages/Swap/index.tsx
+msgid "To"
+msgstr "ถึง"
+
+#: src/pages/Swap/index.tsx
+msgid "To (at least)"
+msgstr "ถึง (อย่างน้อย)"
+
+#: src/components/NetworkAlert/NetworkAlert.tsx
+msgid "To start trading on {0}, first bridge your assets from L1 to L2. Please treat this as a beta release and learn about the risks before using {1}."
+msgstr "ในการเริ่มต้นการซื้อขายใน {0} ขั้นแรกให้เชื่อมโยงสินทรัพย์ของคุณจาก L1 ไปยัง L2 โปรดถือว่านี่เป็นรุ่นเบต้าและเรียนรู้เกี่ยวกับความเสี่ยงก่อนใช้ {1}"
+
+#: src/components/SearchModal/BlockedToken.tsx
+msgid "Token not supported"
+msgstr "ไม่รองรับโทเค็น"
+
+#: src/components/SearchModal/Manage.tsx
+msgid "Tokens"
+msgstr "โทเค็น"
+
+#: src/components/SearchModal/CurrencyList.tsx
+msgid "Tokens from inactive lists. Import specific tokens below or click Manage to activate more lists."
+msgstr "โทเค็นจากรายการที่ไม่ใช้งาน นำเข้าโทเค็นเฉพาะด้านล่างหรือคลิกจัดการเพื่อเปิดใช้งานรายการเพิ่มเติม"
+
+#: src/pages/Pool/CTACards.tsx
+msgid "Top pools"
+msgstr "พูลยอดนิยม"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "Total Supply"
+msgstr "อุปทานทั้งหมด"
+
+#: src/components/earn/PoolCard.tsx
+msgid "Total deposited"
+msgstr "รวมฝาก"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Total deposits"
+msgstr "เงินฝากทั้งหมด"
+
+#: src/components/swap/RouterLabel.tsx
+msgid "Trade Route"
+msgstr "เส้นทางการเทรด"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Transaction Details"
+msgstr "รายละเอียดการทำธุรกรรม"
+
+#: src/components/Settings/index.tsx
+#: src/components/Settings/index.tsx
+msgid "Transaction Settings"
+msgstr "การตั้งค่าการทำธุรกรรม"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/StakingModal.tsx
+#: src/components/earn/UnstakingModal.tsx
+#: src/components/vote/DelegateModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "Transaction Submitted"
+msgstr "ส่งธุรกรรมแล้ว"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Transaction completed in"
+msgstr "ทำธุรกรรมเสร็จสิ้นใน"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Transaction deadline"
+msgstr "กำหนดเวลาการทำธุรกรรม"
+
+#: src/hooks/useSwapCallback.tsx
+#: src/hooks/useSwapCallback.tsx
+msgid "Transaction rejected."
+msgstr "ธุรกรรมถูกปฏิเสธ"
+
+#: src/pages/CreateProposal/ProposalActionSelector.tsx
+msgid "Transfer Token"
+msgstr "โอนโทเค็น"
+
+#: src/components/WalletModal/PendingView.tsx
+msgid "Try Again"
+msgstr "ลองอีกครั้ง"
+
+#: src/components/Settings/index.tsx
+msgid "Turn On Expert Mode"
+msgstr "เปิดโหมดผู้เชี่ยวชาญ"
+
+#: src/components/Popups/ClaimPopup.tsx
+msgid "UNI has arrived"
+msgstr "UNI มาแล้ว"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "UNI in circulation:"
+msgstr "UNI ในการหมุนเวียน:"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "UNI price:"
+msgstr "ราคา UNI:"
+
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/UnstakingModal.tsx
+msgid "Unclaimed UNI"
+msgstr "UNI ที่ไม่มีการอ้างสิทธิ์"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Unclaimed fees"
+msgstr "ค่าธรรมเนียมที่ไม่มีการเคลม"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "Unclaimed:"
+msgstr "ไม่มีการเคลม:"
+
+#: src/pages/Vote/styled.tsx
+msgid "Undetermined"
+msgstr "ไม่แน่ชัด"
+
+#: src/hooks/useSwapCallback.tsx
+msgid "Unexpected error. Could not estimate gas for the swap."
+msgstr "ข้อผิดพลาดที่ไม่คาดคิด ไม่สามารถประเมินก๊าซสำหรับการแลกเปลี่ยน"
+
+#: src/hooks/useSwapCallback.tsx
+msgid "Unexpected issue with estimating the gas. Please try again."
+msgstr "ปัญหาที่ไม่คาดคิดเกี่ยวกับการประมาณค่าธรรมเนียมก๊าซ กรุณาลองอีกครั้ง"
+
+#: src/components/SearchModal/TokenImportCard.tsx
+msgid "Unknown Source"
+msgstr "ไม่ทราบแหล่งที่มา"
+
+#: src/pages/Vote/Landing.tsx
+#: src/pages/Vote/VotePage.tsx
+msgid "Unlock Votes"
+msgstr "ปลดล็อกการโหวต"
+
+#: src/pages/Vote/Landing.tsx
+msgid "Unlock Voting"
+msgstr "ปลดล็อกการลงคะแนนเสียง"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Unlocking Votes"
+msgstr "ปลดล็อกการโหวต"
+
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/Swap/index.tsx
+msgid "Unsupported Asset"
+msgstr "เนื้อหาที่ไม่รองรับ"
+
+#: src/components/swap/UnsupportedCurrencyFooter.tsx
+msgid "Unsupported Assets"
+msgstr "เนื้อหาที่ไม่รองรับ"
+
+#: src/state/governance/hooks.ts
+msgid "Untitled"
+msgstr "ไม่มีชื่อ"
+
+#: src/pages/Swap/index.tsx
+msgid "Unwrap"
+msgstr "แกะ"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Unwrap <0/> to ETH"
+msgstr "แกะ <0/> เป็น ETH"
+
+#: src/pages/Vote/Landing.tsx
+msgid "Update Delegation"
+msgstr "อัปเดตการมอบหมาย"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Update list"
+msgstr "รายการอัพเดท"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "User"
+msgstr "ผู้ใช้"
+
+#: src/components/swap/SwapRoute.tsx
+msgid "V2"
+msgstr "V2"
+
+#: src/pages/Pool/index.tsx
+msgid "V2 liquidity"
+msgstr "V2 สภาพคล่อง"
+
+#: src/components/swap/SwapRoute.tsx
+msgid "V3"
+msgstr "V3"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "V3 {0} Price:"
+msgstr "V3 {0} ราคา:"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "View UNI Analytics"
+msgstr "ดู UNI Analytics"
+
+#: src/pages/Pool/index.tsx
+msgid "View V2 Liquidity"
+msgstr "ดูสภาพคล่อง V2"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "View list"
+msgstr "ดูรายการ"
+
+#: src/pages/CreateProposal/ProposalSubmissionModal.tsx
+msgid "View on Etherscan"
+msgstr "ดูบน Etherscan"
+
+#: src/components/AccountDetails/index.tsx
+#: src/components/AccountDetails/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "View on Explorer"
+msgstr "ดูบน Explorer"
+
+#: src/components/ModalViews/index.tsx
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "View transaction on Explorer"
+msgstr "ดูธุรกรรมใน Explorer"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Vote Against"
+msgstr "โหวตไม่เห็นด้วย"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Vote For"
+msgstr "โหวตให้"
+
+#: src/components/vote/VoteModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "Vote against proposal {proposalId}"
+msgstr "ลงคะแนนคัดค้านข้อเสนอ {proposalId}"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote against proposal {proposalKey}"
+msgstr "ลงคะแนนคัดค้านข้อเสนอ {proposalKey}"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote against proposal {proposalKey} with reason \"{0}\""
+msgstr "ลงคะแนนคัดค้านข้อเสนอ {proposalKey} พร้อมเหตุผล \"{0}\""
+
+#: src/components/vote/VoteModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "Vote for proposal {proposalId}"
+msgstr "โหวตข้อเสนอ {proposalId}"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote for proposal {proposalKey}"
+msgstr "โหวตข้อเสนอ {proposalKey}"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote for proposal {proposalKey} with reason \"{0}\""
+msgstr "ลงคะแนนสำหรับข้อเสนอ {proposalKey} พร้อมเหตุผล \"{0}\""
+
+#: src/components/vote/VoteModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "Vote to abstain on proposal {proposalId}"
+msgstr "ลงคะแนนเสียงเพื่องดออกเสียงข้อเสนอ {proposalId}"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote to abstain on proposal {proposalKey}"
+msgstr "ลงคะแนนเพื่องดออกเสียงข้อเสนอ {proposalKey}"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote to abstain on proposal {proposalKey} with reason \"{0}\""
+msgstr "ลงคะแนนเพื่องดออกเสียงข้อเสนอ {proposalKey} พร้อมเหตุผล \"{0}\""
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Voting ended {0}"
+msgstr "การลงคะแนนสิ้นสุด {0}"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Voting ends approximately {0}"
+msgstr "การลงคะแนนสิ้นสุดลงประมาณ {0}"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Voting starts approximately {0}"
+msgstr "การลงคะแนนเริ่มต้นประมาณ {0}"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Waiting For Confirmation"
+msgstr "รอการยืนยัน"
+
+#: src/components/AddressInputPanel/index.tsx
+msgid "Wallet Address or ENS name"
+msgstr "ที่อยู่ Wallet หรือชื่อ ENS"
+
+#: src/components/earn/StakingModal.tsx
+msgid "Weekly Rewards"
+msgstr "รางวัลรายสัปดาห์"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "Welcome to team Unicorn :)"
+msgstr "ยินดีต้อนรับสู่ทีมยูนิคอร์น :)"
+
+#: src/components/earn/ClaimRewardModal.tsx
+msgid "When you claim without withdrawing your liquidity remains in the mining pool."
+msgstr "เมื่อคุณรับโทเค็นโดยไม่ถอนสภาพคล่องของคุณจะยังคงอยู่ในกลุ่มการขุด"
+
+#: src/pages/Earn/Manage.tsx
+msgid "When you withdraw, the contract will automagically claim UNI on your behalf!"
+msgstr "เมื่อคุณถอนตัว สัญญาจะรับโทเค็น UNI ในนามของคุณโดยอัตโนมัติ!"
+
+#: src/components/earn/UnstakingModal.tsx
+msgid "When you withdraw, your UNI is claimed and your liquidity is removed from the mining pool."
+msgstr "เมื่อคุณถอนออก UNI ของคุณจะได้รับโทเค็นและสภาพคล่องของคุณจะถูกลบออกจากกลุ่มการขุด"
+
+#: src/components/earn/UnstakingModal.tsx
+#: src/pages/Earn/Manage.tsx
+msgid "Withdraw"
+msgstr "ถอน"
+
+#: src/components/earn/UnstakingModal.tsx
+msgid "Withdraw & Claim"
+msgstr "ถอนและเรียกร้อง"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Withdraw deposited liquidity"
+msgstr "ถอนสภาพคล่องที่ฝากไว้"
+
+#: src/components/earn/UnstakingModal.tsx
+msgid "Withdrawing {0} BD LP"
+msgstr "การถอน {0} BD LP"
+
+#: src/components/earn/UnstakingModal.tsx
+msgid "Withdrew BD LP!"
+msgstr "ถอน BD LP!"
+
+#: src/pages/Swap/index.tsx
+msgid "Wrap"
+msgstr "ห่อ"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Wrap <0/> to WETH"
+msgstr "ห่อ <0/> เป็น WETH"
+
+#: src/components/WalletModal/index.tsx
+#: src/components/Web3Status/index.tsx
+msgid "Wrong Network"
+msgstr "ผิดเครือข่าย"
+
+#: src/pages/CreateProposal/index.tsx
+msgid "You already have an active or pending proposal"
+msgstr "คุณมีข้อเสนอที่ใช้งานอยู่หรือรอดำเนินการอยู่แล้ว"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "You are creating a pool"
+msgstr "คุณกำลังสร้างพูล"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "You are the first liquidity provider for this BestDex V3 pool. Your liquidity will migrate at the current {0} price."
+msgstr "คุณเป็นผู้ให้บริการสภาพคล่องรายแรกสำหรับพูล BestDex V3 นี้ สภาพคล่องของคุณจะย้ายไปที่ราคา {0} ปัจจุบัน"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "You are the first liquidity provider."
+msgstr "คุณคือผู้ให้บริการสภาพคล่องรายแรก"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "You can either vote on each proposal yourself or delegate your votes to a third party."
+msgstr "คุณสามารถลงคะแนนในแต่ละข้อเสนอด้วยตนเองหรือมอบสิทธิ์การลงคะแนนของคุณให้กับบุคคลที่สาม"
+
+#: src/pages/Swap/index.tsx
+msgid "You can now trade {0}"
+msgstr "ตอนนี้คุณสามารถซื้อขาย {0}"
+
+#: src/pages/CreateProposal/index.tsx
+msgid "You don't have enough votes to submit a proposal"
+msgstr "คุณไม่มีคะแนนเสียงเพียงพอที่จะส่งข้อเสนอ"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "You don’t have liquidity in this pool yet."
+msgstr "คุณยังไม่มีสภาพคล่องในพูลนี้"
+
+#: src/components/Header/ChainConnectivityWarning.tsx
+msgid "You may have lost your network connection, or {label} might be down right now."
+msgstr "คุณอาจสูญเสียการเชื่อมต่อเครือข่าย หรือ {label} อาจหยุดทำงานในขณะนี้"
+
+#: src/components/Header/ChainConnectivityWarning.tsx
+msgid "You may have lost your network connection."
+msgstr "คุณอาจสูญเสียการเชื่อมต่อเครือข่ายของคุณ"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "You must connect an account."
+msgstr "คุณต้องเชื่อมต่อบัญชี"
+
+#: src/pages/Swap/index.tsx
+msgid "You must give the BestDex smart contracts permission to use your {0}. You only have to do this once per token."
+msgstr "คุณต้องให้สิทธิ์สัญญาอัจฉริยะของ BestDex เพื่อใช้ {0} ของคุณ คุณต้องทำเช่นนี้เพียงครั้งเดียวต่อโทเค็น"
+
+#: src/pages/CreateProposal/index.tsx
+msgid "You must have {formattedProposalThreshold} votes to submit a proposal"
+msgstr "คุณต้องมี {formattedProposalThreshold} โหวตเพื่อส่งข้อเสนอ"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "You should only deposit liquidity into BestDex V3 at a price you believe is correct. <0/>If the price seems incorrect, you can either make a swap to move the price or wait for someone else to do so."
+msgstr "คุณควรฝากสภาพคล่องไว้ใน BestDex V3 ในราคาที่คุณเชื่อว่าถูกต้องเท่านั้น <0/>หากราคาดูเหมือนไม่ถูกต้อง คุณสามารถทำการแลกเปลี่ยนเพื่อย้ายราคาหรือรอให้ผู้อื่นดำเนินการแทน"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "You will also collect fees earned from this position."
+msgstr "คุณจะเก็บค่าธรรมเนียมที่ได้รับจากตำแหน่งนี้ด้วย"
+
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "You will receive"
+msgstr "คุณจะได้รับ"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "Your UNI Breakdown"
+msgstr "รายละเอียด UNI ของคุณ"
+
+#: src/pages/Pool/index.tsx
+msgid "Your V3 liquidity positions will appear here."
+msgstr "ตำแหน่งสภาพคล่อง V3 ของคุณจะปรากฏที่นี่"
+
+#: src/pages/Pool/v2.tsx
+msgid "Your liquidity"
+msgstr "สภาพคล่องของคุณ"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Your liquidity deposits"
+msgstr "เงินฝากสภาพคล่องของคุณ"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+#: src/components/PositionCard/index.tsx
+msgid "Your pool share:"
+msgstr "ส่วนแบ่งพูลของคุณ:"
+
+#: src/components/PositionCard/index.tsx
+msgid "Your position"
+msgstr "ตำแหน่งของคุณ"
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "Your position has 0 liquidity, and is not earning fees."
+msgstr "ตำแหน่งของคุณมีสภาพคล่องเป็น 0 และไม่ได้รับค่าธรรมเนียม"
+
+#: src/components/LiquidityChartRangeInput/index.tsx
+#: src/components/LiquidityChartRangeInput/index.tsx
+msgid "Your position will appear here."
+msgstr "ตำแหน่งของคุณจะปรากฏที่นี่"
+
+#: src/components/PositionPreview/index.tsx
+#: src/components/PositionPreview/index.tsx
+msgid "Your position will be 100% composed of {0} at this price"
+msgstr "ตำแหน่งของคุณจะประกอบด้วย {0} 100% ในราคานี้"
+
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "Your position will be 100% {0} at this price."
+msgstr "ตำแหน่งของคุณจะอยู่ที่ 100% {0} ที่ราคานี้"
+
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Your position will not earn fees or be used in trades until the market price moves into your range."
+msgstr "ตำแหน่งของคุณจะไม่ได้รับค่าธรรมเนียมหรือใช้ในการซื้อขายจนกว่าราคาตลาดจะเคลื่อนเข้าสู่ช่วงของคุณ"
+
+#: src/components/PositionList/index.tsx
+#: src/components/PositionList/index.tsx
+msgid "Your positions"
+msgstr "ตำแหน่งของคุณ"
+
+#: src/components/earn/PoolCard.tsx
+msgid "Your rate"
+msgstr "อัตราของคุณ"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+msgid "Your total pool tokens:"
+msgstr "โทเค็นพูลทั้งหมดของคุณ:"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Your transaction cost will be much higher as it includes the gas to create the pool."
+msgstr "ค่าใช้จ่ายในการทำธุรกรรมของคุณจะสูงขึ้นมากเนื่องจากมีค่าธรรมเนียมสำหรับสร้างพูล"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Your transaction may be frontrun"
+msgstr "ธุรกรรมของคุณอาจเป็นผู้นำ"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Your transaction may fail"
+msgstr "ธุรกรรมของคุณอาจล้มเหลว"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Your transaction will revert if it is pending for more than this period of time."
+msgstr "ธุรกรรมของคุณจะเปลี่ยนกลับหากค้างอยู่นานกว่าช่วงเวลานี้"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Your transaction will revert if the price changes unfavorably by more than this percentage."
+msgstr "ธุรกรรมของคุณจะเปลี่ยนกลับหากราคาเปลี่ยนแปลงเกินเปอร์เซ็นต์นี้อย่างไม่น่าพอใจ"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Your transactions will appear here..."
+msgstr "ธุรกรรมของคุณจะปรากฏที่นี่..."
+
+#: src/pages/Earn/Manage.tsx
+msgid "Your unclaimed UNI"
+msgstr "UNI ที่ยังไม่ได้รับของคุณ"
+
+#: src/components/AccountDetails/index.tsx
+msgid "clear all"
+msgstr "ลบทั้งหมด"
+
+#: src/components/Settings/index.tsx
+msgid "confirm"
+msgstr "ยืนยัน"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "for {0}"
+msgstr "สำหรับ {0}"
+
+#: src/components/Web3Status/index.tsx
+msgid "has socks emoji"
+msgstr "มีอีโมจิถุงเท้า"
+
+#: src/components/Header/ChainConnectivityWarning.tsx
+#: src/components/WalletModal/index.tsx
+msgid "here."
+msgstr "ที่นี่"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "https:// or ipfs:// or ENS name"
+msgstr "https:// หรือ ipfs:// หรือชื่อ ENS"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "minutes"
+msgstr "นาที"
+
+#: src/components/SearchModal/ImportRow.tsx
+msgid "via {0}"
+msgstr "ผ่าน {0}"
+
+#: src/components/SearchModal/TokenImportCard.tsx
+msgid "via {0} token list"
+msgstr "ผ่านรายการโทเค็น {0}"
+
+#: src/components/SearchModal/ImportToken.tsx
+msgid "{0, plural, one {Import token} other {Import tokens}}"
+msgstr "{0, plural, one {นำเข้าโทเค็น} other {นำเข้าโทเค็น}}"
+
+#: src/components/RateToggle/index.tsx
+#: src/components/RateToggle/index.tsx
+#: src/hooks/useSwapCallback.tsx
+#: src/hooks/useSwapCallback.tsx
+msgid "{0}"
+msgstr "{0}"
+
+#: src/components/PositionCard/index.tsx
+#: src/pages/Vote/VotePage.tsx
+#: src/pages/Vote/VotePage.tsx
+msgid "{0} %"
+msgstr "{0} %"
+
+#: src/components/PositionListItem/index.tsx
+#: src/components/PositionListItem/index.tsx
+msgid "{0} <0/> per <1/>"
+msgstr "{0} <0/> ต่อ <1/>"
+
+#: src/components/earn/StakingModal.tsx
+msgid "{0} BD LP"
+msgstr "{0} BD LP"
+
+#: src/pages/Earn/Manage.tsx
+msgid "{0} BD LP LP tokens available"
+msgstr "มี {0} โทเค็น BD LP LP"
+
+#: src/components/SearchModal/ManageTokens.tsx
+msgid "{0} Custom Tokens"
+msgstr "{0} โทเค็นที่กำหนดเอง"
+
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+msgid "{0} Deposited"
+msgstr "{0} ฝาก"
+
+#: src/components/earn/PoolCard.tsx
+msgid "{0} ETH"
+msgstr "{0} ETH"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "{0} Fees Earned:"
+msgstr "{0} ค่าธรรมเนียมที่ได้รับ:"
+
+#: src/components/Web3Status/index.tsx
+msgid "{0} Pending"
+msgstr "{0} รอดำเนินการ"
+
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+msgid "{0} UNI"
+msgstr "{0} ยูนิ"
+
+#: src/components/earn/PoolCard.tsx
+#: src/components/earn/PoolCard.tsx
+#: src/components/earn/StakingModal.tsx
+#: src/pages/Earn/Manage.tsx
+#: src/pages/Earn/Manage.tsx
+msgid "{0} UNI / week"
+msgstr "{0} UNI / สัปดาห์"
+
+#: src/components/vote/VoteModal.tsx
+msgid "{0} Votes"
+msgstr "{0} โหวต"
+
+#: src/components/PositionPreview/index.tsx
+#: src/components/PositionPreview/index.tsx
+#: src/components/PositionPreview/index.tsx
+#: src/pages/AddLiquidityV2/PoolPriceBar.tsx
+#: src/pages/AddLiquidityV2/PoolPriceBar.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "{0} per {1}"
+msgstr "{0} ต่อ {1}"
+
+#: src/components/SearchModal/ImportList.tsx
+#: src/components/SearchModal/ManageLists.tsx
+msgid "{0} tokens"
+msgstr "{0} โทเค็น"
+
+#: src/components/Header/index.tsx
+#: src/components/Web3Status/index.tsx
+msgid "{0} {1}"
+msgstr "{0} {1}"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "{0} {1} Price:"
+msgstr "{0} {1} ราคา:"
+
+#: src/components/SearchModal/CurrencyList.tsx
+msgid "{0} • Added by user"
+msgstr "{0} • เพิ่มโดยผู้ใช้"
+
+#: src/components/CurrencyInputPanel/FiatValue.tsx
+#: src/components/FeeSelector/FeeOption.tsx
+#: src/components/PositionListItem/index.tsx
+#: src/components/PositionPreview/index.tsx
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "{0}%"
+msgstr "{0}%"
+
+#: src/components/FeeSelector/index.tsx
+msgid "{0}% fee tier"
+msgstr "ระดับค่าธรรมเนียม {0}%"
+
+#: src/components/FeeSelector/FeeTierPercentageBadge.tsx
+msgid "{0}% select"
+msgstr "เลือก {0}%"
+
+#: src/pages/Earn/Manage.tsx
+msgid "{0}-{1} Liquidity Mining"
+msgstr "{0}-{1} การขุดสภาพคล่อง"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "{0}/{1} LP NFT"
+msgstr "{0}/{1} LP NFT"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "{0}/{1} LP Tokens"
+msgstr "{0}/{1} โทเค็น LP"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "{SOCKS_AMOUNT} UNI"
+msgstr "{SOCKS_AMOUNT} หน่วย"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "{USER_AMOUNT} UNI"
+msgstr "{USER_AMOUNT} ยูนิ"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "{activeTokensOnThisChain} tokens"
+msgstr "โทเค็น {activeTokensOnThisChain}"
+
+#: src/pages/Home/ContentImageSection.tsx
+msgid "{heading}"
+msgstr "{หัวเรื่อง}"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "{percentForSlider}%"
+msgstr "{percentForSlider}%"
+
+#: src/components/InputStepCounter/InputStepCounter.tsx
+msgid "{tokenB} per {tokenA}"
+msgstr "{tokenB} ต่อ {tokenA}"
+
+#: src/components/CurrencyInputPanel/FiatValue.tsx
+msgid "~$ <0/>"
+msgstr "~$ <0/>"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "← Back to Pools Overview"
+msgstr "← กลับไปที่ภาพรวมของพูล"
+
+#: 
+msgid "Questions"
+msgstr "คำถาม"
+
+#: 
+msgid "Best Wallet is a fully decentralised crypto wallet aiming to address the concerns present in traditional custody solutions regarding security, privacy, and control over assets. We’re empowering users to manage their own digital assets from their own phone or computer with minimal reliance on centralized authorities."
+msgstr "Best Wallet เป็นกระเป๋าเงินดิจิทัลแบบกระจายอำนาจโดยสมบูรณ์ โดยมีเป้าหมายเพื่อจัดการกับข้อกังวลที่มีอยู่ในโซลูชันการดูแลแบบดั้งเดิมเกี่ยวกับความปลอดภัย ความเป็นส่วนตัว และการควบคุมสินทรัพย์ เราให้อำนาจแก่ผู้ใช้ในการจัดการสินทรัพย์ดิจิทัลของตนเองจากโทรศัพท์หรือคอมพิวเตอร์ของตนเองโดยพึ่งพาหน่วยงานส่วนกลางน้อยที่สุด"
+
+#: 
+msgid "The smartest way to manage your digital assets."
+msgstr "วิธีที่ชาญฉลาดที่สุดในการจัดการสินทรัพย์ดิจิทัลของคุณ"
+
+#: 
+msgid "LEARN MORE"
+msgstr "เรียนรู้เพิ่มเติม"
+
+#: 
+msgid "INTRODUCING"
+msgstr "แนะนำ"
+
+#: 
+msgid "Market Insights"
+msgstr "ข้อมูลเชิงลึกของตลาด"
+
+#: 
+msgid "Participate in the BEST airdrop"
+msgstr "เข้าร่วม BEST airdrop"
+
+#: 
+msgid "We’re rewarding all our early adopters with an airdrop of 10% of the total supply of BEST tokens."
+msgstr "เรากำลังให้รางวัลแก่ผู้ใช้รายแรกทั้งหมดของเราด้วยแจกเหรียญ 10% ของอุปทานเหรียญ BEST ทั้งหมด"
+
+#: 
+msgid "How to get started"
+msgstr "วิธีเริ่มต้น"
+
+#: 
+msgid "Download the Best Wallet app"
+msgstr "ดาวน์โหลดแอพ Best Wallet"
+
+#: 
+msgid "Availiable on\n"
+""
+msgstr "ใช้ได้วันที่\n"
+""
+
+#: 
+msgid "Get it on"
+msgstr "รับที่"
+
+#: 
+msgid "Create a wallet"
+msgstr "สร้างกระเป๋าเงิน"
+
+#: 
+msgid "Make sure you complete all the steps below to ensure we can track your activities towards the Best Wallet airdrop"
+msgstr "ตรวจสอบให้แน่ใจว่าคุณทำตามขั้นตอนด้านล่างทั้งหมดเพื่อให้แน่ใจว่าเราสามารถติดตามกิจกรรมการแจกเหรียญ Best Wallet"
+
+#: 
+msgid "Download Our App"
+msgstr "ดาวน์โหลดแอพของเรา"
+
+#: 
+msgid "Engage On Our Platform"
+msgstr "มีส่วนร่วมในแพลตฟอร์มของเรา"
+
+#: 
+msgid "Visit Our Website"
+msgstr "ไปยังเว็บไซต์ของเรา"
+
+#: 
+msgid "Join @BestWallet_Official on Telegram"
+msgstr "เข้าร่วม @BestWallet_Official ทาง Telegram"
+
+#: 
+msgid "Join Our Discord Server"
+msgstr "เข้าร่วมเซิร์ฟเวอร์ Discord ของเรา"
+
+#: 
+msgid "Follow @BestWallet__ on Twitter"
+msgstr "ติดตาม @BestWallet__ บน Twitter"
+
+#: 
+msgid "Visit @bestwalletofficial on Instagram"
+msgstr "ไปยัง @bestwalletofficial บน Instagram"
+
+#: 
+msgid "How you earn points"
+msgstr "วิธีที่คุณได้รับคะแนน"
+
+#: 
+msgid "Use the Best Wallet App and DEX"
+msgstr "ใช้แอพ Wallet และ DEX ที่ดีที่สุด"
+
+#: 
+msgid "Store your tokens and make transactions"
+msgstr "เก็บโทเค็นของคุณและทำธุรกรรม"
+
+#: 
+msgid "Engage with our Socials and spread the word"
+msgstr "มีส่วนร่วมกับโซเชียลของเราและกระจายข่าว"
+
+#: 
+msgid "Cryptocurrency may be unregulated in your jurisdiction. The value of cryptocurrencies may go down as well as up. Profits may be subject to capital gains or other taxes applicable in your jurisdiction.\n"
+""
+msgstr "สกุลเงินดิจิทัลอาจไม่มีการควบคุมในเขตอำนาจศาลของคุณ มูลค่าของสกุลเงินดิจิทัลอาจลดลงหรือสูงขึ้น กำไรที่ได้รับอาจขึ้นอยู่กับการเก็งราคาหรืออัตราภาษีอื่นๆ ที่เกี่ยวข้องในเขตอำนาจศาลของคุณ"
+
+#: 
+msgid "What is a Crypto Airdrop?"
+msgstr "Crypto Airdrop คืออะไร?"
+
+#: 
+#, fuzzy
+msgid "An Airdrop is when a token is sent to a specific group of crypto wallet addresses. Sometimes this is a marketing strategy by crypto projects to introduce their token to new audiences. In our case, the BEST Token Airdrop rewards early adopters, power users, and brand advocates of Best Wallet and Best DEX with a portion of the total token supply as a way to thank them for their engagement within the Best Ecosystem."
+msgstr "การ Airdrop คือการส่งโทเค็นไปยังกลุ่มที่อยู่กระเป๋าเงินดิจิตอลเข้ารหัส บางครั้งนี่เป็นกลยุทธ์ทางการตลาดโดยโครงการ crypto จะทำการแจกโทเค็น ในกรณีของเรา Best Token Airdrop จะให้รางวัลแก่ผู้ใช้รายแรก ผู้ใช้ระดับสูง และผู้สนับสนุนแบรนด์ Best Wallet และ Best DEX ด้วยส่วนหนึ่งของอุปทานโทเค็นทั้งหมด เพื่อเป็นการขอบคุณพวกเขาสำหรับการมีส่วนร่วมในระบบนิเวศที่ดีที่สุด"
+
+#: 
+msgid "How can I participate in the BEST Token Airdrop?"
+msgstr "ฉันจะเข้าร่วม Best Token Airdrop ได้อย่างไร?"
+
+#: 
+msgid "To participate in the BEST Token Airdrop, you need to follow these steps:"
+msgstr "ในการเข้าร่วม Best Token Airdrop คุณต้องทำตามขั้นตอนเหล่านี้:"
+
+#: 
+msgid "a. Download the Best Wallet app and create a wallet."
+msgstr "1. ดาวน์โหลดแอพ Best Wallet และสร้างกระเป๋าเงิน"
+
+#: 
+msgid "b. Visit the Airdrop page on our website."
+msgstr "2. ไปที่หน้า Airdrop บนเว็บไซต์ของเรา"
+
+#: 
+msgid "c. Provide your wallet address, email address, Twitter handle, and Discord username and follow our socials"
+msgstr "3. ระบุที่อยู่กระเป๋าเงิน ที่อยู่อีเมล กรอก Twitter และชื่อผู้ใช้ Discord และติดตามโซเชียลของเรา"
+
+#: 
+msgid "d. Engage actively within the Best Ecosystem to earn points."
+msgstr "4. มีส่วนร่วมอย่างแข็งขันภายในระบบนิเวศที่ดีที่สุดเพื่อรับคะแนน"
+
+#: 
+msgid "How do I earn points during the Airdrop?"
+msgstr "ฉันจะรับคะแนนระหว่าง Airdrop ได้อย่างไร?"
+
+#: 
+msgid "During Phase 1-6 of our product launch, points are earned in three ways."
+msgstr "ในช่วงที่ 1-6 ของการเปิดตัวผลิตภัณฑ์ของเรา คะแนนจะได้รับจากสามวิธี"
+
+#: 
+msgid "a. Engaging with our socials and spreading the word about Best Web3."
+msgstr "1. มีส่วนร่วมกับโซเชียลของเราและกระจายข่าวเกี่ยวกับ Best Web3"
+
+#: 
+msgid "b. Using Best Wallet."
+msgstr "2. ใช้ Best Wallet"
+
+#: 
+msgid "c. Using Best DEX."
+msgstr "3. ใช้ Best DEX"
+
+#: 
+msgid "What are the benefits of holding BEST tokens?"
+msgstr "ประโยชน์ของการถือโทเค็น BEST คืออะไร?"
+
+#: 
+msgid "Holding BEST tokens will bring several exclusive benefits within the Best Ecosystem, including:"
+msgstr "การถือครองโทเค็น BEST จะนำมาซึ่งผลประโยชน์พิเศษมากมายภายใน Best Ecosystem รวมถึง:"
+
+#: 
+msgid "a. No gas fees on transactions."
+msgstr "1. ไม่มีค่าธรรมเนียมก๊าซในการทำธุรกรรม"
+
+#: 
+msgid "b. Governance voting on Best Dex."
+msgstr "2. การลงคะแนนการกำกับดูแลสำหรับ Best Dex"
+
+#: 
+msgid "c. Early access to token launches."
+msgstr "3. การเข้าถึงการเปิดตัวโทเค็นก่อนใคร"
+
+#: 
+msgid "d. Participation in exclusive NFT and token drops."
+msgstr "4. การเข้าร่วม NFT และโทเค็นสุดพิเศษ"
+
+#: 
+msgid "We will announce more benefits and utility closer to the airdrop date."
+msgstr "เราจะประกาศสิทธิประโยชน์และอรรถประโยชน์เพิ่มเติมเมื่อใกล้ถึงวันออกอากาศ"
+
+#: 
+msgid "When will the Airdrop happen?"
+msgstr "Airdrop จะเกิดขึ้นเมื่อใด?"
+
+#: 
+msgid "The airdrop ends at the end of phase 6 of our Best Wallet launch. The specific date and time of the Airdrop will be announced on our official website and social media channels. Stay tuned for updates to ensure you don't miss out on this opportunity!"
+msgstr "การ Airdrop จะสิ้นสุดเมื่อสิ้นสุดรอบพรีเซลที่ 6 ของการเปิดตัว Best Wallet ของเรา วันที่และเวลาที่เฉพาะเจาะจงของ Airdrop จะประกาศบนเว็บไซต์อย่างเป็นทางการและช่องทางโซเชียลมีเดียของเรา คอยติดตามการอัปเดตเพื่อให้แน่ใจว่าคุณจะไม่พลาดโอกาสนี้!"
+
+#: 
+msgid "How will the Airdrop rewards be distributed?"
+msgstr "รางวัล Airdrop จะกระจายอย่างไร?"
+
+#: 
+msgid "10% of the total supply of the BEST token has been allocated to the airdrop. Participants will earn a share of the token pool proportionate to the points they have used throughout phases 1-6 of the Best Wallet launch. The Airdrop rewards will be distributed directly to the wallet addresses provided during the registration process. Please ensure the accuracy of the wallet address to receive your tokens smoothly."
+msgstr "10% ของอุปทานทั้งหมดของโทเค็นที่ดีที่สุดได้รับการจัดสรรให้กับ airdrop ผู้เข้าร่วมจะได้รับส่วนแบ่งของโทเค็นพูลตามสัดส่วนคะแนนที่พวกเขาใช้ตลอดระยะที่ 1-6 ของการเปิดตัว Best Wallet รางวัล Airdrop จะถูกแจกจ่ายโดยตรงไปยังที่อยู่กระเป๋าเงินที่ให้ไว้ระหว่างขั้นตอนการลงทะเบียน โปรดตรวจสอบความถูกต้องของที่อยู่กระเป๋าเงินเพื่อรับโทเค็นของคุณอย่างราบรื่น"
+
+#: 
+msgid "Is there a limited number of participants for the Airdrop?"
+msgstr "Airdrop จำกัดจำนวนผู้เข้าร่วมหรือไม่?"
+
+#: 
+msgid "Participation is open to all."
+msgstr "เปิดให้ทุกคนมีส่วนร่วม"
+
+#: 
+msgid "Can I register multiple times for the Airdrop?"
+msgstr "ฉันสามารถลงทะเบียน Airdrop หลายครั้งได้หรือไม่?"
+
+#: 
+msgid "No, each participant is allowed to register only once for the Airdrop. Multiple registrations may lead to disqualification."
+msgstr "ไม่ได้ ผู้เข้าร่วมแต่ละคนสามารถลงทะเบียน Airdrop ได้เพียงครั้งเดียวเท่านั้น การลงทะเบียนหลายครั้งอาจนำไปสู่การถูกตัดสิทธิ์"
+
+#: 
+msgid "How will you prevent fraudulent activity during the Airdrop?"
+msgstr "คุณจะป้องกันการฉ้อโกงในระหว่าง Airdrop ได้อย่างไร?"
+
+#: 
+msgid "We have implemented various security measures to detect and prevent fraudulent activities. Any attempts at gaming the system or engaging in suspicious activities will lead to immediate disqualification from the Airdrop."
+msgstr "เราได้ใช้มาตรการรักษาความปลอดภัยต่างๆ เพื่อตรวจจับและป้องกันกิจกรรมฉ้อโกง ความพยายามใด ๆ ในการเล่นเกมระบบหรือมีส่วนร่วมในกิจกรรมที่น่าสงสัยจะนำไปสู่การตัดสิทธิ์จาก Airdrop ทันที"
+
+#: 
+msgid "How can I stay updated about the Airdrop and the project's progress?"
+msgstr "ฉันจะติดตามข่าวสารเกี่ยวกับ Airdrop และความคืบหน้าของโครงการได้อย่างไร?"
+
+#: 
+msgid "To stay informed about the Airdrop, project updates, and important announcements, make sure to follow our official social media channels and regularly check our website. We will keep the community informed about any developments related to the BEST Token Airdrop."
+msgstr "หากต้องการรับทราบข่าวสารเกี่ยวกับ Airdrop การอัปเดตโครงการ และประกาศสำคัญ อย่าลืมติดตามช่องทางโซเชียลมีเดียอย่างเป็นทางการของเราและตรวจสอบเว็บไซต์ของเราเป็นประจำ เราจะแจ้งให้ชุมชนทราบเกี่ยวกับการพัฒนาใด ๆ ที่เกี่ยวข้องกับ Best Token Airdrop"
+
+#: 
+msgid "Best DEX is built as the sister app to Best Wallet, our flagship <0>non-custodial crypto wallet</0>. Best DEX can be accessed from within Best Wallet for an easy trading experience all within a single app. No more need to use several different wallets and DEXs to manage your crypto portfolio."
+msgstr "Best DEX สร้างขึ้นเป็นแอปรุ่นน้องของ Best Wallet ซึ่งเป็น <0>กระเป๋าเงินดิจิทัลเข้ารหัสที่ไม่ต้องดูแล</0> ตัวชูโรงของเรา สามารถเข้าถึง Best DEX ได้จากภายใน Best Wallet เพื่อประสบการณ์การซื้อขายที่ง่ายดายทั้งหมดภายในแอปเดียว ไม่จำเป็นต้องใช้กระเป๋าเงินและ DEX ที่แตกต่างกันอีกต่อไปเพื่อจัดการพอร์ตโฟลิโอเหรียญคริปโตของคุณ"
+
+#: 
+msgid "Best DEX does not require KYC verification to start trading. We prioritise user privacy and aim to provide a hassle-free onboarding experience. Simply connect your wallet and you’re ready to go."
+msgstr "Best DEX ไม่ต้องการการยืนยัน KYC เพื่อเริ่มการซื้อขาย เราให้ความสำคัญกับความเป็นส่วนตัวของผู้ใช้และมุ่งมั่นที่จะมอบประสบการณ์การใช้งานที่ไม่ยุ่งยาก เพียงเชื่อมต่อกระเป๋าเงินของคุณ คุณก็พร้อมที่จะไป"
+
+#: 
+msgid "Follow our socials and join our community hubs <0>here</0>"
+msgstr "ติดตามโซเชียลของเราและเข้าร่วมศูนย์กลางชุมชนของเรา <0>ที่นี่</0>"
+
+#: 
+msgid "We are launching the BEST token at the end of Phase 6 of our roadmap and will reward our early adopters and power users with 10% of our total supply based on the points they have accumulated from using our app and spreading the word on socials."
+msgstr "เรากำลังเปิดตัวโทเค็น BEST เมื่อสิ้นสุดระยะที่ 6 ของแผนงานของเราและจะให้รางวัลแก่ผู้ใช้รายแรกและผู้ใช้ระดับสูงของเราด้วย 10% ของอุปทานทั้งหมดของเรา โดยพิจารณาจากคะแนนที่พวกเขาสะสมจากการใช้แอพของเราและกระจายข่าวบนโซเชียล"
+
+#: 
+msgid "In the near future, Best DEX will be available as a decentralised application (dApp) within Best Wallet, offering an even more integrated and user-friendly trading experience."
+msgstr "ในอนาคตอันใกล้ Best DEX จะพร้อมใช้งานในรูปแบบแอปพลิเคชันแบบกระจายศูนย์ (dApp) ภายใน Best Wallet ซึ่งจะมอบประสบการณ์การซื้อขายที่ผสานรวมและเป็นมิตรกับผู้ใช้มากยิ่งขึ้น"
+
+#: 
+msgid "Simply visit the Best DEX platform through your mobile web browser to start trading cryptocurrencies on the go."
+msgstr "เพียงไปยังแพลตฟอร์ม Best DEX ผ่านเว็บเบราว์เซอร์มือถือของคุณเพื่อเริ่มซื้อขายสกุลเงินดิจิทัลได้ทุกที่"
+
+#: 
+msgid "Best Wallet is the fully non-custodial crypto wallet at the heart of the Best Web3 Ecosystem. Buy, store, send, and receive Bitcoin and many other cryptocurrencies safely and securely with the Best Wallet app."
+msgstr "Best Wallet เป็นกระเป๋าเงินเข้ารหัสลับที่ไม่ต้องดูแลอะไรเลย 100% ซึ่งเป็นหัวใจของ Best Web3 Ecosystem ซื้อ จัดเก็บ ส่ง และรับ Bitcoin และสกุลเงินดิจิทัลอื่น ๆ อีกมากมายอย่างปลอดภัยด้วยแอป Best Wallet"
+
+#: 
+msgid "Portfolio Management and Token Analytics give users everything they need to get in early on the hottest token launches, make the right trades at the right times, and maximise profits."
+msgstr "การจัดการพอร์ตโฟลิโอและการวิเคราะห์โทเค็นมอบทุกสิ่งที่จำเป็นแก่ผู้ใช้เพื่อเริ่มต้นโทเค็นที่มาแรงที่สุด ทำการซื้อขายที่ถูกต้องในเวลาที่เหมาะสม และเพิ่มผลกำไรสูงสุด"
+
+#: 
+msgid "Create a wallet in the BEST Wallet"
+msgstr "สร้างกระเป๋าเงินในกระเป๋าเงิน BEST"
+
+#: 
+msgid "Make sure you complete all the steps below to ensure we can track your activities towards the BEST airdrop"
+msgstr "ตรวจสอบให้แน่ใจว่าคุณทำตามขั้นตอนด้านล่างทั้งหมดเพื่อให้แน่ใจว่าเราสามารถติดตามกิจกรรมของคุณเพื่อการแจกเหรียญ BEST ฟรี"
+
+#: 
+msgid "Download the Best Wallet app and create a wallet."
+msgstr "ดาวน์โหลดแอพ Best Wallet และสร้างกระเป๋าเงิน"
+
+#: 
+msgid "2023 Best Web3. All Right Reserved."
+msgstr "เว็บ3.0 ที่ดีที่สุดประจำปี 2023 สงวนลิขสิทธิ์"
+
+#: 
+msgid "Get Featured on Best DEX"
+msgstr "ได้รับการแนะนำบน Best DEX"
+
+#: 
+msgid "Partner with the Best"
+msgstr "เป็นพันธมิตรกับสิ่งที่ดีที่สุด"
+
+#: 
+msgid "Become a partner and let us showcase your project to the world. Reach thousands of highly engaged global Best Wallet crypto holders."
+msgstr "ร่วมเป็นพันธมิตรและให้เราแสดงโครงการของคุณให้โลกเห็น เข้าถึงผู้ถือ crypto Best Wallet ระดับโลกที่มีส่วนร่วมสูงนับพันราย"
+
+#: 
+msgid "Best Audience"
+msgstr "ผู้ชมที่ดีที่สุด"
+
+#: 
+msgid "News Coverage"
+msgstr "รายงานข่าว"
+
+#: 
+msgid "Featured on Best DEX"
+msgstr "ให้ความสำคัญกับ DEX ที่ดีที่สุด"
+
+#: 
+msgid "You have a following and you’re trending in all the right ways. Best Wallet will showcase your achievements and potential to thousands more engaged crypto holders."
+msgstr "คุณมีผู้ติดตามและไม่ตกเทรนด์ Best Wallet จะแสดงความสำเร็จและศักยภาพของคุณต่อผู้ถือ crypto ที่มีส่วนร่วมมากกว่าพันราย"
+
+#: 
+msgid "Your project will be picked up by high-ranking crypto news sites with a combined traffic of over 20 million monthly visitors."
+msgstr "โครงการของคุณจะถูกเลือกโดยเว็บไซต์ข่าวคริปโตระดับสูงที่มีจำนวนผู้เยี่ยมชมมากกว่า 20 ล้านคนต่อเดือน"
+
+#: 
+msgid "Be a part of the Best Ecosystem. We’ll list your token on Best DEX and support it with exposure and user incentives."
+msgstr "เป็นส่วนหนึ่งของระบบนิเวศที่ดีที่สุด เราจะแสดงรายการโทเค็นของคุณใน Best DEX และสนับสนุนด้วยการเปิดรับและแรงจูงใจของผู้ใช้"
+
+#: 
+msgid "Showcase Application"
+msgstr "โชว์เคสแอปพลิเคชัน"
+
+#: 
+msgid "First Name"
+msgstr "ชื่อจริง"
+
+#: 
+msgid "Last Name"
+msgstr "นามสกุล"
+
+#: 
+msgid "Your work Email"
+msgstr "อีเมลที่ทำงานของคุณ"
+
+#: 
+msgid "Provide a link to your website"
+msgstr "ระบุลิงค์ไปยังเว็บไซต์ของคุณ"
+
+#: 
+msgid "URL"
+msgstr "URL"
+
+#: 
+msgid "More Information"
+msgstr "ข้อมูลมากกว่านี้"
+
+#: 
+msgid "Tell us about your project"
+msgstr "บอกเราเกี่ยวกับโครงการของคุณ"
+
+#: 
+msgid "I confirm I have read agree to the <0>Privacy Policy</0>."
+msgstr "ฉันยืนยันว่าได้อ่านยอมรับ <0>นโยบายความเป็นส่วนตัว</0>"
+
+#: 
+msgctxt "Shown on a button for applying to be a partner in BESTDex"
+msgid "Apply"
+msgstr "นำมาใช้"
+
+#: 
+msgid "Trade"
+msgstr "เทรด"
+
+#: 
+msgid "Features"
+msgstr "ร่วมกับ"
+
+#: 
+msgid "Best DEX is a decentralised exchange designed to seamlessly integrate with Best Wallet, our non-custodial crypto wallet . It allows you to trade cryptocurrencies securely and efficiently while maintaining full control of your funds and digital assets."
+msgstr "Best DEX คือกระดานแลกเปลี่ยนแบบกระจายอำนาจที่ออกแบบมาเพื่อผสานรวมกับ Best Wallet ซึ่งไม่ใช่การดูแลของเราได้อย่างราบรื่น\n"
+"           กระเป๋าเงินคริปโต ช่วยให้คุณสามารถแลกเปลี่ยนสกุลเงินดิจิทัลได้อย่างปลอดภัยและมีประสิทธิภาพในขณะที่ยังคงรักษาสถานะเต็มไว้\n"
+"           ควบคุมเงินทุนและสินทรัพย์ดิจิทัลของคุณ"
+
+
+#: 
+msgid "What are the benefits of Best DEX?"
+msgstr "ประโยชน์ของ Best DEX คืออะไร?"

@@ -1,0 +1,2942 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Best DEX Website\n"
+"Language: ko\n"
+
+#. Please don't change the name of the application
+#: src/pages/Home/index.tsx
+msgid "Buy and Sell Instantly on"
+msgstr "가장 쉽고 빠르게 거래가 이루어지는 곳"
+
+#: src/pages/Home/index.tsx
+msgid "Recommended By"
+msgstr "추천 매체"
+
+#: src/pages/Home/index.tsx
+msgid "Trade any token on Ethereum or BNB Smart Chain in seconds, just by connecting your wallet."
+msgstr "지갑을 연결하기만 하면 몇 초 만에 이더리움 또는 BNB 스마트 체인에서 어떤 토큰이든 거래할 수 있습니다."
+
+#: /app/modules/views
+msgid "No registration needed. Thousands of tokens to trade at your fingertips."
+msgstr "번거롭게 등록할 필요 없이, 수천 개의 토큰을 터치 한 번으로 거래할 수 있습니다."
+
+#: src/pages/Home/index.tsx
+#: src/pages/Home/index.tsx
+msgid "Trade Now"
+msgstr "지금 거래하기"
+
+#: src/pages/Home/index.tsx
+msgid "Decentralised Exchange"
+msgstr "탈중앙화 거래소"
+
+#: src/pages/Home/index.tsx
+msgid "Trade anything. No registration. No hassle."
+msgstr "따로 등록 할 필요 없이, 어떤 것이든 문제없이 거래 가능하니까."
+
+#: src/pages/Home/index.tsx
+msgid "Best DEX will have all the tools you need to navigate around crypto trading including real-time market updates and advanced charting via Trading View."
+msgstr "베스트 DEX에는 실시간 시장 업데이트, 트레이딩뷰를 통한 고급 차트 도구를 포함하여 암호화폐 트레이딩에 필요한 모든 도구가 제공됩니다."
+
+#: /app/modules/views
+msgid "We were unable to sign you up.\n"
+"Please correct the marked fields."
+msgstr "회원가입에 실패했습니다.\n"
+"정보를 올바르게 입력해 주세요."
+
+#: /app/modules/views
+msgid "From trending tokens to token security, Best Dex token analytics provides traders with in-depth, real-time data to execute the right trades."
+msgstr "인기 토큰 목록에서 토큰 보안까지, 베스트 DEX의 토큰 분석은 트레이더들이 탁월한 거래를 수행할 수 있도록 심층적인 실시간 데이터를 제공합니다."
+
+#: src/components/WalletModal/index.tsx
+msgid "Coming Soon"
+msgstr "곧 출시"
+
+#: /app/modules/views
+msgid "Token Analytics"
+msgstr "토큰 애널리틱스"
+
+#: 
+msgid "Token Info"
+msgstr "토큰 정보"
+
+#: 
+msgid "Token Sentiment"
+msgstr "토큰 심리"
+
+#: 
+msgid "Token Security"
+msgstr "토큰 안전성"
+
+#: 
+msgid "BEST Airdrop"
+msgstr "BEST 에어드랍"
+
+#: 
+msgid "The BEST token airdrop will reward brand advocates and Best Wallet and Best DEX power users over the coming months. Holders of the BEST token will receive exclusive benefits on Best DEX including lower cost trades"
+msgstr "베스트 토큰 에어드랍은 브랜드 지지자와 베스트월렛 및 베스트 DEX 사용자에게 다음 몇 달 동안 보상을 제공할 것입니다. BEST 토큰 보유자는 저렴한 거래 수수료가 포함된 독점 혜택을 받게 될 것입니다."
+
+#: 
+msgid "Frequently Asked"
+msgstr "자주 묻는 질문"
+
+#: src/pages/Home/index.tsx
+msgid "Find answers to the most frequently asked questions about Best Wallet right here."
+msgstr "베스트 월렛과 관련된 자주 묻는 질문에 대한 답변을 이곳에서 확인하세요."
+
+#: src/pages/Home/index.tsx
+msgid "If the answer you’re looking for isn’t here, email contact@bestwallet.com and we’ll assist you."
+msgstr "만약 찾고 계신 질문과 답변이 없다면, contact@bestwallet.com으로 문의하시기 바랍니다."
+
+#: src/pages/Home/index.tsx
+msgid "Cryptocurrency may be unregulated in your jurisdiction. The value of cryptocurrencies may go down as well as up. Profits may be subject to capital gains or other taxes applicable in your jurisdiction."
+msgstr "암호화폐는 귀하의 관할권에서 규제를 받지 않을 수도 있습니다. 암호화폐의 가치는 올라갈 수도 있고 내려갈 수도 있습니다. 암호화폐로부터 얻은 수익은 자본 이득으로 간주되거나 귀하의 관할권에 따라 세금이 부과될 수 있습니다."
+
+#: src/pages/Home/index.tsx
+msgid "Terms"
+msgstr "이용약관"
+
+#: src/pages/Home/index.tsx
+msgid "Privacy"
+msgstr "개인정보 보호"
+
+#: src/pages/Home/index.tsx
+msgid "Cookies"
+msgstr "쿠키"
+
+#: 
+msgid "What is Best DEX?"
+msgstr "베스트 DEX란?"
+
+#: 
+msgid "Best DEX is a decentralized exchange designed to seamlessly integrate with Best Wallet, our non-custodial crypto wallet. It allows you to trade cryptocurrencies securely and efficiently while maintaining full control of your funds and digital assets."
+msgstr "베스트 DEX는 암호화폐 지갑 베스트월렛과 원활하게 연동되는 탈중앙화 거래소입니다. 이 거래소에서 사용자는 안전하고 효과적으로 암호화폐를 거래할 수 있으며, 동시에 자금과 가상자산에 대한 완벽한 통제권을 누릴 수 있습니다."
+
+#: 
+msgid "Why should I use Best DEX instead of Uniswap or other DEXs?"
+msgstr "유니스왑이나 다른 거래소 대신에 왜 베스트 DEX를 사용해야 할까요?"
+
+#: 
+msgid "Best DEX is built as the sister app to Best Wallet, our flagship crypto wallet. Best DEX can be accessed from within Best Wallet for an easy trading experience all within a single app. No more need to use several different wallets and DEXs to manage your crypto portfolio."
+msgstr "베스트 DEX는 당사의 대표 암호화폐 지갑인 베스트 월렛의 자매 앱으로 개발되었습니다. 베스트 DEX는 베스트 월렛에서 접속할 수 있으며, 단일 앱 내에서 손쉬운 거래 경험을 누릴 수 있습니다. 이제 암호화폐 포트폴리오 관리를 위해 여러 개의 지갑과 거래소를 사용할 필요가 없어진 것입니다."
+
+#: 
+msgid "What are Best DEX’s special features compared to competitors?"
+msgstr "베스트 DEX가 다른 거래소보다 뛰어난 기능에는 무엇이 있나요?"
+
+#: 
+msgid "Best DEX is incorporating the best aspects of established DEXs, improving upon them, and adding streamlined features that will elevate your crypto trading experience. To name two: 1. Store, manage, and trade crypto from a single app 2. Save on trading fees."
+msgstr "베스트 DEX는 기존 탈중앙화 거래소의 가장 좋은 부분들을 통합하고 개선하여 사용자의 거래 경험을 향상시킵니다. 베스트 DEX의 특징을 두 가지로 정리하자면 다음과 같습니다: 1. 단일 앱에서 암호화폐 보관, 관리, 거래 2. 거래 수수료 절감."
+
+#: 
+msgid "Which chains does Best DEX support for decentralised trading?"
+msgstr "베스트 DEX는 탈중앙화 트레이딩을 위해 어떤 체인을 지원하나요?"
+
+#: 
+msgid "Best DEX will start with native support for Ethereum, BNB Smart Chain and Polygon. Over time we’ll add support for all active major blockchains."
+msgstr "베스트 DEX는 이더리움, BNB 스마트 체인, 폴리곤을 지원할 예정입니다. 향후에 모든 메이저 블록체인들이 추가될 예정입니다."
+
+#: 
+msgid "How can I use Best DEX on my mobile phone?"
+msgstr "베스트 DEX는 스마트폰에서 어떻게 사용할 수 있나요?"
+
+#: 
+msgid "Best DEX is available through the 'Swap' feature on the Best Wallet app. Simply download Best Wallet from Google Play or the App Store to gain access to Best DEX trading."
+msgstr "베스트 월렛 앱의 '스왑' 기능을 통해 베스트 DEX를 사용할 수 있습니다. 베스트 월렛을 구글플레이 또는 앱스토어에서 다운로드하여 베스트 DEX에 접속하세요."
+
+#: 
+msgid "Decentralised & Secure"
+msgstr "탈중앙성 & 보안성"
+
+#: 
+msgid "Low Fees"
+msgstr "저렴한 수수료"
+
+#: 
+msgid "Trading Insights"
+msgstr "거래 인사이트"
+
+#: 
+msgid "Best DEX automatically matches you to the trading pair with the lowest rate for your desired swap, ensuring you always get the best price on your trades. This feature helps you save money on transactions."
+msgstr "베스트 DEX는 원하는 거래 자산에 대한 가장 낮은 비율의 거래 쌍을 자동으로 매칭하여, 항상 최고의 거래 가격을 누릴 수 있게 합니다. 이 기능 덕분에 거래 비용을 절약할 수 있습니다."
+
+#: 
+msgid "Cost-Saving Advantage"
+msgstr "비용 절감 혜택"
+
+#: 
+msgid "Airdrop Incentives"
+msgstr "에어드랍 인센티브"
+
+#: 
+msgid "By using Best DEX, you become part of the Best Ecosystem, and we reward our most loyal and active users with a 10% airdrop of the total supply of our native token, $BEST, during Phase 6 of our launch."
+msgstr "베스트 DEX를 사용하면 베스트 생태계의 일원이 됩니다. 저희는 가장 활동적인 유저들에게 출시 6단계에서 BEST 토큰 총공급량의 10%를 에어드랍으로 보상하고자 합니다."
+
+#: 
+msgid "Market Insights and Analytics"
+msgstr "시장 통찰력 및 분석"
+
+#: 
+msgid "Best DEX provides you with comprehensive market insights and in-depth token analytics, giving you the best chance to make the best trading decisions at the right time."
+msgstr "베스트 DEX는 종합적인 시장 통찰력 및 심층적인 토큰 분석을 제공하여, 사용자가 적기에 최선의 거래 결정을 내릴 수 있도록 돕습니다."
+
+#: 
+msgid "Convenience"
+msgstr "편의성"
+
+#: 
+msgid "What are the fees associated with using Best DEX?"
+msgstr "베스트 DEX 사용과 관련하여 수수료는 어떻게 되나요?"
+
+#: 
+msgid "Best Dex does not charge a usage fee. The only fees are determined by the specific liquidity pool and network gas fees."
+msgstr "베스트 DEX는 사용료를 부과하지 않습니다. 유일하게 부과되는 수수료는 특정 유동성 풀과 네트워크 가스비를 통해 책정됩니다."
+
+#: 
+msgid "Which chains does Best DEX support for decentralized trading?"
+msgstr "베스트 DEX가 탈중앙화 거래를 위해 지원하는 체인에는 어떤 것들이 있나요?"
+
+#: 
+msgid "Best DEX initially supports Ethereum, BNB Smart Chain, and Polygon networks. As we continue to grow, we plan to add support for all active major blockchains, broadening your trading options and opportunities."
+msgstr "베스트 DEX는 이더리움, BNB 스마트 체인, 폴리곤을 지원합니다. 향후에는 모든 메이저 블록체인들을 추가하여, 사용자에게 방대한 트레이딩 옵션과 기회를 제공할 예정입니다."
+
+#: 
+msgid "Does Best DEX require registration and KYC verification?"
+msgstr "베스트 DEX는 회원가입과 KYC 인증을 요구하나요?"
+
+#: 
+msgid "Best DEX does not require KYC verification to start trading. We prioritize user privacy and aim to provide a hassle-free onboarding experience. Simply connect your wallet and you’re ready to go."
+msgstr "베스트 DEX에서 거래를 시작하기 위해서는 KYC 인증이 필요하지 않습니다. 본사는 유저의 프라이버시를 우선시하고, 간편한 온보딩 경험을 제공하고자 합니다. 베스트 DEX는 간단히 지갑을 연결하여 사용할 수 있습니다."
+
+#: 
+msgid "Can I use Best DEX on my mobile phone?"
+msgstr "베스트 DEX를 스마트폰에서 사용할 수 있나요?"
+
+#: 
+msgid "There are multiple ways to access Best DEX on your mobile device:"
+msgstr "베스트 DEX를 스마트폰에서 사용할 수 있는 방법은 다양합니다:"
+
+#: 
+msgid "Mobile Web Browser"
+msgstr "모바일 웹 브라우저"
+
+#: 
+msgid "Simply visit https://bestdex.com the Best DEX platform through your mobile web browser to start trading cryptocurrencies on the go."
+msgstr "스마트폰 웹 브라우저에서 베스트 DEX 웹사이트 https://bestdex.com에 방문하여 암호화폐 트레이딩을 시작할 수 있습니다."
+
+#: 
+msgid "Best Wallet In-App 'Swap' Feature"
+msgstr "베스트 월렛 앱의 '스왑' 기능"
+
+#: 
+msgid "If you already have Best Wallet installed, you can access Best DEX directly through the in-app 'swap' feature. This integration provides you with a seamless and convenient trading experience within a single app."
+msgstr "이미 베스트 월렛을 설치했다면, 앱 내에서 '스왑' 기능을 통해 베스트 DEX에 접속할 수 있습니다. 이러한 연동성은 앱 내에서 원활하고 편리한 트레이딩 경험을 제공하게 됩니다."
+
+#: 
+msgid "Best Wallet dApp (Coming Soon)"
+msgstr "베스트 월렛 디앱 (곧 출시)"
+
+#: 
+msgid "In the near future, Best DEX will be available as a decentralized application (dApp) within Best Wallet, offering an even more integrated and user-friendly trading experience."
+msgstr "가까운 미래에, 베스트 DEX는 베스트 월렛에서 디앱의 형태로 출시될 예정입니다. 그에 따라 더 큰 연동성과 사용자 친화적인 거래 경험을 제공하게 될 겁니다."
+
+#: 
+msgid "What is the BEST token?"
+msgstr "BEST 토큰은 무엇인가요?"
+
+#: 
+msgid "The BEST token is the Best Ecosystem’s utility and governance token. Holding the token provides benefits to Best Wallet users such as advanced market analysis tools, no gas fees on swaps, and early access to new token launches and NFT drops."
+msgstr "BEST 토큰은 베스트 생태계의 유틸리티 및 거버넌스 토큰입니다. 토큰 보유자는 고급 시장 분석 도구, 무료 가스비, 신규 토큰 조기 접근, NFT 드랍 같은 혜택을 누릴 수 있습니다."
+
+#: 
+msgid "We are launching the BEST token at the end of Phase 6 of our roadmap and will reward our early adopters and power users with 10% of our total supply based on the points they have accumulated from using our app and spreading the word on socials. Learn more here"
+msgstr "BEST 토큰은 로드맵 마지막 6단계에서 출시될 예정입니다. 특히 앱을 꾸준히 사용하고 소셜 미디어 홍보 활동을 통해 축적된 포인트를 기반으로, 초기 사용자들과 파워 유저들에게 총공급량의 10%를 제공할 예정입니다."
+
+#: 
+msgid "How can I stay up to date on the latest news about Best DEX and the BEST token airdrop?"
+msgstr "베스트 DEX와 BEST 토큰 에어드랍에 대한 최신 소식은 어떻게 확인하나요?"
+
+#: 
+msgid "Follow our socials and join our community hubs here"
+msgstr "SNS 채널을 구독하고 커뮤니티 허브에 합류하세요."
+
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "$-"
+msgstr "$-"
+
+#: src/components/earn/PoolCard.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "${0}"
+msgstr "${0}"
+
+#: src/components/swap/TradePrice.tsx
+msgid "(${0})"
+msgstr "(${0})"
+
+#: src/components/CurrencyInputPanel/index.tsx
+msgid "(Max)"
+msgstr "(최대)"
+
+#: src/components/AddressInputPanel/index.tsx
+msgid "(View on Explorer)"
+msgstr "(탐색기로 보기)"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "(claim)"
+msgstr "(수령)"
+
+#: src/pages/Vote/Landing.tsx
+msgid "(edit)"
+msgstr "(변경)"
+
+#: src/pages/Swap/index.tsx
+msgid "- Remove recipient"
+msgstr "- 수신자 제거하기"
+
+#: src/components/earn/PoolCard.tsx
+#: src/components/earn/PoolCard.tsx
+#: src/pages/Earn/Manage.tsx
+#: src/pages/Earn/Manage.tsx
+msgid "0 UNI / week"
+msgstr "0 UNI / 주"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "25%"
+msgstr "25%"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "50%"
+msgstr "50%"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "75%"
+msgstr "75%"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "<0/> All Proposals"
+msgstr "<0/>모든 제안"
+
+#: src/pages/Vote/Landing.tsx
+#: src/pages/Vote/Landing.tsx
+msgid "<0/> Votes"
+msgstr "<0/>투표"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "<0>Current Price:</0><1><2/></1><3>{0} per {1}</3>"
+msgstr "<0>현재 가격: {1}</3> 당 </0><1><2/></1><3>{0}"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "<0>Tip:</0> Removing pool tokens converts your position back into underlying tokens at the current rate, proportional to your share of the pool. Accrued fees are included in the amounts you receive."
+msgstr "<0>팁:</0> 풀 토큰을 제거하면, 사용자 풀 지분에 비례하여 포지션을 기본 토큰으로 전환하고 현재 비율을 적용합니다. 적립된 수수료는 사용자가 받는 금액에 포함됩니다."
+
+#: src/pages/CreateProposal/index.tsx
+msgid "<0>Tip:</0> Select an action and describe your proposal for the community. The proposal cannot be modified after submission, so please verify all information before submitting. The voting period will begin immediately and last for 7 days. To propose a custom action, ."
+msgstr "<0>팁:</0> 액션을 선택하고 커뮤니티에게 제안을 설명하십시오. 제안은 제출된 이후에 수정될 수 없습니다. 따라서 모든 내용을 제출하기 전에 검토하십시오. 투표 기간은 즉시 시작되며 7일 동안 지속됩니다. 맞춤형 액션을 제안하려면,."
+
+#: src/pages/PoolFinder/index.tsx
+msgid "<0>Tip:</0> Use this tool to find pools that don't automatically appear in the interface."
+msgstr "<0>팁:</0> 이 도구를 사용하여 인터페이스에 자동으로 표기되지 않은 풀을 찾으세요."
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "<0>Tip:</0> When you add liquidity, you will receive pool tokens representing your position. These tokens automatically earn fees proportional to your share of the pool, and can be redeemed at any time."
+msgstr "<0>팁:</0> 유동성을 추가하면 사용자의 포지션을 나타내는 풀 토큰을 받게 됩니다. 이 토큰은 사용자의 풀 지분에 비례하여 자동으로 수수료를 받습니다. 그리고 언제든지 교환할 수 있습니다."
+
+#: src/pages/Vote/VotePage.tsx
+msgid "<0>Unlock voting</0> to prepare for the next proposal."
+msgstr "<0>투표 잠금 해제</0>를 통해 다음 제안을 준비하세요."
+
+#: src/components/claim/ClaimModal.tsx
+msgid "<0>🎉 </0>Welcome to team Unicorn :) <1>🎉</1>"
+msgstr "<0>🎉 </0>팀 유니콘에 오신 것을 환영합니다 :) <1>🎉</1>"
+
+#: src/pages/Vote/Landing.tsx
+msgid "A minimum threshold of 0.25% of the total UNI supply is required to submit proposals"
+msgstr "제안서를 제출하려면, UNI 총공급량의 최소 0.25%에 달하는 임계값이 필요합니다"
+
+#: src/components/swap/SwapModalHeader.tsx
+msgid "Accept"
+msgstr "받기"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Account"
+msgstr "계정"
+
+#: src/components/SearchModal/ImportRow.tsx
+#: src/pages/Vote/styled.tsx
+msgid "Active"
+msgstr "활성화"
+
+#: src/components/PositionCard/index.tsx
+#: src/pages/AddLiquidity/index.tsx
+msgid "Add"
+msgstr "추가"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Add <0/> and <1/> to BestDex V2"
+msgstr "BestDex V2에 <0/> 및 <1/> 추가"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Add Delegate +"
+msgstr "위임 추가 +"
+
+#: src/components/NavigationTabs/index.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/Pool/v2.tsx
+msgid "Add Liquidity"
+msgstr "유동성 추가"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Add liquidity."
+msgstr "유동성 추가하기."
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Add more liquidity"
+msgstr "유동성 더 추가하기"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Add {0} token to Metamask <0/>"
+msgstr "메타마스크 <0/>에 {0} 토큰 추가"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Add {0}-{1} liquidity"
+msgstr "{0}-{1} 유동성 추가"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Add {0}/{1} V3 liquidity"
+msgstr "{0}/{1} V3 유동성 추가"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Added {0} token to Metamask"
+msgstr "메타마스크에 {0} 토큰 추가"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "Address has no available claim"
+msgstr "해당 주소는 수령 가능한 토큰이 없습니다"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Against"
+msgstr "반대"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Allow LP token migration"
+msgstr "LP 토큰 마이그레이션 허용"
+
+#: src/components/Settings/index.tsx
+msgid "Allow high price impact trades and skip the confirm screen. Use at your own risk."
+msgstr "높은 프라이스 임팩트 거래 허용 및 확인 화면 건너뛰기. 스스로 책임지고 사용하세요."
+
+#: src/pages/Swap/index.tsx
+msgid "Allow the BestDex Protocol to use your {0}"
+msgstr "베스트 DEX 프로토콜의 {0} 사용을 허용합니다."
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Allowed"
+msgstr "허용됨"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Allowed Slippage"
+msgstr "허용된 슬리피지"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Amount"
+msgstr "총액"
+
+#: src/components/earn/StakingModal.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Approve"
+msgstr "승인"
+
+#: src/pages/CreateProposal/ProposalActionSelector.tsx
+msgid "Approve Token"
+msgstr "토큰 승인"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Approve {0}"
+msgstr "{0} 승인"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Approved"
+msgstr "승인됨"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Approving"
+msgstr "승인 중"
+
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Approving {0}"
+msgstr "{0} 승인 중"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Arbiscan"
+msgstr "아비스캔"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Arbitrum Bridge"
+msgstr "아비트럼 브릿지"
+
+#: src/components/DowntimeWarning/index.tsx
+msgid "Arbitrum is in Beta and may experience downtime. During downtime, your position will not earn fees and you will be unable to remove liquidity. <0>Read more.</0>"
+msgstr "아비트럼은 베타버전이며 다운타임이 발생할 수도 있습니다. 다운타임 동안 귀하의 포지션은 수수료를 얻지 않고 유동성을 제거할 수 없습니다. <0>자세히 알아보기.</0>"
+
+#: src/components/Settings/index.tsx
+msgid "Are you sure?"
+msgstr "확실한가요?"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "As a member of the BestDex community you may claim UNI to be used for voting and governance.<0/><1/>"
+msgstr "베스트DEX 커뮤니티 멤버로서 투표 및 거버넌스 목적으로 UNI를 수령할 수 있습니다.<0/><1/>"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "At least {0} {1} and {2} {3} will be refunded to your wallet due to selected price range."
+msgstr "선택한 가격대로 인해 다음 금액이 환불됩니다: 최소{0}{1} 및 {2}{3}"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Auto"
+msgstr "자동"
+
+#: src/components/earn/StakingModal.tsx
+msgid "Available to deposit: {0}"
+msgstr "사용 가능한 보유 금액: {0}"
+
+#: src/pages/Earn/Manage.tsx
+msgid "BD LP LP tokens are required. Once you've added liquidity to the {0}-{1} pool you can stake your liquidity tokens on this page."
+msgstr "BD LP LP 토큰이 필요합니다. {0}-{1} 풀에 유동성을 추가하면, 이 페이지에서 유동성 토큰을 스테이킹할 수 있습니다."
+
+#: src/pages/Earn/Manage.tsx
+msgid "BD LP {0}-{1}"
+msgstr "BD LP {0}-{1}"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "BD LP {0}/{1} Burned"
+msgstr "BD LP {0}/{1} 소각됨"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "Balance:"
+msgstr "잔액:"
+
+#: src/components/CurrencyInputPanel/index.tsx
+msgid "Balance: {0} {1}"
+msgstr "잔액: {0} {1}"
+
+#: src/components/FeeSelector/shared.tsx
+msgid "Best for exotic pairs."
+msgstr "외환 거래 쌍에 최적"
+
+#: src/components/FeeSelector/shared.tsx
+msgid "Best for most pairs."
+msgstr "인기 거래 쌍에 최적"
+
+#: src/components/FeeSelector/shared.tsx
+msgid "Best for stable pairs."
+msgstr "스테이블 거래 쌍에 최적"
+
+#: src/components/FeeSelector/shared.tsx
+msgid "Best for very stable pairs."
+msgstr "매우 스테이블 거래 쌍에 최적"
+
+#: src/components/SwitchLocaleLink/index.tsx
+msgid "BestDex available in: <0>{0}</0>"
+msgstr "베스트DEX 사용 가능: <0>{0}</0>"
+
+#: src/components/vote/ProposalEmptyState.tsx
+msgid "BestDex governance is only available on Layer 1. Switch your network to Ethereum Mainnet to view Proposals and Vote."
+msgstr "베스트DEX 가버넌스는 레이어1에서만 가능합니다. 네트워크를 이더리움 메인넷으로 전환하여 제안을 보고 투표하세요."
+
+#: src/pages/Earn/index.tsx
+msgid "BestDex liquidity mining"
+msgstr "벡스트DEX 유동성 채굴"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "BestDex migration contract↗"
+msgstr "베스트Dex 마이그레이션 계약↗"
+
+#: src/components/NetworkAlert/NetworkAlert.tsx
+msgid "BestDex on {0}"
+msgstr "베스트DEX {0}"
+
+#: src/components/Blocklist/index.tsx
+msgid "Blocked address"
+msgstr "차단된 주소"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Bridge"
+msgstr "브리지"
+
+#: src/components/PositionCard/index.tsx
+msgid "By adding liquidity you'll earn 0.3% of all trades on this pair proportional to your share of the pool. Fees are added to the pool, accrue in real time and can be claimed by withdrawing your liquidity."
+msgstr "유동성을 추가하면, 사용자의 풀 지분에 비례하여 해당 거래 쌍과 관련된 모든 거래의 0.3%를 받게 됩니다. 수수료는 풀에 추가되고 실시간으로 축적됩니다. 이는 유동성을 출금하여 수령할 수 있습니다."
+
+#: src/components/SearchModal/ImportList.tsx
+msgid "By adding this list you are implicitly trusting that the data is correct. Anyone can create a list, including creating fake versions of existing lists and lists that claim to represent projects that do not have one."
+msgstr "이 목록을 추가하는 것은 귀하가 해당 데이터의 정확성을 암묵적으로 신뢰한다는 것을 의미합니다. 목록은 누구나 생성할 수 있으며, 여기에는 현존하는 목록의 가짜 버전, 존재하지 않는 프로젝트 목록 또한 포함될 수 있습니다."
+
+#: src/pages/Vote/styled.tsx
+msgid "Canceled"
+msgstr "취소됨"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Change"
+msgstr "변경"
+
+#: src/components/Header/ChainConnectivityWarning.tsx
+msgid "Check network status"
+msgstr "네트워크 상태 확인"
+
+#: src/pages/Pool/CTACards.tsx
+msgid "Check out our v3 LP walkthrough and migration guides."
+msgstr "v3 LP 소개 및 마이그레이션 가이드를 확인하세요."
+
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/pages/Earn/Manage.tsx
+msgid "Claim"
+msgstr "클레임"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Claim <0/> for {0}"
+msgstr "{0}로 <0/> 클레임하기"
+
+#: src/components/Header/index.tsx
+msgid "Claim BD LP"
+msgstr "클레임"
+
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+msgid "Claim UNI"
+msgstr "UNI 클레임"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "Claim UNI Token"
+msgstr "UNI 토큰 클레임"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Claim UNI reward for {0}"
+msgstr "{0} UNI 보상 클레임"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Claim fees"
+msgstr "클레임 수수료"
+
+#: src/components/Popups/ClaimPopup.tsx
+msgid "Claim your UNI tokens"
+msgstr "내 UNI 토큰 클레임하기"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "Claimed"
+msgstr "클레임된"
+
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/UnstakingModal.tsx
+msgid "Claimed UNI!"
+msgstr "클레임된 UNI!"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "Claimed!"
+msgstr "클레임 됨!"
+
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+msgid "Claiming"
+msgstr "클레임"
+
+#: src/components/Header/index.tsx
+msgid "Claiming BD LP"
+msgstr "클레임"
+
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/UnstakingModal.tsx
+msgid "Claiming {0} UNI"
+msgstr "{0} UNI 클레임"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Clear All"
+msgstr "모두 지우기"
+
+#: src/components/SearchModal/ManageTokens.tsx
+msgid "Clear all"
+msgstr "모두 지우기"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Close"
+msgstr "닫기"
+
+#: src/components/Badge/RangeBadge.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Closed"
+msgstr "닫음"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collect"
+msgstr "콜렉트"
+
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Collect as {0}"
+msgstr "{0}로 콜렉트"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collect fees"
+msgstr "수수료 콜렉트"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Collect {0}/{1} fees"
+msgstr "{0}/{1} 수수료 콜렉트"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collected"
+msgstr "콜렉트 됨"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collecting"
+msgstr "콜렉트 중"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collecting fees"
+msgstr "수수료 콜렉트 중"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collecting fees will withdraw currently available fees for you."
+msgstr "수수료 콜렉트를 통해 현재 회수 가능한 수수료를 인출합니다."
+
+#: src/components/SearchModal/CommonBases.tsx
+msgid "Common bases"
+msgstr "공통 기초"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Confirm"
+msgstr "확인"
+
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+msgid "Confirm Supply"
+msgstr "공급 확인"
+
+#: src/components/swap/ConfirmSwapModal.tsx
+#: src/components/swap/SwapModalFooter.tsx
+msgid "Confirm Swap"
+msgstr "스왑 확인"
+
+#: src/components/ModalViews/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "Confirm this transaction in your wallet"
+msgstr "이 트랜잭션을 귀하의 지갑에서 확인하세요"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Confirm transaction in wallet"
+msgstr "지갑에서 트랜잭션 확인하기"
+
+#: src/components/Web3Status/index.tsx
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+#: src/pages/Swap/index.tsx
+#: src/state/burn/hooks.tsx
+#: src/state/burn/v3/hooks.tsx
+#: src/state/mint/hooks.tsx
+#: src/state/mint/v3/hooks.tsx
+#: src/state/stake/hooks.tsx
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Connect Wallet"
+msgstr "지갑 연결하기"
+
+#: src/components/WalletModal/index.tsx
+#: src/components/earn/UnstakingModal.tsx
+#: src/pages/Pool/index.tsx
+msgid "Connect a wallet"
+msgstr "지갑 연결하기"
+
+#: src/components/WalletModal/index.tsx
+msgid "Connect to Best Wallet"
+msgstr "베스트 월렛 지갑 연결하기"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Connect to a wallet to find pools"
+msgstr "지갑 연결하여 풀 찾기"
+
+#: src/pages/MigrateV2/index.tsx
+#: src/pages/Pool/v2.tsx
+msgid "Connect to a wallet to view your liquidity."
+msgstr "지갑 연결하여 유동성 확인하기."
+
+#: src/components/AccountDetails/index.tsx
+msgid "Connected with {name}"
+msgstr "{name} 연결됨"
+
+#: src/components/WalletModal/PendingView.tsx
+msgid "Connection Error"
+msgstr "연결 오류"
+
+#: src/components/AccountDetails/Copy.tsx
+msgid "Copied"
+msgstr "복사됨"
+
+#: src/components/AccountDetails/index.tsx
+#: src/components/AccountDetails/index.tsx
+msgid "Copy Address"
+msgstr "주소 복사"
+
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+msgid "Create Pool & Supply"
+msgstr "풀 & 공급 생성"
+
+#: src/pages/CreateProposal/index.tsx
+#: src/pages/Vote/Landing.tsx
+msgid "Create Proposal"
+msgstr "제안 생성"
+
+#: src/components/NavigationTabs/index.tsx
+#: src/pages/Pool/v2.tsx
+msgid "Create a pair"
+msgstr "페어 생성"
+
+#: src/pages/Pool/index.tsx
+msgid "Create a pool"
+msgstr "풀 생성"
+
+#: src/components/ErrorBoundary/index.tsx
+msgid "Create an issue on GitHub"
+msgstr "깃허브에 이슈 생성"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Create pool and add {0}/{1} V3 liquidity"
+msgstr "풀 생성하고 {0}/{1} V3 유동성 추가"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Create pool."
+msgstr "풀 생성."
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Create {0}/{1} V3 pool"
+msgstr "{0}/{1} V3 풀 생성"
+
+#: src/components/PositionPreview/index.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "Current price"
+msgstr "현재 가격"
+
+#: src/pages/Pool/v2.tsx
+msgid "Current version is not available on Layer 2. Switch to Layer 1 Ethereum."
+msgstr "현재 버전은 레이어2에서 사용할 수 없습니다. 레이어1 이더리움으로 전환해 주세요."
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Current {0} Price:"
+msgstr "현재 {0} 가격:"
+
+#: src/pages/Vote/styled.tsx
+msgid "Defeated"
+msgstr "기각"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Delegate Votes"
+msgstr "투표 위임"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Delegate voting power to {0}"
+msgstr "{0}에게 투표권 위임"
+
+#: src/pages/Vote/Landing.tsx
+msgid "Delegated to:"
+msgstr "위임 대상자:"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Delegating votes"
+msgstr "투표 위임"
+
+#: src/components/earn/PoolCard.tsx
+#: src/components/earn/StakingModal.tsx
+#: src/components/earn/StakingModal.tsx
+#: src/pages/Earn/Manage.tsx
+msgid "Deposit"
+msgstr "보유"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Deposit Amounts"
+msgstr "보유 금액"
+
+#: src/components/NetworkAlert/NetworkAlert.tsx
+msgid "Deposit Assets"
+msgstr "보유 자산"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Deposit BD LP LP Tokens"
+msgstr "토큰 입금하기"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Deposit liquidity"
+msgstr "보유 유동성"
+
+#: src/pages/Earn/index.tsx
+msgid "Deposit your Liquidity Provider tokens to receive UNI, the BestDex protocol governance token."
+msgstr "유동성 공급자 토큰을 예치하여 베스트DEX 프로토콜의 거버넌스 토큰 UNI를 받으세요."
+
+#: src/components/earn/UnstakingModal.tsx
+msgid "Deposited liquidity:"
+msgstr "보유 유동성:"
+
+#: src/components/earn/StakingModal.tsx
+msgid "Deposited {0} BD LP"
+msgstr "보유한 {0} BP LP"
+
+#: src/components/earn/StakingModal.tsx
+msgid "Depositing Liquidity"
+msgstr "유동성 예치"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Description"
+msgstr "설명"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Detailed"
+msgstr "상세"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Details"
+msgstr "디테일"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Disconnect"
+msgstr "연결 끊기"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Dismiss"
+msgstr "거부"
+
+#: src/pages/MigrateV2/index.tsx
+msgid "Don’t see one of your v2 positions? <0>Import it.</0>"
+msgstr "v2 포지션이 보이지 않나요? <0>가져오기.</0>"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Earned UNI tokens represent voting shares in BestDex governance."
+msgstr "획득한 UNI 토큰은 베스트DEX 거버넌스에서 투표 지분을 나타냅니다."
+
+#: src/components/FeeSelector/index.tsx
+msgid "Edit"
+msgstr "편집"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Efficiency Comparison"
+msgstr "효율성 비교"
+
+#: src/state/burn/v3/hooks.tsx
+msgid "Enter a percent"
+msgstr "퍼센트 입력"
+
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Enter a recipient"
+msgstr "수신자 입력"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Enter a valid slippage percentage"
+msgstr "유효한 슬리피지 비율을 입력하세요"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "Enter an address to trigger a UNI claim. If the address has any claimable UNI it will be sent to them on submission."
+msgstr "UNI 수령을 위해 주소를 입력하세요. 만약 해당 주소에 수령 가능한 UNI가 있다면 제출 이후 송금될 것입니다."
+
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/UnstakingModal.tsx
+#: src/state/burn/hooks.tsx
+#: src/state/mint/hooks.tsx
+#: src/state/mint/v3/hooks.tsx
+#: src/state/stake/hooks.tsx
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Enter an amount"
+msgstr "금액을 입력하세요"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Enter valid list location"
+msgstr "유효한 목록 위치를 입력하세요"
+
+#: src/components/SearchModal/ManageTokens.tsx
+msgid "Enter valid token address"
+msgstr "유효한 토큰 주소를 입력하세요"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/Web3Status/index.tsx
+msgid "Error"
+msgstr "오류"
+
+#: src/components/WalletModal/index.tsx
+msgid "Error connecting"
+msgstr "연결 오류"
+
+#: src/components/WalletModal/index.tsx
+msgid "Error connecting. Try refreshing the page."
+msgstr "연결하는 동안 오류가 발생했습니다. 페이지를 새로고침 하세요."
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Error importing list"
+msgstr "목록을 가져오는 중에 오류 발생"
+
+#: src/pages/Vote/styled.tsx
+msgid "Executed"
+msgstr "실행됨"
+
+#: src/components/SearchModal/CurrencyList.tsx
+msgid "Expanded results from inactive Token Lists"
+msgstr "비활성 토큰 목록의 모든 결과"
+
+#: src/components/Settings/index.tsx
+msgid "Expert Mode"
+msgstr "전문가 모드"
+
+#: src/components/Settings/index.tsx
+msgid "Expert mode turns off the confirm transaction prompt and allows high slippage trades that often result in bad rates and lost funds."
+msgstr "전문가 모드는 트랜잭션 확인 프롬프트를 끄고, 큰 손실로 이어질 수 있는 높은 슬리피지 거래를 허용합니다."
+
+#: src/pages/Vote/styled.tsx
+msgid "Expired"
+msgstr "만료됨"
+
+#: src/pages/Pool/CTACards.tsx
+msgid "Explore popular pools on BestDex Analytics."
+msgstr "베스트DEX 애널리틱스의 인기 풀 탐색하기."
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Explorer"
+msgstr "익스플로러"
+
+#: src/components/PositionPreview/index.tsx
+msgid "Fee Tier"
+msgstr "수수료 등급"
+
+#: src/components/FeeSelector/index.tsx
+msgid "Fee tier"
+msgstr "수수료 등급"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "For"
+msgstr "For"
+
+#: src/pages/MigrateV2/index.tsx
+msgid "For each pool shown below, click migrate to remove your liquidity from BestDex V2 and deposit it into BestDex V3."
+msgstr "아래 표기된 풀에서 마이그레이트 버튼을 클릭하여 베스트DEX V2에서 유동성을 제거하고, 베스트DEX V3으로 예치할 수 있습니다."
+
+#: src/components/swap/SwapModalHeader.tsx
+#: src/pages/Swap/index.tsx
+msgid "From"
+msgstr "From"
+
+#: src/pages/Swap/index.tsx
+msgid "From (at most)"
+msgstr "From (최대)"
+
+#: src/components/RangeSelector/PresetsButtons.tsx
+msgid "Full Range"
+msgstr "전체 범위"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Full range positions may earn less fees than concentrated positions. Learn more <0>here</0>."
+msgstr "전체 범위 포지션은 부분 포지션보다 더 적은 수수료가 들 수 있습니다. <0>자세한 내용 보기</0>."
+
+#: src/components/ErrorBoundary/index.tsx
+msgid "Get support on Discord"
+msgstr "디스코드에서 지원 받기"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Help Center"
+msgstr "지원 센터"
+
+#: src/components/FeeSelector/index.tsx
+msgid "Hide"
+msgstr "숨기기"
+
+#: src/pages/Swap/index.tsx
+msgid "High Price Impact"
+msgstr "높은 프라이스 임팩트"
+
+#: src/components/SearchModal/ImportList.tsx
+#: src/pages/AddLiquidity/index.tsx
+msgid "I understand"
+msgstr "이해했습니다"
+
+#: src/components/SearchModal/ImportList.tsx
+msgid "If you purchase a token from this list, you may not be able to sell it back."
+msgstr "만약 이 목록에서 토큰을 구매할 경우, 재판매가 불가능할 수도 있습니다."
+
+#: src/components/SearchModal/BlockedToken.tsx
+#: src/components/SearchModal/ImportList.tsx
+#: src/components/SearchModal/ImportRow.tsx
+#: src/components/SearchModal/ImportToken.tsx
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Import"
+msgstr "가져오기"
+
+#: src/components/SearchModal/ImportList.tsx
+msgid "Import List"
+msgstr "가져온 목록"
+
+#: src/components/NavigationTabs/index.tsx
+#: src/pages/Pool/v2.tsx
+msgid "Import Pool"
+msgstr "풀 가져오기"
+
+#: src/components/SearchModal/ImportList.tsx
+msgid "Import at your own risk"
+msgstr "내 위험 부담으로 가져오기"
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "In range"
+msgstr "범위 내"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Increase Liquidity"
+msgstr "유동성 증가"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Initial prices and pool share"
+msgstr "초기 가격 및 풀 점유율"
+
+#: src/components/WalletModal/PendingView.tsx
+msgid "Initializing..."
+msgstr "초기화 중..."
+
+#: src/components/swap/SwapModalHeader.tsx
+msgid "Input is estimated. You will sell at most <0>{0} {1}</0> or the transaction will revert."
+msgstr "이 입력값은 예상치입니다. 최대 <0>{0}{1}</0>로 판매하거나 거래가 취소될 수 있습니다."
+
+#: src/components/WalletModal/index.tsx
+msgid "Install Metamask"
+msgstr "메타마스크 설치"
+
+#: src/pages/Swap/index.tsx
+msgid "Insufficient liquidity for this trade."
+msgstr "본 거래를 위한 유동성이 불충분합니다."
+
+#: src/state/mint/hooks.tsx
+#: src/state/mint/hooks.tsx
+#: src/state/mint/v3/hooks.tsx
+#: src/state/mint/v3/hooks.tsx
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Insufficient {0} balance"
+msgstr "{0} 잔액 불충분"
+
+#: src/components/Settings/index.tsx
+msgid "Interface Settings"
+msgstr "인터페이스 설정"
+
+#: src/state/mint/hooks.tsx
+#: src/state/mint/v3/hooks.tsx
+msgid "Invalid pair"
+msgstr "잘못된 페어입니다."
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Invalid pair."
+msgstr "잘못된 페어입니다."
+
+#: src/state/mint/v3/hooks.tsx
+msgid "Invalid price input"
+msgstr "잘못된 가격 입력입니다."
+
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Invalid range selected. The min price must be lower than the max price."
+msgstr "잘못된 범위 설정입니다. 최소 가격은 최대 가격 보다 낮아야 합니다."
+
+#: src/hooks/useSwapCallback.tsx
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Invalid recipient"
+msgstr "잘못된 수신자."
+
+#: src/components/Header/index.tsx
+msgid "Join the Best Wallet Waitlist to participate in the BEST Airdrop"
+msgstr "베스트 월렛 대기명단에 합류하여 베스트 에어드랍에 참여하세요"
+
+#: src/components/Menu/index.tsx
+msgid "Language"
+msgstr "언어"
+
+#: src/components/NetworkAlert/NetworkAlert.tsx
+msgid "Learn More"
+msgstr "더 알아보기"
+
+#: src/pages/Pool/CTACards.tsx
+msgid "Learn about providing liquidity"
+msgstr "유동성 공급에 대해 알아보기"
+
+#: src/components/PrivacyPolicy/index.tsx
+#: src/components/PrivacyPolicy/index.tsx
+#: src/components/WalletModal/index.tsx
+msgid "Learn more"
+msgstr "더 알아보기"
+
+#: src/components/PrivacyPolicy/index.tsx
+#: src/components/WalletModal/index.tsx
+msgid "Legal & Privacy"
+msgstr "법률 & 개인정보 보호"
+
+#: src/components/claim/ClaimModal.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "Liquidity"
+msgstr "유동성"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Liquidity Provider Fee"
+msgstr "유동성 공급자 수수료"
+
+#: src/pages/Pool/v2.tsx
+msgid "Liquidity provider rewards"
+msgstr "유동성 공급자 보상"
+
+#: src/pages/Pool/v2.tsx
+msgid "Liquidity providers earn a 0.3% fee on all trades proportional to their share of the pool. Fees are added to the pool, accrue in real time and can be claimed by withdrawing your liquidity."
+msgstr "유동성 공급자는 사용자의 풀 지분에 비례하여 모든 거래의 수수료 0.3%를 받게 됩니다. 수수료는 풀에 추가되고 실시간으로 축적됩니다. 이는 유동성을 출금하여 수령할 수 있습니다."
+
+#: src/components/SearchModal/Manage.tsx
+msgid "Lists"
+msgstr "목록"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Loaded"
+msgstr "로드됨"
+
+#: src/components/PositionCard/Sushi.tsx
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/MigrateV2/index.tsx
+#: src/pages/Pool/v2.tsx
+#: src/pages/PoolFinder/index.tsx
+#: src/pages/Swap/index.tsx
+msgid "Loading"
+msgstr "로딩"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/V2.tsx
+#: src/components/SearchModal/Manage.tsx
+#: src/components/earn/PoolCard.tsx
+msgid "Manage"
+msgstr "관리"
+
+#: src/components/PositionCard/index.tsx
+msgid "Manage Liquidity in Rewards Pool"
+msgstr "보상 풀 유동성 관리"
+
+#: src/components/SearchModal/CurrencySearch.tsx
+msgid "Manage Token Lists"
+msgstr "토큰 목록 관리"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Manage this pool."
+msgstr "이 풀 관리"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Max"
+msgstr "최대"
+
+#: src/components/PositionPreview/index.tsx
+#: src/components/RangeSelector/index.tsx
+msgid "Max Price"
+msgstr "최대 가격"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Max price"
+msgstr "최대 가격"
+
+#: src/components/PositionListItem/index.tsx
+msgid "Max:"
+msgstr "최대:"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Maximum sent"
+msgstr "보낸 최대 금액"
+
+#: src/components/Menu/index.tsx
+msgid "Menu"
+msgstr "메뉴"
+
+#: src/components/PositionCard/Sushi.tsx
+#: src/components/PositionCard/V2.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/Pool/index.tsx
+msgid "Migrate"
+msgstr "마이그레이트"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/MigrateV2/index.tsx
+#: src/pages/Pool/index.tsx
+msgid "Migrate Liquidity"
+msgstr "유동성 마이그레이트"
+
+#: src/pages/MigrateV2/index.tsx
+msgid "Migrate your liquidity tokens from BestDex V2 to BestDex V3."
+msgstr "유동성 토큰을 베스트DEX V2에서 베스트DEX V3로 이전하세요."
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Migrate {0}/{1} liquidity to V3"
+msgstr "{0}/{1} 유동성 V3으로 이전하기"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Migrating"
+msgstr "마이그레이팅"
+
+#: src/components/PositionPreview/index.tsx
+#: src/components/RangeSelector/index.tsx
+msgid "Min Price"
+msgstr "최소 가격"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Min price"
+msgstr "최소 가격"
+
+#: src/components/PositionListItem/index.tsx
+msgid "Min:"
+msgstr "최소:"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Minimum received"
+msgstr "받은 최소 금액"
+
+#: src/hooks/useSwapCallback.tsx
+msgid "Missing dependencies"
+msgstr "의존성 누락"
+
+#: src/pages/Pool/index.tsx
+msgid "More"
+msgstr "더"
+
+#: src/components/Header/ChainConnectivityWarning.tsx
+msgid "Network Warning"
+msgstr "네트워크 경고"
+
+#: src/pages/Pool/index.tsx
+msgid "New Position"
+msgstr "새 포지션"
+
+#: src/pages/MigrateV2/index.tsx
+msgid "No V2 Liquidity found."
+msgstr "발견된 V2 유동성 없음"
+
+#: src/pages/Earn/index.tsx
+#: src/pages/Earn/index.tsx
+msgid "No active pools"
+msgstr "활성화 풀 없음"
+
+#: src/components/FeeSelector/FeeTierPercentageBadge.tsx
+msgid "No data"
+msgstr "데이터 없음"
+
+#: src/state/governance/hooks.ts
+msgid "No description."
+msgstr "설명 없음"
+
+#: src/pages/Pool/v2.tsx
+msgid "No liquidity found."
+msgstr "발견된 유동성 없음"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "No pool found."
+msgstr "발견된 풀 없음"
+
+#: src/components/vote/ProposalEmptyState.tsx
+msgid "No proposals found."
+msgstr "발견된 제안 없음"
+
+#: src/pages/Home/index.tsx
+msgid "No registration needed. Over 400 tokens to trade at your fingertips."
+msgstr "회원 가입 없이 사용 가능합니다. 400개 이상의 토큰을 간편하게 거래하세요."
+
+#: src/components/SearchModal/CurrencySearch.tsx
+msgid "No results found."
+msgstr "결과 없음"
+
+#: src/components/FeeSelector/FeeTierPercentageBadge.tsx
+msgid "Not created"
+msgstr "생성되지 않음"
+
+#: src/components/Toggle/ListToggle.tsx
+msgid "OFF"
+msgstr "끄기"
+
+#: src/components/Toggle/ListToggle.tsx
+msgid "ON"
+msgstr "켜기"
+
+#: src/components/Settings/index.tsx
+msgid "ONLY USE THIS MODE IF YOU KNOW WHAT YOU ARE DOING!"
+msgstr "이 모드에 대해 충분히 이해하고 사용하세요!"
+
+#: src/components/Toggle/index.tsx
+msgid "Off"
+msgstr "끄기"
+
+#: src/components/Toggle/index.tsx
+msgid "On"
+msgstr "켜기"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Once you are happy with the rate click supply to review."
+msgstr "비용이 마음에 든다면 공급을 클릭하고 검토하세요."
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Only UNI votes that were self delegated or delegated to another address before block {0} are eligible for voting."
+msgstr "블록 {0} 이전에 자체 위임되거나 다른 주소로 위임된 UNI 투표만이 자격을 가집니다."
+
+#: src/components/Web3ReactManager/index.tsx
+msgid "Oops! An unknown error occurred. Please refresh the page, or visit from another browser or device."
+msgstr "웁스! 알 수 없는 에러가 발생했습니다. 페이지를 새로고침하거나 다른 브라우저 또는 기기로 방문하세요."
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Optimism Gateway"
+msgstr "옵티미즘 게이트웨이"
+
+#: src/components/DowntimeWarning/index.tsx
+msgid "Optimistic Ethereum is in Beta and may experience downtime. Optimism expects planned downtime to upgrade the network in the near future. During downtime, your position will not earn fees and you will be unable to remove liquidity. <0>Read more.</0>"
+msgstr "옵티미스틱 이더리움은 베타버전이며 다운타임이 발생할 수도 있습니다. 이것은 가까운 미래에 네트워크를 업그레이드 하기 위한 계획된 다운타임일 수도 있습니다. 다운타임 동안 귀하의 포지션은 수수료를 얻지 않고 유동성을 제거할 수 없습니다. <0>자세히 알아보기.</0>"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Optimistic Etherscan"
+msgstr "옵티미스틱 이더스캔"
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "Out of range"
+msgstr "범위를 벗어났음"
+
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Output is estimated. If the price changes by more than {0}% your transaction will revert."
+msgstr "본 결과는 예상치입니다. 만약 가격이 {0}% 이상 변경되면 거래는 취소됩니다."
+
+#: src/components/swap/SwapModalHeader.tsx
+msgid "Output is estimated. You will receive at least <0>{0} {1}</0> or the transaction will revert."
+msgstr "본 결과는 예상치입니다. 얻게 되는 최소 값은 <0>{0}{1}</0>이며 또는 거래가 취소될 수 있습니다."
+
+#: src/components/swap/SwapModalHeader.tsx
+msgid "Output will be sent to <0>{0}</0>"
+msgstr "결과는 <0>{0}</0>에게 전송될 겁니다."
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Owner"
+msgstr "소유자"
+
+#: src/pages/Earn/index.tsx
+msgid "Participating pools"
+msgstr "참여 중인 풀"
+
+#: src/pages/Vote/styled.tsx
+msgid "Pending"
+msgstr "보류 중"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Please confirm you would like to remove this list by typing REMOVE"
+msgstr "이 목록을 삭제하고 싶다면 REMOVE를 입력하여 확인해 주세요."
+
+#: src/components/vote/ProposalEmptyState.tsx
+msgid "Please connect to Layer 1 Ethereum"
+msgstr "레이어1 이더리움에 연결하십시오"
+
+#: src/components/WalletModal/index.tsx
+msgid "Please connect to the appropriate Ethereum network."
+msgstr "적합한 이더리움 네트워크에 연결하십시오."
+
+#: src/components/Settings/index.tsx
+msgid "Please type the word \"{confirmWord}\" to enable expert mode."
+msgstr "\"{confirmWord}\"를 입력하여 전문가 모드를 활성화 하십시오."
+
+#: src/components/Header/index.tsx
+#: src/components/NavigationTabs/index.tsx
+msgid "Pool"
+msgstr "풀"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Pool Found!"
+msgstr "풀 발견 됨!"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Pool Rate"
+msgstr "풀 비율"
+
+#: src/components/earn/PoolCard.tsx
+msgid "Pool rate"
+msgstr "풀 비율"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+msgid "Pool tokens in rewards pool:"
+msgstr "보상 풀의 풀 토큰:"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+#: src/components/PositionCard/index.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Pooled {0}:"
+msgstr "풀 투입 {0}:"
+
+#: src/pages/Pool/index.tsx
+msgid "Pools Overview"
+msgstr "풀 개요"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Preview"
+msgstr "미리 보기"
+
+#: src/components/swap/SwapModalHeader.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Price"
+msgstr "가격"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Price Difference:"
+msgstr "가격 차이:"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Price Impact"
+msgstr "프라이스 임팩트"
+
+#: src/pages/Swap/index.tsx
+msgid "Price Impact Too High"
+msgstr "프라이스 임팩트 너무 높음"
+
+#: src/components/swap/SwapModalHeader.tsx
+msgid "Price Updated"
+msgstr "가격 업데이트 됨"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Price range"
+msgstr "가격 범위"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Price:"
+msgstr "가격:"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Prices and pool share"
+msgstr "가격 및 풀 지분"
+
+#: src/pages/CreateProposal/ProposalEditor.tsx
+msgid "Proposal"
+msgstr "제안"
+
+#: src/pages/CreateProposal/ProposalSubmissionModal.tsx
+msgid "Proposal Submitted"
+msgstr "제출된 제안"
+
+#: src/pages/CreateProposal/ProposalEditor.tsx
+msgid "Proposal Title"
+msgstr "제안 제목"
+
+#: src/pages/Vote/Landing.tsx
+msgid "Proposals"
+msgstr "제안"
+
+#: src/components/vote/ProposalEmptyState.tsx
+msgid "Proposals submitted by community members will appear here."
+msgstr "커뮤니티 회원이 제출한 제안은 이곳에 표기됩니다."
+
+#: src/pages/CreateProposal/ProposalActionSelector.tsx
+msgid "Proposed Action"
+msgstr "제안된 액션"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Proposer"
+msgstr "제안자"
+
+#: src/pages/Vote/styled.tsx
+msgid "Queued"
+msgstr "대기 중"
+
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+msgid "Rates"
+msgstr "레이트"
+
+#: src/components/swap/UnsupportedCurrencyFooter.tsx
+msgid "Read more about unsupported assets"
+msgstr "지원되지 않는 자산 더 알아보기"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Recent Transactions"
+msgstr "최근 트랜잭션"
+
+#: src/components/AddressInputPanel/index.tsx
+msgid "Recipient"
+msgstr "수신자"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Remove"
+msgstr "제거"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Remove <0/> and <1/>"
+msgstr "<0/> 및 <1/> 제거"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Remove Amount"
+msgstr "총액 제거"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Remove Delegate"
+msgstr "위임 제거"
+
+#: src/components/NavigationTabs/index.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Remove Liquidity"
+msgstr "유동성 제거"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Remove list"
+msgstr "목록 제거"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Removing {0} {1} and {2} {3}"
+msgstr "{0}{1} 및 {2}{3} 제거 중"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Removing {0} {1} and{2} {3}"
+msgstr "{0}{1} 및 {2}{3} 제거 중"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/pages/CreateProposal/ProposalSubmissionModal.tsx
+msgid "Return"
+msgstr "리턴"
+
+#: src/components/SearchModal/CurrencySearch.tsx
+msgid "Search name or paste address"
+msgstr "이름 검색 또는 주소 붙여 넣기"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Select Pair"
+msgstr "페어 선택"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Select a network"
+msgstr "네트워크 선택"
+
+#: src/components/CurrencyInputPanel/index.tsx
+#: src/components/SearchModal/CurrencySearch.tsx
+#: src/pages/PoolFinder/index.tsx
+#: src/pages/PoolFinder/index.tsx
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Select a token"
+msgstr "토큰 선택"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Select a token to find your liquidity."
+msgstr "토큰 선택하여 유동성 찾기"
+
+#: src/pages/CreateProposal/ProposalActionSelector.tsx
+msgid "Select an action"
+msgstr "액션 선택"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Selected Range"
+msgstr "선택된 범위"
+
+#: src/pages/Vote/Landing.tsx
+msgid "Self"
+msgstr "셀프"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Self Delegate"
+msgstr "자체 위임"
+
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Set Price Range"
+msgstr "가격 범위 설정"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Set Starting Price"
+msgstr "시작 가격 설정"
+
+#: src/pages/AddLiquidityV2/PoolPriceBar.tsx
+msgid "Share of Pool"
+msgstr "풀 지분"
+
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+msgid "Share of Pool:"
+msgstr "풀 지분:"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Show Portis"
+msgstr "포티스 보기"
+
+#: src/pages/Pool/index.tsx
+msgid "Show closed positions"
+msgstr "마감된 포지션 보기"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Simple"
+msgstr "심플"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Slippage tolerance"
+msgstr "슬리피지 허용치"
+
+#: src/components/swap/UnsupportedCurrencyFooter.tsx
+msgid "Some assets are not available through this interface because they may not work well with the smart contracts or we are unable to allow trading for legal reasons."
+msgstr "특정 자산은 스마트 계약 문제 또는 법적 이유로 거래가 허용되지 않으므로, 본 인터페이스에서 확인할 수 없습니다."
+
+#: src/components/ErrorBoundary/index.tsx
+msgid "Something went wrong"
+msgstr "문제가 발생했습니다"
+
+#: src/components/PositionList/index.tsx
+msgid "Status"
+msgstr "상태"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Step 1. Get BD LP Liquidity tokens"
+msgstr "단계 1. BD LP 유동성 토큰 얻기"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Submit new proposal"
+msgstr "새 제안 제출"
+
+#: src/pages/CreateProposal/ProposalSubmissionModal.tsx
+msgid "Submitting Proposal"
+msgstr "제안 제출 중"
+
+#: src/components/vote/VoteModal.tsx
+msgid "Submitting Vote"
+msgstr "투표 제출 중"
+
+#: src/pages/Vote/styled.tsx
+msgid "Succeeded"
+msgstr "성공"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Success"
+msgstr "성공"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Supply"
+msgstr "공급"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Supplying {0} {1} and {2} {3}"
+msgstr "{0}{1} 및 {2}{3} 공급 중"
+
+#: src/components/Header/index.tsx
+#: src/components/NavigationTabs/index.tsx
+#: src/components/swap/SwapHeader.tsx
+#: src/pages/Swap/index.tsx
+#: src/pages/Swap/index.tsx
+msgid "Swap"
+msgstr "스왑"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Swap <0/> for exactly <1/>"
+msgstr "<0/>을 정확히 </1>으로 스왑"
+
+#: src/pages/Swap/index.tsx
+#: src/pages/Swap/index.tsx
+msgid "Swap Anyway"
+msgstr "무시하고 스왑하기"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Swap exactly <0/> for <1/>"
+msgstr "<0/>을 정확히 </1>으로 스왑"
+
+#: src/hooks/useSwapCallback.tsx
+#: src/hooks/useSwapCallback.tsx
+msgid "Swap failed: {0}"
+msgstr "스왑 실패: {0}"
+
+#: src/components/swap/ConfirmSwapModal.tsx
+msgid "Swapping {0} {1} for {2} {3}"
+msgstr "{0}{1}를 {2}{3}로 스왑"
+
+#: src/components/Popups/ClaimPopup.tsx
+msgid "Thanks for being part of the BestDex community <0/>"
+msgstr "베스트DEX 커뮤니티에 참여 해주셔서 감사합니다<0/>"
+
+#: src/components/FeeSelector/index.tsx
+msgid "The % you will earn in fees."
+msgstr "수수료에서 얻게 될 %."
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app fetches blockchain data from The Graph’s hosted service."
+msgstr "본 앱은 더그래프 호스팅 서비스에서 블록체인 데이터를 가져옵니다."
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app fetches on-chain data and constructs contract calls with an Infura API."
+msgstr "본 앱은 온체인 데이터를 가져오고 Infura API로 계약 콜을 구성합니다."
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app fetches the optimal trade route from a BestDex Labs server."
+msgstr "본 앱은 베스트DEX 랩스 서버에서 옵티멀 트레이드 라우트를 가져옵니다."
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app logs anonymized usage statistics in order to improve over time."
+msgstr "본 앱은 향후 개선을 위해 익명화된 사용 통계를 기록합니다."
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app securely collects your wallet address and shares it with TRM Labs Inc. for risk and compliance reasons."
+msgstr "본 앱은 위험 및 규정 준수를 위해 사용자 지갑 주소를 안전하게 수집하고 TRM 랩스와 공유합니다."
+
+#: src/components/CurrencyInputPanel/index.tsx
+msgid "The market price is outside your specified price range. Single-asset deposit only."
+msgstr "시장 가격이 사용자 지정 가격 범위를 벗어납니다. 단일 자산만 예치할 수 있습니다."
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "The price of this pool is outside of your selected range. Your position is not currently earning fees."
+msgstr "이 풀의 가격이 사용자 지정 가격 범위를 벗어납니다. 포지션이 현재 수수료를 얻고 있지 않습니다."
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "The price of this pool is within your selected range. Your position is currently earning fees."
+msgstr "이 풀의 가격이 사용자 지정 가격 범위에 해당됩니다. 포지션이 현재 수수료를 얻고 있습니다."
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "The ratio of tokens you add will set the price of this pool."
+msgstr "추가한 토큰 비율에 따라 이 풀의 가격이 책정됩니다."
+
+#: src/components/LiquidityChartRangeInput/index.tsx
+msgid "There is no liquidity data."
+msgstr "유동성 데이터가 없습니다."
+
+#: src/components/SearchModal/CommonBases.tsx
+msgid "These tokens are commonly paired with other tokens."
+msgstr "이 토큰들은 보통 다른 토큰들과 페어됩니다."
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "This app uses the following third-party APIs:"
+msgstr "본 앱은 다음의 제삼자 API를 사용합니다:"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "This pool must be initialized before you can add liquidity. To initialize, select a starting price for the pool. Then, enter your liquidity price range and deposit amount. Gas fees will be higher than usual due to the initialization transaction."
+msgstr "이 풀은 유동성을 추가하기 전에 먼저 초기화되어야 합니다. 초기화를 하려면, 풀의 시작 가격을 선택하세요. 그리고 유동성 가격 범위와 예치 금액을 입력하세요. 트랜잭션 초기화로 인해 가스비가 평소 보다 높게 책정될 것입니다."
+
+#: src/components/swap/SwapRoute.tsx
+msgid "This route optimizes your price by considering split routes, multiple hops, and gas costs."
+msgstr "이 라우트는 분활 라우트, 멀티 홉, 가스비를 고려하여 사용자의 가격을 최적화합니다."
+
+#: src/components/SearchModal/ImportToken.tsx
+msgid "This token doesn't appear on the active token list(s). Make sure this is the token that you want to trade."
+msgstr "이 토큰은 활성화 토큰 목록에 표기되어 있지 않습니다. 이 토큰이 거래하기 원하는 토큰인지 잘 확인하십시오."
+
+#: src/components/SearchModal/BlockedToken.tsx
+msgid "This token is not supported in the BestDex Labs app"
+msgstr "이 토큰은 베스트DEX 랩스 앱에서 지원되지 않습니다."
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "This tool will safely migrate your {0} liquidity to V3. The process is completely trustless thanks to the"
+msgstr "이 도구는 귀하의 {0} 유동성을 안전하게 V3로 이전할 겁니다. 이 과정은 완벽히 무신뢰(Trustless) 방식으로 수행됩니다."
+
+#: src/components/SearchModal/ManageTokens.tsx
+msgid "Tip: Custom tokens are stored locally in your browser"
+msgstr "팁: 맞춤형 토큰은 사용자의 브라우저에 보관됩니다"
+
+#: src/components/swap/SwapModalHeader.tsx
+#: src/pages/CreateProposal/ProposalActionDetail.tsx
+#: src/pages/CreateProposal/ProposalActionDetail.tsx
+#: src/pages/Swap/index.tsx
+msgid "To"
+msgstr "To"
+
+#: src/pages/Swap/index.tsx
+msgid "To (at least)"
+msgstr "To (최소)"
+
+#: src/components/NetworkAlert/NetworkAlert.tsx
+msgid "To start trading on {0}, first bridge your assets from L1 to L2. Please treat this as a beta release and learn about the risks before using {1}."
+msgstr "{0}에서 트레이딩을 시작하려면, 먼저 자산을 L1에서 L2로 브리징해야 합니다. {1} 사용 전에 이를 베타버전으로 간주하고, 미리 위험성을 숙지하십시오."
+
+#: src/components/SearchModal/BlockedToken.tsx
+msgid "Token not supported"
+msgstr "지원되지 않는 토큰"
+
+#: src/components/SearchModal/Manage.tsx
+msgid "Tokens"
+msgstr "토큰"
+
+#: src/components/SearchModal/CurrencyList.tsx
+msgid "Tokens from inactive lists. Import specific tokens below or click Manage to activate more lists."
+msgstr "비활성 목록의 토큰입니다. 아래의 특정 토큰을 가져오거나 또는 관리를 클릭하여 더 많은 목록을 활성화 하세요."
+
+#: src/pages/Pool/CTACards.tsx
+msgid "Top pools"
+msgstr "상위 풀"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "Total Supply"
+msgstr "총공급량"
+
+#: src/components/earn/PoolCard.tsx
+msgid "Total deposited"
+msgstr "총 예치금"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Total deposits"
+msgstr "총 예치금"
+
+#: src/components/swap/RouterLabel.tsx
+msgid "Trade Route"
+msgstr "라우트 거래"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Transaction Details"
+msgstr "트랜잭션 세부 사항"
+
+#: src/components/Settings/index.tsx
+#: src/components/Settings/index.tsx
+msgid "Transaction Settings"
+msgstr "트랜잭션 설정"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/StakingModal.tsx
+#: src/components/earn/UnstakingModal.tsx
+#: src/components/vote/DelegateModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "Transaction Submitted"
+msgstr "제출된 트랜잭션"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Transaction completed in"
+msgstr "트랜잭션 종료"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Transaction deadline"
+msgstr "트랜잭션 데드라인"
+
+#: src/hooks/useSwapCallback.tsx
+#: src/hooks/useSwapCallback.tsx
+msgid "Transaction rejected."
+msgstr "트랜잭션 거부됨."
+
+#: src/pages/CreateProposal/ProposalActionSelector.tsx
+msgid "Transfer Token"
+msgstr "토큰 전송"
+
+#: src/components/WalletModal/PendingView.tsx
+msgid "Try Again"
+msgstr "다시 시도"
+
+#: src/components/Settings/index.tsx
+msgid "Turn On Expert Mode"
+msgstr "전문가 모드 켜기"
+
+#: src/components/Popups/ClaimPopup.tsx
+msgid "UNI has arrived"
+msgstr "UNI가 도착했습니다"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "UNI in circulation:"
+msgstr "유통 중인 UNI:"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "UNI price:"
+msgstr "UNI 가격:"
+
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/UnstakingModal.tsx
+msgid "Unclaimed UNI"
+msgstr "미수령 UNI"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Unclaimed fees"
+msgstr "미수령 수수료"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "Unclaimed:"
+msgstr "미수령:"
+
+#: src/pages/Vote/styled.tsx
+msgid "Undetermined"
+msgstr "미결"
+
+#: src/hooks/useSwapCallback.tsx
+msgid "Unexpected error. Could not estimate gas for the swap."
+msgstr "예상하지 못한 에러 발생. 스왑을 위한 가스비를 측정할 수 없습니다."
+
+#: src/hooks/useSwapCallback.tsx
+msgid "Unexpected issue with estimating the gas. Please try again."
+msgstr "가스비 측정에서 예상하지 못한 문제가 발생. 다시 시도하십시오."
+
+#: src/components/SearchModal/TokenImportCard.tsx
+msgid "Unknown Source"
+msgstr "알 수 없는 출처"
+
+#: src/pages/Vote/Landing.tsx
+#: src/pages/Vote/VotePage.tsx
+msgid "Unlock Votes"
+msgstr "투표 잠금 해제"
+
+#: src/pages/Vote/Landing.tsx
+msgid "Unlock Voting"
+msgstr "투표 잠금 해제"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Unlocking Votes"
+msgstr "투표 잠금 해제 중"
+
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/Swap/index.tsx
+msgid "Unsupported Asset"
+msgstr "지원되지 않는 자산"
+
+#: src/components/swap/UnsupportedCurrencyFooter.tsx
+msgid "Unsupported Assets"
+msgstr "지원되지 않는 자산"
+
+#: src/state/governance/hooks.ts
+msgid "Untitled"
+msgstr "제목 없음"
+
+#: src/pages/Swap/index.tsx
+msgid "Unwrap"
+msgstr "언랩(Unwrap)"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Unwrap <0/> to ETH"
+msgstr "<0/>, ETH로 언랩"
+
+#: src/pages/Vote/Landing.tsx
+msgid "Update Delegation"
+msgstr "위임 업데이트"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Update list"
+msgstr "목록 업데이트"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "User"
+msgstr "유저"
+
+#: src/components/swap/SwapRoute.tsx
+msgid "V2"
+msgstr "V2"
+
+#: src/pages/Pool/index.tsx
+msgid "V2 liquidity"
+msgstr "V2 유동성"
+
+#: src/components/swap/SwapRoute.tsx
+msgid "V3"
+msgstr "V3"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "V3 {0} Price:"
+msgstr "V3 {0} 가격:"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "View UNI Analytics"
+msgstr "UNI 분석 보기"
+
+#: src/pages/Pool/index.tsx
+msgid "View V2 Liquidity"
+msgstr "V2 유동성 보기"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "View list"
+msgstr "목록 보기"
+
+#: src/pages/CreateProposal/ProposalSubmissionModal.tsx
+msgid "View on Etherscan"
+msgstr "이더스캔에서 보기"
+
+#: src/components/AccountDetails/index.tsx
+#: src/components/AccountDetails/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "View on Explorer"
+msgstr "탐색기에서 보기"
+
+#: src/components/ModalViews/index.tsx
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "View transaction on Explorer"
+msgstr "탐색기에서 트랜잭션 보기"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Vote Against"
+msgstr "반대 투표"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Vote For"
+msgstr "찬성 투표"
+
+#: src/components/vote/VoteModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "Vote against proposal {proposalId}"
+msgstr "{proposalId} 제안에 반대 투표"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote against proposal {proposalKey}"
+msgstr "{proposalId} 제안에 반대 투표"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote against proposal {proposalKey} with reason \"{0}\""
+msgstr "{proposalId} 제안에 반대 투표 - 이유 \"{0}\""
+
+#: src/components/vote/VoteModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "Vote for proposal {proposalId}"
+msgstr "{proposalId} 제안에 찬성 투표"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote for proposal {proposalKey}"
+msgstr "{proposalId} 제안에 찬성 투표"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote for proposal {proposalKey} with reason \"{0}\""
+msgstr "{proposalKey} 제안에 찬성 투표 - 이유 \"{0}\""
+
+#: src/components/vote/VoteModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "Vote to abstain on proposal {proposalId}"
+msgstr "{proposalId} 제안에 투표 기권"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote to abstain on proposal {proposalKey}"
+msgstr "{proposalKey} 제안에 투표 기권"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote to abstain on proposal {proposalKey} with reason \"{0}\""
+msgstr "{proposalKey} 제안에 투표 기권 - 이유 \"{0}\""
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Voting ended {0}"
+msgstr "투표 종료됨 {0}"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Voting ends approximately {0}"
+msgstr "투표 약 {0}에 종료"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Voting starts approximately {0}"
+msgstr "투표 약 {0}에 시작"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Waiting For Confirmation"
+msgstr "확인 기다리는 중"
+
+#: src/components/AddressInputPanel/index.tsx
+msgid "Wallet Address or ENS name"
+msgstr "지갑 주소 또는 ENS 이름"
+
+#: src/components/earn/StakingModal.tsx
+msgid "Weekly Rewards"
+msgstr "주별 보상"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "Welcome to team Unicorn :)"
+msgstr "팀 유니콘에 오신 것을 환영합니다 :)"
+
+#: src/components/earn/ClaimRewardModal.tsx
+msgid "When you claim without withdrawing your liquidity remains in the mining pool."
+msgstr "수령할 때, 출금하지 않으면 귀하의 유동성은 채굴 풀에 그대로 남게됩니다."
+
+#: src/pages/Earn/Manage.tsx
+msgid "When you withdraw, the contract will automagically claim UNI on your behalf!"
+msgstr "출금할 때, 계약은 귀하를 대신하여 자동으로 UNI를 수령합니다!"
+
+#: src/components/earn/UnstakingModal.tsx
+msgid "When you withdraw, your UNI is claimed and your liquidity is removed from the mining pool."
+msgstr "출금할 때, UNI는 수령되고 유동성은 채굴 풀에서 제거됩니다."
+
+#: src/components/earn/UnstakingModal.tsx
+#: src/pages/Earn/Manage.tsx
+msgid "Withdraw"
+msgstr "출금"
+
+#: src/components/earn/UnstakingModal.tsx
+msgid "Withdraw & Claim"
+msgstr "출금 & 수령"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Withdraw deposited liquidity"
+msgstr "예치된 유동성 출금"
+
+#: src/components/earn/UnstakingModal.tsx
+msgid "Withdrawing {0} BD LP"
+msgstr "{0} BD LP 출금"
+
+#: src/components/earn/UnstakingModal.tsx
+msgid "Withdrew BD LP!"
+msgstr "BD LP 출금되었습니다!"
+
+#: src/pages/Swap/index.tsx
+msgid "Wrap"
+msgstr "랩 (Wrap)"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Wrap <0/> to WETH"
+msgstr "<0/>, WETH으로 랩하기"
+
+#: src/components/WalletModal/index.tsx
+#: src/components/Web3Status/index.tsx
+msgid "Wrong Network"
+msgstr "잘못된 네트워크"
+
+#: src/pages/CreateProposal/index.tsx
+msgid "You already have an active or pending proposal"
+msgstr "이미 활성 중이거나 보류 중인 제안이 있습니다"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "You are creating a pool"
+msgstr "풀을 생성합니다"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "You are the first liquidity provider for this BestDex V3 pool. Your liquidity will migrate at the current {0} price."
+msgstr "귀하는 이 베스트DEX V3 풀의 첫 번째 유동성 공급자입니다. 귀하의 유동성은 현재 {0} 가격으로 이전됩니다."
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "You are the first liquidity provider."
+msgstr "귀하는 첫 번째 유동성 공급자입니다."
+
+#: src/components/vote/DelegateModal.tsx
+msgid "You can either vote on each proposal yourself or delegate your votes to a third party."
+msgstr "직접 제안에 투표하거나 제삼자에게 투표권을 위임할 수 있습니다."
+
+#: src/pages/Swap/index.tsx
+msgid "You can now trade {0}"
+msgstr "이제 {0} 거래가 가능합니다"
+
+#: src/pages/CreateProposal/index.tsx
+msgid "You don't have enough votes to submit a proposal"
+msgstr "제안을 제출할 투표수가 충분하지 않습니다."
+
+#: src/pages/PoolFinder/index.tsx
+msgid "You don’t have liquidity in this pool yet."
+msgstr "이 풀에 유동성이 아직 없습니다."
+
+#: src/components/Header/ChainConnectivityWarning.tsx
+msgid "You may have lost your network connection, or {label} might be down right now."
+msgstr "네트워크 연결이 끊어졌을 수도 있습니다. 또는 지금 {label} 다운이 발생했을 수도 있습니다."
+
+#: src/components/Header/ChainConnectivityWarning.tsx
+msgid "You may have lost your network connection."
+msgstr "네트워크 연결이 끌어졌을 수도 있습니다."
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "You must connect an account."
+msgstr "계정을 연결해야 합니다."
+
+#: src/pages/Swap/index.tsx
+msgid "You must give the BestDex smart contracts permission to use your {0}. You only have to do this once per token."
+msgstr "베스트DEX 스마트 계약에 {0} 사용권한을 제공해야 합니다. 이는 토큰마다 한 번만 하면 됩니다."
+
+#: src/pages/CreateProposal/index.tsx
+msgid "You must have {formattedProposalThreshold} votes to submit a proposal"
+msgstr "제안을 제출하려면 {formattedProposalThreshold}  투표수가 필요합니다."
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "You should only deposit liquidity into BestDex V3 at a price you believe is correct. <0/>If the price seems incorrect, you can either make a swap to move the price or wait for someone else to do so."
+msgstr "베스트DEX V3에 유동성을 예치할 때는 옳다고 생각되는 가격에서 수행해야 합니다. <0/>만약 가격이 잘못된 것 같으면, 스왑으로 가격을 변경하거나 다른 유저의 활동을 기다리십시오."
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "You will also collect fees earned from this position."
+msgstr "이 포지션에서 얻은 수수료도 징수할 수 있습니다."
+
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "You will receive"
+msgstr "다음을 획득합니다"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "Your UNI Breakdown"
+msgstr "UNI 세부 정보"
+
+#: src/pages/Pool/index.tsx
+msgid "Your V3 liquidity positions will appear here."
+msgstr "귀하의 V3 유동성 포지션이 이곳에 표기됩니다."
+
+#: src/pages/Pool/v2.tsx
+msgid "Your liquidity"
+msgstr "귀하의 유동성"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Your liquidity deposits"
+msgstr "유동성 보유"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+#: src/components/PositionCard/index.tsx
+msgid "Your pool share:"
+msgstr "풀 지분:"
+
+#: src/components/PositionCard/index.tsx
+msgid "Your position"
+msgstr "포지션"
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "Your position has 0 liquidity, and is not earning fees."
+msgstr "귀하의 포지션은 0 유동성을 갖고 있고 수수료를 얻지 않습니다."
+
+#: src/components/LiquidityChartRangeInput/index.tsx
+#: src/components/LiquidityChartRangeInput/index.tsx
+msgid "Your position will appear here."
+msgstr "귀하의 포지션은 이곳에 표기됩니다."
+
+#: src/components/PositionPreview/index.tsx
+#: src/components/PositionPreview/index.tsx
+msgid "Your position will be 100% composed of {0} at this price"
+msgstr "귀하의 포지션은 해당 가격에서 100% {0}로 구성될 것입니다."
+
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "Your position will be 100% {0} at this price."
+msgstr "귀하의 포지션은 해당 가격에서 100% {0}로 이루어집니다."
+
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Your position will not earn fees or be used in trades until the market price moves into your range."
+msgstr "시장 가격이 귀하의 범위 내로 움직일 때까지, 귀하의 포지션은 수수료를 얻지 않거나 거래에서 사용되지 않습니다."
+
+#: src/components/PositionList/index.tsx
+#: src/components/PositionList/index.tsx
+msgid "Your positions"
+msgstr "귀하의 포지션"
+
+#: src/components/earn/PoolCard.tsx
+msgid "Your rate"
+msgstr "귀하의 레이트"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+msgid "Your total pool tokens:"
+msgstr "귀하의 총 풀 토큰"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Your transaction cost will be much higher as it includes the gas to create the pool."
+msgstr "풀 생성을 위한 가스비가 포함되어 트랜잭션 비용이 더 높을 겁니다."
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Your transaction may be frontrun"
+msgstr "귀하의 트랜잭션은 프론트런 될 수도 있습니다"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Your transaction may fail"
+msgstr "귀하의 트랜잭션은 실패할 수도 있습니다"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Your transaction will revert if it is pending for more than this period of time."
+msgstr "트랜잭션이 이 시간 이상 보류될 경우 취소될 수 있습니다."
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Your transaction will revert if the price changes unfavorably by more than this percentage."
+msgstr "가격이 이 비율 이상으로 불리하게 변할 경우, 트랜잭션이 취소됩니다."
+
+#: src/components/AccountDetails/index.tsx
+msgid "Your transactions will appear here..."
+msgstr "귀하의 트랜잭션은 이곳에 표기됩니다..."
+
+#: src/pages/Earn/Manage.tsx
+msgid "Your unclaimed UNI"
+msgstr "내 클레임한 UNI"
+
+#: src/components/AccountDetails/index.tsx
+msgid "clear all"
+msgstr "모두 지우기"
+
+#: src/components/Settings/index.tsx
+msgid "confirm"
+msgstr "확인"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "for {0}"
+msgstr "{0}"
+
+#: src/components/Web3Status/index.tsx
+msgid "has socks emoji"
+msgstr "양말 이모티콘"
+
+#: src/components/Header/ChainConnectivityWarning.tsx
+#: src/components/WalletModal/index.tsx
+msgid "here."
+msgstr "여기."
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "https:// or ipfs:// or ENS name"
+msgstr "https:// 또는 ipfs:// 또는 ENS 이름"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "minutes"
+msgstr "분"
+
+#: src/components/SearchModal/ImportRow.tsx
+msgid "via {0}"
+msgstr "{0} 경유"
+
+#: src/components/SearchModal/TokenImportCard.tsx
+msgid "via {0} token list"
+msgstr "토큰 목록 {0} 경유"
+
+#: src/components/SearchModal/ImportToken.tsx
+msgid "{0, plural, one {Import token} other {Import tokens}}"
+msgstr "{0, plural, one {Import token} other {Import tokens}}"
+
+#: src/components/RateToggle/index.tsx
+#: src/components/RateToggle/index.tsx
+#: src/hooks/useSwapCallback.tsx
+#: src/hooks/useSwapCallback.tsx
+msgid "{0}"
+msgstr "{0}"
+
+#: src/components/PositionCard/index.tsx
+#: src/pages/Vote/VotePage.tsx
+#: src/pages/Vote/VotePage.tsx
+msgid "{0} %"
+msgstr "{0} %"
+
+#: src/components/PositionListItem/index.tsx
+#: src/components/PositionListItem/index.tsx
+msgid "{0} <0/> per <1/>"
+msgstr "<0/>당<1/> {0}"
+
+#: src/components/earn/StakingModal.tsx
+msgid "{0} BD LP"
+msgstr "{0} BD LP"
+
+#: src/pages/Earn/Manage.tsx
+msgid "{0} BD LP LP tokens available"
+msgstr "{0} BD LP LP 토큰 가능"
+
+#: src/components/SearchModal/ManageTokens.tsx
+msgid "{0} Custom Tokens"
+msgstr "{0} 커스텀 토큰"
+
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+msgid "{0} Deposited"
+msgstr "{0} 예치됨"
+
+#: src/components/earn/PoolCard.tsx
+msgid "{0} ETH"
+msgstr "{0} ETH"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "{0} Fees Earned:"
+msgstr "{0} 수수료 획득:"
+
+#: src/components/Web3Status/index.tsx
+msgid "{0} Pending"
+msgstr "{0} 보류 중"
+
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+msgid "{0} UNI"
+msgstr "{0} UNI"
+
+#: src/components/earn/PoolCard.tsx
+#: src/components/earn/PoolCard.tsx
+#: src/components/earn/StakingModal.tsx
+#: src/pages/Earn/Manage.tsx
+#: src/pages/Earn/Manage.tsx
+msgid "{0} UNI / week"
+msgstr "주당 {0} UNI"
+
+#: src/components/vote/VoteModal.tsx
+msgid "{0} Votes"
+msgstr "\n"
+"{0} 표"
+
+#: src/components/PositionPreview/index.tsx
+#: src/components/PositionPreview/index.tsx
+#: src/components/PositionPreview/index.tsx
+#: src/pages/AddLiquidityV2/PoolPriceBar.tsx
+#: src/pages/AddLiquidityV2/PoolPriceBar.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "{0} per {1}"
+msgstr "{1} 당 {0}"
+
+#: src/components/SearchModal/ImportList.tsx
+#: src/components/SearchModal/ManageLists.tsx
+msgid "{0} tokens"
+msgstr "{0} 토큰"
+
+#: src/components/Header/index.tsx
+#: src/components/Web3Status/index.tsx
+msgid "{0} {1}"
+msgstr "{0} {1}"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "{0} {1} Price:"
+msgstr "{0} {1} 가격:"
+
+#: src/components/SearchModal/CurrencyList.tsx
+msgid "{0} • Added by user"
+msgstr "{0} • 유저가 추가 함"
+
+#: src/components/CurrencyInputPanel/FiatValue.tsx
+#: src/components/FeeSelector/FeeOption.tsx
+#: src/components/PositionListItem/index.tsx
+#: src/components/PositionPreview/index.tsx
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "{0}%"
+msgstr "{0}%"
+
+#: src/components/FeeSelector/index.tsx
+msgid "{0}% fee tier"
+msgstr "{0}% 수수료 등급"
+
+#: src/components/FeeSelector/FeeTierPercentageBadge.tsx
+msgid "{0}% select"
+msgstr "{0}% 선택"
+
+#: src/pages/Earn/Manage.tsx
+msgid "{0}-{1} Liquidity Mining"
+msgstr "{0}-{1} 유동성 마이닝"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "{0}/{1} LP NFT"
+msgstr "{0}/{1} NFT"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "{0}/{1} LP Tokens"
+msgstr "{0}/{1} 토큰"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "{SOCKS_AMOUNT} UNI"
+msgstr "{SOCKS_AMOUNT} UNI"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "{USER_AMOUNT} UNI"
+msgstr "{SOCKS_AMOUNT} UNI"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "{activeTokensOnThisChain} tokens"
+msgstr "\n"
+"{activeTokensOnThisChain} 토큰"
+
+#: src/pages/Home/ContentImageSection.tsx
+msgid "{heading}"
+msgstr "{heading}"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "{percentForSlider}%"
+msgstr "\n"
+"{percentForSlider}%"
+
+#: src/components/InputStepCounter/InputStepCounter.tsx
+msgid "{tokenB} per {tokenA}"
+msgstr "{tokenA} 당 {tokenB}"
+
+#: src/components/CurrencyInputPanel/FiatValue.tsx
+msgid "~$ <0/>"
+msgstr "~<0/> 달러"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "← Back to Pools Overview"
+msgstr "← 풀 개요로 돌아가기"
+
+#: 
+msgid "Questions"
+msgstr "질문"
+
+#: 
+msgid "Best Wallet is a fully decentralised crypto wallet aiming to address the concerns present in traditional custody solutions regarding security, privacy, and control over assets. We’re empowering users to manage their own digital assets from their own phone or computer with minimal reliance on centralized authorities."
+msgstr "베스트 월렛은 탈중앙화 암호화폐 지갑이며, 기존의 보관 방식에서 발견되었던 보안, 개인정보, 자산 관리 문제를 해결하기 위해 개발되었습니다. 사용자는 스마트폰이나 컴퓨터를 통해 자신의 가상자산을 관리할 수 있으며, 이 과정에서 중앙 기관에 대한 의존성은 최소화됩니다."
+
+#: 
+msgid "The smartest way to manage your digital assets."
+msgstr "가상자산 관리를 위한 가장 현명한 방법"
+
+#: 
+msgid "LEARN MORE"
+msgstr "더 알아보기"
+
+#: 
+msgid "INTRODUCING"
+msgstr "소개"
+
+#: 
+msgid "Market Insights"
+msgstr "마켓 인사이트"
+
+#: 
+msgid "Participate in the BEST airdrop"
+msgstr "BEST 에어드랍에 참여하세요"
+
+#: 
+msgid "We’re rewarding all our early adopters with an airdrop of 10% of the total supply of BEST tokens."
+msgstr "모든 얼리어답터들에게 총공급량 10%에 달하는 BEST 토큰을 에어드랍으로 제공합니다."
+
+#: 
+msgid "How to get started"
+msgstr "시작 방법"
+
+#: 
+msgid "Download the Best Wallet app"
+msgstr "베스트 월렛 앱 다운로드 하기"
+
+#: 
+msgid "Availiable on\n"
+""
+msgstr "이용 가능"
+
+#: 
+msgid "Get it on"
+msgstr "다운로드"
+
+#: 
+msgid "Create a wallet"
+msgstr "지갑 생성하기"
+
+#: 
+msgid "Make sure you complete all the steps below to ensure we can track your activities towards the Best Wallet airdrop"
+msgstr "베스트 월렛 에어드랍에 대한 귀하의 활동을 확인할 수 있도록, 아래 모든 절차를 완료하여 주십시오."
+
+#: 
+msgid "Download Our App"
+msgstr "우리 앱 다운로드하기"
+
+#: 
+msgid "Engage On Our Platform"
+msgstr "우리 플랫폼에서 활동하기"
+
+#: 
+msgid "Visit Our Website"
+msgstr "웹사이트 방문하기"
+
+#: 
+msgid "Join @BestWallet_Official on Telegram"
+msgstr "텔레그램에서 @BestWallet_Official에 참여하기"
+
+#: 
+msgid "Join Our Discord Server"
+msgstr "우리 디스코드 서버에 참여하기"
+
+#: 
+msgid "Follow @BestWallet__ on Twitter"
+msgstr "트위터에서 @BestWallet__ 팔로우하기"
+
+#: 
+msgid "Visit @bestwalletofficial on Instagram"
+msgstr "인스타그램에서 @bestwalletofficial 방문하기"
+
+#: 
+msgid "How you earn points"
+msgstr "포인트 얻는 방법"
+
+#: 
+msgid "Use the Best Wallet App and DEX"
+msgstr "베스트 월렛 앱 및 DEX 사용하기"
+
+#: 
+msgid "Store your tokens and make transactions"
+msgstr "토큰 저장하고 트랜잭션 생성하기"
+
+#: 
+msgid "Engage with our Socials and spread the word"
+msgstr "우리 SNS 채널들에서 활동하고 홍보하기"
+
+#: 
+msgid "Cryptocurrency may be unregulated in your jurisdiction. The value of cryptocurrencies may go down as well as up. Profits may be subject to capital gains or other taxes applicable in your jurisdiction.\n"
+""
+msgstr "암호화폐는 귀하의 관할권에서 규제를 받지 않을 수도 있습니다. 암호화폐의 가치는 올라갈 수도 있고 내려갈 수도 있습니다. 암호화폐로부터 얻은 수익은 자본 이득으로 간주되거나 귀하의 관할권에 따라 세금이 부과될 수 있습니다."
+
+#: 
+msgid "What is a Crypto Airdrop?"
+msgstr "암호화폐 에어드랍이란?"
+
+#: 
+#, fuzzy
+msgid "An Airdrop is when a token is sent to a specific group of crypto wallet addresses. Sometimes this is a marketing strategy by crypto projects to introduce their token to new audiences. In our case, the BEST Token Airdrop rewards early adopters, power users, and brand advocates of Best Wallet and Best DEX with a portion of the total token supply as a way to thank them for their engagement within the Best Ecosystem."
+msgstr "에어드랍은 특정 암호화폐 지갑 주소 그룹으로 토큰을 전송하는 것을 의미합니다. 때때로 에어드랍은 암호화폐 프로젝트가 새로운 잠재 고객에게 토큰을 소개하는 마케팅 전략으로 사용되기도 합니다. BEST 토큰 에어드랍은 Best Wallet과 Best DEX의 얼리어답터, 파워 유저, 브랜드 지지자들에게 총 토큰 공급량의 일부를 베스트 생태계 참여에 대한 감사의 의미로 보상합니다."
+
+#: 
+msgid "How can I participate in the BEST Token Airdrop?"
+msgstr "BEST 토큰 에어드랍은 어떻게 참여할 수 있나요?"
+
+#: 
+msgid "To participate in the BEST Token Airdrop, you need to follow these steps:"
+msgstr "BEST 토큰 에어드랍에 참여하려면 다음 단계를 따르세요."
+
+#: 
+msgid "a. Download the Best Wallet app and create a wallet."
+msgstr "a. Best Wallet 앱을 다운로드하고 지갑을 생성합니다."
+
+#: 
+msgid "b. Visit the Airdrop page on our website."
+msgstr "b. Best Wallet 웹사이트의 에어드랍 페이지를 방문합니다."
+
+#: 
+msgid "c. Provide your wallet address, email address, Twitter handle, and Discord username and follow our socials"
+msgstr "c. 지갑 주소, 이메일 주소, 트위터 핸들(아이디), 디스코드 사용자 아이디를 입력하고 소셜 미디어를 팔로우합니다."
+
+#: 
+msgid "d. Engage actively within the Best Ecosystem to earn points."
+msgstr "d. Best 생태계에 적극적으로 참여하여 포인트를 적립하세요."
+
+#: 
+msgid "How do I earn points during the Airdrop?"
+msgstr "에어드랍 중에 포인트를 어떻게 적립하나요?"
+
+#: 
+msgid "During Phase 1-6 of our product launch, points are earned in three ways."
+msgstr "제품 출시 1~6단계 동안 포인트는 세 가지 방법으로 적립됩니다."
+
+#: 
+msgid "a. Engaging with our socials and spreading the word about Best Web3."
+msgstr "a. BEST 생태계 소셜 미디어에 참여하여 Best Web3를 소개하세요."
+
+#: 
+msgid "b. Using Best Wallet."
+msgstr "b. Best Wallet을 사용하세요."
+
+#: 
+msgid "c. Using Best DEX."
+msgstr "c. Best DEX를 사용하세요."
+
+#: 
+msgid "What are the benefits of holding BEST tokens?"
+msgstr "BEST 토큰을 보유하면 어떤 혜택이 있나요?"
+
+#: 
+msgid "Holding BEST tokens will bring several exclusive benefits within the Best Ecosystem, including:"
+msgstr "BEST 토큰 보유 시 BEST 생태계 내에서 다음과 같은 몇 가지 독점 혜택을 누릴 수 있습니다."
+
+#: 
+msgid "a. No gas fees on transactions."
+msgstr "a. 거래 시 가스 수수료가 없습니다."
+
+#: 
+msgid "b. Governance voting on Best Dex."
+msgstr "b. Best Dex에 대한 거버넌스 투표에 참여할 수 있습니다."
+
+#: 
+msgid "c. Early access to token launches."
+msgstr "c. 토큰 출시 시 얼리 액세스가 가능합니다."
+
+#: 
+msgid "d. Participation in exclusive NFT and token drops."
+msgstr "d. 독점 NFT 및 토큰 드롭에 참여할 수 있습니다."
+
+#: 
+msgid "We will announce more benefits and utility closer to the airdrop date."
+msgstr "에어드랍 날짜가 가까워지면 더 많은 혜택과 유틸리티를 발표할 예정입니다."
+
+#: 
+msgid "When will the Airdrop happen?"
+msgstr "에어드랍은 언제 이루어지나요?"
+
+#: 
+msgid "The airdrop ends at the end of phase 6 of our Best Wallet launch. The specific date and time of the Airdrop will be announced on our official website and social media channels. Stay tuned for updates to ensure you don't miss out on this opportunity!"
+msgstr "에어드랍은 Best Wallet 출시 6단계 종료 시 끝납니다. 자세한 에어드랍 일정 및 시간은 공식 웹사이트와 소셜 미디어 채널에 공지될 예정입니다. 기회를 놓치지 않으려면 업데이트를 계속 주목해 주세요!"
+
+#: 
+msgid "How will the Airdrop rewards be distributed?"
+msgstr "에어드랍 보상은 어떻게 지급되나요?"
+
+#: 
+msgid "10% of the total supply of the BEST token has been allocated to the airdrop. Participants will earn a share of the token pool proportionate to the points they have used throughout phases 1-6 of the Best Wallet launch. The Airdrop rewards will be distributed directly to the wallet addresses provided during the registration process. Please ensure the accuracy of the wallet address to receive your tokens smoothly."
+msgstr "BEST 토큰 총 공급량의 10%가 에어드랍에 할당되었습니다. 에어드랍 참가자는 Best Wallet 출시 1단계부터 6단계까지 사용한 포인트에 비례하여 토큰 풀의 일부를 받게 됩니다. 에어드랍 보상은 등록 과정에서 입력한 지갑 주소로 직접 지급됩니다. 원활한 토큰 수령을 위해 지갑 주소가 정확한지 확인하시기 바랍니다."
+
+#: 
+msgid "Is there a limited number of participants for the Airdrop?"
+msgstr "에어드랍에 참여할 수 있는 인원이 제한되어 있나요?"
+
+#: 
+msgid "Participation is open to all."
+msgstr "누구나 참여할 수 있습니다."
+
+#: 
+msgid "Can I register multiple times for the Airdrop?"
+msgstr "에어드랍을 여러 번 신청할 수 있나요?"
+
+#: 
+msgid "No, each participant is allowed to register only once for the Airdrop. Multiple registrations may lead to disqualification."
+msgstr "아니요, 각 참가자는 에어드랍에 한 번만 등록할 수 있습니다. 여러 번 등록 시 실격 처리될 수 있습니다."
+
+#: 
+msgid "How will you prevent fraudulent activity during the Airdrop?"
+msgstr "에어드랍 중 사기 행위를 어떻게 방지할 수 있나요?"
+
+#: 
+msgid "We have implemented various security measures to detect and prevent fraudulent activities. Any attempts at gaming the system or engaging in suspicious activities will lead to immediate disqualification from the Airdrop."
+msgstr "당사는 사기 행위를 탐지하고 방지하기 위해 다양한 보안 조치를 시행하고 있습니다. 시스템을 조작하거나 의심스러운 활동을 시도하는 경우 에어드랍 이벤트에서 즉시 제외됩니다."
+
+#: 
+msgid "How can I stay updated about the Airdrop and the project's progress?"
+msgstr "에어드랍과 프로젝트 진행 상황에 대한 최신 정보를 받으려면 어떻게 해야 하나요?"
+
+#: 
+msgid "To stay informed about the Airdrop, project updates, and important announcements, make sure to follow our official social media channels and regularly check our website. We will keep the community informed about any developments related to the BEST Token Airdrop."
+msgstr "공식 소셜 미디어 채널을 팔로우하고 웹사이트를 정기적으로 방문하여 에어드랍, 프로젝트 업데이트 및 중요한 공지사항에 대한 정보를 확인하시기 바랍니다. BEST 토큰 에어드랍과 관련된 모든 진행 상황은 커뮤니티에 계속 업데이트됩니다."
+
+#: 
+msgid "Best DEX is built as the sister app to Best Wallet, our flagship <0>non-custodial crypto wallet</0>. Best DEX can be accessed from within Best Wallet for an easy trading experience all within a single app. No more need to use several different wallets and DEXs to manage your crypto portfolio."
+msgstr "베스트 DEX는 우리의 대표적인 <0>비수탁 암호화폐 지갑</0>인 Best Wallet의 자매 앱으로 구축되었습니다. 베스트 DEX는 베스트 월렛 내에서 액세스하여 앱 내에서 쉽게 거래할 수 있습니다. 더 이상 지갑 여러개와 DEX를 통해 암호화폐 포트폴리오를 관리할 필요가 없습니다."
+
+#: 
+msgid "Best DEX does not require KYC verification to start trading. We prioritise user privacy and aim to provide a hassle-free onboarding experience. Simply connect your wallet and you’re ready to go."
+msgstr "베스트 DEX는 거래를 시작하기 위한 KYC 인증 절차를 요구하지 않습니다. 우리는 사용자 프라이버시를 우선시하며 번거로움 없이 거래를 시작할 수 있도록 돕습니다. 보유하신 지갑을 연결하기만 하면 바로 사용할 수 있습니다."
+
+#: 
+msgid "Follow our socials and join our community hubs <0>here</0>"
+msgstr "<0>여기</0>를 통해 우리 SNS를 팔로우하고 커뮤니티 허브에 참여하세요"
+
+#: 
+msgid "We are launching the BEST token at the end of Phase 6 of our roadmap and will reward our early adopters and power users with 10% of our total supply based on the points they have accumulated from using our app and spreading the word on socials."
+msgstr "우리는 로드맵의 6단계가 끝날 때 BEST 토큰을 출시하고 초기 투자자 및 파워 유저에게 SNS 홍보를 통해 축적한 포인트를 기준으로 총 공급량의 10%를 보상할 것입니다."
+
+#: 
+msgid "In the near future, Best DEX will be available as a decentralised application (dApp) within Best Wallet, offering an even more integrated and user-friendly trading experience."
+msgstr "베스트 DEX는 곧 베스트 월렛 내에서 분산형 애플리케이션(dApp)으로 제공되어 사용자 친화적인 통합 거래 경험을 제공할 것입니다."
+
+#: 
+msgid "Simply visit the Best DEX platform through your mobile web browser to start trading cryptocurrencies on the go."
+msgstr "모바일 웹 브라우저를 통해 베스트 DEX 플랫폼에 접속하면 간편하게 암호화폐 거래를 시작할 수 있습니다."
+
+#: 
+msgid "Best Wallet is the fully non-custodial crypto wallet at the heart of the Best Web3 Ecosystem. Buy, store, send, and receive Bitcoin and many other cryptocurrencies safely and securely with the Best Wallet app."
+msgstr "베스트 월렛은 베스트 웹3 생태계의 중심에 있는 완전 비수탁형 암호화폐 지갑입니다. 베스트 월렛 앱을 통해 비트코인 및 기타 암호화폐들을 안전하게 구매, 저장하고 주고 받으세요."
+
+#: 
+msgid "Portfolio Management and Token Analytics give users everything they need to get in early on the hottest token launches, make the right trades at the right times, and maximise profits."
+msgstr "포트폴리오 관리 및 토큰 분석을 통해 사용자에게 가장 인기 있는 토큰  출시를 조기에 알려주며 적시에 올바른 거래를 하고 수익을 극대화할 수 있도록 지원합니다."
+
+#: 
+msgid "Create a wallet in the BEST Wallet"
+msgstr "베스트 월렛에서 지갑 만들기"
+
+#: 
+msgid "Make sure you complete all the steps below to ensure we can track your activities towards the BEST airdrop"
+msgstr "BEST 에어드랍을 위해서 진행하신 홍보 활동을 추적할 수 있도록 아래의 단계를 완료해주세요."
+
+#: 
+msgid "Download the Best Wallet app and create a wallet."
+msgstr "베스트 월렛 앱을 다운로드하고 지갑을 만드세요."
+
+#: 
+msgid "2023 Best Web3. All Right Reserved."
+msgstr "\n"
+"2023 Best Web3. All Right Reserved."
+
+#: 
+msgid "Get Featured on Best DEX"
+msgstr "베스트 DEX에 홍보하기"
+
+#: 
+msgid "Partner with the Best"
+msgstr "베스트와 파트너 맺기"
+
+#: 
+msgid "Become a partner and let us showcase your project to the world. Reach thousands of highly engaged global Best Wallet crypto holders."
+msgstr "베스트의 파트너가 되어 프로젝트를 전 세계에 홍보해보세요. 참여도가 높은 글로벌 베스트 월렛 암호화폐 보유자들에게 다가갈 수 있는 기회입니다."
+
+#: 
+msgid "Best Audience"
+msgstr "월등한 오디언스"
+
+#: 
+msgid "News Coverage"
+msgstr "뉴스 보도"
+
+#: 
+msgid "Featured on Best DEX"
+msgstr "베스트 DEX에서 홍보하세요"
+
+#: 
+msgid "You have a following and you’re trending in all the right ways. Best Wallet will showcase your achievements and potential to thousands more engaged crypto holders."
+msgstr "프로젝트에 팔로워를 가지고 있으시고 잘 트렌딩되고 있다면, 베스트 월렛을 통해 효과를 더 부스트해보세요. 베스트 월렛은 수천명의 참여도 높은 암호화폐 보유자들에게 프로젝트의 성과와 잠재력을 효과적으로 소개합니다."
+
+#: 
+msgid "Your project will be picked up by high-ranking crypto news sites with a combined traffic of over 20 million monthly visitors."
+msgstr "귀하의 프로젝트는 월간 방문자 수 총합이 2천만명 이상인 크립토 뉴스 사이트들에서 소개될 것입니다."
+
+#: 
+msgid "Be a part of the Best Ecosystem. We’ll list your token on Best DEX and support it with exposure and user incentives."
+msgstr "베스트 생태계의 일원이 되어보세요. 귀하의 토큰을 베스트 DEX에 상장시킨 후 노출 및 사용자 인센티브로 지원해드립니다."
+
+#: 
+msgid "Showcase Application"
+msgstr "쇼케이스 신청서"
+
+#: 
+msgid "First Name"
+msgstr "이름(名)"
+
+#: 
+msgid "Last Name"
+msgstr "성(姓)"
+
+#: 
+msgid "Your work Email"
+msgstr "업무 메일"
+
+#: 
+msgid "Provide a link to your website"
+msgstr "홍보하고 싶으신 웹사이트 링크를 입력하세요"
+
+#: 
+msgid "URL"
+msgstr "URL"
+
+#: 
+msgid "More Information"
+msgstr "추가 정보"
+
+#: 
+msgid "Tell us about your project"
+msgstr "프로젝트를 소개해주세요"
+
+#: 
+msgid "I confirm I have read agree to the <0>Privacy Policy</0>."
+msgstr "<0>개인정보 보호정책</0>을 읽고 동의했음을 확인합니다."
+
+#: 
+msgctxt "Shown on a button for applying to be a partner in BESTDex"
+msgid "Apply"
+msgstr "신청하기"
+
+#: 
+msgid "Trade"
+msgstr "거래"
+
+#: 
+msgid "Features"
+msgstr "보도"
+
+#: 
+msgid "Best DEX is a decentralised exchange designed to seamlessly integrate with Best Wallet, our non-custodial crypto wallet . It allows you to trade cryptocurrencies securely and efficiently while maintaining full control of your funds and digital assets."
+msgstr "베스트 DEX는 우리의 비수탁형 암호화폐인 베스트 월렛과 원활하게 통합해서 사용할 수 있도록 설계된 분산형 거래소입니다. 베스트 DEX를 통해 자금과 디지털 자산을 완벽하게 관리하고 안전하고 효율적으로 암호화폐를 거래할 수 있습니다."
+
+#: 
+msgid "What are the benefits of Best DEX?"
+msgstr "Best DEX의 장점은 무엇인가요?"

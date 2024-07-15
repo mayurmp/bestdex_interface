@@ -1,0 +1,28 @@
+@use '../../../styles/colors.module.scss';
+@use '../../../styles/base.module.scss';
+
+.container {
+  display: inline-flex;
+  width: auto;
+  max-width: 100%;
+  overflow-x: auto;
+  border-radius: 32px;
+  padding: 4px;
+  background-color: colors.$color-ui-pale-grey;
+
+  &.large {
+    .button {
+      padding: 15px 22px;
+    }
+  }
+  &.small {
+    .button {
+      padding: 11px 22px;
+    }
+  }
+
+  .button {
+    display: inline-flex;
+    border-radius: 32px;
+  }
+}

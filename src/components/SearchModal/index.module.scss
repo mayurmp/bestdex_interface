@@ -1,0 +1,26 @@
+.scrollbar {
+  // background-color: yellow;
+  ::-webkit-scrollbar {
+    width: 15px;
+    height: 15px;
+  }
+  ::-webkit-scrollbar-track-piece {
+    background-color: #c2d2e4;
+  }
+  ::-webkit-scrollbar-thumb:vertical {
+    height: 30px;
+    background-color: #0a4c95;
+  }
+
+  // ::-webkit-scrollbar {
+  //   width: 15px;
+  //   // height: 15px;
+  // }
+  // ::-webkit-scrollbar-track-piece {
+  //   background-color: ${({ theme }) => theme.bg10};
+  // }
+  // ::-webkit-scrollbar-thumb:vertical {
+  //   height: 10px;
+  //   background-color: ${({ darkMode }) => (darkMode ? '#444444' : '#C1C1C1')};
+  // }
+}

@@ -1,0 +1,2953 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Best DEX Website\n"
+"Language: bg\n"
+
+#. Please don't change the name of the application
+#: src/pages/Home/index.tsx
+msgid "Buy and Sell Instantly on"
+msgstr "Купете и продавайте веднага на"
+
+#: src/pages/Home/index.tsx
+msgid "Recommended By"
+msgstr "Препоръчан от"
+
+#: src/pages/Home/index.tsx
+msgid "Trade any token on Ethereum or BNB Smart Chain in seconds, just by connecting your wallet."
+msgstr "Търгувайте с всякакви токени oт Ethereum или BNB Smart Chain за секунди, просто свържете портфейла си."
+
+#: /app/modules/views
+msgid "No registration needed. Thousands of tokens to trade at your fingertips."
+msgstr "Не се изисква регистрация. Хиляди токени за търговия са налични веднага"
+
+#: src/pages/Home/index.tsx
+#: src/pages/Home/index.tsx
+msgid "Trade Now"
+msgstr "Търгувайте сега"
+
+#: src/pages/Home/index.tsx
+msgid "Decentralised Exchange"
+msgstr "Децентрализирана борса"
+
+#: src/pages/Home/index.tsx
+msgid "Trade anything. No registration. No hassle."
+msgstr "Търгувайте с всичко. Без регистрация. Без неприятности."
+
+#: src/pages/Home/index.tsx
+msgid "Best DEX will have all the tools you need to navigate around crypto trading including real-time market updates and advanced charting via Trading View."
+msgstr "Най-добрата DEX ще има всички инструменти, от които се нуждаете, за да навигирате в търговията с крипто, включително актуализации на пазара в реално време и напреднали графики чрез Trading View."
+
+#: /app/modules/views
+msgid "We were unable to sign you up.\n"
+"Please correct the marked fields."
+msgstr "Не успяхме да ви регистрираме. Моля, коригирайте маркираните полета."
+
+#: /app/modules/views
+msgid "From trending tokens to token security, Best Dex token analytics provides traders with in-depth, real-time data to execute the right trades."
+msgstr "От най-търсените токени до сигурността на токените, анализа на токените на Best Dex предоставя на трейдърите подробни данни в реално време, за да изпълнят правилните сделки."
+
+#: src/components/WalletModal/index.tsx
+msgid "Coming Soon"
+msgstr "Предстои"
+
+#: /app/modules/views
+msgid "Token Analytics"
+msgstr "Анализи на токена"
+
+#: 
+msgid "Token Info"
+msgstr "Информация за токена"
+
+#: 
+msgid "Token Sentiment"
+msgstr "Настроение спрямо токен"
+
+#: 
+msgid "Token Security"
+msgstr "Сигурност на токена"
+
+#: 
+msgid "BEST Airdrop"
+msgstr "BEST еърдроп"
+
+#: 
+msgid "The BEST token airdrop will reward brand advocates and Best Wallet and Best DEX power users over the coming months. Holders of the BEST token will receive exclusive benefits on Best DEX including lower cost trades"
+msgstr "BEST токените ще наградят представители на марката и активни потребители на Best Wallet и Best DEX през следващите месеци. Притежателите на BEST токени ще получат ексклузивни предимства в Best DEX, включително по-изгодни сделки."
+
+#: 
+msgid "Frequently Asked"
+msgstr "Често задавани"
+
+#: src/pages/Home/index.tsx
+msgid "Find answers to the most frequently asked questions about Best Wallet right here."
+msgstr "Намерете отговори на най-често задаваните въпроси за Best Wallet тук."
+
+#: src/pages/Home/index.tsx
+msgid "If the answer you’re looking for isn’t here, email contact@bestwallet.com and we’ll assist you."
+msgstr "Ако отговорът, който търсите, не е тук, изпратете имейл на contact@bestwallet.com и ще ви помогнем."
+
+#: src/pages/Home/index.tsx
+msgid "Cryptocurrency may be unregulated in your jurisdiction. The value of cryptocurrencies may go down as well as up. Profits may be subject to capital gains or other taxes applicable in your jurisdiction."
+msgstr "Криптовалутата може да не бъде регулирана във вашата юрисдикция. Стойността на криптовалутите може да пада, както и да се повишава. Печалбите могат да подлежат на данък върху капиталовата печалба или други данъци, приложими във вашата юрисдикция.\n"
+""
+
+#: src/pages/Home/index.tsx
+msgid "Terms"
+msgstr "Правила"
+
+#: src/pages/Home/index.tsx
+msgid "Privacy"
+msgstr "Поверителност"
+
+#: src/pages/Home/index.tsx
+msgid "Cookies"
+msgstr "Бисквитки"
+
+#: 
+msgid "What is Best DEX?"
+msgstr "Какво е Best DEX?"
+
+#: 
+msgid "Best DEX is a decentralized exchange designed to seamlessly integrate with Best Wallet, our non-custodial crypto wallet. It allows you to trade cryptocurrencies securely and efficiently while maintaining full control of your funds and digital assets."
+msgstr "Best DEX е децентрализирана борса, създадена да се интегрира безпроблемно с Best Wallet, нашия крипто портфейл. Той ви позволява да търгувате с криптовалути безопасно и ефективно, като запазвате пълен контрол над средствата и цифровите активи си."
+
+#: 
+msgid "Why should I use Best DEX instead of Uniswap or other DEXs?"
+msgstr "Защо трябва да използвам Best DEX вместо Uniswap или други DEX-ове?"
+
+#: 
+msgid "Best DEX is built as the sister app to Best Wallet, our flagship crypto wallet. Best DEX can be accessed from within Best Wallet for an easy trading experience all within a single app. No more need to use several different wallets and DEXs to manage your crypto portfolio."
+msgstr "Best DEX е създаден като приложение-партньор на Best Wallet, нашият водещ крипто портфейл. Best DEX може да се достъпи от вътрешността на Best Wallet за лесно търговско преживяване, което го прави многофункционално приложение. Вече не е нужно да използвате няколко различни портфейла и DEX-ове, за да управлявате портфолиото си от криптовалути."
+
+#: 
+msgid "What are Best DEX’s special features compared to competitors?"
+msgstr "Какви са специалните функции на Best DEX в сравнение с конкурентите?"
+
+#: 
+msgid "Best DEX is incorporating the best aspects of established DEXs, improving upon them, and adding streamlined features that will elevate your crypto trading experience. To name two: 1. Store, manage, and trade crypto from a single app 2. Save on trading fees."
+msgstr "Best DEX включва най-добрите аспекти от установените DEX-ове, подобрява ги и добавя опростени функции, които ще ви позволят да подобрите вашето търговско изживяване с криптовалутите. Нека споменем две: 1. Съхранявайте, управлявайте и търгувайте с криптовалути от едно приложение 2. Спестете разходи за търговски такси."
+
+#: 
+msgid "Which chains does Best DEX support for decentralised trading?"
+msgstr "Кои вериги за децентрализирана търговия поддържа Best DEX ?"
+
+#: 
+msgid "Best DEX will start with native support for Ethereum, BNB Smart Chain and Polygon. Over time we’ll add support for all active major blockchains."
+msgstr "Best DEX ще започне със собствена поддръжка за Ethereum, BNB Smart Chain и Polygon. С течение на времето ще добавим поддръжка за всички активни големи блокчейни."
+
+#: 
+msgid "How can I use Best DEX on my mobile phone?"
+msgstr "Как мога да използвам Best DEX на мобилния си телефон?"
+
+#: 
+msgid "Best DEX is available through the 'Swap' feature on the Best Wallet app. Simply download Best Wallet from Google Play or the App Store to gain access to Best DEX trading."
+msgstr "Best DEX е достъпен чрез функцията 'Swap' в приложението Best Wallet. Просто изтеглете Best Wallet от Google Play или App Store, за да получите достъп до търговията в Best DEX."
+
+#: 
+msgid "Decentralised & Secure"
+msgstr "Децентрализирано и сигурно"
+
+#: 
+msgid "Low Fees"
+msgstr "Ниски такси"
+
+#: 
+msgid "Trading Insights"
+msgstr "Търговски прозрения"
+
+#: 
+msgid "Best DEX automatically matches you to the trading pair with the lowest rate for your desired swap, ensuring you always get the best price on your trades. This feature helps you save money on transactions."
+msgstr "Best DEX автоматично ви съпоставя с търговския двойка с най-ниската ставка за желаната от вас размяна, гарантирайки, че винаги получавате най-добрата цена за позициите си. Тази функция ви помага да спестите пари от транзакциите."
+
+#: 
+msgid "Cost-Saving Advantage"
+msgstr "Спестяване на разходи"
+
+#: 
+msgid "Airdrop Incentives"
+msgstr "Еърдроп инициативи"
+
+#: 
+msgid "By using Best DEX, you become part of the Best Ecosystem, and we reward our most loyal and active users with a 10% airdrop of the total supply of our native token, $BEST, during Phase 6 of our launch."
+msgstr "Като използвате Best DEX, ставате част от Best Ecosystem, и ние награждаваме най-лоялните и активни потребители с еъдроп на 10% от общата наличност на нашия собствен токен, $BEST, по време на Фаза 6 от пускането."
+
+#: 
+msgid "Market Insights and Analytics"
+msgstr "Прозрения за пазара и анализи"
+
+#: 
+msgid "Best DEX provides you with comprehensive market insights and in-depth token analytics, giving you the best chance to make the best trading decisions at the right time."
+msgstr "Best DEX ви предоставя подробни прозрения за пазара и задълбочени анализи на токените, давайки ви най-добрата възможност да вземете най-добрите търговски решения в правилния момент."
+
+#: 
+msgid "Convenience"
+msgstr "Удобство"
+
+#: 
+msgid "What are the fees associated with using Best DEX?"
+msgstr "Какви са таксите, свързани с използването на Best DEX?"
+
+#: 
+msgid "Best Dex does not charge a usage fee. The only fees are determined by the specific liquidity pool and network gas fees."
+msgstr "Best Dex не взима такса за използване. Единствените такси се определят от ликвидността и мрежовите такси за газ."
+
+#: 
+msgid "Which chains does Best DEX support for decentralized trading?"
+msgstr "Кои вериги поддържа Best DEX за децентрализирана търговия?"
+
+#: 
+msgid "Best DEX initially supports Ethereum, BNB Smart Chain, and Polygon networks. As we continue to grow, we plan to add support for all active major blockchains, broadening your trading options and opportunities."
+msgstr "Best DEX първоначално поддържа мрежите Ethereum, BNB Smart Chain и Polygon. С продължаване на растежа ни планираме да добавим поддръжка за всички активни големи блокчейни, разширявайки възможностите ви за търговия."
+
+#: 
+msgid "Does Best DEX require registration and KYC verification?"
+msgstr "Изисква ли Best DEX регистрация и KYC верификация?"
+
+#: 
+msgid "Best DEX does not require KYC verification to start trading. We prioritize user privacy and aim to provide a hassle-free onboarding experience. Simply connect your wallet and you’re ready to go."
+msgstr "Best DEX не изисква KYC верификация, за да започнете да търгувате. Ние даваме приоритет на поверителността на потребителите и се стремим да предоставим безпроблемно преживяване при регистрация. Просто свържете портфейла си и сте готови да започнете."
+
+#: 
+msgid "Can I use Best DEX on my mobile phone?"
+msgstr "Мога ли да използвам Best DEX на мобилния си телефон?"
+
+#: 
+msgid "There are multiple ways to access Best DEX on your mobile device:"
+msgstr "Има няколко начина за достъп до Best DEX на вашия мобилен  телефон:"
+
+#: 
+msgid "Mobile Web Browser"
+msgstr "Мобилен уеб браузър"
+
+#: 
+msgid "Simply visit https://bestdex.com the Best DEX platform through your mobile web browser to start trading cryptocurrencies on the go."
+msgstr "Просто посетете https://bestdex.com платформата Best DEX чрез мобилния си уеб браузър, за да започнете да търгувате с криптовалути на път."
+
+#: 
+msgid "Best Wallet In-App 'Swap' Feature"
+msgstr "Best Wallet функция за \"Размяна\" в приложението"
+
+#: 
+msgid "If you already have Best Wallet installed, you can access Best DEX directly through the in-app 'swap' feature. This integration provides you with a seamless and convenient trading experience within a single app."
+msgstr "Ако вече имате инсталиран Best Wallet, можете да получите достъп до Best DEX директно чрез вградената функция 'swap'. Тази интеграция ви предоставя безпроблемно търговско преживяване на едно място."
+
+#: 
+msgid "Best Wallet dApp (Coming Soon)"
+msgstr "Best Wallet dApp (Скоро ще бъде наличен)"
+
+#: 
+msgid "In the near future, Best DEX will be available as a decentralized application (dApp) within Best Wallet, offering an even more integrated and user-friendly trading experience."
+msgstr "В близко бъдеще Best DEX ще бъде наличен като децентрализирано приложение (dApp) в Best Wallet, предлагайки още по-интегрирано и лесно за използване на потребителя."
+
+#: 
+msgid "What is the BEST token?"
+msgstr "Кой е НАЙ-ДОБРИЯТ токен?"
+
+#: 
+msgid "The BEST token is the Best Ecosystem’s utility and governance token. Holding the token provides benefits to Best Wallet users such as advanced market analysis tools, no gas fees on swaps, and early access to new token launches and NFT drops."
+msgstr "Токенът BEST е основният токен на Best Ecosystem. Притежаването на токена предоставя предимства на потребителите на Best Wallet, като топ инструменти за анализ на пазара, без такси за газ при размени и ранен достъп до нови пускания на токени и NFT падания."
+
+#: 
+msgid "We are launching the BEST token at the end of Phase 6 of our roadmap and will reward our early adopters and power users with 10% of our total supply based on the points they have accumulated from using our app and spreading the word on socials. Learn more here"
+msgstr "Ще пуснем токена BEST в края на Фаза 6 от нашата пътна карта и ще наградим ранните си инвеститори и активни потребители с 10% от общата доставка, базирана на точките, които са натрупали от използването на нашето приложение и разпространението на платформата в социалните медии. Научете повече тук\n"
+""
+
+#: 
+msgid "How can I stay up to date on the latest news about Best DEX and the BEST token airdrop?"
+msgstr "Как мога да бъда информиран за последните новини относно Best DEX и еърдропа на BEST токена?"
+
+#: 
+msgid "Follow our socials and join our community hubs here"
+msgstr "Следвайте нашите социални медии и се присъединете към нашите общностни хъбове тук"
+
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "$-"
+msgstr "$-"
+
+#: src/components/earn/PoolCard.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "${0}"
+msgstr "${0}"
+
+#: src/components/swap/TradePrice.tsx
+msgid "(${0})"
+msgstr "(${0})"
+
+#: src/components/CurrencyInputPanel/index.tsx
+msgid "(Max)"
+msgstr "(Максимум)"
+
+#: src/components/AddressInputPanel/index.tsx
+msgid "(View on Explorer)"
+msgstr "(Вижте на Explorer)"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "(claim)"
+msgstr "(з"
+
+#: src/pages/Vote/Landing.tsx
+msgid "(edit)"
+msgstr "(промени)"
+
+#: src/pages/Swap/index.tsx
+msgid "- Remove recipient"
+msgstr "-"
+
+#: src/components/earn/PoolCard.tsx
+#: src/components/earn/PoolCard.tsx
+#: src/pages/Earn/Manage.tsx
+#: src/pages/Earn/Manage.tsx
+msgid "0 UNI / week"
+msgstr "0 UNI / седмица"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "25%"
+msgstr "25%"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "50%"
+msgstr "50%"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "75%"
+msgstr "75%"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "<0/> All Proposals"
+msgstr "<0/> Всички предложения"
+
+#: src/pages/Vote/Landing.tsx
+#: src/pages/Vote/Landing.tsx
+msgid "<0/> Votes"
+msgstr "<0/> Гласове"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "<0>Current Price:</0><1><2/></1><3>{0} per {1}</3>"
+msgstr "<0>Текуща цена:</0><1><2/></1><3>{0} за {1}</3>"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "<0>Tip:</0> Removing pool tokens converts your position back into underlying tokens at the current rate, proportional to your share of the pool. Accrued fees are included in the amounts you receive."
+msgstr "<0>Съвет:</0> Премахването на маркери от басейна преобразува вашата позиция обратно в основни маркери по текущия курс, пропорционално на вашия дял от басейна. Натрупаните такси са включени в сумите, които получавате."
+
+#: src/pages/CreateProposal/index.tsx
+msgid "<0>Tip:</0> Select an action and describe your proposal for the community. The proposal cannot be modified after submission, so please verify all information before submitting. The voting period will begin immediately and last for 7 days. To propose a custom action, ."
+msgstr "<0>Съвет:</0> Изберете действие и опишете вашето предложение за общността. Предложението не може да бъде модифицирано след подаване, затова, моля, проверете цялата информация преди да я изпратите. Гласуването ще започне веднага и ще продължи 7 дни. За предложение на персонализирано действие, ."
+
+#: src/pages/PoolFinder/index.tsx
+msgid "<0>Tip:</0> Use this tool to find pools that don't automatically appear in the interface."
+msgstr "<0>Съвет:</0> Използвайте този инструмент, за да намерите ликвидни басейни, които не се появяват автоматично в интерфейса."
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "<0>Tip:</0> When you add liquidity, you will receive pool tokens representing your position. These tokens automatically earn fees proportional to your share of the pool, and can be redeemed at any time."
+msgstr "<0>Съвет:</0> Когато добавяте ликвидност, ще получите маркери на басейна, представляващи вашата позиция. Тези маркери автоматично печелят такси, пропорционално на вашия дял, и могат да бъдат възстановени по всяко време."
+
+#: src/pages/Vote/VotePage.tsx
+msgid "<0>Unlock voting</0> to prepare for the next proposal."
+msgstr "<0>Отключете гласуването</0>, за да се подготвите за следващото предложение."
+
+#: src/components/claim/ClaimModal.tsx
+msgid "<0>🎉 </0>Welcome to team Unicorn :) <1>🎉</1>"
+msgstr "<0>🎉 </0>Добре дошли в екипа на Еднорози :) <1>🎉</1>"
+
+#: src/pages/Vote/Landing.tsx
+msgid "A minimum threshold of 0.25% of the total UNI supply is required to submit proposals"
+msgstr "Минимален праг от 0.25% от общия брой UNI е необходим за подаване на предложения."
+
+#: src/components/swap/SwapModalHeader.tsx
+msgid "Accept"
+msgstr "Приемам"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Account"
+msgstr "Профил"
+
+#: src/components/SearchModal/ImportRow.tsx
+#: src/pages/Vote/styled.tsx
+msgid "Active"
+msgstr "Активни"
+
+#: src/components/PositionCard/index.tsx
+#: src/pages/AddLiquidity/index.tsx
+msgid "Add"
+msgstr "Добави"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Add <0/> and <1/> to BestDex V2"
+msgstr "Добави <0/> и <1/> към BestDex V2"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Add Delegate +"
+msgstr "Добави Delegate +\n"
+""
+
+#: src/components/NavigationTabs/index.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/Pool/v2.tsx
+msgid "Add Liquidity"
+msgstr "Добави Ликвидност"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Add liquidity."
+msgstr "Добави ликвидност."
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Add more liquidity"
+msgstr "Добави повече ликвидност\n"
+""
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Add {0} token to Metamask <0/>"
+msgstr "Добави {0} маркер към Metamask <0/>"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Add {0}-{1} liquidity"
+msgstr "Добави {0}-{1} ликвидност"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Add {0}/{1} V3 liquidity"
+msgstr "Добави {0}/{1} V3 ликвидност"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Added {0} token to Metamask"
+msgstr "Добавен {0} маркер към Metamask"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "Address has no available claim"
+msgstr "Адресът няма право за получаване"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Against"
+msgstr "Срещу"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Allow LP token migration"
+msgstr "Позволи миграция на LP токени"
+
+#: src/components/Settings/index.tsx
+msgid "Allow high price impact trades and skip the confirm screen. Use at your own risk."
+msgstr "Позволете сделки с голямо въздействие върху цената и пропуснете екрана за потвърждение. Използвайте на свой собствен риск."
+
+#: src/pages/Swap/index.tsx
+msgid "Allow the BestDex Protocol to use your {0}"
+msgstr "Разрешете на Протокола на BestDex да използва вашият {0}"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Allowed"
+msgstr "Разрешено"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Allowed Slippage"
+msgstr "Допустим слипидж"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Amount"
+msgstr "Количество"
+
+#: src/components/earn/StakingModal.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Approve"
+msgstr "Одобри"
+
+#: src/pages/CreateProposal/ProposalActionSelector.tsx
+msgid "Approve Token"
+msgstr "Одобри токена"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Approve {0}"
+msgstr "Одобри {0}"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Approved"
+msgstr "Одобрено"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Approving"
+msgstr "Одобрява"
+
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Approving {0}"
+msgstr "Одобрява {0}"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Arbiscan"
+msgstr "Arbiscan"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Arbitrum Bridge"
+msgstr "Arbitrum мост\n"
+""
+
+#: src/components/DowntimeWarning/index.tsx
+msgid "Arbitrum is in Beta and may experience downtime. During downtime, your position will not earn fees and you will be unable to remove liquidity. <0>Read more.</0>"
+msgstr "Arbitrum е в Бета версия и може да има технически проблеми. По време на техническите сривове, вашата позиция няма да печели такси и няма да можете да премахнете ликвидността. <0>Прочетете повече.</0>\n"
+""
+
+#: src/components/Settings/index.tsx
+msgid "Are you sure?"
+msgstr "Сигурни ли сте?"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "As a member of the BestDex community you may claim UNI to be used for voting and governance.<0/><1/>"
+msgstr "Като член на общността на BestDex може да заявявате UNI, които да бъдат използвани за гласуване и управление.<0/><1/>"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "At least {0} {1} and {2} {3} will be refunded to your wallet due to selected price range."
+msgstr "Поне {0} {1} и {2} {3} ще бъдат върнати във вашия портфейл заради избрания ценови диапазон."
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Auto"
+msgstr "Автоматично"
+
+#: src/components/earn/StakingModal.tsx
+msgid "Available to deposit: {0}"
+msgstr "На разположение за депозиране: {0}"
+
+#: src/pages/Earn/Manage.tsx
+msgid "BD LP LP tokens are required. Once you've added liquidity to the {0}-{1} pool you can stake your liquidity tokens on this page."
+msgstr "Изискват се BD LP маркери. След като сте добавили ликвидност към басейна {0}-{1}, можете да заложите своите ликвидни маркери на тази страница.\n"
+""
+
+#: src/pages/Earn/Manage.tsx
+msgid "BD LP {0}-{1}"
+msgstr "BD LP {0}-{1}"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "BD LP {0}/{1} Burned"
+msgstr "BD LP {0}/{1} Изгорени"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "Balance:"
+msgstr "Баланс:"
+
+#: src/components/CurrencyInputPanel/index.tsx
+msgid "Balance: {0} {1}"
+msgstr "Баланс: {0} {1}"
+
+#: src/components/FeeSelector/shared.tsx
+msgid "Best for exotic pairs."
+msgstr "Най-добър за екзотични двойки."
+
+#: src/components/FeeSelector/shared.tsx
+msgid "Best for most pairs."
+msgstr "Най-добър за повечето двойки."
+
+#: src/components/FeeSelector/shared.tsx
+msgid "Best for stable pairs."
+msgstr "Най-добър за стабилни двойки."
+
+#: src/components/FeeSelector/shared.tsx
+msgid "Best for very stable pairs."
+msgstr "Най-добър за много стабилни двойки."
+
+#: src/components/SwitchLocaleLink/index.tsx
+msgid "BestDex available in: <0>{0}</0>"
+msgstr "BestDex е наличен в: <0>{0}</0>"
+
+#: src/components/vote/ProposalEmptyState.tsx
+msgid "BestDex governance is only available on Layer 1. Switch your network to Ethereum Mainnet to view Proposals and Vote."
+msgstr "Управлението на BestDex е налично само на Ниво 1. Превключете вашата мрежа към Ethereum Mainnet, за да видите предложенията и да гласувате."
+
+#: src/pages/Earn/index.tsx
+msgid "BestDex liquidity mining"
+msgstr "Миниране на ликвидност на BestDex"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "BestDex migration contract↗"
+msgstr "BestDex контракт за миграция↗"
+
+#: src/components/NetworkAlert/NetworkAlert.tsx
+msgid "BestDex on {0}"
+msgstr "BestDex на {0}"
+
+#: src/components/Blocklist/index.tsx
+msgid "Blocked address"
+msgstr "Блокиран адрес"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Bridge"
+msgstr "Мост"
+
+#: src/components/PositionCard/index.tsx
+msgid "By adding liquidity you'll earn 0.3% of all trades on this pair proportional to your share of the pool. Fees are added to the pool, accrue in real time and can be claimed by withdrawing your liquidity."
+msgstr "Като добавите ликвидност, ще спечелите 0.3% от всички сделки с този партньор, пропорционално на вашия дял от басейна. Таксите се добавят към басейна, нарастват в реално време и могат да бъдат искани чрез изтегляне на вашата ликвидност."
+
+#: src/components/SearchModal/ImportList.tsx
+msgid "By adding this list you are implicitly trusting that the data is correct. Anyone can create a list, including creating fake versions of existing lists and lists that claim to represent projects that do not have one."
+msgstr "Като добавите този списък, вие неявно доверявате, че данните са верни. Всеки може да създаде списък, включително да създаде фалшиви версии на съществуващи списъци и списъци, които твърдят, че представляват проекти, които нямат такива."
+
+#: src/pages/Vote/styled.tsx
+msgid "Canceled"
+msgstr "Отменено"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Change"
+msgstr "Промяна"
+
+#: src/components/Header/ChainConnectivityWarning.tsx
+msgid "Check network status"
+msgstr "Проверете статуса на мрежата"
+
+#: src/pages/Pool/CTACards.tsx
+msgid "Check out our v3 LP walkthrough and migration guides."
+msgstr "Вижте нашите ръководства за преход и миграция на v3 LP."
+
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/pages/Earn/Manage.tsx
+msgid "Claim"
+msgstr "Заявявам"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Claim <0/> for {0}"
+msgstr "Заявете <0/> за {0}"
+
+#: src/components/Header/index.tsx
+msgid "Claim BD LP"
+msgstr "Заявете BD LP"
+
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+msgid "Claim UNI"
+msgstr "Заявете UNI"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "Claim UNI Token"
+msgstr "Заявете UNI токена"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Claim UNI reward for {0}"
+msgstr "Заявете UNI наградата за {0}"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Claim fees"
+msgstr "Заявете таксите"
+
+#: src/components/Popups/ClaimPopup.tsx
+msgid "Claim your UNI tokens"
+msgstr "Заявете своите UNI токени"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "Claimed"
+msgstr "Заявени"
+
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/UnstakingModal.tsx
+msgid "Claimed UNI!"
+msgstr "Заявени UNI!"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "Claimed!"
+msgstr "Заявени!"
+
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+msgid "Claiming"
+msgstr "Заявяване"
+
+#: src/components/Header/index.tsx
+msgid "Claiming BD LP"
+msgstr "Заявяване на BD LP"
+
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/UnstakingModal.tsx
+msgid "Claiming {0} UNI"
+msgstr "Заявяване на {0} UNI"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Clear All"
+msgstr "Изчисти всички"
+
+#: src/components/SearchModal/ManageTokens.tsx
+msgid "Clear all"
+msgstr "Изчисти всички"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Close"
+msgstr "Затворете"
+
+#: src/components/Badge/RangeBadge.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Closed"
+msgstr "Затворено"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collect"
+msgstr "Съберете"
+
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Collect as {0}"
+msgstr "Събрани като {0}"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collect fees"
+msgstr "Събрани такси"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Collect {0}/{1} fees"
+msgstr "Съберете {0}/{1} такси"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collected"
+msgstr "Събрани"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collecting"
+msgstr "Събиране"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collecting fees"
+msgstr "Събрани такси"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Collecting fees will withdraw currently available fees for you."
+msgstr "Събирането на такси ще изтегли теку-що наличните такси за вас."
+
+#: src/components/SearchModal/CommonBases.tsx
+msgid "Common bases"
+msgstr "Общи бази"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Confirm"
+msgstr "Потвърдете"
+
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+msgid "Confirm Supply"
+msgstr "Потвърдете доставката"
+
+#: src/components/swap/ConfirmSwapModal.tsx
+#: src/components/swap/SwapModalFooter.tsx
+msgid "Confirm Swap"
+msgstr "Потвърдете обмена"
+
+#: src/components/ModalViews/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "Confirm this transaction in your wallet"
+msgstr "Потвърдете тази транзакция във вашия портфейл"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Confirm transaction in wallet"
+msgstr "Потвърдете транзакцията в портфейла"
+
+#: src/components/Web3Status/index.tsx
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+#: src/pages/Swap/index.tsx
+#: src/state/burn/hooks.tsx
+#: src/state/burn/v3/hooks.tsx
+#: src/state/mint/hooks.tsx
+#: src/state/mint/v3/hooks.tsx
+#: src/state/stake/hooks.tsx
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Connect Wallet"
+msgstr "Свържете Wallet"
+
+#: src/components/WalletModal/index.tsx
+#: src/components/earn/UnstakingModal.tsx
+#: src/pages/Pool/index.tsx
+msgid "Connect a wallet"
+msgstr "Свържете портфейл"
+
+#: src/components/WalletModal/index.tsx
+msgid "Connect to Best Wallet"
+msgstr "Свържете се с Best Wallet\n"
+""
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Connect to a wallet to find pools"
+msgstr "Свържете се с портфейла, за да намерите басейни"
+
+#: src/pages/MigrateV2/index.tsx
+#: src/pages/Pool/v2.tsx
+msgid "Connect to a wallet to view your liquidity."
+msgstr "Свържете се с портфейл, за да видите вашата ликвидност."
+
+#: src/components/AccountDetails/index.tsx
+msgid "Connected with {name}"
+msgstr "Свързан с {name}"
+
+#: src/components/WalletModal/PendingView.tsx
+msgid "Connection Error"
+msgstr "Грешка при свързване"
+
+#: src/components/AccountDetails/Copy.tsx
+msgid "Copied"
+msgstr "Копирано"
+
+#: src/components/AccountDetails/index.tsx
+#: src/components/AccountDetails/index.tsx
+msgid "Copy Address"
+msgstr "Копирайте адреса"
+
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+msgid "Create Pool & Supply"
+msgstr "Създайте басейн & доставка"
+
+#: src/pages/CreateProposal/index.tsx
+#: src/pages/Vote/Landing.tsx
+msgid "Create Proposal"
+msgstr "Създайте предложение"
+
+#: src/components/NavigationTabs/index.tsx
+#: src/pages/Pool/v2.tsx
+msgid "Create a pair"
+msgstr "Създайте двойка"
+
+#: src/pages/Pool/index.tsx
+msgid "Create a pool"
+msgstr "Създайте басейн"
+
+#: src/components/ErrorBoundary/index.tsx
+msgid "Create an issue on GitHub"
+msgstr "Създайте нов случай в GitHub"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Create pool and add {0}/{1} V3 liquidity"
+msgstr "Създайте басейн и добавете {0}/{1} V3 ликвидност"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Create pool."
+msgstr "Създайте басейн."
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Create {0}/{1} V3 pool"
+msgstr "Създайте {0}/{1} V3 басейн"
+
+#: src/components/PositionPreview/index.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "Current price"
+msgstr "Текуща цена"
+
+#: src/pages/Pool/v2.tsx
+msgid "Current version is not available on Layer 2. Switch to Layer 1 Ethereum."
+msgstr "Текущата версия не е налична на Ниво 2. Превключете към Ниво 1 на Ethereum."
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Current {0} Price:"
+msgstr "Текуща цена на {0}:"
+
+#: src/pages/Vote/styled.tsx
+msgid "Defeated"
+msgstr "Победен"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Delegate Votes"
+msgstr "Делегирайте гласове"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Delegate voting power to {0}"
+msgstr "Делегирайте гласуване на {0}"
+
+#: src/pages/Vote/Landing.tsx
+msgid "Delegated to:"
+msgstr "Делегирани до:"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Delegating votes"
+msgstr "Делегиране на гласове"
+
+#: src/components/earn/PoolCard.tsx
+#: src/components/earn/StakingModal.tsx
+#: src/components/earn/StakingModal.tsx
+#: src/pages/Earn/Manage.tsx
+msgid "Deposit"
+msgstr "Депозит"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Deposit Amounts"
+msgstr "Суми за депозит"
+
+#: src/components/NetworkAlert/NetworkAlert.tsx
+msgid "Deposit Assets"
+msgstr "Депозирайте активи"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Deposit BD LP LP Tokens"
+msgstr "Депозирайте BD LP LP токени\n"
+""
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Deposit liquidity"
+msgstr "Депозирайте ликвидност"
+
+#: src/pages/Earn/index.tsx
+msgid "Deposit your Liquidity Provider tokens to receive UNI, the BestDex protocol governance token."
+msgstr "Депозирайте вашите Liquidity Provider токени, за да получите UNI, токенът за управление на протокола BestDex."
+
+#: src/components/earn/UnstakingModal.tsx
+msgid "Deposited liquidity:"
+msgstr "Депозирана ликвидност:"
+
+#: src/components/earn/StakingModal.tsx
+msgid "Deposited {0} BD LP"
+msgstr "Депозиран {0} BD LP"
+
+#: src/components/earn/StakingModal.tsx
+msgid "Depositing Liquidity"
+msgstr "Депозиране на ликвидност"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Description"
+msgstr "Описание"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Detailed"
+msgstr "Детайлно"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Details"
+msgstr "Детайли"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Disconnect"
+msgstr "Разкачете се"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Dismiss"
+msgstr "Отхвърлете"
+
+#: src/pages/MigrateV2/index.tsx
+msgid "Don’t see one of your v2 positions? <0>Import it.</0>"
+msgstr "Не виждате една от вашите v2 позиции? <0>Внесете го.</0>"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Earned UNI tokens represent voting shares in BestDex governance."
+msgstr "Спечелените UNI токени представляват гласуващи дялове в управлението на BestDex."
+
+#: src/components/FeeSelector/index.tsx
+msgid "Edit"
+msgstr "Променете"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Efficiency Comparison"
+msgstr "Сравнение на ефективността"
+
+#: src/state/burn/v3/hooks.tsx
+msgid "Enter a percent"
+msgstr "Въведете процент"
+
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Enter a recipient"
+msgstr "Въведете получател"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Enter a valid slippage percentage"
+msgstr "Въведете валиден процент за слипидж"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "Enter an address to trigger a UNI claim. If the address has any claimable UNI it will be sent to them on submission."
+msgstr "Въведете адрес, за да активирате заявка за UNI. Ако адресът има право на заявка за UNI, той ще бъде изпратен до тях при подаване."
+
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/UnstakingModal.tsx
+#: src/state/burn/hooks.tsx
+#: src/state/mint/hooks.tsx
+#: src/state/mint/v3/hooks.tsx
+#: src/state/stake/hooks.tsx
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Enter an amount"
+msgstr "Въведете сума"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Enter valid list location"
+msgstr "Въведете валидно местоположение на списъка"
+
+#: src/components/SearchModal/ManageTokens.tsx
+msgid "Enter valid token address"
+msgstr "Въведете валиден адрес на токен"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/Web3Status/index.tsx
+msgid "Error"
+msgstr "Грешка"
+
+#: src/components/WalletModal/index.tsx
+msgid "Error connecting"
+msgstr "Грешка при свързване"
+
+#: src/components/WalletModal/index.tsx
+msgid "Error connecting. Try refreshing the page."
+msgstr "Грешка при свързване. Опитайте да обновите страницата."
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Error importing list"
+msgstr "Грешка при внасяне на списъка"
+
+#: src/pages/Vote/styled.tsx
+msgid "Executed"
+msgstr "Изпълнено"
+
+#: src/components/SearchModal/CurrencyList.tsx
+msgid "Expanded results from inactive Token Lists"
+msgstr "Разширени резултати от неактивни списъци с токени"
+
+#: src/components/Settings/index.tsx
+msgid "Expert Mode"
+msgstr "Експертен режим"
+
+#: src/components/Settings/index.tsx
+msgid "Expert mode turns off the confirm transaction prompt and allows high slippage trades that often result in bad rates and lost funds."
+msgstr "Експертният режим изключва подсказката за потвърждение на транзакцията и позволява търговия с висока степен на слипидж, което често води до лоши курсове и изгубени средства."
+
+#: src/pages/Vote/styled.tsx
+msgid "Expired"
+msgstr "Изтекло"
+
+#: src/pages/Pool/CTACards.tsx
+msgid "Explore popular pools on BestDex Analytics."
+msgstr "Разгледайте популярните басейни в BestDex Analytics."
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Explorer"
+msgstr "Екпслорър"
+
+#: src/components/PositionPreview/index.tsx
+msgid "Fee Tier"
+msgstr "Ниво на Таксата"
+
+#: src/components/FeeSelector/index.tsx
+msgid "Fee tier"
+msgstr "Ниво на таксата"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "For"
+msgstr "За"
+
+#: src/pages/MigrateV2/index.tsx
+msgid "For each pool shown below, click migrate to remove your liquidity from BestDex V2 and deposit it into BestDex V3."
+msgstr "За всеки показан басейн по-долу, кликнете на \"мигрирай\", за да премахнете вашата ликвидност от BestDex V2 и да я депозирате в BestDex V3."
+
+#: src/components/swap/SwapModalHeader.tsx
+#: src/pages/Swap/index.tsx
+msgid "From"
+msgstr "От"
+
+#: src/pages/Swap/index.tsx
+msgid "From (at most)"
+msgstr "От (най-много)"
+
+#: src/components/RangeSelector/PresetsButtons.tsx
+msgid "Full Range"
+msgstr "Пълен диапазон"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Full range positions may earn less fees than concentrated positions. Learn more <0>here</0>."
+msgstr "Позициите с пълен диапазон може да печелят по-малко такси от концентрирани позиции. Научете повече <0>тук</0>."
+
+#: src/components/ErrorBoundary/index.tsx
+msgid "Get support on Discord"
+msgstr "Получете подкрепа в Discord"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Help Center"
+msgstr "Център за помощ"
+
+#: src/components/FeeSelector/index.tsx
+msgid "Hide"
+msgstr "Скрий"
+
+#: src/pages/Swap/index.tsx
+msgid "High Price Impact"
+msgstr "Голямо влияние на цената"
+
+#: src/components/SearchModal/ImportList.tsx
+#: src/pages/AddLiquidity/index.tsx
+msgid "I understand"
+msgstr "Разбирам"
+
+#: src/components/SearchModal/ImportList.tsx
+msgid "If you purchase a token from this list, you may not be able to sell it back."
+msgstr "Ако закупите токен от този списък, може да не успеете да го продадете обратно."
+
+#: src/components/SearchModal/BlockedToken.tsx
+#: src/components/SearchModal/ImportList.tsx
+#: src/components/SearchModal/ImportRow.tsx
+#: src/components/SearchModal/ImportToken.tsx
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Import"
+msgstr "Вкарайте"
+
+#: src/components/SearchModal/ImportList.tsx
+msgid "Import List"
+msgstr "Внасяне на списък"
+
+#: src/components/NavigationTabs/index.tsx
+#: src/pages/Pool/v2.tsx
+msgid "Import Pool"
+msgstr "Внасяне на басейн"
+
+#: src/components/SearchModal/ImportList.tsx
+msgid "Import at your own risk"
+msgstr "Внасяне на собствен риск"
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "In range"
+msgstr "В диапазона\n"
+""
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Increase Liquidity"
+msgstr "Увеличете ликвидността"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Initial prices and pool share"
+msgstr "Начални цени и дял от басейна"
+
+#: src/components/WalletModal/PendingView.tsx
+msgid "Initializing..."
+msgstr "Инициализиране..."
+
+#: src/components/swap/SwapModalHeader.tsx
+msgid "Input is estimated. You will sell at most <0>{0} {1}</0> or the transaction will revert."
+msgstr "Входът е оценен. Ще продавате най-много <0>{0} {1}</0> или транзакцията ще се върне."
+
+#: src/components/WalletModal/index.tsx
+msgid "Install Metamask"
+msgstr "Инсталирайте Metamask"
+
+#: src/pages/Swap/index.tsx
+msgid "Insufficient liquidity for this trade."
+msgstr "Недостатъчна ликвидност за тази сделка."
+
+#: src/state/mint/hooks.tsx
+#: src/state/mint/hooks.tsx
+#: src/state/mint/v3/hooks.tsx
+#: src/state/mint/v3/hooks.tsx
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Insufficient {0} balance"
+msgstr "Недостатъчен баланс на {0}"
+
+#: src/components/Settings/index.tsx
+msgid "Interface Settings"
+msgstr "Настройки на интерфейса"
+
+#: src/state/mint/hooks.tsx
+#: src/state/mint/v3/hooks.tsx
+msgid "Invalid pair"
+msgstr "Невалидна двойка"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Invalid pair."
+msgstr "Невалидна двойка."
+
+#: src/state/mint/v3/hooks.tsx
+msgid "Invalid price input"
+msgstr "Невалиден вход за цена"
+
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Invalid range selected. The min price must be lower than the max price."
+msgstr "Избран е невалиден диапазон. Минималната цена трябва да е по-ниска от максималната цена."
+
+#: src/hooks/useSwapCallback.tsx
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Invalid recipient"
+msgstr "Невалиден получател"
+
+#: src/components/Header/index.tsx
+msgid "Join the Best Wallet Waitlist to participate in the BEST Airdrop"
+msgstr "Присъединете се към списъка за чакащи на Best Wallet, за да участвате в BEST Еърдропа\n"
+""
+
+#: src/components/Menu/index.tsx
+msgid "Language"
+msgstr "Eзик"
+
+#: src/components/NetworkAlert/NetworkAlert.tsx
+msgid "Learn More"
+msgstr "Научете повече"
+
+#: src/pages/Pool/CTACards.tsx
+msgid "Learn about providing liquidity"
+msgstr "Научете за предоставянето на ликвидност"
+
+#: src/components/PrivacyPolicy/index.tsx
+#: src/components/PrivacyPolicy/index.tsx
+#: src/components/WalletModal/index.tsx
+msgid "Learn more"
+msgstr "Научи повече"
+
+#: src/components/PrivacyPolicy/index.tsx
+#: src/components/WalletModal/index.tsx
+msgid "Legal & Privacy"
+msgstr "Права & Поверителност"
+
+#: src/components/claim/ClaimModal.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "Liquidity"
+msgstr "Ликвидност"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Liquidity Provider Fee"
+msgstr "Такса на доставчика на ликвидност"
+
+#: src/pages/Pool/v2.tsx
+msgid "Liquidity provider rewards"
+msgstr "Награди за доставчици на ликвидност"
+
+#: src/pages/Pool/v2.tsx
+msgid "Liquidity providers earn a 0.3% fee on all trades proportional to their share of the pool. Fees are added to the pool, accrue in real time and can be claimed by withdrawing your liquidity."
+msgstr "Доставчиците на ликвидност печелят 0.3% такса от всички сделки, пропорционално на техния дял от басейна. Таксите се добавят към басейна, се натрупват в реално време и могат да бъдат искани чрез изтегляне на вашата ликвидност."
+
+#: src/components/SearchModal/Manage.tsx
+msgid "Lists"
+msgstr "Списъци"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Loaded"
+msgstr "Заредено"
+
+#: src/components/PositionCard/Sushi.tsx
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/MigrateV2/index.tsx
+#: src/pages/Pool/v2.tsx
+#: src/pages/PoolFinder/index.tsx
+#: src/pages/Swap/index.tsx
+msgid "Loading"
+msgstr "Зарежда"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/V2.tsx
+#: src/components/SearchModal/Manage.tsx
+#: src/components/earn/PoolCard.tsx
+msgid "Manage"
+msgstr "Управлявай"
+
+#: src/components/PositionCard/index.tsx
+msgid "Manage Liquidity in Rewards Pool"
+msgstr "Управление на ликвидността в награден басейн"
+
+#: src/components/SearchModal/CurrencySearch.tsx
+msgid "Manage Token Lists"
+msgstr "Управление на списъци с токени"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Manage this pool."
+msgstr "Управление на този басейн."
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Max"
+msgstr "Максимум"
+
+#: src/components/PositionPreview/index.tsx
+#: src/components/RangeSelector/index.tsx
+msgid "Max Price"
+msgstr "Максимална Цена"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Max price"
+msgstr "Максимална цена"
+
+#: src/components/PositionListItem/index.tsx
+msgid "Max:"
+msgstr "Максимум:"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Maximum sent"
+msgstr "Максимум изпратени"
+
+#: src/components/Menu/index.tsx
+msgid "Menu"
+msgstr "Меню"
+
+#: src/components/PositionCard/Sushi.tsx
+#: src/components/PositionCard/V2.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/Pool/index.tsx
+msgid "Migrate"
+msgstr "Мигрирай"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/MigrateV2/index.tsx
+#: src/pages/Pool/index.tsx
+msgid "Migrate Liquidity"
+msgstr "Мигриране на ликвидност"
+
+#: src/pages/MigrateV2/index.tsx
+msgid "Migrate your liquidity tokens from BestDex V2 to BestDex V3."
+msgstr "Мигрирайте вашите токени за ликвидност от BestDex V2 към BestDex V3."
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Migrate {0}/{1} liquidity to V3"
+msgstr "Мигриране на {0}/{1} ликвидност към V3"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Migrating"
+msgstr "Мигриране"
+
+#: src/components/PositionPreview/index.tsx
+#: src/components/RangeSelector/index.tsx
+msgid "Min Price"
+msgstr "Минимална Цена"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Min price"
+msgstr "Минимална цена"
+
+#: src/components/PositionListItem/index.tsx
+msgid "Min:"
+msgstr "Минимум:"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Minimum received"
+msgstr "Минимална получена цена"
+
+#: src/hooks/useSwapCallback.tsx
+msgid "Missing dependencies"
+msgstr "Липсващи зависимости"
+
+#: src/pages/Pool/index.tsx
+msgid "More"
+msgstr "Повече"
+
+#: src/components/Header/ChainConnectivityWarning.tsx
+msgid "Network Warning"
+msgstr "Предупреждение за мрежата"
+
+#: src/pages/Pool/index.tsx
+msgid "New Position"
+msgstr "Нова позиция"
+
+#: src/pages/MigrateV2/index.tsx
+msgid "No V2 Liquidity found."
+msgstr "Не е намерена V2 Ликвидност."
+
+#: src/pages/Earn/index.tsx
+#: src/pages/Earn/index.tsx
+msgid "No active pools"
+msgstr "Няма активни басейни"
+
+#: src/components/FeeSelector/FeeTierPercentageBadge.tsx
+msgid "No data"
+msgstr "Няма данни"
+
+#: src/state/governance/hooks.ts
+msgid "No description."
+msgstr "Без описание."
+
+#: src/pages/Pool/v2.tsx
+msgid "No liquidity found."
+msgstr "Не е намерена ликвидност."
+
+#: src/pages/PoolFinder/index.tsx
+msgid "No pool found."
+msgstr "Басейнът не е намерен."
+
+#: src/components/vote/ProposalEmptyState.tsx
+msgid "No proposals found."
+msgstr "Не са намерени предложения."
+
+#: src/pages/Home/index.tsx
+msgid "No registration needed. Over 400 tokens to trade at your fingertips."
+msgstr "Не е необходима регистрация. Над 400 токена за търговия са достъпни веднага."
+
+#: src/components/SearchModal/CurrencySearch.tsx
+msgid "No results found."
+msgstr "Не са намерени резултати."
+
+#: src/components/FeeSelector/FeeTierPercentageBadge.tsx
+msgid "Not created"
+msgstr "Не е създадено"
+
+#: src/components/Toggle/ListToggle.tsx
+msgid "OFF"
+msgstr "ИЗКЛЮЧЕНО"
+
+#: src/components/Toggle/ListToggle.tsx
+msgid "ON"
+msgstr "ВКЛЮЧЕН"
+
+#: src/components/Settings/index.tsx
+msgid "ONLY USE THIS MODE IF YOU KNOW WHAT YOU ARE DOING!"
+msgstr "ИЗПОЛЗВАЙТЕ ТОЗИ РЕЖИМ САМО АКО ЗНАЕТЕ КАКВО ПРАВИТЕ!"
+
+#: src/components/Toggle/index.tsx
+msgid "Off"
+msgstr "Изключи"
+
+#: src/components/Toggle/index.tsx
+msgid "On"
+msgstr "Включи"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Once you are happy with the rate click supply to review."
+msgstr "След като сте доволни от цената, щракнете върху наличност, за да прегледате."
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Only UNI votes that were self delegated or delegated to another address before block {0} are eligible for voting."
+msgstr "Само UNI гласове, които са били самоделегирани или делегирани на друг адрес преди блок {0}, отговарят на условията за гласуване."
+
+#: src/components/Web3ReactManager/index.tsx
+msgid "Oops! An unknown error occurred. Please refresh the page, or visit from another browser or device."
+msgstr "Опа! Възникна неизвестна грешка. Моля, обновете страницата или я посетете от друг браузър или устройство."
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Optimism Gateway"
+msgstr "Портал на оптимизма"
+
+#: src/components/DowntimeWarning/index.tsx
+msgid "Optimistic Ethereum is in Beta and may experience downtime. Optimism expects planned downtime to upgrade the network in the near future. During downtime, your position will not earn fees and you will be unable to remove liquidity. <0>Read more.</0>"
+msgstr "Optimistic Ethereum е в бета версия и може да претърпи прекъсване. Optimism очаква планиран прекъсване за надграждане на мрежата в близко бъдеще. По време на прекъсването позицията ви няма да печели такси и няма да можете да премахнете ликвидност. <0>Прочетете повече.</0>"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Optimistic Etherscan"
+msgstr "Оптимистичен Etherscan"
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "Out of range"
+msgstr "Извън обхват"
+
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Output is estimated. If the price changes by more than {0}% your transaction will revert."
+msgstr "Резултатите са приблизителни. Ако цената се промени с повече от {0}%, вашата транзакция ще бъде отменена."
+
+#: src/components/swap/SwapModalHeader.tsx
+msgid "Output is estimated. You will receive at least <0>{0} {1}</0> or the transaction will revert."
+msgstr "Резултатите са приблизителни.Ще получите най-малко <0>{0} {1}</0> или транзакцията ще бъде отменена."
+
+#: src/components/swap/SwapModalHeader.tsx
+msgid "Output will be sent to <0>{0}</0>"
+msgstr "Резултатът ще бъде изпратен до <0>{0}</0>"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Owner"
+msgstr "Собственик"
+
+#: src/pages/Earn/index.tsx
+msgid "Participating pools"
+msgstr "Участващи пулове"
+
+#: src/pages/Vote/styled.tsx
+msgid "Pending"
+msgstr "В очакване"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Please confirm you would like to remove this list by typing REMOVE"
+msgstr "Моля, потвърдете, че искате да премахнете този списък, като напишете ПРЕМАХВАНЕ"
+
+#: src/components/vote/ProposalEmptyState.tsx
+msgid "Please connect to Layer 1 Ethereum"
+msgstr "Моля, свържете се към Слой 1 Етериум"
+
+#: src/components/WalletModal/index.tsx
+msgid "Please connect to the appropriate Ethereum network."
+msgstr "Моля, свържете се към подходящата мрежа Ethereum."
+
+#: src/components/Settings/index.tsx
+msgid "Please type the word \"{confirmWord}\" to enable expert mode."
+msgstr "Моля, напишете думата \"{confirmWord}\", за да активирате експертния режим."
+
+#: src/components/Header/index.tsx
+#: src/components/NavigationTabs/index.tsx
+msgid "Pool"
+msgstr "Пул"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Pool Found!"
+msgstr "Намерен е пул!"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Pool Rate"
+msgstr "Тарифа на пулът"
+
+#: src/components/earn/PoolCard.tsx
+msgid "Pool rate"
+msgstr "Тарифа на пулът"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+msgid "Pool tokens in rewards pool:"
+msgstr "Пул токени в наградния пул:"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+#: src/components/PositionCard/index.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Pooled {0}:"
+msgstr "В пулъ"
+
+#: src/pages/Pool/index.tsx
+msgid "Pools Overview"
+msgstr "Преглед на пуловете"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Preview"
+msgstr "Преглед"
+
+#: src/components/swap/SwapModalHeader.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Price"
+msgstr "Цена"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Price Difference:"
+msgstr "Разлика в цената"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Price Impact"
+msgstr "Въздействие на цената"
+
+#: src/pages/Swap/index.tsx
+msgid "Price Impact Too High"
+msgstr "Въздействието върху цената е твърде голямо"
+
+#: src/components/swap/SwapModalHeader.tsx
+msgid "Price Updated"
+msgstr "Обновена Цена"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Price range"
+msgstr "Ценови диапазон"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Price:"
+msgstr "Цена:"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Prices and pool share"
+msgstr "Цени и дял в пула"
+
+#: src/pages/CreateProposal/ProposalEditor.tsx
+msgid "Proposal"
+msgstr "Предложение"
+
+#: src/pages/CreateProposal/ProposalSubmissionModal.tsx
+msgid "Proposal Submitted"
+msgstr "Предложението е изпратено"
+
+#: src/pages/CreateProposal/ProposalEditor.tsx
+msgid "Proposal Title"
+msgstr "Предложение за заглавие"
+
+#: src/pages/Vote/Landing.tsx
+msgid "Proposals"
+msgstr "Предложения"
+
+#: src/components/vote/ProposalEmptyState.tsx
+msgid "Proposals submitted by community members will appear here."
+msgstr "Предложенията, изпратени от членове на общността, ще се появят тук."
+
+#: src/pages/CreateProposal/ProposalActionSelector.tsx
+msgid "Proposed Action"
+msgstr "Предложено действие"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Proposer"
+msgstr "Предложител"
+
+#: src/pages/Vote/styled.tsx
+msgid "Queued"
+msgstr "На опашката сте"
+
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+msgid "Rates"
+msgstr "Тарифи"
+
+#: src/components/swap/UnsupportedCurrencyFooter.tsx
+msgid "Read more about unsupported assets"
+msgstr "Прочетете повече за неподдържаните активи"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Recent Transactions"
+msgstr "Скорошни транзакции"
+
+#: src/components/AddressInputPanel/index.tsx
+msgid "Recipient"
+msgstr "Получател"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Remove"
+msgstr "Премахване"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Remove <0/> and <1/>"
+msgstr "Премахване на <0/> и <1/>"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Remove Amount"
+msgstr "Премахване на сумата"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Remove Delegate"
+msgstr "Премахване на делегата"
+
+#: src/components/NavigationTabs/index.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Remove Liquidity"
+msgstr "Премахване на ликвидност"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Remove list"
+msgstr "Премахване на списъка"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "Removing {0} {1} and {2} {3}"
+msgstr "Премахване на {0} {1} и {2} {3}"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Removing {0} {1} and{2} {3}"
+msgstr "Премахване на {0} {1} и {2} {3}"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/pages/CreateProposal/ProposalSubmissionModal.tsx
+msgid "Return"
+msgstr "Назад"
+
+#: src/components/SearchModal/CurrencySearch.tsx
+msgid "Search name or paste address"
+msgstr "Потърсете име или поставете адрес"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Select Pair"
+msgstr "Изберете чифт"
+
+#: src/components/Header/NetworkSelector.tsx
+msgid "Select a network"
+msgstr "Изберете мрежа"
+
+#: src/components/CurrencyInputPanel/index.tsx
+#: src/components/SearchModal/CurrencySearch.tsx
+#: src/pages/PoolFinder/index.tsx
+#: src/pages/PoolFinder/index.tsx
+#: src/state/swap/hooks.tsx
+#: src/state/swap/hooks.tsx
+msgid "Select a token"
+msgstr "Изберете токен"
+
+#: src/pages/PoolFinder/index.tsx
+msgid "Select a token to find your liquidity."
+msgstr "Изберете токен, за да намерите своята ликвидност."
+
+#: src/pages/CreateProposal/ProposalActionSelector.tsx
+msgid "Select an action"
+msgstr "Изберете действие"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Selected Range"
+msgstr "Избран диапазон"
+
+#: src/pages/Vote/Landing.tsx
+msgid "Self"
+msgstr "Себе си"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Self Delegate"
+msgstr "Самоделегиране"
+
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Set Price Range"
+msgstr "Задаване на ценови диапазон"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "Set Starting Price"
+msgstr "Задаване на начална цена"
+
+#: src/pages/AddLiquidityV2/PoolPriceBar.tsx
+msgid "Share of Pool"
+msgstr "Дял от пула"
+
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+msgid "Share of Pool:"
+msgstr "Дял от пула:"
+
+#: src/components/AccountDetails/index.tsx
+msgid "Show Portis"
+msgstr "Покажи Портис"
+
+#: src/pages/Pool/index.tsx
+msgid "Show closed positions"
+msgstr "Покажи затворените позиции"
+
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "Simple"
+msgstr "Просто"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Slippage tolerance"
+msgstr "Толерантност на приплъзване"
+
+#: src/components/swap/UnsupportedCurrencyFooter.tsx
+msgid "Some assets are not available through this interface because they may not work well with the smart contracts or we are unable to allow trading for legal reasons."
+msgstr "Някои активи не са достъпни през този интерфейс, защото не работят добре с интелигентните договори или не можем да разрешим търговия с тях по правни причини."
+
+#: src/components/ErrorBoundary/index.tsx
+msgid "Something went wrong"
+msgstr "Възникна проблем"
+
+#: src/components/PositionList/index.tsx
+msgid "Status"
+msgstr "Статус"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Step 1. Get BD LP Liquidity tokens"
+msgstr "Стъпка 1. Вземете BD LP токени за ликвидност"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Submit new proposal"
+msgstr "Подайте ново предложение"
+
+#: src/pages/CreateProposal/ProposalSubmissionModal.tsx
+msgid "Submitting Proposal"
+msgstr "Изпращане на оферта"
+
+#: src/components/vote/VoteModal.tsx
+msgid "Submitting Vote"
+msgstr "Подаване на глас"
+
+#: src/pages/Vote/styled.tsx
+msgid "Succeeded"
+msgstr "Успял"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Success"
+msgstr "Успех"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Supply"
+msgstr "Общ брой"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "Supplying {0} {1} and {2} {3}"
+msgstr "Снабдяване на {0} {1} и {2} {3}"
+
+#: src/components/Header/index.tsx
+#: src/components/NavigationTabs/index.tsx
+#: src/components/swap/SwapHeader.tsx
+#: src/pages/Swap/index.tsx
+#: src/pages/Swap/index.tsx
+msgid "Swap"
+msgstr "Разменете"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Swap <0/> for exactly <1/>"
+msgstr "Разменете <0/> за точно <1/>"
+
+#: src/pages/Swap/index.tsx
+#: src/pages/Swap/index.tsx
+msgid "Swap Anyway"
+msgstr "Разменете така или иначе"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Swap exactly <0/> for <1/>"
+msgstr "Разменете точно <0/> с <1/>"
+
+#: src/hooks/useSwapCallback.tsx
+#: src/hooks/useSwapCallback.tsx
+msgid "Swap failed: {0}"
+msgstr "Неуспешна размяна: {0}"
+
+#: src/components/swap/ConfirmSwapModal.tsx
+msgid "Swapping {0} {1} for {2} {3}"
+msgstr "Размяна на {0} {1} за {2} {3}"
+
+#: src/components/Popups/ClaimPopup.tsx
+msgid "Thanks for being part of the BestDex community <0/>"
+msgstr "Благодарим ви, че сте част от общността на BestDex <0/>"
+
+#: src/components/FeeSelector/index.tsx
+msgid "The % you will earn in fees."
+msgstr "Процентът, който ще спечелите като такси."
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app fetches blockchain data from The Graph’s hosted service."
+msgstr "Приложението извлича блокчейн данни от хостваната услуга на The Graph."
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app fetches on-chain data and constructs contract calls with an Infura API."
+msgstr "Приложението извлича данни във веригата и конструира договорни повиквания с Infura API."
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app fetches the optimal trade route from a BestDex Labs server."
+msgstr "Приложението извлича оптималния търговски маршрут от сървър на BestDex Labs."
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app logs anonymized usage statistics in order to improve over time."
+msgstr "Приложението извлича анонимни статистически данни за употреба, за да се подобри с времето."
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "The app securely collects your wallet address and shares it with TRM Labs Inc. for risk and compliance reasons."
+msgstr "Приложението безопасно извлича адреса на вашия портфейл и го споделя с TRM Labs Inc. поради причини свързани с риска и съответствието."
+
+#: src/components/CurrencyInputPanel/index.tsx
+msgid "The market price is outside your specified price range. Single-asset deposit only."
+msgstr "Пазарната цена е извън посочения от вас ценови диапазон. Само депозит за единичен актив."
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "The price of this pool is outside of your selected range. Your position is not currently earning fees."
+msgstr "Цената на този пул е извън избрания от вас диапазон. Понастоящем вашата позиция не печели от такси."
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "The price of this pool is within your selected range. Your position is currently earning fees."
+msgstr "Цената на този пул е в рамките на избрания от вас диапазон. Вашата позиция в момента носи печалба от такси."
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "The ratio of tokens you add will set the price of this pool."
+msgstr "Съотношението на токените, които добавите, ще определи цената на този пул."
+
+#: src/components/LiquidityChartRangeInput/index.tsx
+msgid "There is no liquidity data."
+msgstr "Няма данни за ликвидност."
+
+#: src/components/SearchModal/CommonBases.tsx
+msgid "These tokens are commonly paired with other tokens."
+msgstr "Тези токени обикновено се съчетават с други токени."
+
+#: src/components/PrivacyPolicy/index.tsx
+msgid "This app uses the following third-party APIs:"
+msgstr "Това приложение използва следните програмни интерфейси (API) на трети страни:"
+
+#: src/pages/AddLiquidity/index.tsx
+msgid "This pool must be initialized before you can add liquidity. To initialize, select a starting price for the pool. Then, enter your liquidity price range and deposit amount. Gas fees will be higher than usual due to the initialization transaction."
+msgstr "Този пул трябва да бъде инициализиран, преди да можете да добавите ликвидност. За да инициализирате, изберете начална цена за пула. След това въведете своя ценови диапазон за ликвидност и сума на депозита. Таксите за газ ще бъдат по-високи от обикновено поради транзакцията за инициализация."
+
+#: src/components/swap/SwapRoute.tsx
+msgid "This route optimizes your price by considering split routes, multiple hops, and gas costs."
+msgstr "Този маршрут оптимизира вашата цена, като взема предвид разделени маршрути, множество хопове и разходи за газ."
+
+#: src/components/SearchModal/ImportToken.tsx
+msgid "This token doesn't appear on the active token list(s). Make sure this is the token that you want to trade."
+msgstr "Този токен не се показва в списъка с активни токени. Уверете се, че това е токенът, който искате да търгувате."
+
+#: src/components/SearchModal/BlockedToken.tsx
+msgid "This token is not supported in the BestDex Labs app"
+msgstr "Този токен не се поддържа в приложението BestDex Labs"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "This tool will safely migrate your {0} liquidity to V3. The process is completely trustless thanks to the"
+msgstr "Този инструмент безопасно ще мигрира вашата ликвидност от {0} към V3. Процесът е напълно безопасен благодарение на"
+
+#: src/components/SearchModal/ManageTokens.tsx
+msgid "Tip: Custom tokens are stored locally in your browser"
+msgstr "Съвет: Персонализираните токени се съхраняват локално във вашия браузър"
+
+#: src/components/swap/SwapModalHeader.tsx
+#: src/pages/CreateProposal/ProposalActionDetail.tsx
+#: src/pages/CreateProposal/ProposalActionDetail.tsx
+#: src/pages/Swap/index.tsx
+msgid "To"
+msgstr "Към"
+
+#: src/pages/Swap/index.tsx
+msgid "To (at least)"
+msgstr "До (най-малко)"
+
+#: src/components/NetworkAlert/NetworkAlert.tsx
+msgid "To start trading on {0}, first bridge your assets from L1 to L2. Please treat this as a beta release and learn about the risks before using {1}."
+msgstr "За да започнете да търгувате на {0}, първо прехвърлете активите си от L1 към L2. Моля, гледайте на това като на бета версия и проучете рисковете, преди да го използвате {1}."
+
+#: src/components/SearchModal/BlockedToken.tsx
+msgid "Token not supported"
+msgstr "Токенът не се поддържа"
+
+#: src/components/SearchModal/Manage.tsx
+msgid "Tokens"
+msgstr "Токени"
+
+#: src/components/SearchModal/CurrencyList.tsx
+msgid "Tokens from inactive lists. Import specific tokens below or click Manage to activate more lists."
+msgstr "Токени от неактивни списъци. Импортирайте конкретни токени по-долу или кликнете върху Управление, за да активирате още списъци."
+
+#: src/pages/Pool/CTACards.tsx
+msgid "Top pools"
+msgstr "Най-добрите пулове"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "Total Supply"
+msgstr "Общо предлагане"
+
+#: src/components/earn/PoolCard.tsx
+msgid "Total deposited"
+msgstr "Общо депозирани"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Total deposits"
+msgstr "Общ брой депозити"
+
+#: src/components/swap/RouterLabel.tsx
+msgid "Trade Route"
+msgstr "Търговски маршрут"
+
+#: src/components/swap/AdvancedSwapDetails.tsx
+msgid "Transaction Details"
+msgstr "Подробности за транзакцията"
+
+#: src/components/Settings/index.tsx
+#: src/components/Settings/index.tsx
+msgid "Transaction Settings"
+msgstr "Настройки на транзакцията"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/StakingModal.tsx
+#: src/components/earn/UnstakingModal.tsx
+#: src/components/vote/DelegateModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "Transaction Submitted"
+msgstr "Транзакцията е изпратена"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Transaction completed in"
+msgstr "Транзакцията завършена за"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Transaction deadline"
+msgstr "Краен срок за транзакция"
+
+#: src/hooks/useSwapCallback.tsx
+#: src/hooks/useSwapCallback.tsx
+msgid "Transaction rejected."
+msgstr "Транзакцията е отхвърлена."
+
+#: src/pages/CreateProposal/ProposalActionSelector.tsx
+msgid "Transfer Token"
+msgstr "Прехвърли токен"
+
+#: src/components/WalletModal/PendingView.tsx
+msgid "Try Again"
+msgstr "Опитайте отново"
+
+#: src/components/Settings/index.tsx
+msgid "Turn On Expert Mode"
+msgstr "Включване на Експертния режим"
+
+#: src/components/Popups/ClaimPopup.tsx
+msgid "UNI has arrived"
+msgstr "UNI е тук"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "UNI in circulation:"
+msgstr "UNI е в обращение:"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "UNI price:"
+msgstr "UNI цена"
+
+#: src/components/earn/ClaimRewardModal.tsx
+#: src/components/earn/UnstakingModal.tsx
+msgid "Unclaimed UNI"
+msgstr "Непотърсени UNI"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "Unclaimed fees"
+msgstr "Незаявени такси"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "Unclaimed:"
+msgstr "Незаявено:"
+
+#: src/pages/Vote/styled.tsx
+msgid "Undetermined"
+msgstr "Неопределен"
+
+#: src/hooks/useSwapCallback.tsx
+msgid "Unexpected error. Could not estimate gas for the swap."
+msgstr "Неочаквана грешка. Не може да се изчисли газта за размяната."
+
+#: src/hooks/useSwapCallback.tsx
+msgid "Unexpected issue with estimating the gas. Please try again."
+msgstr "Неочакван проблем с изчисляването на газа. Моля, опитайте отново."
+
+#: src/components/SearchModal/TokenImportCard.tsx
+msgid "Unknown Source"
+msgstr "Непознат източник"
+
+#: src/pages/Vote/Landing.tsx
+#: src/pages/Vote/VotePage.tsx
+msgid "Unlock Votes"
+msgstr "Отключете гласове"
+
+#: src/pages/Vote/Landing.tsx
+msgid "Unlock Voting"
+msgstr "Отключване на гласуването"
+
+#: src/components/vote/DelegateModal.tsx
+msgid "Unlocking Votes"
+msgstr "Отключване на гласове"
+
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/Swap/index.tsx
+msgid "Unsupported Asset"
+msgstr "Неподдържан актив"
+
+#: src/components/swap/UnsupportedCurrencyFooter.tsx
+msgid "Unsupported Assets"
+msgstr "Неподдържани активи"
+
+#: src/state/governance/hooks.ts
+msgid "Untitled"
+msgstr "Без заглавие"
+
+#: src/pages/Swap/index.tsx
+msgid "Unwrap"
+msgstr "Разопаковайте"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Unwrap <0/> to ETH"
+msgstr "Разопаковайте <0/> към ETH"
+
+#: src/pages/Vote/Landing.tsx
+msgid "Update Delegation"
+msgstr "Актуализирайте делегирането"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "Update list"
+msgstr "Актуализиране на списъка"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "User"
+msgstr "Потребител"
+
+#: src/components/swap/SwapRoute.tsx
+msgid "V2"
+msgstr "V2"
+
+#: src/pages/Pool/index.tsx
+msgid "V2 liquidity"
+msgstr "V2 ликвидност"
+
+#: src/components/swap/SwapRoute.tsx
+msgid "V3"
+msgstr "V3"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "V3 {0} Price:"
+msgstr "V3 {0} Цена:"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "View UNI Analytics"
+msgstr "Преглед на UNI Анализ"
+
+#: src/pages/Pool/index.tsx
+msgid "View V2 Liquidity"
+msgstr "Преглед на V2 ликвидност"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "View list"
+msgstr "Преглед на списъка"
+
+#: src/pages/CreateProposal/ProposalSubmissionModal.tsx
+msgid "View on Etherscan"
+msgstr "Преглед на Etherscan"
+
+#: src/components/AccountDetails/index.tsx
+#: src/components/AccountDetails/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "View on Explorer"
+msgstr "Преглед в Explorer"
+
+#: src/components/ModalViews/index.tsx
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "View transaction on Explorer"
+msgstr "Преглед на транзакция в Explorer"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Vote Against"
+msgstr "Гласувайте Против"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Vote For"
+msgstr "Гласувайте За"
+
+#: src/components/vote/VoteModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "Vote against proposal {proposalId}"
+msgstr "Гласувайте против предложението {proposalId}"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote against proposal {proposalKey}"
+msgstr "Гласувайте против предложението {proposalKey}"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote against proposal {proposalKey} with reason \"{0}\""
+msgstr "Гласувайте против предложението {proposalKey} с причина „{0}“"
+
+#: src/components/vote/VoteModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "Vote for proposal {proposalId}"
+msgstr "Гласувайте за предложението {proposalId}"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote for proposal {proposalKey}"
+msgstr "Гласувайте за предложението {proposalKey}"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote for proposal {proposalKey} with reason \"{0}\""
+msgstr "Гласувайте за предложението {proposalKey} с причина \"{0}\""
+
+#: src/components/vote/VoteModal.tsx
+#: src/components/vote/VoteModal.tsx
+msgid "Vote to abstain on proposal {proposalId}"
+msgstr "Гласувайте \"въздържал се\" по предложението {proposalId}"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote to abstain on proposal {proposalKey}"
+msgstr "Гласувайте въздържал се по предложението {proposalKey}"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Vote to abstain on proposal {proposalKey} with reason \"{0}\""
+msgstr "Гласувайте въздържал се по предложението {proposalKey} с причина „{0}“"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Voting ended {0}"
+msgstr "Гласуването приключи {0}"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Voting ends approximately {0}"
+msgstr "Гласуването приключва приблизително {0}"
+
+#: src/pages/Vote/VotePage.tsx
+msgid "Voting starts approximately {0}"
+msgstr "Гласуването започва приблизително {0}"
+
+#: src/components/TransactionConfirmationModal/index.tsx
+msgid "Waiting For Confirmation"
+msgstr "Изчакване за потвърждение"
+
+#: src/components/AddressInputPanel/index.tsx
+msgid "Wallet Address or ENS name"
+msgstr "Адрес на портфейла или име на ENS"
+
+#: src/components/earn/StakingModal.tsx
+msgid "Weekly Rewards"
+msgstr "Седмични възнаграждения"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "Welcome to team Unicorn :)"
+msgstr "Добре дошъл в Unicorn отбора :)"
+
+#: src/components/earn/ClaimRewardModal.tsx
+msgid "When you claim without withdrawing your liquidity remains in the mining pool."
+msgstr "Когато си изискате, без да теглите, вашата ликвидност остава в пула за копаене."
+
+#: src/pages/Earn/Manage.tsx
+msgid "When you withdraw, the contract will automagically claim UNI on your behalf!"
+msgstr "Когато изтеглите, договорът автоматично ще поиска UNI от ваше име!"
+
+#: src/components/earn/UnstakingModal.tsx
+msgid "When you withdraw, your UNI is claimed and your liquidity is removed from the mining pool."
+msgstr "Когато теглите, вашият UNI се изисква и вашата ликвидност се премахва от пула за копаене."
+
+#: src/components/earn/UnstakingModal.tsx
+#: src/pages/Earn/Manage.tsx
+msgid "Withdraw"
+msgstr "Изтегли"
+
+#: src/components/earn/UnstakingModal.tsx
+msgid "Withdraw & Claim"
+msgstr "Теглене и иск"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Withdraw deposited liquidity"
+msgstr "Изтегляне на депозираната ликвидност"
+
+#: src/components/earn/UnstakingModal.tsx
+msgid "Withdrawing {0} BD LP"
+msgstr "Теглeне на {0} BD LP"
+
+#: src/components/earn/UnstakingModal.tsx
+msgid "Withdrew BD LP!"
+msgstr "Изтеглихте BD LP!"
+
+#: src/pages/Swap/index.tsx
+msgid "Wrap"
+msgstr "Опаковай"
+
+#: src/components/AccountDetails/TransactionSummary.tsx
+msgid "Wrap <0/> to WETH"
+msgstr "Опаковай <0/> до WETH"
+
+#: src/components/WalletModal/index.tsx
+#: src/components/Web3Status/index.tsx
+msgid "Wrong Network"
+msgstr "Грешна мрежа"
+
+#: src/pages/CreateProposal/index.tsx
+msgid "You already have an active or pending proposal"
+msgstr "Вече имате активно или изчакващо предложение"
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "You are creating a pool"
+msgstr "Създавате басейн"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "You are the first liquidity provider for this BestDex V3 pool. Your liquidity will migrate at the current {0} price."
+msgstr "Вие сте първият доставчик на ликвидност за този BestDex V3 басейн. Вашата ликвидност ще бъде прехвърлена при текущата цена {0}."
+
+#: src/pages/AddLiquidityV2/index.tsx
+msgid "You are the first liquidity provider."
+msgstr "Вие сте първият доставчик на ликвидност."
+
+#: src/components/vote/DelegateModal.tsx
+msgid "You can either vote on each proposal yourself or delegate your votes to a third party."
+msgstr "Можете да гласувате за всяко предложение сами или да делегирате гласовете си на трета страна."
+
+#: src/pages/Swap/index.tsx
+msgid "You can now trade {0}"
+msgstr "Вече можете да търгувате {0}"
+
+#: src/pages/CreateProposal/index.tsx
+msgid "You don't have enough votes to submit a proposal"
+msgstr "Нямате достатъчно гласове за представяне на предложение."
+
+#: src/pages/PoolFinder/index.tsx
+msgid "You don’t have liquidity in this pool yet."
+msgstr "Още нямате ликвидност в този басейн."
+
+#: src/components/Header/ChainConnectivityWarning.tsx
+msgid "You may have lost your network connection, or {label} might be down right now."
+msgstr "Може би сте загубили връзката си с мрежата, или {label} може да не работи в момента."
+
+#: src/components/Header/ChainConnectivityWarning.tsx
+msgid "You may have lost your network connection."
+msgstr "Вероятно сте загубили връзката си към мрежата."
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "You must connect an account."
+msgstr "Трябва да свържете акаунт."
+
+#: src/pages/Swap/index.tsx
+msgid "You must give the BestDex smart contracts permission to use your {0}. You only have to do this once per token."
+msgstr "Трябва да дадете разрешение на смарт контракти на BestDex да използват вашия {0}. Това трябва да се направи само веднъж за всеки токен."
+
+#: src/pages/CreateProposal/index.tsx
+msgid "You must have {formattedProposalThreshold} votes to submit a proposal"
+msgstr "Трябва да имате {formattedProposalThreshold} гласа за представяне на предложение."
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "You should only deposit liquidity into BestDex V3 at a price you believe is correct. <0/>If the price seems incorrect, you can either make a swap to move the price or wait for someone else to do so."
+msgstr "Трябва да депозирате ликвидност в BestDex V3 само на цена, която смятате за правилна. <0/>Ако цената ви изглежда неправилна, можете да направите обмен, за да промените цената или да изчакате някой друг да го направи."
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "You will also collect fees earned from this position."
+msgstr "Също така ще съберете такси, събрани от тази позиция."
+
+#: src/pages/AddLiquidityV2/index.tsx
+#: src/pages/RemoveLiquidity/index.tsx
+msgid "You will receive"
+msgstr "Ще получите"
+
+#: src/components/Header/UniBalanceContent.tsx
+msgid "Your UNI Breakdown"
+msgstr "Вашето разпределение на UNI"
+
+#: src/pages/Pool/index.tsx
+msgid "Your V3 liquidity positions will appear here."
+msgstr "Вашите позиции по V3 ликвидност ще се появят тук."
+
+#: src/pages/Pool/v2.tsx
+msgid "Your liquidity"
+msgstr "Вашата ликвидност"
+
+#: src/pages/Earn/Manage.tsx
+msgid "Your liquidity deposits"
+msgstr "Вашите депозити за ликвидност"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+#: src/components/PositionCard/index.tsx
+msgid "Your pool share:"
+msgstr "Вашият дял от басейна:"
+
+#: src/components/PositionCard/index.tsx
+msgid "Your position"
+msgstr "Вашата позиция"
+
+#: src/components/Badge/RangeBadge.tsx
+msgid "Your position has 0 liquidity, and is not earning fees."
+msgstr "Вашата позиция няма ликвидност и не печели такси."
+
+#: src/components/LiquidityChartRangeInput/index.tsx
+#: src/components/LiquidityChartRangeInput/index.tsx
+msgid "Your position will appear here."
+msgstr "Вашата позиция ще се появи тук."
+
+#: src/components/PositionPreview/index.tsx
+#: src/components/PositionPreview/index.tsx
+msgid "Your position will be 100% composed of {0} at this price"
+msgstr "Вашата позиция ще се състои от 100% {0} при тази цена"
+
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "Your position will be 100% {0} at this price."
+msgstr "Вашата позиция ще бъде 100% {0} при тази цена."
+
+#: src/pages/AddLiquidity/index.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Your position will not earn fees or be used in trades until the market price moves into your range."
+msgstr "Вашата позиция няма да печели такси или да се използва в сделки, докато пазарната цена не се премести във вашия диапазон."
+
+#: src/components/PositionList/index.tsx
+#: src/components/PositionList/index.tsx
+msgid "Your positions"
+msgstr "Вашите позиции"
+
+#: src/components/earn/PoolCard.tsx
+msgid "Your rate"
+msgstr "Вашият курс"
+
+#: src/components/PositionCard/V2.tsx
+#: src/components/PositionCard/index.tsx
+msgid "Your total pool tokens:"
+msgstr "Вашите токени за басейна:"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "Your transaction cost will be much higher as it includes the gas to create the pool."
+msgstr "Вашата транзакция ще бъде много по-скъпа, тъй като включва такса газ за създаване на басейна."
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Your transaction may be frontrun"
+msgstr "Вашата сделка може да бъде фронт-рънната."
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Your transaction may fail"
+msgstr "Вашата транзакция може да се провали"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Your transaction will revert if it is pending for more than this period of time."
+msgstr "Вашата транзакция ще се върне, ако е в очакване повече от този период от време."
+
+#: src/components/TransactionSettings/index.tsx
+msgid "Your transaction will revert if the price changes unfavorably by more than this percentage."
+msgstr "Вашата транзакция ще се върне, ако цената се промени неблагоприятно с повече от този процент."
+
+#: src/components/AccountDetails/index.tsx
+msgid "Your transactions will appear here..."
+msgstr "Вашите транзакции ще се появят тук..."
+
+#: src/pages/Earn/Manage.tsx
+msgid "Your unclaimed UNI"
+msgstr "Вашите незаявени UNI\n"
+""
+
+#: src/components/AccountDetails/index.tsx
+msgid "clear all"
+msgstr "изчисти всички"
+
+#: src/components/Settings/index.tsx
+msgid "confirm"
+msgstr "потвърдете"
+
+#: src/components/claim/AddressClaimModal.tsx
+msgid "for {0}"
+msgstr "за {0}"
+
+#: src/components/Web3Status/index.tsx
+msgid "has socks emoji"
+msgstr "има емоджи на чорапи"
+
+#: src/components/Header/ChainConnectivityWarning.tsx
+#: src/components/WalletModal/index.tsx
+msgid "here."
+msgstr "тук."
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "https:// or ipfs:// or ENS name"
+msgstr "https:// или ipfs:// или ENS име"
+
+#: src/components/TransactionSettings/index.tsx
+msgid "minutes"
+msgstr "минути"
+
+#: src/components/SearchModal/ImportRow.tsx
+msgid "via {0}"
+msgstr "чрез {0}"
+
+#: src/components/SearchModal/TokenImportCard.tsx
+msgid "via {0} token list"
+msgstr "чрез {0} списък с токени"
+
+#: src/components/SearchModal/ImportToken.tsx
+msgid "{0, plural, one {Import token} other {Import tokens}}"
+msgstr "{0, plural, one {Вкарай токен} other {Вкарай токени}}\n"
+""
+
+#: src/components/RateToggle/index.tsx
+#: src/components/RateToggle/index.tsx
+#: src/hooks/useSwapCallback.tsx
+#: src/hooks/useSwapCallback.tsx
+msgid "{0}"
+msgstr "{0}"
+
+#: src/components/PositionCard/index.tsx
+#: src/pages/Vote/VotePage.tsx
+#: src/pages/Vote/VotePage.tsx
+msgid "{0} %"
+msgstr "{0} %"
+
+#: src/components/PositionListItem/index.tsx
+#: src/components/PositionListItem/index.tsx
+msgid "{0} <0/> per <1/>"
+msgstr "{0} <0/> на <1/>"
+
+#: src/components/earn/StakingModal.tsx
+msgid "{0} BD LP"
+msgstr "{0} BD LP"
+
+#: src/pages/Earn/Manage.tsx
+msgid "{0} BD LP LP tokens available"
+msgstr "{0} налични BD LP токени"
+
+#: src/components/SearchModal/ManageTokens.tsx
+msgid "{0} Custom Tokens"
+msgstr "{0} Персонализирани токени"
+
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+msgid "{0} Deposited"
+msgstr "{0} Депозирано"
+
+#: src/components/earn/PoolCard.tsx
+msgid "{0} ETH"
+msgstr "{0} ETH"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "{0} Fees Earned:"
+msgstr "{0} Спечелени такси:"
+
+#: src/components/Web3Status/index.tsx
+msgid "{0} Pending"
+msgstr "{0} Изчакващо"
+
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/AddressClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+#: src/components/claim/ClaimModal.tsx
+msgid "{0} UNI"
+msgstr "{0} UNI"
+
+#: src/components/earn/PoolCard.tsx
+#: src/components/earn/PoolCard.tsx
+#: src/components/earn/StakingModal.tsx
+#: src/pages/Earn/Manage.tsx
+#: src/pages/Earn/Manage.tsx
+msgid "{0} UNI / week"
+msgstr "{0} UNI / седмица"
+
+#: src/components/vote/VoteModal.tsx
+msgid "{0} Votes"
+msgstr "{0} Гласове"
+
+#: src/components/PositionPreview/index.tsx
+#: src/components/PositionPreview/index.tsx
+#: src/components/PositionPreview/index.tsx
+#: src/pages/AddLiquidityV2/PoolPriceBar.tsx
+#: src/pages/AddLiquidityV2/PoolPriceBar.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "{0} per {1}"
+msgstr "{0} на {1}"
+
+#: src/components/SearchModal/ImportList.tsx
+#: src/components/SearchModal/ManageLists.tsx
+msgid "{0} tokens"
+msgstr "{0} токена"
+
+#: src/components/Header/index.tsx
+#: src/components/Web3Status/index.tsx
+msgid "{0} {1}"
+msgstr "{0} {1}"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "{0} {1} Price:"
+msgstr "{0} {1} Цена:"
+
+#: src/components/SearchModal/CurrencyList.tsx
+msgid "{0} • Added by user"
+msgstr "{0} • Добавено от потребителя"
+
+#: src/components/CurrencyInputPanel/FiatValue.tsx
+#: src/components/FeeSelector/FeeOption.tsx
+#: src/components/PositionListItem/index.tsx
+#: src/components/PositionPreview/index.tsx
+#: src/pages/AddLiquidityV2/ConfirmAddModalBottom.tsx
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+#: src/pages/Pool/PositionPage.tsx
+msgid "{0}%"
+msgstr "{0}%"
+
+#: src/components/FeeSelector/index.tsx
+msgid "{0}% fee tier"
+msgstr "{0}% такса на това ниво"
+
+#: src/components/FeeSelector/FeeTierPercentageBadge.tsx
+msgid "{0}% select"
+msgstr "{0}% избор"
+
+#: src/pages/Earn/Manage.tsx
+msgid "{0}-{1} Liquidity Mining"
+msgstr "{0}-{1} Добив на ликвидност"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "{0}/{1} LP NFT"
+msgstr "{0}/{1} LP NFT"
+
+#: src/pages/MigrateV2/MigrateV2Pair.tsx
+msgid "{0}/{1} LP Tokens"
+msgstr "{0}/{1} LP Токени"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "{SOCKS_AMOUNT} UNI"
+msgstr "{SOCKS_AMOUNT} UNI"
+
+#: src/components/claim/ClaimModal.tsx
+msgid "{USER_AMOUNT} UNI"
+msgstr "{USER_AMOUNT} UNI"
+
+#: src/components/SearchModal/ManageLists.tsx
+msgid "{activeTokensOnThisChain} tokens"
+msgstr "{activeTokensOnThisChain} токени"
+
+#: src/pages/Home/ContentImageSection.tsx
+msgid "{heading}"
+msgstr "{heading}"
+
+#: src/pages/RemoveLiquidity/V3.tsx
+msgid "{percentForSlider}%"
+msgstr "{percentForSlider}%"
+
+#: src/components/InputStepCounter/InputStepCounter.tsx
+msgid "{tokenB} per {tokenA}"
+msgstr "{tokenB} на {tokenA}"
+
+#: src/components/CurrencyInputPanel/FiatValue.tsx
+msgid "~$ <0/>"
+msgstr "~$ <0/>"
+
+#: src/pages/Pool/PositionPage.tsx
+msgid "← Back to Pools Overview"
+msgstr "← Върнете се към Преглед на басейните"
+
+#: 
+msgid "Questions"
+msgstr "Въпроси"
+
+#: 
+msgid "Best Wallet is a fully decentralised crypto wallet aiming to address the concerns present in traditional custody solutions regarding security, privacy, and control over assets. We’re empowering users to manage their own digital assets from their own phone or computer with minimal reliance on centralized authorities."
+msgstr "Best Wallet е напълно децентрализиран портфейл за криптовалути, който има за цел да реши проблемите, свързани с традиционните решения за съхранение по отношение на сигурността, неприкосновеността на личния живот и контрола над активите. Ние даваме възможност на потребителите да управляват собствените си цифрови активи от своя телефон или компютър с минимално разчитане на централизирани органи."
+
+#: 
+msgid "The smartest way to manage your digital assets."
+msgstr "Най-умният начин за управление на вашите цифрови активи."
+
+#: 
+msgid "LEARN MORE"
+msgstr "НАУЧЕТЕ ПОВЕЧЕ"
+
+#: 
+msgid "INTRODUCING"
+msgstr "ПРЕДСТАВЯМЕ"
+
+#: 
+msgid "Market Insights"
+msgstr "Анализ на пазара"
+
+#: 
+msgid "Participate in the BEST airdrop"
+msgstr "Участвайте в разпределението на BEST"
+
+#: 
+msgid "We’re rewarding all our early adopters with an airdrop of 10% of the total supply of BEST tokens."
+msgstr "Ние награждаваме всички наши ранни инвеститори с разпределение на 10% от общото количество на BEST токените."
+
+#: 
+msgid "How to get started"
+msgstr "Как да започнете"
+
+#: 
+msgid "Download the Best Wallet app"
+msgstr "Изтеглете приложението Best Wallet"
+
+#: 
+msgid "Availiable on\n"
+""
+msgstr "Налично на"
+
+#: 
+msgid "Get it on"
+msgstr "Получете го от"
+
+#: 
+msgid "Create a wallet"
+msgstr "Създайте портфейл"
+
+#: 
+msgid "Make sure you complete all the steps below to ensure we can track your activities towards the Best Wallet airdrop"
+msgstr "Уверете се, че сте изпълнили всички стъпки по-долу, за да можем да следим вашите дейности към разпределението на Best Wallet"
+
+#: 
+msgid "Download Our App"
+msgstr "Изтеглете нашето приложение"
+
+#: 
+msgid "Engage On Our Platform"
+msgstr "Участвайте на нашата платформа"
+
+#: 
+msgid "Visit Our Website"
+msgstr "Посетете нашия уебсайт"
+
+#: 
+msgid "Join @BestWallet_Official on Telegram"
+msgstr "Присъединете се към @BestWallet_Official в Телеграм"
+
+#: 
+msgid "Join Our Discord Server"
+msgstr "Присъединете се към нашия Discord сървър"
+
+#: 
+msgid "Follow @BestWallet__ on Twitter"
+msgstr "Последвайте @BestWallet  в Twitter"
+
+#: 
+msgid "Visit @bestwalletofficial on Instagram"
+msgstr "Присъединете се към @bestwalletofficial в Instagram"
+
+#: 
+msgid "How you earn points"
+msgstr "Как можете да печелите точки"
+
+#: 
+msgid "Use the Best Wallet App and DEX"
+msgstr "Използвайте приложението Best Wallet и DEX"
+
+#: 
+msgid "Store your tokens and make transactions"
+msgstr "Съхранявайте вашите токени и извършвайте транзакции"
+
+#: 
+msgid "Engage with our Socials and spread the word"
+msgstr "Участвайте в нашите социални мрежи и разпространявайте информацията"
+
+#: 
+msgid "Cryptocurrency may be unregulated in your jurisdiction. The value of cryptocurrencies may go down as well as up. Profits may be subject to capital gains or other taxes applicable in your jurisdiction.\n"
+""
+msgstr "Криптовалутата може да не е регулирана във вашата юрисдикция. Стойността на криптовалутите може да спада, както и да се увеличава. Печалбите могат да подлежат на данък върху капиталовите печалби или други данъци, приложими във вашата юрисдикция."
+
+#: 
+msgid "What is a Crypto Airdrop?"
+msgstr "Какво е крипто Airdrop?"
+
+#: 
+msgid "An Airdrop is when a token is sent to a specific group of crypto wallet addresses. Sometimes this is a marketing strategy by crypto projects to introduce their token to new audiences. In our case, the BEST Token Airdrop rewards early adopters, power users, and brand advocates of Best Wallet and Best DEX with a portion of the total token supply as a way to thank them for their engagement within the Best Ecosystem."
+msgstr "Еърдроп е, когато токен се изпраща до специфична група адреси на крипто портфейли. Понякога това е маркетингова стратегия от крипто проекти за представяне на техния токен на нови аудитории. В нашия случай, BEST токен еърдропа награждава ранните инвеститори, активните потребители и привърженици на Best Wallet и Best DEX с част от общия брой токени като начин да им благодарим за тяхното ангажиране в рамките на Best екосистемата."
+
+#: 
+msgid "How can I participate in the BEST Token Airdrop?"
+msgstr "Как мога да участвам в разпределението на BEST Token?"
+
+#: 
+msgid "To participate in the BEST Token Airdrop, you need to follow these steps:"
+msgstr "За да участвате в разпределението на BEST Token, трябва да следвате тези стъпки:"
+
+#: 
+msgid "a. Download the Best Wallet app and create a wallet."
+msgstr "а. Изтеглете приложението Best Wallet и създайте портфейл."
+
+#: 
+msgid "b. Visit the Airdrop page on our website."
+msgstr "б. Посетете страницата на Еърдропа на нашия уебсайт."
+
+#: 
+msgid "c. Provide your wallet address, email address, Twitter handle, and Discord username and follow our socials"
+msgstr "в. Предоставете вашия адрес на портфейла, имейл адрес, Twitter име и Discord потребителско име и последвайте нашите социални мрежи"
+
+#: 
+msgid "d. Engage actively within the Best Ecosystem to earn points."
+msgstr "г. Участвайте активно в рамките на Best екосистемата, за да спечелите точки."
+
+#: 
+msgid "How do I earn points during the Airdrop?"
+msgstr "Как да спечеля точки по време на Еърдропа?"
+
+#: 
+msgid "During Phase 1-6 of our product launch, points are earned in three ways."
+msgstr "През Фаза 1-6 от пускането на нашия продукт, точките се печелят по три начина."
+
+#: 
+msgid "a. Engaging with our socials and spreading the word about Best Web3."
+msgstr "а. Участие в нашите социални мрежи и разпространение на информацията за Best Web3."
+
+#: 
+msgid "b. Using Best Wallet."
+msgstr "б. Използване на Best Wallet."
+
+#: 
+msgid "c. Using Best DEX."
+msgstr "в. Използване на Best DEX."
+
+#: 
+msgid "What are the benefits of holding BEST tokens?"
+msgstr "Какви са предимствата от притежанието на BEST токени?"
+
+#: 
+msgid "Holding BEST tokens will bring several exclusive benefits within the Best Ecosystem, including:"
+msgstr "Притежаването на BEST токени ще донесе няколко ексклузивни предимства в рамките на Best екосистемата, включително:"
+
+#: 
+msgid "a. No gas fees on transactions."
+msgstr "а. Няма такси за газ на транзакциите."
+
+#: 
+msgid "b. Governance voting on Best Dex."
+msgstr "б. Гласуване за управление на Best Dex."
+
+#: 
+msgid "c. Early access to token launches."
+msgstr "в. Ранен достъп до пускането на токени."
+
+#: 
+msgid "d. Participation in exclusive NFT and token drops."
+msgstr "г. Участие в ексклузивни пускания на NFT и токени."
+
+#: 
+msgid "We will announce more benefits and utility closer to the airdrop date."
+msgstr "Ще обявим повече предимства и реални ползи близо до датата на Еърдропа.\n"
+""
+
+#: 
+msgid "When will the Airdrop happen?"
+msgstr "Кога ще се проведе Еърдропа?"
+
+#: 
+msgid "The airdrop ends at the end of phase 6 of our Best Wallet launch. The specific date and time of the Airdrop will be announced on our official website and social media channels. Stay tuned for updates to ensure you don't miss out on this opportunity!"
+msgstr "Еърдропът завършва в края на фаза 6 от пускането на Best Wallet. Конкретната дата и час на разпределението ще бъдат обявени на нашия официален уебсайт и в социалните медии. Останете в течение за актуализации, за да не пропуснете тази възможност!"
+
+#: 
+msgid "How will the Airdrop rewards be distributed?"
+msgstr "Как ще бъдат разпределени наградите от разпределението?"
+
+#: 
+msgid "10% of the total supply of the BEST token has been allocated to the airdrop. Participants will earn a share of the token pool proportionate to the points they have used throughout phases 1-6 of the Best Wallet launch. The Airdrop rewards will be distributed directly to the wallet addresses provided during the registration process. Please ensure the accuracy of the wallet address to receive your tokens smoothly."
+msgstr "10% от общото количество на BEST токена е заделено за Еърдропа. Участниците ще спечелят дял от пула с токени пропорционално на точките, които са натрупали през фази 1-6 от пускането на Best Wallet. Наградите от разпределението ще бъдат разпределени директно към адресите на портфейлите, предоставени по време на регистрационния процес. Моля, уверете се в точността на адреса на портфейла, за да получите своите токени безпроблемно."
+
+#: 
+msgid "Is there a limited number of participants for the Airdrop?"
+msgstr "Има ли ограничение в броя участници за разпределението?"
+
+#: 
+msgid "Participation is open to all."
+msgstr "Участието е възможно за всички"
+
+#: 
+msgid "Can I register multiple times for the Airdrop?"
+msgstr "Мога ли да се регистрирам многократно за разпределението?"
+
+#: 
+msgid "No, each participant is allowed to register only once for the Airdrop. Multiple registrations may lead to disqualification."
+msgstr "Не, всеки участник има право да се регистрира само веднъж за разпределението. Многократните регистрации могат да доведат до дисквалификация."
+
+#: 
+msgid "How will you prevent fraudulent activity during the Airdrop?"
+msgstr "Как ще предотвратите нелегална дейност по време на Еърдропа?"
+
+#: 
+msgid "We have implemented various security measures to detect and prevent fraudulent activities. Any attempts at gaming the system or engaging in suspicious activities will lead to immediate disqualification from the Airdrop."
+msgstr "Изпълнили сме различни мерки за сигурност за откриване и предотвратяване на измамни дейности. Всякакви опити за измама на системата или участие в съмнителни дейности ще доведат до незабавна дисквалификация от разпределението."
+
+#: 
+msgid "How can I stay updated about the Airdrop and the project's progress?"
+msgstr "Как мога да бъда информиран за разпределението и напредъка на проекта?"
+
+#: 
+msgid "To stay informed about the Airdrop, project updates, and important announcements, make sure to follow our official social media channels and regularly check our website. We will keep the community informed about any developments related to the BEST Token Airdrop."
+msgstr "За да сте информирани за разпределението, актуализациите на проекта и важни обявления, уверете се, че следвате нашите официални социални профили и канали и редовно проверявайте нашия уебсайт. Ще информираме общността за всички развития, свързани с разпределението на BEST Token."
+
+#: 
+msgid "Best DEX is built as the sister app to Best Wallet, our flagship <0>non-custodial crypto wallet</0>. Best DEX can be accessed from within Best Wallet for an easy trading experience all within a single app. No more need to use several different wallets and DEXs to manage your crypto portfolio."
+msgstr "Best DEX е изградено като дъщерно приложение на Best Wallet, нашия водещ <0>непопечителски крипто портфейл</0>. Best DEX може да бъде достъпен чрез Best Wallet в рамките на едно приложение за улеснение на потребителя. Вече няма нужда да използвате няколко различни портфейла и DEX, за да управлявате вашето крипто портфолио."
+
+#: 
+msgid "Best DEX does not require KYC verification to start trading. We prioritise user privacy and aim to provide a hassle-free onboarding experience. Simply connect your wallet and you’re ready to go."
+msgstr "Best DEX не изисква проверка на KYC, за да започнете да търгувате. Даваме приоритет на поверителността на потребителите и се стремим да осигурим безпроблемно изживяване при включване. Просто свържете портфейла си и сте готови."
+
+#: 
+msgid "Follow our socials and join our community hubs <0>here</0>"
+msgstr "Следвайте нашите социални мрежи и се присъединете към центровете на нашите общности <0>тук</0>"
+
+#: 
+msgid "We are launching the BEST token at the end of Phase 6 of our roadmap and will reward our early adopters and power users with 10% of our total supply based on the points they have accumulated from using our app and spreading the word on socials."
+msgstr "Пускаме BEST токена в края на Фаза 6 от нашата пътна карта и ще възнаградим нашите първи както и нашите опитни потребители с 10% от общия брои BEST токени въз основа на точките, които са натрупали от използването на нашето приложение и разпространението на информация в социалните мрежи."
+
+#: 
+msgid "In the near future, Best DEX will be available as a decentralised application (dApp) within Best Wallet, offering an even more integrated and user-friendly trading experience."
+msgstr "В близко бъдеще Best DEX ще бъде наличен като децентрализирано приложение (dApp) в рамките на Best Wallet, предлагайки още по-интегрирано и удобно за потребителя търговско изживяване."
+
+#: 
+msgid "Simply visit the Best DEX platform through your mobile web browser to start trading cryptocurrencies on the go."
+msgstr "Просто посетете платформата Best DEX през мобилния си уеб браузър, за да започнете да търгувате с криптовалути в движение."
+
+#: 
+msgid "Best Wallet is the fully non-custodial crypto wallet at the heart of the Best Web3 Ecosystem. Buy, store, send, and receive Bitcoin and many other cryptocurrencies safely and securely with the Best Wallet app."
+msgstr "Best Wallet е крипто портфейлът без попечителство в сърцето на Best Web3 Екосистемата. Купувайте, съхранявайте, изпращайте и получавайте биткойни и много други криптовалути безопасно и сигурно с приложението Best Wallet."
+
+#: 
+msgid "Portfolio Management and Token Analytics give users everything they need to get in early on the hottest token launches, make the right trades at the right times, and maximise profits."
+msgstr "Управлението на портфолиото и анализът на токени дават на потребителите всичко необходимо, за да влязат в началото на най-горещите новоизлезли токени, да правят правилните сделки в правилните моменти и да увеличат максимално печалбите си."
+
+#: 
+msgid "Create a wallet in the BEST Wallet"
+msgstr "Създайте портфейл в BEST Wallet"
+
+#: 
+msgid "Make sure you complete all the steps below to ensure we can track your activities towards the BEST airdrop"
+msgstr "Уверете се, че сте изпълнили всички стъпки по-долу, за да сте сигурни, че се отчитат вашите дейности към BEST еърдропа"
+
+#: 
+msgid "Download the Best Wallet app and create a wallet."
+msgstr "Изтеглете приложението Best Wallet и създайте портфейл."
+
+#: 
+msgid "2023 Best Web3. All Right Reserved."
+msgstr "2023 Best Web3.Всички права са запазени."
+
+#: 
+msgid "Get Featured on Best DEX"
+msgstr "Рекламирайте се в Best DEX"
+
+#: 
+msgid "Partner with the Best"
+msgstr "Партнирайте си с Best"
+
+#: 
+msgid "Become a partner and let us showcase your project to the world. Reach thousands of highly engaged global Best Wallet crypto holders."
+msgstr "Станете партньор и ни позволете да представим вашия проект на света. Достигнете до хиляди Best Wallet силно ангажирани глобални притежатели на крипто."
+
+#: 
+msgid "Best Audience"
+msgstr "Best потребители"
+
+#: 
+msgid "News Coverage"
+msgstr "Отразяване на новини"
+
+#: 
+msgid "Featured on Best DEX"
+msgstr "Рекламирани в Best DEX"
+
+#: 
+msgid "You have a following and you’re trending in all the right ways. Best Wallet will showcase your achievements and potential to thousands more engaged crypto holders."
+msgstr "Имате последователи и се развивате по всички правилни начини. Best Wallet ще демонстрира вашите постижения и потенциал на хиляди активно ангажирани притежатели на крипто."
+
+#: 
+msgid "Your project will be picked up by high-ranking crypto news sites with a combined traffic of over 20 million monthly visitors."
+msgstr "Вашият проект ще бъде представен от високопоставени крипто новинарски сайтове с общ трафик от над 20 милиона месечни посетители."
+
+#: 
+msgid "Be a part of the Best Ecosystem. We’ll list your token on Best DEX and support it with exposure and user incentives."
+msgstr "Станете част от Best екосистема. Best DEX ще листне и ще подкрепи вашия токен с експозиция и потребителски стимули."
+
+#: 
+msgid "Showcase Application"
+msgstr "Вашия формуляр"
+
+#: 
+msgid "First Name"
+msgstr "Име"
+
+#: 
+msgid "Last Name"
+msgstr "Фамилия"
+
+#: 
+msgid "Your work Email"
+msgstr "Вашата служебна електронна поща"
+
+#: 
+msgid "Provide a link to your website"
+msgstr "Преложете връзка към уебсайта си"
+
+#: 
+msgid "URL"
+msgstr "URL"
+
+#: 
+msgid "More Information"
+msgstr "Допълнителна информация"
+
+#: 
+msgid "Tell us about your project"
+msgstr "Разкажете ни за вашия проект"
+
+#: 
+msgid "I confirm I have read agree to the <0>Privacy Policy</0>."
+msgstr "Потвърждавам че прочетох и съм съгласен с <0>Декларацията за поверителност</0>."
+
+#: 
+msgctxt "Shown on a button for applying to be a partner in BESTDex"
+msgid "Apply"
+msgstr "Кандидатствайте"
+
+#: 
+msgid "Trade"
+msgstr "Търгувай"
+
+#: 
+msgid "Features"
+msgstr "Функции"
+
+#: 
+msgid "Best DEX is a decentralised exchange designed to seamlessly integrate with Best Wallet, our non-custodial crypto wallet . It allows you to trade cryptocurrencies securely and efficiently while maintaining full control of your funds and digital assets."
+msgstr "Best DEX е децентрализирана борса, създадена да се интегрира безпроблемно с Best Wallet, нашия  крипто портфейл без попечителство. Тя ви позволява да търгувате с криптовалути по сигурен и ефективен начин, като запазвате пълен контрол над вашите средства и дигитални активи."
+
+#: 
+msgid "What are the benefits of Best DEX?"
+msgstr "Какви са предимствата на Best DEX“
+
+
+
